@@ -1,0 +1,94 @@
+div#main-content {
+    display: table-cell;
+    margin: 0px;
+    width: 35%;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+div.map-content {
+    display: table-cell;
+    margin: 0px;
+    width: 65%;
+    vertical-align: top;
+    padding: 50px;
+
+}
+
+img.slidesjs-slide {
+    height: 100%;
+    width: 100%;
+}
+
+.slidesjs-pagination {
+    margin: 6px 0 0 40%; /*dots position- relative center images */
+    list-style: none;
+    padding-bottom: 20px;
+    position: relative;
+    right: 0%;
+    left: 0%;
+}
+
+.slidesjs-pagination li {
+    float: left;
+    margin: 0 1px;
+
+}
+
+.slidesjs-pagination li a {
+    display: block;
+    width: 13px;
+    height: 0;
+    padding-top: 13px;
+    background: url(../images/pagination.png) 0 0;
+    float: left;
+    overflow: hidden;
+}
+
+.slidesjs-pagination li a.active,
+.slidesjs-pagination li a:hover.active {
+    background-position: 0 -13px
+}
+
+.slidesjs-pagination li a:hover {
+    background-position: 0 -26px
+}
+
+a:link {
+    color: #333
+}
+
+a:hover {
+    color: darkred;
+}
+
+a.selected {
+    color: #b09b4c;
+}
+
+.city-link {
+    list-style: none;
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.city-link a {
+    float: left;
+    text-transform: uppercase;
+    font-size: 1.5vw;
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: 1px solid #004d68;
+    line-height: 14px;
+}
+
+.city-link ul {
+    text-align: center;
+    margin: 0;
+    list-style-type: none;
+    min-width: 280px;
+}
+
+
+

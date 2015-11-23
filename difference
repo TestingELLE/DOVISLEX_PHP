@@ -1,0 +1,21 @@
+Difference between HTML and PHP project
+
+de/header.html
+    HTML Project: Line 25 -- Uses JS for language button background color changes
+    PHP Project: Line 24-30 -- Uses CSS for language button background color changes
+
+en/header.html
+    HTML Project: Line 25 -- Uses JS for language button background color changes
+    PHP Project: Line 24-30 -- Uses CSS for language button background color changes
+
+fr/header.html
+    HTML Project: Line 25 -- Uses JS for language button background color changes
+    PHP Project: Line 24-30 -- Uses CSS for language button background color changes
+
+it/header.html
+    HTML Project: Line 25 -- Uses JS for language button background color changes
+    PHP Project: Line 24-30 -- Uses CSS for language button background color changes
+
+sp/header.html
+    HTML Project: Line 25 -- Uses JS for language button background color changes
+    PHP Project: Line 24-30 -- Uses CSS for language button background color changes

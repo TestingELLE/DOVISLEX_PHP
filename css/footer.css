@@ -1,0 +1,41 @@
+footer#colophon {
+	/*background-color: lightpink;*/
+    margin-top: 20px;
+    padding-left: 8px;
+}
+
+footer#colophon .container {
+    border-top: 1px solid #7ca9af;
+    padding-top: 8px;
+    font-size: 11px;    /*for older browsers*/
+    font-size: 1.1rem;
+}
+
+footer#colophon .widget {
+    display: block;
+    float: left;
+    margin-right: 3.06748%;
+    width: 31.28834%;
+    line-height: 20px;
+    /*background-color: palegreen;*/
+}
+
+footer#colophon .widget:last-child {
+    margin-right: 0;
+}
+
+footer#colophon .widget:nth-child(3) {
+    margin-right: 0;
+}
+
+footer#colophon .widget:nth-child(3+1) {
+    clear: left;
+}
+
+footer#colophon .widget ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+

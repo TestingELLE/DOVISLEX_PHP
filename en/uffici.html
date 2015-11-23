@@ -1,0 +1,88 @@
+<link rel='stylesheet' type='text/css' href='../css/map.css'/>
+<script src="../js/jquery.slides.min.js"></script>
+<script src="../js/load-maps.js"></script>
+
+<div id="main-content">
+  <header class="article-title notranslate"><h1>Uffici</h1></header>
+
+  <article>
+    <h4 class="notranslate">Padova, Italia</h4>
+    <div>
+      <table>
+        <tr valign=top>
+          <td>
+            <div class="addressCell notranslate">
+              <b>Padova</b><br>
+              Via Altinate 144<br>I 35121 Padova <br>
+              tel: +39 049/875.21.79<br>
+              fax: +39 049/65.78.37 <br>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+
+    <h4 class="notranslate">Bruxelles, Belgique</h4>
+    <div>
+      <table>
+        <tr valign=top>
+          <td>
+            <div class="addressCell notranslate">
+              <b>Bruxelles</b>&nbsp;(Uff. collegamento UE)<br>
+              24 Av. de la Toison d'Or<br>B 1050 Bruxelles<br>
+              tel: +32 2/502.13.42<br>
+              fax: +32 2/502.14.98<br>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+
+    <h4 class="notranslate">Berlin, Deutschland</h4>
+    <div>
+      <table>
+        <tr valign=top>
+          <td>
+            <div class="addressCell notranslate">
+              <b>Berlin</b><br>
+              Sybelstraße 39<br>D 10629 Berlin<br>
+              tel: +49 30/816.160.090<br>
+              fax: +49 30/816.160.099<br>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </article>
+
+</div> <!-- #main-content -->
+
+<div class="map-content">
+  <div id="slide-set">
+    <div id="slides">
+      <img src="../images/mappa padova 1.jpg" alt="mappa Padova area"/>
+      <img src="../images/mappa padova casello.jpg" alt="mappa Padova casello"/>
+      <img src="../images/mappa Padova 3.jpg" alt="mappa Padova strada"/>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2801.0842811106445!2d11.883510000000001!3d45.40764000000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eda59d0a3ab1d%3A0x6c4c6c9ef797d9c5!2sVia+Altinate%2C+144%2C+35121+Padova+PD%2C+Italy!5e0!3m2!1sen!2sus!4v1435073419944" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+
+  <div class="city-link">
+    <ul>
+      <li>
+        <a href="#slide2" onclick="showSlider('padova')" class="selected">Padova</a>
+        <a href="#slide1" onclick="showSlider('bruxelles')">Bruxelles</a>
+        <a href="#slide3" onclick="showSlider('berlino')">Berlino</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<script>
+  loadMaps();
+  function showSlider(element) {
+      $('#slide-set').load("map-" + element + ".html");
+  }
+</script>
