@@ -1,0 +1,89 @@
+/* 
+ *  Author: Anthea Jung
+ *  Created: 10/23/2015
+ *  Last modified: 10/27/2015
+ *  
+ *  Used to change the language of side buttons 
+ *  Longer text has smaller font sizes, can be easily changed by removing
+ *  font-size. */
+
+
+.items li:nth-child(1)  p:before {
+    content: 'Antitrust, State aid & competition';
+}
+
+.items li:nth-child(1)  p:hover:before {
+    content: 'Antitrust, State aid & competition';
+}
+
+.items li:nth-child(2) p:before {
+    content: 'Arbitration & ADR';
+}
+
+.items li:nth-child(2)  p:hover:before {
+    content: 'Arbitration & ADR';
+}
+
+.items li:nth-child(3) p:before {
+    content: 'Customs & tariffs\aImport - Export';
+}
+
+.items li:nth-child(3) p:hover:before {
+    content: 'Customs & tariffs\aImport - Export';
+}
+
+.items li:nth-child(4) p:before {
+    content: "Exchanges within the UE";
+}
+
+.items li:nth-child(4) p:hover:before {
+    content: 'Exchanges within the UE';
+}
+
+.items li:nth-child(5)  p:before {
+    content: 'Agriculture, industry, environment';
+}
+
+.items li:nth-child(5)  p:hover:before {
+    content: 'Agriculture, industry, environment';
+}
+
+.items li:nth-child(6) p:before {
+    content: 'Penal administrative & financial';
+}
+
+.items li:nth-child(6) p:hover:before {
+    content: 'Penal administrative & financial';
+}
+
+.items li:nth-child(7) p:before {
+    content: 'Commercial contracts';
+}
+
+.items li:nth-child(7) p:hover:before {
+    content: 'Commercial contracts';
+}
+
+.items li:nth-child(8) p:before {
+    content: 'Trademarks, models & designs';
+}
+
+.items li:nth-child(8) p:hover:before {
+    content: 'Trademarks, models & designs';
+}
+
+.items li:nth-child(9) p:before {
+    content: 'International Real Estate';
+}
+
+.items li:nth-child(9) p:hover:before {
+    content: 'International Real Estate';
+}
+
+.items li:nth-child(10) p:before {
+    content: '360° assistance in Germany';
+}
+
+.items li:nth-child(10) p:hover:before {
+    content: '360° assistance in Germany';
+}

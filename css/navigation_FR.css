@@ -1,0 +1,166 @@
+/* =Navigation
+----------------------------------------------- */
+@charset "UTF-8";
+#navigation {
+    position: fixed;
+    top: 139px; /*change along with header */
+    /* do not set left */
+    width: 100%;
+    max-width: 1020px;
+    z-index: 400;
+}
+
+#menu-main-container	{
+    position: static; /* to allow overhang effect when width >980px */
+    border-radius: 6px;
+    box-shadow: 0 0 6px -2px #333333;
+    width: 100%;
+
+    padding: 0 15px;
+    height: 50px;
+    border: 1px solid #fff;
+    background: url("../images/main-nav-bkg.jpg") repeat-x;
+}
+
+
+/* overhang effect. 986opx for slight delay */
+@media only screen and (min-width: 986px) {
+    #menu-main-container { position: relative;
+        left: calc(-50% + 490px); }
+}
+
+#navigation .menu-main, #navigation .sub-menu {
+    /* Navigation tab height */
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    background: #eeeeee;
+}
+
+#navigation .menu-item {
+    font-size: 10px;    /*for older browsers*/
+    font-size: 1.0rem;
+    text-transform: uppercase;
+    line-height: 15px;
+    max-height: 100%;
+    text-align: center;
+    background: url("../images/main-nav-divider.png") right center no-repeat;
+    width: 5px;
+    padding-right: 5px;
+    height: 48px;
+    float: left;
+    position: relative;
+}
+
+#navigation .menu-item:hover > ul { display: block;}
+
+
+#navigation .menu-item a {
+    padding: 9px 3px 9px 10px;
+    color: #004d68;
+    letter-spacing: 0.1em;
+    height: 40px; /* each box in a list*/
+    text-decoration: none;
+    font-weight: 400;
+    display: block;
+}
+
+#navigation .menu-item a:hover {
+    background: url("../images/main-nav-hover.jpg") repeat-x;
+    text-decoration: none;
+}
+
+#navigation .menu-item ul {
+    top: 48px;
+    height: auto;
+
+}
+#navigation .sub-menu {
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    display: none;
+    float: left;
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: 99999;
+}
+#navigation .sub-menu.large{width: 460px;}
+#navigation .sub-menu.small {width: 180px;}
+
+#navigation .sub-menu li {
+    background: none;
+    text-align: left;
+    border-top: 1px solid #fff;
+    padding-right: 0;
+}
+
+#navigation .sub-menu a:hover {
+    background: url("../images/white90.png");
+    white-space: normal;
+
+}
+#navigation .sub-menu a {height: 95%;}
+
+#navigation .num-00 {width: 12%;}
+#navigation .num-10 {width: 15%;}
+#navigation .num-20 {width: 15%;}
+#navigation .num-30 {width: 11%;}
+#navigation .num-40 {width: 25%; font-size: 0.7em;}
+#navigation .num-50 {width: 17%;font-size: 0.6em;}
+#navigation .num-60 {width: 9%;}
+#navigation .num-70 {width: 11%;}
+
+
+#navigation .menu-item .toggle-symbol { display: none; }
+
+li.menu-item.num-00 a:before { content: "Qui sommes nous";}
+.num-00 .sub-menu.small li:nth-child(1) a:before { content: "Qui sommes nous"; }
+.num-00 .sub-menu.small li:nth-child(2) a:before { content: "Professionnels"; }
+.num-00 .sub-menu.small li:nth-child(3) a:before { content: "Affaires devant la Cour de Justice de l'Union européenne"; }
+.num-00 .sub-menu.small li:nth-child(4) a:before { content: "Bibliographie"; }
+.num-00 .sub-menu.small li:nth-child(5) a:before { content: "Nouveautés"; }
+.num-00 .sub-menu.small li:nth-child(6) a:before { content: "Contactez-nous"; }
+
+li.menu-item.num-10 a:before { content: "Domaines de compétence";}
+.num-10 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, Aides d'Etat, Concurrence"; }
+.num-10 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Négociation, Médiation, Arbitrages"; }
+.num-10 .sub-menu.large li:nth-child(3) a:before { content: "Droit douanier"; }
+.num-10 .sub-menu.large li:nth-child(4) a:before { content: "Les échanges à l'intérieur de l'Union européenne"; }
+.num-10 .sub-menu.large li:nth-child(5) a:before { content: "Les importations / exportations des / vers les pays extra UE"; }
+.num-10 .sub-menu.large li:nth-child(6) a:before { content: "Les relations commerciales UE / pays tiers"; }
+.num-10 .sub-menu.large li:nth-child(7) a:before { content: "Agriculture, pêche, industrie, environnement"; }
+.num-10 .sub-menu.large li:nth-child(8) a:before { content: "Droit pénal et pénal-administratif en relation avec les ressources financières de l'Union européenne"; }
+.num-10 .sub-menu.large li:nth-child(9) a:before { content: "Contrats commerciaux"; }
+.num-10 .sub-menu.large li:nth-child(10) a:before { content: "Marques"; }
+.num-10 .sub-menu.large li:nth-child(11) a:before { content: "Immobilier aux Etats-Unis et en Allemagne"; }
+.num-10 .sub-menu.large li:nth-child(12) a:before { content: "Conseil à 360° pour l'ouverture d'entreprises et activités commerciales en Allemagne"; }
+
+li.menu-item.num-20 a:before { content: "UE et Droit international";}
+.num-20 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, Aides d'Etat, Concurrence"; }
+.num-20 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Négociation, Médiation, Arbitrages"; }
+.num-20 .sub-menu.large li:nth-child(3) a:before { content: "Droit douanier"; }
+.num-20 .sub-menu.large li:nth-child(4) a:before { content: "Les échanges à l'intérieur de l'Union européenne"; }
+.num-20 .sub-menu.large li:nth-child(5) a:before { content: "Les importations / exportations des / vers les pays extra UE"; }
+.num-20 .sub-menu.large li:nth-child(6) a:before { content: "Les relations commerciales UE / pays tiers"; }
+.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Agriculture, pêche, industrie, environnement"; }
+.num-20 .sub-menu.large li:nth-child(8) a:before { content: "Droit pénal et pénal-administratif en relation avec les ressources financières de l'Union"; }
+.num-20 .sub-menu.large li:nth-child(9) a:before { content: "Contrats commerciaux"; }
+.num-20 .sub-menu.large li:nth-child(10) a:before { content: "Marques communautaires"; }
+.num-10 .sub-menu.large li:nth-child(11) a:before { content: "Immobilier aux Etats-Unis et en Allemagne"; }
+
+
+li.menu-item.num-30 a:before { content: "Droit national";}
+.num-30 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, Aides d'Etat, Concurrence"; }
+.num-30 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Négociation, Médiation, Arbitrages"; }
+.num-30 .sub-menu.large li:nth-child(3) a:before { content: "Agriculture, pêche, industrie, environnement"; }
+.num-30 .sub-menu.large li:nth-child(4) a:before { content: "Droit pénal et pénal-administratif en relation avec les ressources financières de l'Union"; }
+.num-30 .sub-menu.large li:nth-child(5) a:before { content: "Contrats commerciaux"; }
+.num-30 .sub-menu.large li:nth-child(6) a:before { content: "Marques, Dessins et Modèles"; }
+.num-30 .sub-menu.large li:nth-child(7) a:before { content: "Conseil à 360° pour l'ouverture d'entreprises et activités commerciales en Allemagne"; }
+
+li.menu-item.num-40 a:before { content: "Actions fondées sur le droit de l'Union européenne";}
+
+
+li.menu-item.num-50 a:before { content: "Affaires devant la Cour de Justice de l'Union européenne"; }
+li.menu-item.num-60 a:before { content: "Bureaux"; }
+li.menu-item.num-70 a:before { content: "Nouveautés"; }

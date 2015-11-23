@@ -1,0 +1,120 @@
+ /*Navigation Small Screen================================*/
+
+
+nav#navigation{
+    display: none;
+}
+nav#navigation_small{
+    display: block;
+}
+
+.menu-main {
+    background: url("../images/main-nav-bkg.jpg");
+    clear: both;
+    width: 100%;
+    padding: 0;
+    height: 45px;
+    margin: 0;
+    font-size: 14px;
+}
+.menu-main a{
+    padding: 9px 15px;
+    letter-spacing: 0.1em;
+    height: 40px;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+ .menu-item {
+     font-size: 12px;
+     text-transform: uppercase;
+     line-height: 15px;
+     max-height: 100%;
+     text-align: left;
+     background: url("../images/main-nav-divider.png") right center no-repeat;
+     width: 100%;
+     padding-right: 5px;
+     height: 48px;
+ }
+
+ .menu-item:hover > ul { display: none;}
+
+ .menu-item a {
+     padding: 9px 15px;
+     color: #004d68;
+     letter-spacing: 0.1em;
+     height: 40px; /* each box in a list*/
+     text-decoration: none;
+     font-weight: 400;
+     display: inline;
+ }
+
+ .menu-item a:hover {
+     background: url("../images/main-nav-hover.jpg") repeat-x;
+     text-decoration: none;
+ }
+
+ .menu-item ul {
+     top: 48px;
+     height: auto;
+
+ }
+span {
+    display: inline;
+}
+.sub-menu {
+    font-size: 10px;
+    text-transform: uppercase;
+    width: 105%;
+    position: relative;
+    left: -22px;
+    background: #eeeeee;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    display: none;
+    border-radius: 6px;
+    list-style-type: none;
+}
+.sub-menu ul {
+    display: table;
+}
+
+.sub-menu a {
+    padding: 9px 0px;
+    color: #004d68;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    display: block;
+    width: 100%;
+    margin-left: 4px;
+}
+
+.sub-menu li {
+    background: none;
+    text-align: left;
+    border-top: 1px solid #fff;
+    padding-right: 0;
+
+
+}
+.sub-menu a:hover { background: url("../images/white90.png");white-space: normal; margin: 0px;}
+
+.menu-item{
+    background: url("../images/main-nav-bkg.jpg");
+    border-color: lightsteelblue;
+    padding: 8px;
+
+}
+
+.toggle-symbol{
+    font-size: 16px;
+    font: bold;
+}
+ul{
+    list-style-type: none;
+}
+.sub-menu.small{
+    width: 100%;
+}
+.sub-menu.large >ul{
+    width: 100%;
+}

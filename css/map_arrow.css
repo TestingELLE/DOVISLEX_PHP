@@ -1,0 +1,31 @@
+.slider {
+
+    overflow: auto;
+    width: 100px;
+    margin-left: -5px;
+    padding: 0;
+}
+
+
+.slider li {
+    list-style: none;
+}
+
+.slider ul li {
+    float: left;
+}
+
+
+li.map {
+    width: 300px;
+    padding: 0;
+}
+
+
+.arrows {
+    width: 100px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+
