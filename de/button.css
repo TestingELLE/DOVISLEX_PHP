@@ -9,7 +9,8 @@
 
 
 .items li:nth-child(1)  p:before {
-    content: 'Antitrust, State aid & competition';
+    /*content: 'Kartellrecht, staatliche Beihilfen, Wettbewerbsrecht';*/
+    content: 'Antitrust, staatliche Beihilfen, Wettbewerb';
 }
 
 .items li:nth-child(1)  p:hover:before {
@@ -17,7 +18,7 @@
 }
 
 .items li:nth-child(2) p:before {
-    content: 'Arbitration & ADR';
+    content: 'ADR & Schiedsverfahren';
 }
 
 .items li:nth-child(2)  p:hover:before {
@@ -25,7 +26,7 @@
 }
 
 .items li:nth-child(3) p:before {
-    content: 'Customs & tariffs\aImport - Export';
+    content: 'Zollrecht';
 }
 
 .items li:nth-child(3) p:hover:before {
@@ -33,7 +34,7 @@
 }
 
 .items li:nth-child(4) p:before {
-    content: "Exchanges within the UE";
+    content: "EU-Handelsbeziehungen";
 }
 
 .items li:nth-child(4) p:hover:before {
@@ -41,7 +42,8 @@
 }
 
 .items li:nth-child(5)  p:before {
-    content: 'Agriculture, industry, environment';
+    font-size: .9em;
+    content: 'Landwirtschaft, Fischerei, Industrie, Umwelt';
 }
 
 .items li:nth-child(5)  p:hover:before {
@@ -49,7 +51,8 @@
 }
 
 .items li:nth-child(6) p:before {
-    content: 'Penal administrative & financial';
+    font-size: .9em;
+    content: 'Strafrecht und Verwaltungsstrafrecht';
 }
 
 .items li:nth-child(6) p:hover:before {
@@ -57,7 +60,7 @@
 }
 
 .items li:nth-child(7) p:before {
-    content: 'Commercial contracts';
+    content: 'Internationale Handelsverträge';
 }
 
 .items li:nth-child(7) p:hover:before {
@@ -65,7 +68,7 @@
 }
 
 .items li:nth-child(8) p:before {
-    content: 'Trademarks, models & designs';
+    content: 'EU-Markenrecht';
 }
 
 .items li:nth-child(8) p:hover:before {
@@ -81,7 +84,7 @@
 }
 
 .items li:nth-child(10) p:before {
-    content: '360° assistance in Germany';
+    content: '360° Beratung in Deutschland';
 }
 
 .items li:nth-child(10) p:hover:before {

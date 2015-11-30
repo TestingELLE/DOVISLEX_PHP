@@ -15,10 +15,13 @@
     border-radius: 6px;
     box-shadow: 0 0 6px -2px #333333;
     width: 100%;
-    padding: 0 15px;
+
+    padding: 0 10px;
     height: 50px;
     border: 1px solid #fff;
     background: url("../images/main-nav-bkg.jpg") repeat-x;
+
+
 }
 
 
@@ -44,8 +47,8 @@
     max-height: 100%;
     text-align: center;
     background: url("../images/main-nav-divider.png") right center no-repeat;
-    width: 5px;
-    padding-right: 5px;
+    width: 2px;
+    padding-right: 2px;
     height: 48px;
     float: left;
     position: relative;
@@ -84,7 +87,7 @@
     z-index: 99999;
 }
 #navigation .sub-menu.large{width: 460px;}
-#navigation .sub-menu.small {width: 180px;}
+#navigation .sub-menu.small {width: 200px;}
 
 #navigation .sub-menu li {
     background: none;
@@ -100,51 +103,51 @@
 }
 #navigation .sub-menu a {height: 95%;}
 
-#navigation .num-00 {width: 10%;}
-/*#navigation .num-10 {width: 13%;}*/
-#navigation .num-20 {width: 20%;}
-#navigation .num-30 {width: 12%;}
-#navigation .num-40 {width: 18%;}
-#navigation .num-50 {width: 15%;}
-#navigation .num-60 {width: 10%;}
-#navigation .num-70 {width: 10%;}
+#navigation .num-00 {width: 7%;}
+#navigation .num-20 {width: 22%;/*font-size: 0.7em;*/}
+#navigation .num-30 {width: 11%;}
+#navigation .num-40 {width: 18%;/*font-size: 0.8em;*/}
+#navigation .num-50 {width: 18%;/*font-size: 0.68em;*/}
+#navigation .num-60 {width: 9%;}
+#navigation .num-70 {width: 15%;}
 
 
 #navigation .menu-item .toggle-symbol { display: none; }
 
-li.menu-item.num-00 a:before { content: "De Nobis";}
-.num-00 .sub-menu.small li:nth-child(1) a:before { content: "Domus"; }
-.num-00 .sub-menu.small li:nth-child(2) a:before { content: "Professionals"; }
-.num-00 .sub-menu.small li:nth-child(3) a:before { content: "EU Court of Justice cases"; }
-.num-00 .sub-menu.small li:nth-child(4) a:before { content: "Bibliography"; }
-.num-00 .sub-menu.small li:nth-child(5) a:before { content: "News"; }
-.num-00 .sub-menu.small li:nth-child(6) a:before { content: "Contact Us"; }
+li.menu-item.num-00 a:before { content: 'Über uns'}
+.num-00 .sub-menu.small li:nth-child(1) a:before {content: 'Über uns';}
+.num-00 .sub-menu.small li:nth-child(2) a:before {content: 'Unsere Experten';}
+.num-00 .sub-menu.small li:nth-child(3) a:before {content: 'EU-Rechtsprechung';}
+.num-00 .sub-menu.small li:nth-child(4) a:before {content: 'Bibliographie';}
+.num-00 .sub-menu.small li:nth-child(5) a:before {content: 'Nachrichten';}
+.num-00 .sub-menu.small li:nth-child(6) a:before {content: ' Kontaktieren Sie Uns';}
 
 
-li.menu-item.num-20 a:before { content: "EU & International Law";}
-.num-20 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, State aid, Competition"; }
-.num-20 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Negotiation, Mediation, Arbitration"; }
-.num-20 .sub-menu.large li:nth-child(3) a:before { content: "Customs Law"; }
-.num-20 .sub-menu.large li:nth-child(4) a:before { content: "Exchanges within the internal area of ​the European Union"; }
-.num-20 .sub-menu.large li:nth-child(5) a:before { content: "Imports/Exports from/to Countries extra EU"; }
-.num-20 .sub-menu.large li:nth-child(6) a:before { content: "Trade relations EU/third Countries"; }
-.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Agriculture, fishing, industry, environment"; }
-.num-20 .sub-menu.large li:nth-child(8) a:before { content: "Criminal and Criminal-administrative Law related to the financial resources of the European Union"; }
-.num-20 .sub-menu.large li:nth-child(9) a:before { content: "Commercial contracts"; }
-.num-20 .sub-menu.large li:nth-child(10) a:before { content: "EU trademarks"; }
-.num-20 .sub-menu.large li:nth-child(11) a:before { content: "Real Estate in USA and Germany"; }
+li.menu-item.num-20 a:before { content: 'EU & Internationales Recht'}
 
-li.menu-item.num-30 a:before { content: "National Law";}
-.num-30 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, State aid, Competition"; }
-.num-30 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Negotiation, Mediation, Arbitration"; }
-.num-30 .sub-menu.large li:nth-child(3) a:before { content: "Agriculture, fisheries, industry, environment"; }
-.num-30 .sub-menu.large li:nth-child(4) a:before { content: "Criminal and Criminal-administrative Law in relation to the financial resources of the European Union"; }
-.num-30 .sub-menu.large li:nth-child(5) a:before { content: "Commercial contracts"; }
-.num-30 .sub-menu.large li:nth-child(6) a:before { content: "Trademarks, Designs"; }
-.num-30 .sub-menu.large li:nth-child(7) a:before { content: "360° consultancy in Germany"; }
+.num-20 .sub-menu.large li:nth-child(1) a:before { content: 'Kartellrecht, staatliche Beihilfen, Wettbewerbsrecht';}
+.num-20 .sub-menu.large li:nth-child(2) a:before { content: 'Schiedsverfahren, ADR und Verhandlungsstrategie';}
+.num-20 .sub-menu.large li:nth-child(3) a:before {  content: 'Zollrecht';}
+.num-20 .sub-menu.large li:nth-child(4) a:before {content: 'EU-Handelsbeziehungen';}
+.num-20 .sub-menu.large li:nth-child(5) a:before {content: 'Import und Export EU-Ländern';}
+.num-20 .sub-menu.large li:nth-child(6) a:before { content: 'Handelsbeziehungen zwischen EU und Drittländer';}
+.num-20 .sub-menu.large li:nth-child(7) a:before {content: 'Landwirtschaft, Fischerei, Industrie, Umwelt';}
+.num-20 .sub-menu.large li:nth-child(8) a:before {content: 'Strafrecht und Verwaltungsstrafrecht über wirtschaftliche EU-Ressourcen';}
+.num-20 .sub-menu.large li:nth-child(9) a:before {content: 'Internationale Handelsverträge';}
+.num-20 .sub-menu.large li:nth-child(10) a:before {content: 'EU-Markenrecht';}
+.num-20 .sub-menu.large li:nth-child(11) a:before { content: 'Immobiliengesellschaft in Deutschland und in den USA';}
 
-li.menu-item.num-40 a:before { content: "Actions based on EU Law";}
+li.menu-item.num-30 a:before {  content: 'Nationales Recht'}
+.num-30 .sub-menu.large li:nth-child(1) a:before {content: 'Kartellrecht, staatliche Beihilfen, Wettbewerb';}
+.num-30 .sub-menu.large li:nth-child(2) a:before {content: 'Schiedsverfahren, ADR und Verhandlungsstrategie';}
+.num-30 .sub-menu.large li:nth-child(3) a:before {content: 'Landwirtschaft, Fischerei, Industrie, Umwelt';}
+.num-30 .sub-menu.large li:nth-child(4) a:before {content: 'EU-Wirtschaftstrafrecht und Verwaltungsstrafrecht über EU-Ressourcen';}
+.num-30 .sub-menu.large li:nth-child(5) a:before {content: 'Internationale Handelsverträge';}
+.num-30 .sub-menu.large li:nth-child(6) a:before {content: 'Markenrecht und Geschmacksmusterrecht';}
+.num-30 .sub-menu.large li:nth-child(7) a:before {content: '360° Beratung in Deutschland';}/*umfassende beratung*/
 
-li.menu-item.num-50 a:before { content: "EU Court of Justice cases"; }
-li.menu-item.num-60 a:before { content: "Offices"; }
-li.menu-item.num-70 a:before { content: 'News'}
+li.menu-item.num-40 a:before { content: 'EU-Prozessrechts Klagen'}
+
+li.menu-item.num-50 a:before { content: 'Klagen vor dem EU Gerichtshof';}
+li.menu-item.num-60 a:before { content: 'Unsere Büros'}
+li.menu-item.num-70 a:before { content: 'Nachrichten'}

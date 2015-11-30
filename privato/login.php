@@ -1,99 +1,40 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Admin Login</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="../it/navigation.css">
+<?php
 
-    <!--All page specific code goes above this line which loads the common head-->
-    <script src="../js/load-head.js"></script>
-  </head>
+session_start();    // Starting Session
+$error = '';        // Variable To Store Error Message
 
-  <body>
-    <div id="supra-header"></div>
-    <div id="page">
-      <div id="header"> 
-          <?php include('header.html'); ?> 
-      </div>
-      <div id="main-container" class="clear"> 
-        <div id="tableDiv" class="notranslate">
-          <br>
-          <h1 style="text-align: center; font-family: Georgia;">
-            You have been successfully logged in!
-          </h1>
-          <br>
-          <div style="margin: auto; width: 50%;">
-            <br>
-            <p style="background-color: #D5D5D5; padding-left:5px;">
-              New Professionisti Page
-            </p>
-            <ul>
-              <li>
-                <a href="../it/index.php?page=professionisti_1">Professionisti_1</a>
-              </li>
-            </ul>
-            <br>
+if (isset($_POST['submit'])) {
+    
+    // if user enters empty username or empty password, an error message is sent
+    if (empty($_POST['username']) || empty($_POST['password'])) {
+        $error = "Username or Password is invalid";
+    } else {
+        $username = $_POST['username'];
+        $password = $_POST['password'];
+        
+        // Establishing Connection by passing server_name, user_id and password
+        $connection = mysql_connect("localhost:3306", "root", "root");
 
-            <p style="background-color: #D5D5D5; padding-left:5px;">
-              Restricted Pages, Access Only Allowed By Valid-User
-            </p>
-            <ul>
-              <li>
-                <a href="login.php">Restricted - Login</a>
-              </li>
-              <li>
-                <a href="page1.php">Restricted - Page 1</a>
-              </li>
-              <li>
-                <a href="page2.php">Restricted - Page 2</a>
-              </li> 
-              <li>
-                <a href="page3.php">Restricted - Page 3</a>
-              </li> 
-            </ul>
-            <br>
-
-            <p style="background-color: #D5D5D5; padding-left:5px;">
-              Back to Dovislex
-            </p>
-            <ul>
-              <li>
-                <a href="../en/index.php">Dovislex - English</a>
-              </li>  
-              <li>
-                <a href="../sp/index.php">Dovislex - Spanish</a>
-              </li>  
-              <li>
-                <a href="../fr/index.php">Dovislex - French</a>
-              </li>  
-              <li>
-                <a href="../de/index.php">Dovislex - German</a>
-              </li>  
-              <li>
-                <a href="../it/index.php">Dovislex - Italian</a>
-              </li> 
-            </ul>
-          </div>
-          <br>
-          <div style="text-align: center;">
-            <button type="button" style="width: 180px; background-color: #D5D5D5;
-            border: 1px solid black; cursor: pointer;" onclick="location.href =
-            '../privato/logout.php';">
-              Logout
-            </button>
-            <br>
-            <br>
-          </div>
-        </div>
-      </div>
-
-      <nav id="navigation"> 
-          <?php include('navigation.html'); ?> 
-      </nav>
-      <footer id="colophon" class="clearfix notranslate"> 
-        <?php include('footer.html'); ?> 
-      </footer>
-    </div>
-  </body>
-</html>
+        // To protect MySQL injection for Security purpose
+        $username = stripslashes($username);
+        $password = stripslashes($password);
+        $username = mysql_real_escape_string($username);
+        $password = mysql_real_escape_string($password);
+            
+        // Selecting Database
+        $db = mysql_select_db("MyNewDatabase", $connection);
+        
+        // SQL query to fetch information of registerd users
+        $query = mysql_query("select * from Members where password='$password' AND userName='$username'", $connection);
+        $rows = mysql_num_rows($query);
+        
+        //if the user is found, redirects page to page1.php
+        if ($rows == 1) {
+            $_SESSION['login_user'] = $username; // Initializing Session
+            header("location: page1.php");
+        } else {
+            $error = "Username or Password is invalid";
+        }
+        mysql_close($connection); // Closing Connection
+    }
+}

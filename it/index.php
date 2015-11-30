@@ -76,6 +76,7 @@
         case "privacy_en":
             $page = "privacy_en.html";
             $title = "Privatezza";
+            break;
         case "privatezza":
             $page = "privatezza.html";
             $title = "Privatezza";
@@ -137,7 +138,7 @@
         <script src="../js/load-head.js"></script>
     </head>
 
-    <body onload="loadSiteParts(); loadContents();">
+    <body onload="loadContents();">
         <div id="supra-header"></div>
         <div id="page">
             <div id="header"> 
@@ -152,7 +153,7 @@
                                                 'USArealEstate.html',
                                                 'bibliografia.html', 
                                                 'contenzioso.php', 
-                                                'professionisti_1.html', 
+                                                'professionisti.html', 
                                                 'sitemap.html',
                                                 'uffici.html');
                         if (!in_array($page, $noButtonList)) {

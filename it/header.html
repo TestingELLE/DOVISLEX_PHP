@@ -23,7 +23,7 @@
 
 <style>
   /*  Changes the color of the button selected to indicate that current page is
-   *  in Italian */
+   *  in English */
   #lang-change-it {
     background-color: #B09B4C;
   }
@@ -36,7 +36,7 @@
   <div id="stars">
     <!-- creates a hidden div on top of the page where the stars are displayed
          right clicking on the div will lead to a new page -->
-    <div oncontextmenu="javascript:window.location.href = '../privato/login.php';" 
+    <div oncontextmenu="javascript:window.location.href = '../privato/index.php';" 
          style="opacity: 0; width: 50px; height:50px; left: 23px; cursor:default; 
          background-color:red; position: absolute;"></div>
     <h1>Donà Viscardini </h1>
@@ -51,9 +51,10 @@
     <a id ="lang-change-en" class="btn_language" 
        href="javascript:changeLang('lang-change-en');">EN</a>
     <a id= "lang-change-es" class="btn_language" 
-       href="javascript:changeLang('lang-change-es');">SP</a>
+      oncontextmenu="javascript:window.location.href = '../sp/index.php?page=index';" href="javascript:changeLang('lang-change-es');">SP</a>
+    <!--href="javascript:changeLang('lang-change-es');">SP</a>-->
     <a id= "lang-change-fr" class="btn_language" 
-       href="javascript:changeLang('lang-change-fr');">FR</a>
+      oncontextmenu="javascript:window.location.href = '../fr/index.php?page=index';" href="javascript:changeLang('lang-change-fr');">FR</a>
     <a id= "lang-change-de" class="btn_language" 
        href="javascript:changeLang('lang-change-de');">DE</a>
     <a id= "lang-change-it" class="btn_language" 
