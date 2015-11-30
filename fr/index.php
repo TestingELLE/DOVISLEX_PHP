@@ -2,102 +2,103 @@
     $page = $_GET['page'];
     switch ($page) {
         case "USArealEstate":
-            $page = "USArealEstate.html";
+            $page = "../commonHTML/USArealEstate.html";
             $title = "Real Estate USA";
             break;
         case "arbitration":
-            $page = "arbitration.html";
+            $page = "../commonHTML/arbitration.html";
             $title = "ADR";
             break;
         case "azioni_UE":
-            $page = "azioni_UE.html";
+            $page = "../commonHTML/azioni_UE.html";
             $title = "azioni_UE";
             break;
         case "bibliografia":
-            $page = "bibliografia.html";
+            $page = "../commonHTML/bibliografia.html";
             $title = "Bibliography";
             break;
         case "biblios":
-            $page = "biblios.html";
+            $page = "../commonHTML/biblios.html";
             $title = "Biblios";
             break;
         case "concorrenza":
-            $page = "concorrenza.html";
+            $page = "../commonHTML/concorrenza.html";
             $title = "Competition";
             break;
         case "contact-us":
-            $page = "contact-us.html";
+            $page = "../commonHTML/contact-us.html";
             $title = "Contact Us";
             break;
         case "contenzioso":
-            $page = "contenzioso.php";
+            $page = "../commonHTML/contenzioso.php";
             $title = "Cases";
             break;
         case "contracts":
-            $page = "contracts.html";
+            $page = "../commonHTML/contracts.html";
             $title = "Contracts";
             break;
         case "document_form":
-            $page = "document_form.html";
+            $page = "../commonHTML/document_form.html";
             $title = "Document Form";
             break;
         case "germania360":
-            $page = "germania360.html";
+            $page = "../commonHTML/germania360.html";
             $title = "Germany 360";
             break;
         case "import-export":
-            $page = "import-export.html";
+            $page = "../commonHTML/import-export.html";
             $title = "Import - Export";
             break;
         case "news":
-            $page = "news.html";
+            $page = "../commonHTML/news.html";
             $title = "NEWS";
             break;
         case "penale-amministrativo":
-            $page = "penale-amministrativo.html";
+            $page = "../commonHTML/penale-amministrativo.html";
             $title = "Criminal and administrative";
             break;
         case "privacy_en":
-            $page = "privacy_en.html";
-            $title = "Privatezza";
+            $page = "../commonHTML/privacy_en.html";
+            $title = "Privacy Policy";
+            break;
         case "privatezza":
-            $page = "privatezza.html";
+            $page = "../commonHTML/privatezza.html";
             $title = "Privatezza";
             break;
         case "professionisti":
-            $page = "professionisti.html";
+            $page = "../commonHTML/professionisti.html";
             $title = "Professionals";
             break;
         case "scambi":
-            $page = "scambi.html";
+            $page = "../commonHTML/scambi.html";
             $title = "Intra-EU trade";
             break;
         case "settori":
-            $page = "settori.html";
+            $page = "../commonHTML/settori.html";
             $title = "Agriculture, Fishing, Industry, Environment";
             break;
         case "sitemap":
-            $page = "sitemap.html";
+            $page = "../commonHTML/sitemap.html";
             $title = "Site Map";
             break;
         case "terms_en":
-            $page = "terms_en.html";
+            $page = "../commonHTML/terms_en.html";
             $title = "Terms";
             break;
         case "terms_it":
-            $page = "terms_it.html";
+            $page = "../commonHTML/terms_it.html";
             $title = "Terms";
             break;
         case "trademarks":
-            $page = "trademarks.html";
+            $page = "../commonHTML/trademarks.html";
             $title = "Trademarks";
             break;
         case "uffici":
-            $page = "uffici.html";
+            $page = "../commonHTML/uffici.html";
             $title = "Uffici";
             break;
         default:
-           $page = "index.html";
+           $page = "../commonHTML/index.html";
            $title = "Domus - About us";
     }
 ?>
@@ -113,7 +114,7 @@
         <script src="../js/load-head.js"></script>
     </head>
 
-    <body onload="loadSiteParts(); loadContents();">
+    <body onload="loadContents();">
         <div id="supra-header"></div>
         <div id="page">
             <div id="header"> 
@@ -124,16 +125,14 @@
                     <?php include($page); ?>
 
                     <?php 
-                        $noButtonList = array(  'Servizi.html',
-                                                'USArealEstate.html',
-                                                'bibliografia.html', 
-                                                'contenzioso.php', 
-                                                'professionisti_1.html', 
-                                                'sitemap.html',
-                                                'uffici.html');
+                        $noButtonList = array(  '../commonHTML/USArealEstate.html',
+                                                '../commonHTML/bibliografia.html', 
+                                                '../commonHTML/contenzioso.php',
+                                                '../commonHTML/sitemap.html',
+                                                '../commonHTML/uffici.html');
                         if (!in_array($page, $noButtonList)) {
                            echo "<div id='buttons-container'>";
-                           include('buttons.html');
+                           include('../commonHTML/buttons.html');
                            echo "</div>";
                         }
                     ?>
@@ -141,10 +140,10 @@
             </div>
           
             <nav id="navigation"> 
-                <?php include('navigation.html'); ?> 
+                <?php include('../commonHTML/navigation.html'); ?> 
             </nav>
             <footer id="colophon" class="clearfix notranslate"> 
-                <?php include('footer.html'); ?> 
+                <?php include('../commonHTML/footer.html'); ?> 
             </footer>
         </div>
     </body>

@@ -1,7 +1,7 @@
 <script>
   /*  Google translator uses a cookie called 'googtrans' to track which 
-   *  language is selected. By setting googtrans cookie to '/en/de', translator 
-   *  will use that information to translate the current page into German.
+   *  language is selected. By setting googtrans cookie to '/en/it', translator 
+   *  will use that information to translate the current page into Italian.
    *   
    *  Google translator is a client-side language translator that provides
    *  client a way to choose a different language using the Google translator 
@@ -23,25 +23,25 @@
 
 <style>
   /*  Changes the color of the button selected to indicate that current page is
-   *  in German */
+   *  in English */
   #lang-change-de {
     background-color: #B09B4C;
   }
 </style>
 
 <!-- Script below is provided by Google, needed to translate the page -->
-<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>        
 
 <div class="notranslate">
   <div id="stars">
     <!-- creates a hidden div on top of the page where the stars are displayed
          right clicking on the div will lead to a new page -->
-    <div oncontextmenu="javascript:window.location.href = 'blank.html';" 
-         style="opacity: 0; width: 50px; height:50px; left: 23px; 
-         cursor:default; background-color:red; position: absolute;"></div>
+    <div oncontextmenu="javascript:window.location.href = 'professionisti_1.html';" 
+         style="opacity: 0; width: 50px; height:50px; left: 23px; cursor:default; 
+         background-color:red; position: absolute;"></div>
     <h1>Donà Viscardini </h1>
   </div>
-  <h4> Studio Legale • Cabinet d'Avocats • International Law Firm • Anwaltskanzlei • Abogados</h4>
+  <h4> Studio legale • Cabinet d'Avocats • International Law Firm • Anwaltskanzlei • Abogados</h4>
 
   <div class= "btn">
     <!--Created an id for all links below following the 
@@ -51,13 +51,15 @@
     <a id ="lang-change-en" class="btn_language" 
        href="javascript:changeLang('lang-change-en');">EN</a>
     <a id= "lang-change-es" class="btn_language" 
-       href="javascript:changeLang('lang-change-es');">SP</a>
+      oncontextmenu="javascript:window.location.href = '../sp/index.php?page=index';" href="javascript:changeLang('lang-change-es');">SP</a>
+    <!--href="javascript:changeLang('lang-change-es');">SP</a>-->
     <a id= "lang-change-fr" class="btn_language" 
-       href="javascript:changeLang('lang-change-fr');">FR</a>
+      oncontextmenu="javascript:window.location.href = '../fr/index.php?page=index';" href="javascript:changeLang('lang-change-fr');">FR</a>
     <a id= "lang-change-de" class="btn_language" 
        href="javascript:changeLang('lang-change-de');">DE</a>
     <a id= "lang-change-it" class="btn_language" 
        href="javascript:changeLang('lang-change-it');">IT</a>
   </div>
+
   <div class="middle-bar"></div>
 </div>

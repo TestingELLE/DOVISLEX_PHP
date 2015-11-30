@@ -9,7 +9,7 @@
 
 
 .items li:nth-child(1)  p:before {
-    content: 'Antitrust, State aid & competition';
+    content: 'Antitrust, Ayudas de Estado, Competencia';
 }
 
 .items li:nth-child(1)  p:hover:before {
@@ -17,7 +17,7 @@
 }
 
 .items li:nth-child(2) p:before {
-    content: 'Arbitration & ADR';
+    content: 'ADR y Arbitrajes';
 }
 
 .items li:nth-child(2)  p:hover:before {
@@ -25,7 +25,7 @@
 }
 
 .items li:nth-child(3) p:before {
-    content: 'Customs & tariffs\aImport - Export';
+    content: 'Derecho aduanero\aImport - Export';
 }
 
 .items li:nth-child(3) p:hover:before {
@@ -33,7 +33,7 @@
 }
 
 .items li:nth-child(4) p:before {
-    content: "Exchanges within the UE";
+    content: "Intercambios internos en la UE";
 }
 
 .items li:nth-child(4) p:hover:before {
@@ -41,7 +41,7 @@
 }
 
 .items li:nth-child(5)  p:before {
-    content: 'Agriculture, industry, environment';
+    content: 'Agricultura, pesca, industria, ambiente';
 }
 
 .items li:nth-child(5)  p:hover:before {
@@ -49,7 +49,7 @@
 }
 
 .items li:nth-child(6) p:before {
-    content: 'Penal administrative & financial';
+    content: 'Penal-administrativo y Financiero';
 }
 
 .items li:nth-child(6) p:hover:before {
@@ -57,7 +57,7 @@
 }
 
 .items li:nth-child(7) p:before {
-    content: 'Commercial contracts';
+    content: 'Contratos comerciales';
 }
 
 .items li:nth-child(7) p:hover:before {
@@ -65,7 +65,7 @@
 }
 
 .items li:nth-child(8) p:before {
-    content: 'Trademarks, models & designs';
+    content: 'Marcas comunitarias';
 }
 
 .items li:nth-child(8) p:hover:before {
@@ -73,7 +73,7 @@
 }
 
 .items li:nth-child(9) p:before {
-    content: 'International Real Estate';
+    content: 'Bienes raíces internacionales';
 }
 
 .items li:nth-child(9) p:hover:before {
@@ -81,7 +81,7 @@
 }
 
 .items li:nth-child(10) p:before {
-    content: '360° assistance in Germany';
+    content: 'Consultoría de 360° en Alemania';
 }
 
 .items li:nth-child(10) p:hover:before {

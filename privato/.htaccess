@@ -1,42 +1,9 @@
-Options -Indexes
-
-AuthType Basic
-AuthName "Admin"
-AuthUserFile /Users/anthea/Desktop/Sites/DOVISLEX_PHP/privato/.htpasswd
-Deny from user logout
-Require user admin
-
-<Files "login.php">
-    Require user admin
-</Files>
-
-<Files "page1.php">
-    Require user admin
-</Files>
-
-<Files "page2.php">
-    Require user admin
-</Files>
-
-<Files "logout.php">
-    Deny from user admin
-    Require user logout   
-</Files>
-
-
+#blocks access to header.html and navigation.html from all users
 
 <Files "header.html">
-    Deny from all
-</Files>
-
-<Files "footer.html">
-    Deny from all
+    DENY from all
 </Files>
 
 <Files "navigation.html">
-    Deny from all
-</Files>
-
-<Files "note">
-    Deny from all
+    DENY from all
 </Files>
