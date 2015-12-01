@@ -129,7 +129,8 @@
                                                 '../commonHTML/bibliografia.html', 
                                                 '../commonHTML/contenzioso.php',
                                                 '../commonHTML/sitemap.html',
-                                                '../commonHTML/uffici.html');
+                                                '../commonHTML/uffici.html',
+                                                 '../commonHTML/professionisti.html');
                         if (!in_array($page, $noButtonList)) {
                            echo "<div id='buttons-container'>";
                            include('../commonHTML/buttons.html');
