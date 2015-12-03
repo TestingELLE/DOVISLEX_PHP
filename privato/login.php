@@ -13,7 +13,7 @@ if (isset($_POST['submit'])) {
         $password = $_POST['password'];
         
         // Establishing Connection by passing server_name, user_id and password
-        $connection = mysql_connect("localhost:3306", "root", "root");
+        $connection = mysql_connect("echidna.arvixe.com:3306", "pupone_DVuser", "DVuserpassword") or die(mysql_error());;
 
         // To protect MySQL injection for Security purpose
         $username = stripslashes($username);
@@ -22,7 +22,7 @@ if (isset($_POST['submit'])) {
         $password = mysql_real_escape_string($password);
             
         // Selecting Database
-        $db = mysql_select_db("MyNewDatabase", $connection);
+        $db = mysql_select_db("pupone_dovislex", $connection);
         
         // SQL query to fetch information of registerd users
         $query = mysql_query("select * from Members where password='$password' AND userName='$username'", $connection);
