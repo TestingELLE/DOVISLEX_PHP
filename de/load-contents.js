@@ -102,7 +102,47 @@ function loadContents() {
     
     //other
     appendORreplace('#L5', "Zum Beispiel:");
+    
+    //index/ about-us
+appendORreplace('#D1',"WILLKOMMEN AUF DER WEBSEITE DER");
+appendORreplace('#D2',"Die Kanzlei verfügt über ein fundiertes Wissen des Unionsrechts und des internationalen Handelsrechts, das Ergebnis einer über 50 Jahre langen spezifischen Erfahrung.");
+appendORreplace('#F1',"Insbesondere haben die Partner der Kanzlei bereits fast siebzig Verfahren vor dem Gerichtshof der Europäischen Union in Luxemburg vertreten.");
+appendORreplace('#D3',"Kapitalverkehr");
+appendORreplace('#D4',"Verträge");
+appendORreplace('#D5',"Kartellrecht und unlauterer Wettbewerb");
+appendORreplace('#F10',"Straf- und Strafverwaltungsrecht in Bezug auf EU-Mittel");
+appendORreplace('#D6',"360 ° Beratung und Unterstützung für Aktivitäten in Deutschland");
+appendORreplace('#F11',"GERICHTE UND VERFAHREN");
+appendORreplace('#D7',"Die Kanzlei bietet Rechtsberatung für:");
+appendORreplace('#F12',"Verfahren vor den Gerichten von Italien, Deutschland, Belgien und Frankreich (Zivil-, Straf-, Verwaltungs- und Steuergerichtsbarkeit)");
+appendORreplace('#F13',"Verfahren in Italien vor den Gerichten letzter Instanz (Kassationsgerichtshof, Staatsrat, Verfassungsgericht, etc.);");
+appendORreplace('#F15',"nationale und internationale Schiedsverfahren");
+appendORreplace('#F16',"Zusätzlich ist die Kanzlei – auch Dank der Position des Avv. Gabriele Donà als Vizepräsident der Union der europäischen Anwälte – mit einem breiten Netzwerk von Fachleuten verbunden, die besondere Erfahrungen vor allem in den Mitgliedstaaten der Europäischen Union und in den Vereinigten Staaten (New York, Houston) aufweisen.");
+
+appendORreplace('#D8'," (seit 1974)");
+appendORreplace('#D9',"Senior Anwältin, die vor den italienischen, belgischen, französischen und luxemburgischen nationalen Gerichten aufgetreten ist; vor dem Obersten Kassationsgericht und anderen höheren italienischen Gerichten; vor dem Gericht und dem Gerichtshof der Europäischen Gemeinschaften in Luxemburg; vor dem Europäischen Gerichtshof für Menschenrechte in Straßburg; in Verwaltungsverfahren mit den EU-Institutionen; in nationalen und internationalen Schiedsverfahren. Vorher ...");
+appendORreplace('#D10',"Rechtsanwalt. Spezialisiert in EU- und internationalem Handelsrecht. Aufgetreten vor:");
+appendORreplace('#D11',"Dem Gerichtshof der Europäischen Union in Luxemburg [bis Februar 2015 in 28 Fällen in den folgenden Bereichen: Agrarrecht der EU, Fischerei, Umwelt, Einfuhren aus Drittländern, Kartelle (Kartellrecht), staatliche Beihilfen, Steuern, Zoll, Rechte der Mitglieder des Europäischen Parlaments, die Transparenz der Verwaltung der EU-Institutionen, der europäischen öffentlichen Dienst;");
+appendORreplace('#D12',"dem Kassationsgericht und anderen italienischen Gerichten höherer Instanz");
+appendORreplace('#D13',"dem Europäischen Gerichtshof für Menschenrechte in Straßburg");
+appendORreplace('#D14',"den belgischen und deutschen Gerichtsbarkeiten sowie in nationalen und internationalen Schiedsverfahren.");
+appendORreplace('#D15',"Straf- und Verwaltungsrecht im Zusammenhang mit Gemeinschaftsmitteln");
+appendORreplace('#D16',"Co-Counsel bei dem Gericht erster Instanz und dem Gerichtshof der Europäischen Union in  Luxemburg");
+appendORreplace('#D17',"Zugelassene Anwältin vor den italienischen und deutschen Gerichten");
+appendORreplace('#D18',"Gewählte Präsidentin des COMITES - BERLIN");
+appendORreplace('#D19',"Dozentin des italienischen Handels-, Gesellschafts- und Vertragsrecht, Juristische Fakultät, Humboldt-Universität Berlin - Deutschland (seit 2001) ");
+appendORreplace('#D20',"Straf- und Verwaltungsrecht");
+appendORreplace('#D21',"Rechtsanwältin. Mitglied der Rechtsanwaltskammer von Padua, Italien (seit 2002) ");
+appendORreplace('#D22',"Mitarbeiterin der Kanzlei am Hauptsitz in Padua - Italien (2013) ");
+appendORreplace('#D23',"Zuvor Rechtsanwältin bei einer führenden Kanzlei in den Bereichen Zivil- und Handelsrecht, Verbraucherschutz und Investorenschutz, bedeutende Erfahrungen in Rechtsstreitigkeiten - Padova - Italien (2002-2012)");
+appendORreplace('#D24',"Privates und  gewerbliches  Gesellschaftsrecht");
+appendORreplace('#D25',"Rechtsanwältin Comparini arbeitet auch in Rechtsstreitigkeiten vor den Gerichten und Berufungsgerichten und an nationalen Schlichtungs- und Schiedsverfahren mit.");
+appendORreplace('#D26',"Rechtsanwältin. Mitglied der Rechtsanwaltskammer Berlin (seit 2003) ");
+appendORreplace('#D27',"Vertretung vor deutschen Gerichten.");
+appendORreplace('#D28',"wirtschaftliche und finanzielle Analysen");
 }
+
+
 
 
 /* If an element is empty, then appends value.
