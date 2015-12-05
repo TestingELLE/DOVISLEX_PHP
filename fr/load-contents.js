@@ -16,7 +16,7 @@ function loadContents() {
     
     //INDEX.html
     appendORreplace('#F1', "En particulier, les associés du cabinet ont plaidé quelques soixante-dix affaires devant la Cour de justice de l'Union européenne à Luxembourg.");
-    appendORreplace('#F2', "POUR NOUS CONnaître");
+    appendORreplace('.F2', "DE NOBIS");
     appendORreplace('#F3', "CABINET D'AVOCATS");
     appendORreplace('#F4', "DOMAINES DE COMPÉTENCE");
     appendORreplace('#F5', "Commerce à l'intérieur de l'UE");
@@ -38,6 +38,15 @@ function loadContents() {
     
     appendORreplace('#F19', "Par la suite, l'avocat de Viscardini a été rejoint dans la pratique de ses enfants, avocat Gabriele Dona et avocat Simonetta DONÀ, à la fois avec une vaste expérience professionnelle et académique.");
     appendORreplace('#F20', "Les autres partenaires et associés du cabinet ont également une vaste expertise en droit européen et international, parfois enrichie avec des expériences professionnelles et académiques importantes (dans les institutions communautaires et les grands cabinets d'avocats à l'étranger).");
+   appendORreplace('#D9',"Avocat plaidant devant les tribunaux nationaux italiens, belges, français et luxembourgeois; la Cour suprême de cassation et autres juridictions italiennes de plus haut degré; le Tribunal et la Cour de justice des Communautés européennes à Luxembourg; la Cour européenne des droits de l'homme à Strasbourg; dans les procédures administratives avec les institutions de l'UE; en arbitrage interne et international. Précédemment ...");
+appendORreplace('#F21',"• Fonctionnaire CEE au Luxembourg et ensuite à Bruxelles - Belgique (1959-1973). En particulier, membre du Service juridique de la Commission européenne, chargé de donner des avis sur les projets d'actes communautaires élaborés par les DG de la Commission; assister pour les aspects juridiques, les représentants de la Commission lors de l'examen des propositions de telle-ci, aussi bien devant le Parlement européen et le Conseil des Ministres; représenter et défendre la Commission devant la Cour de justice des Communautés européennes;");
+appendORreplace('#F22',"• Professeur de droit européen et du Commerce international - Faculté de sciences politiques scientifiques et Faculté des sciences de l'Agriculture - Université de Padoue (1974-1999)");
+appendORreplace('#F23',"• Auteur pour 'Il Sole-24 Ore' d'articles concernant le droit communautaire, et notamment les arrêts du Tribunal de première instance et de la Cour de justice des Communautés européennes (1999) ");
+appendORreplace('#F24',"agriculture, pêche, alimentation, environnement");
+appendORreplace('#F25',"concurrence");
+appendORreplace('#F26',"échanges à l'intérieur de l'UE");
+appendORreplace('#F27',"relations commerciales UE / pays tiers");
+appendORreplace('#F28',"droit pénal et administratif concernant les ressources financières communautaires");
   
 }
 
