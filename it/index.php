@@ -138,7 +138,7 @@
         <script src="../js/load-head.js"></script>
     </head>
 
-    <body onload="loadContents();">
+    <body>
         <div id="supra-header"></div>
         <div id="page">
             <div id="header"> 
