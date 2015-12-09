@@ -1,7 +1,7 @@
 <?php
 
 // Establishing Connection by passing server_name, user_id and password
-$connection = mysql_connect("echidna.arvixe.com:3306", "root", "root");
+$connection = mysql_connect("echidna.arvixe.com:3306", "pupone_DVuser", "DVuserpasswords");
 
 // Selecting Database
 $db = mysql_select_db("pupone_dovislex", $connection);
