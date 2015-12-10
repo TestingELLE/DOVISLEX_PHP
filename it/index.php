@@ -38,7 +38,7 @@
             $title = "Concorrenza";
             break;
         case "contact-us":
-            $page = "contact-us.html";
+            $page = "contact-us.php";
             $title = "Contact Us";
             break;
         case "contenzioso":
@@ -82,7 +82,7 @@
             $title = "Privatezza";
             break;
         case "professionisti":
-            $page = "professionisti.html";
+            $page = "professionisti.php";
             $title = "Professionisti";
             break;
         case "professionisti_1":
@@ -122,7 +122,7 @@
             $title = "Uffici";
             break;
         default:
-           $page = "index.html";
+           $page = "domus.php";
            $title = "Domus";
     }
 ?>
@@ -138,7 +138,7 @@
         <script src="../js/load-head.js"></script>
     </head>
 
-    <body onload="loadContents();">
+    <body>
         <div id="supra-header"></div>
         <div id="page">
             <div id="header"> 
@@ -153,7 +153,7 @@
                                                 'USArealEstate.html',
                                                 'bibliografia.html', 
                                                 'contenzioso.php', 
-                                                'professionisti.html', 
+                                                'professionisti.php', 
                                                 'sitemap.html',
                                                 'uffici.html');
                         if (!in_array($page, $noButtonList)) {

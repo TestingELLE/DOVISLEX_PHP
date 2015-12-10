@@ -1,10 +1,10 @@
-<!--<div id="main-content">
-  <ul class="crumbs">
-    <li><a href="index.php?page=index">Domus</a></li>
-    <li><a href="index.php?page=professionisti" style="color: #b09b4c">Professionisti</a></li>
-    <li><a href="index.php?page=contact-us">Contact Us</a></li>
-  </ul>
--->
+<div id="main-content">
+  <?php include('crumbs.html'); ?> 
+  <style>
+    #professionalspage {
+        color: #b09b4c;
+    }
+  </style>
 
   <article>
     <img class="right clearfix" style="margin: 0 10px;" 

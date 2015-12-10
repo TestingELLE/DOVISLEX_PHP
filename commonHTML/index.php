@@ -1,10 +1,10 @@
-<!--<div id="main-content">
-  <ul class="crumbs">
-    <li><a href="index.php?page=index" style="color: #b09b4c" 
-           class="LcustomTranslation F2 notranslate">About Us</a></li>
-    <li><a href="index.php?page=professionisti">Professionals</a></li>
-    <li><a href="index.php?page=contact-us">Contact Us</a></li>
-  </ul>-->
+<div id="main-content">
+  <?php include('crumbs.html'); ?> 
+  <style>
+    #aboutuspage {
+        color: #b09b4c;
+    }
+  </style>
 
   <article>
     <h2 class="LcustomTranslation" id="D1">Welcome to the site of</h2>

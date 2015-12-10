@@ -1,11 +1,10 @@
-<!--
 <div id="main-content">
-  <ul class="crumbs">
-    <li><a href="index.php?page=index">Domus</a></li>
-    <li><a href="index.php?page=professionisti">Professionisti</a></li>
-    <li><a href="index.php?page=contact-us" style="color: #b09b4c">Contact Us</a></li>
-  </ul>
-
+  <?php include('crumbs.html'); ?> 
+  <style>
+    #contacuspage {
+        color: #b09b4c;
+    }
+  </style>
   <br/><br/>
 
   <article>
@@ -65,5 +64,4 @@
     </div>
 
   </article>
-</div> 
--->
+</div> <!-- #main-content -->
