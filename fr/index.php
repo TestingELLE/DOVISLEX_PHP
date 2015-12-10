@@ -26,7 +26,7 @@
             $title = "Competition";
             break;
         case "contact-us":
-            $page = "../commonHTML/contact-us.html";
+            $page = "../commonHTML/contact-us.php";
             $title = "Contact Us";
             break;
         case "contenzioso":
@@ -66,7 +66,7 @@
             $title = "Privatezza";
             break;
         case "professionisti":
-            $page = "../commonHTML/professionisti.html";
+            $page = "../commonHTML/professionisti.php";
             $title = "Professionals";
             break;
         case "scambi":
@@ -98,7 +98,7 @@
             $title = "Uffici";
             break;
         default:
-           $page = "../commonHTML/index.html";
+           $page = "../commonHTML/index.php";
            $title = "Domus - About us";
     }
 ?>
@@ -122,39 +122,6 @@
             </div>
             <div id="main-container" class="clear"> 
                 <div id="tableDiv">
-                    <?php 
-                        $crumbsList = array(    '../commonHTML/professionisti.html',
-                                                '../commonHTML/index.html',
-                                                '../commonHTML/contact-us.html');
-                        if (in_array($page, $crumbsList)) {
-                            echo"<div id='main-content'>";
-                            echo"<ul class='crumbs'>";
-                            if($page === "../commonHTML/index.html") {
-                                echo"<li><a href='index.php?page=index' "
-                                . "style='color: #b09b4c'>Domus</a></li>";
-                            } else {
-                                echo"<li><a href='index.php?page=index'>Domus</a></li>";
-                            }
-                            
-                            if($page === "../commonHTML/professionisti.html") {
-                                echo"<li><a href='index.php?page=professionisti' "
-                                . "style='color: #b09b4c'>Professionisti</a></li>";
-                            } else {
-                                echo"<li><a href='index.php?page=professionisti'>"
-                                . "Professionisti</a></li>";
-                            }
-                            
-                            if($page === "../commonHTML/contact-us.html") {
-                                echo"<li><a href='index.php?page=contact-us' "
-                                . "style='color: #b09b4c'>Contact Us</a></li>";
-                            } else {
-                                echo"<li><a href='index.php?page=contact-us'>"
-                                . "Contact Us</a></li>";
-                            }
-                            echo"</ul>";
-                        }
-                    ?>
-                  
                     <?php include($page); ?>
 
                     <?php 
@@ -163,7 +130,7 @@
                                                 '../commonHTML/contenzioso.php',
                                                 '../commonHTML/sitemap.html',
                                                 '../commonHTML/uffici.html',
-                                                '../commonHTML/professionisti.html');
+                                                '../commonHTML/professionisti.php');
                         if (!in_array($page, $noButtonList)) {
                            echo "<div id='buttons-container'>";
                            include('../commonHTML/buttons.html');
