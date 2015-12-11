@@ -5,57 +5,46 @@
         color: #b09b4c;
     }
   </style>
-
-  <article>
+ <article>
     <img class="right clearfix" style="margin: 0 10px;" 
          src="../images/foto Avv Viscardini biblioteca.jpg" 
          alt="Foto Avvocato Viscardini">
 
     <div style="height: 200px; overflow: hidden;">
       <h2 class="noTextTransform notranslate">Wilma VISCARDINI</h2>
-      <h4 class="notranslate">Founder & Senior Partner (dal 1974)</h4>
+      <h4 class="notranslate">Founder & Senior Partner<span class="LcustomTranslation" id="D8"> (dal 1974)</span></h4>
 
       <div class="more">
-        <p>Patrocinante davanti alle giurisdizioni italiana, belga, francese 
-          e lussemburghese; presso la Suprema Corte di cassazione e le altre
-          giurisdizioni superiori italiane; presso il Tribunale di primo grado 
-          e la Corte di giustizia delle Comunità europee a Lussemburgo; presso 
-          la Corte europea dei Diritti dell'Uomo a Strasburgo; e in arbitrati 
-          nazionali ed internazionali. Precedentemente ...
-          <br>
-          <br> 
-          &#149;&nbsp;Funzionario CEE a Lussemburgo e successivamente a 
-          Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro del 
-          Servizio giuridico della Commissione delle Comunità europee, 
-          incaricata di dare pareri sui progetti di atti normativi elaborati 
-          dalle direzioni generali della Commissione; assistere, per gli 
-          aspetti giuridici, i rappresentanti della Commissione in sede di 
-          discussione delle proposte della stessa, sia al Parlamento europeo 
-          che al Consiglio dei Ministri; rappresentare e difendere la 
-          Commissione davanti alla Corte di giustizia delle Comunità europee;
-          <br>
-          <br>
-          &#149;&nbsp;Funzionario CEE a Lussemburgo e successivamente a 
-          Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro 
-          del Servizio giuridico della Commissione delle Comunità europee, 
-          incaricata di dare pareri sui progetti di atti normativi elaborati 
-          dalle direzioni generali della Commissione; assistere, per gli 
-          aspetti giuridici, i rappresentanti della Commissione in sede di 
-          discussione delle proposte della stessa, sia al Parlamento europeo 
-          che al Consiglio dei Ministri; rappresentare e difendere la 
-          Commissione davanti alla Corte di giustizia delle Comunità europee;
-          <br>
-          <br>
-          &#149;&nbsp;Docente di Diritto comunitario e degli Scambi 
-          internazionali - Facoltà di Scienze Politiche e Facoltà di 
-          Agraria - Università di Padova (dal 1974 al 1999)
-          <br>
-          <br>
-          &#149;&nbsp;Autore di numerose 
-          <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>,
-          tra cui le seguenti:
-          <br>
-          <div class="publications notranslate">
+         <p class="LcustomTranslation" id="D9">Senior lawyer who has appeared before Italian, Belgian, 
+          French and Luxembourg national courts; the Supreme Court 
+          of Cassation and other  higher Italian courts; the Tribunal 
+          and the Court of Justice of the European Communities in 
+          Luxembourg; the European Court of Human Rights in Strasbourg; 
+          in administrative proceedings with the EU institutions; 
+          in domestic and international arbitration. Previously ...
+        </p>
+
+        <p class="LcustomTranslation" id="F21">&#149;&nbsp;EEC official in Luxembourg and later in 
+          Brussels - Belgium (from 1959 to 1973). In particular, 
+          member of the Legal Service of the European Commission, 
+          responsible for giving opinions on draft legislation 
+          drawn up by the Commission DGs ; supporting, for the 
+          legal aspects, the representatives of the Commission in 
+          discussing the proposals of the same, both before the 
+          European Parliament and the Council of Ministers; 
+          represented and defended the Commission before the 
+          Court of Justice of the European Communities;
+        </p>
+
+        <p class="LcustomTranslation" id="F22">Professor of European Law and International 
+          Trade - Faculty of Science Policies and Faculty of 
+          Agriculture - University of Padova (1974-1999)
+        </p>
+
+        <p>&#149;&nbsp;Author of numerous 
+          <a href="index.php?page=bibliografia" target="central">publications</a>,
+          including the following:<br>
+           <div class="publications notranslate">
           - <a href="index.php?page=biblios#trattato" target="central">
             <i>"Trattato breve di Diritto agrario italiano e comunitario"</i>
           </a>,
@@ -78,27 +67,27 @@
           (1996) e II edizione (1999)
           <br>
           </div> <!-- publications -->
-          &#149;&nbsp;Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
-          <a href="index.php?page=bibliografia" target="central">articoli</a>&nbsp; in
-          materia di diritto comunitario, in particolare di commento a 
-          sentenze del Tribunale di primo grado e della Corte di giustizia 
-          delle Comunità europee (dal 1999)&nbsp;
-          <br>
 
-        <h4>Specifici settori di attività seguiti:</h4>
+        <p class="LcustomTranslation" id="F23">&#149;&nbsp;Author for the Group "Il Sole-24 Ore" of &nbsp;
+          <a href="index.php?page=bibliografia" target="central">articles</a>
+          &nbsp; in Community law, in particular commenting on 
+          judgments of the Court of First Instance and the Court 
+          of Justice European (1999)&nbsp;
+        </p>
+        <h4>Specific areas of activity followed:</h4>
         <ul>
-          <li>agricoltura, pesca, industria alimentare, ambiente</li>
-          <li>concorrenza</li>
-          <li>scambi all'interno dell'area comunitaria</li>
-          <li>importazioni/esportazioni da e verso Paesi extra UE</li>
-          <li>rapporti commerciali UE/Paesi terzi</li>
-          <li>contratti di natura commerciale</li>
-          <li>penale e penale-amministrativo in relazione alle risorse 
-            finanziarie comunitarie</li>
+          <li class="LcustomTranslation" id="F24"> agriculture, fisheries, food, environment </li>
+          <li class="LcustomTranslation" id="F25">competition</li>
+          <li class="LcustomTranslation" id="F26">trading within the Community</li>
+          <li>imports / exports to and from countries outside the 
+            EU </li>
+          <li class="LcustomTranslation" id="F27"> trade relations EU / third countries</li>
+          <li>commercial contracts </li>
+          <li class="LcustomTranslation" id="F28">criminal and criminal-administration in relation to the Community financial resources</li>
         </ul>
 
-        <h4>Lingue di lavoro:</h4>
-        <p>italiano, francese, inglese, spagnolo</p>
+        <h4>Working languages:</h4>
+        <p>Italian, French, English, Spanish </p>
       </div>
     </div>
 
@@ -119,235 +108,253 @@
       <h4 class = "notranslate">Managing Partner</h4>
 
       <div class="more">
-        <p>Avvocato del Foro di Padova (dal 1999) specializzato in diritto 
-          dell'Unione europea. Patrocinante presso:
-        </p>
+          <span class="LcustomTranslation" id="D10">Lawyer. Specialist in EU and international commerce Law. Has appeared before:</span>
         <ul>
-          <li>Corte di cassazione e alle altre Magistrature superiori</li>
-          <li> la Corte di giustizia dell'Unione europea a Lussemburgo
-            [al 20 febbraio 2015, in 28 procedimenti relativi alle 
-            seguenti materie: diritto agrario dell'Unione
-            europea, pesca, ambiente, importazioni da Paesi terzi, 
-            intese (antitrust), aiuti di Stato, fiscalità,
-            doganale, diritto parlamentare europeo, trasparenza amministrativa 
-            delle istituzioni dell'Unione europea, funzione
-            pubblica europea]
+          <li class="LcustomTranslation" id="D11">the Court of Justice of the European Union in 
+            Luxembourg [to February 2015, in 28 cases in the 
+            following areas: agricultural law of the EU, fisheries, 
+            environment, imports from third countries, cartels 
+            (antitrust), State aid, taxation , customs, rights 
+            of MEPs, administrative transparency of the EU 
+            institutions, the European civil service;
           </li>
-          <li>Corte europea dei diritti dell'uomo a Strasburgo</li>
-          <li>giurisdizioni belga e tedesca nonché in arbitrati nazionali 
-            e internazionali.
+          <li class="LcustomTranslation" id="D12">the Court of Cassation and other Italian higher Courts</li>
+          <li class="LcustomTranslation" id="D13">the European Court of Human Rights in Strasbourg</li>
+          <li class="LcustomTranslation" id="D14">Belgian and German jurisdictions  as well as in national and international arbitration. 
           </li>
         </ul>
 
-        <h4>Specifici settori di attività seguiti:</h4>
+        <h4>Specific areas of activity:</h4>
         <ul>
-          <li>agricoltura, pesca, industria alimentare, ambiente</li>
-          <li>concorrenza</li>
-          <li>marchi, disegni e modelli comunitari</li>
-          <li>importazioni/esportazioni da e verso Paesi extra UE</li>
-          <li>contratti di natura commerciale</li>
-          <li>penale e penale-amministrativo in relazione alle risorse 
-            finanziarie comunitarie</li>
+          <li>agriculture, fisheries, food, environment</li>
+          <li>competition</li>
+          <li>trademarks, Community designs</li>
+          <li>imports / exports to and from non-EU countries</li>
+          <li>commercial contracts</li>
+          <li class="LcustomTranslation" id="D15">criminal and criminal-administrative in relation to 
+            Community funds </li>
         </ul>
 
-        <h4>Lingue di lavoro:</h4>
 
-        <p>italiano, francese, inglese, spagnolo</p><br>
-        <h3>Docenze universitarie/post-universitarie:</h3>
+        <h4>Working languages:</h4>
+        <p>Italian, French, English, Spanish</p><br>
 
-        <p>Professore (nell'ambito del "Modulo europeo Jean Monnet") di 
-          "Diritto processuale dell'Unione europea: il contenzioso davanti 
-          alla Corte di giustizia dell'Unione europea" presso il
-          Dipartimento di Giurisprudenza dell'Università di Ferrara 
-          -- sede di Rovigo (2008-2013)<br></p>
+        <h3>University Teaching Assignments</h3>
 
-        <h3>Appartenenza ad Associazioni scientifiche o professionali:</h3>
-
-        <p>&#149;&nbsp;Vicepresidente della U.A.E. (Unione degli Avvocati 
-          europei) con sede a Lussemburgo<br>
-          &#149;&nbsp;Coordinatore del Gruppo di studio Triveneto del 
-          “Centro di diritto penale tributario, comunitario e delle 
-          materie collegate” di Torino (Associazione italiana di esperti 
-          di Diritto dell'Unione europea a tutela degli interessi finanziari dell'Unione)
-          <br>
+        <p>Professor (part of the "European Module Jean Monnet")
+          of "Procedural Law of the European Union: the litigation
+          before the Court of Justice of the European Union" at 
+          the Department of Law of the University of Ferrara 
+          (2008-2013)<br>
         </p>
 
-        <h3>Relazioni a convegni/conferenze/seminari/corsi di perfezionamento:</h3>
-        <div class="notranslate"> <!-- papers -->
-                <p>&#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
 
-            <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia 
-              dell’Unione europea in materia d’asilo e immigrazione: recente 
-              casistica e aspetti procedurali”, nell'ambito del Convegno "Madri 
-              migranti e minori: diritti e accoglienza - Nuove frontiere 
-              professionali per l’avvocato europeo" organizzato dalla Commissione 
-              “Famiglia” dell’Unione degli Avvocati europei, dall'"Ordine degli 
-              Avvocati di Bari", dall'"Osservatorio Nazionale sul diritto di 
-              famiglia", da "Save the Children" (Bari, 5 ottobre 2015)<br>
+        <h3>MEMBERSHIPS IN SCIENTIFIC OR PROFESSIONAL ASSOCIATIONS:</h3>
+            <div>
+              <ul>
+                <li>Vice President of the <span class="notranslate">UAE</span> 
+                  (Union of European Lawyers), based in Luxembourg
+                </li>
+                <li>Coordinator of the Study Group of the Triveneto 
+                  "Centre of criminal tax law, Community and related 
+                  matters" of Turin (Italian association of experts of 
+                  EU law to protect Union's financial interests) 
+                </li>
+              </ul>
+            </div>   
 
-              &#149;&nbsp;Relatore su "La giurisprudenza della Corte di 
-              giustizia dell'Unione europea in materia di ne bis in idem 
-              tra sanzioni penali e amministrative”, nell'ambito del Convegno 
-              "Novità reati tributari - responsabilità amministrativa - abuso 
-              di diritto e frodi fiscali" organizzato dal "Centro di diritto 
-              penale tributario, comunitario e delle materie collegate" di 
-              Torino (Cuneo, 18 settembre 2015)<br>
 
-              &#149;&nbsp;Relatore su "Le citoyen européen sur le plan 
-              personnel”, nell'ambito del Convegno "Le Citoyen au coeur 
-              de l'Union européenne - De la Convention et de la Charte à 
-              nos jours" organizzato dalla "Unione degli Avvocati europei" 
-              (Malaga, 19 giugno 2015)<br>
+        <h3>PAPERS PRESENTED AT MEETINGS / CONFERENCES / SEMINARS / COURSES:</h3>
+        <div class="notranslate">
+          <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte 
+            di giustizia dell’Unione europea in materia d’asilo e 
+            immigrazione: recente casistica e aspetti procedurali”, 
+            nell'ambito del Convegno "Madri migranti e minori: 
+            diritti e accoglienza - Nuove frontiere professionali 
+            per l’avvocato europeo" organizzato dalla Commissione 
+            “Famiglia” dell’Unione degli Avvocati europei, dall'"Ordine 
+            degli Avvocati di Bari", dall'"Osservatorio Nazionale sul
+            diritto di famiglia", da "Save the Children" 
+            (Bari, 5 ottobre 2015);
+          </p>
 
-              &#149;&nbsp;Relatore su "La tutela del contribuente in sede 
-              pregiudiziale davanti alla Corte di giustizia dell’Unione 
-              europea - Casi pratici”, nell'ambito del Convegno "Accertamento 
-              tributario e reato nella pratica professionale quotidiana - La 
-              tutela nazionale ed europea del contribuente" organizzato dal 
-              "Centro di diritto penale tributario, comunitario e delle materie 
-              collegate" di Torino (Creazzo, 29 maggio 2015)<br>
+          <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte 
+            di giustizia dell'Unione europea in materia di ne bis in 
+            idem tra sanzioni penali e amministrative”, nell'ambito 
+            del Convegno "Novità reati tributari - responsabilità 
+            amministrativa - abuso di diritto e frodi fiscali" 
+            organizzato dal "Centro di diritto penale tributario, 
+            comunitario e delle materie collegate" di Torino 
+            (Cuneo, 18 settembre 2015);
+          </p>
 
-              &#149;&nbsp;Relatore su "La regolarizzazione fiscale dei capitali 
-              detenuti all'estero e dei proventi generati da tali capitali 
-              ("voluntary disclosure")", convegno organizzato da Uniteis eG 
-              nell'ambito del M.I.G. - Longarone Fiere (Longarone, 
-              2 dicembre 2014)<br>
+          <p>&#149;&nbsp;Relatore su "Le citoyen européen sur le 
+            plan personnel”, nell'ambito del Convegno "Le Citoyen 
+            au coeur de l'Union européenne - De la Convention et 
+            de la Charte à nos jours" organizzato dalla "Unione 
+            degli Avvocati europei" (Malaga, 19 giugno 2015);
+          </p>
 
-              &#149;&nbsp;Relatore su "La disapplicazione delle norme 
-              (sostanziali e processuali) nazionali a seguito
-              delle pronunce pregiudiziali della Corte di giustizia 
-              dell’Unione europea”, nell'ambito del Convegno "I principi 
-              comunitari fondamentali nell'ordinamento tributario italiano" 
-              organizzato dall'Università di Padova e dalla Associazione 
-              Nazionale Tributaristi
-              Italiani - Sez. Veneto (Rovigo, 28 giugno 2013) <br>
+          <p>&#149;&nbsp;Relatore su "La tutela del contribuente 
+            in sede pregiudiziale davanti alla Corte di giustizia 
+            dell’Unione europea - Casi pratici”, nell'ambito del 
+            Convegno "Accertamento tributario e reato nella pratica 
+            professionale quotidiana - La tutela nazionale ed europea 
+            del contribuente" organizzato dal "Centro di diritto 
+            penale tributario, comunitario e delle materie collegate" 
+            di Torino (Creazzo, 29 maggio 2015);
+          </p>
 
-              &#149;&nbsp;Relatore della lezione "Giudice del lavoro e 
-              rinvio pregiudiziale alla Corte di giustizia
-              dell’Unione europea: aspetti procedurali e recente 
-              casistica giurisprudenziale”, nell'ambito del "Corso di 
-              perfezionamento in Diritto
-              del Lavoro", per Avvocati, organizzato dall'Università 
-              "Statale" di Milano (Milano, 18 gennaio 2013) <br>
+          <p>&#149;&nbsp;Speaker on "The tax regularization of 
+            capital held abroad and earnings on those funds 
+            (" voluntary disclosure ")," conference organized by 
+            Uniteis eG within the MIG - Longarone Fiere 
+            (Longarone, December 2, 2014);
+          </p>
 
-              &#149;&nbsp;Relatore alla conferenza "La clausola contrattuale 
-              attributiva della competenza e il foro
-              alternativo del luogo di esecuzione dell'obbligazione dedotta 
-              in giudizio in materia contrattuale alla luce del reg. 
-              (CE) n. 44/2001 e della
-              giurisprudenza della Corte di Giustizia dell'Unione Europea”, 
-              organizzata dalla Camera civile di Ferrara (Ferrara, 14
-              dicembre 2012)<br>
+          <p>&#149;&nbsp;Speaker on "The application of the rules 
+            (substantive and procedural) national as a result of 
+            a preliminary ruling of the Court of Justice of the 
+            European Union", as part of the conference "The 
+            principles of Community principles in the Italian 
+            tax" organized by the University of Padua and by the
+            National Association of Italian Tax - Sec. Veneto 
+            (Rovigo, June 28, 2013);
+          </p>
 
-              &#149;&nbsp;Relatore a un convegno sugli obblighi dei cittadini 
-              italiani che operano in Germania nei
-              confronti del fisco italiano, organizzato da Uniteis eG 
-              nell'ambito del M.I.G. - Longarone Fiere (Longarone, 4 dicembre
-              2012)
-              <br>
+          <p>&#149;&nbsp;Speaker of the lesson "Judge of work 
+            and reference to the Court of Justice of the European 
+            Union: procedural aspects and recent case law", under 
+            the "Course Improvement in Employment Law ", for 
+            Lawyers, organized by" State "in Milan (Milan, January 
+            18, 2013);
+          </p>
 
-              &#149;&nbsp;Relatore alla conferenza "Giudice civile e rinvio 
-              pregiudiziale alla Corte di giustizia
-              dell’Unione europea: aspetti procedurali e recente casistica 
-              giurisprudenziale”, organizzata dalla Camera civile di 
-              Ferrara (Ferrara,
-              26 maggio 2011) <br>
+          <p>&#149;&nbsp;Speaker at the conference" The contractual 
+            clause conferring jurisdiction and the alternative 
+            forum of the place of performance of the obligation 
+            in proceedings relating to a contract in the light of 
+            the reg. (EC) n. 44/2001 and the European Court of
+            Justice of the European Union ", organized by the Civil 
+            Chamber of Ferrara (Ferrara, 14 December 2012);
+          </p>
 
-              &#149;&nbsp;Relatore a un convegno sulle problematiche 
-              fiscali e amministrative attinenti alla residenza
-              di chi opera in più Stati membri dell'Unione europea, 
-              organizzato da Uniteis eG nell'ambito del M.I.G. - 
-              Longarone Fiere
-              (Longarone, 30 novembre 2010) <br>
+          <p>&#149;&nbsp;Speaker at a conference on the obligations 
+            of Italian citizens working in Germany against the 
+            Italian tax authorities, organized by Uniteis eG 
+            within the MIG - Longarone Fiere (Longarone, December 
+            4, 2012);
+          </p>
 
-              &#149;&nbsp;Moderatore al seminario "Il rinvio pregiudiziale 
-              alla Corte di giustizia dell’Unione europea
-              da parte del Giudice nazionale e le novità introdotte dal 
-              Trattato di Lisbona”, organizzato presso l'Aula Magna della 
-              Facoltà di
-              Giurisprudenza dell'Università di Ferrara 
-              (Ferrara, 25 giugno 2010) <br>
+          <p>&#149;&nbsp;Speaker at the conference "Civil Judge 
+            and reference to the Court of Justice of the European
+            Union: procedural aspects and recent case law", organized 
+            by the Chamber of Civil Ferrara (Ferrara, 26 May 2011);
+          </p>
 
-              &#149;&nbsp;Relatore alla conferenza "Il rinvio pregiudiziale 
-              alla Corte di giustizia dell’Unione
-              europea da parte del Giudice nazionale”, organizzata dall'Ordine 
-              degli Avvocati di Marsala (Marsala, 18 giugno 2010) <br>
+          <p>&#149;&nbsp;Speaker at a conference on tax issues and 
+            administrative provisions relating to the residence of 
+            those who work in most EU Member States, organized by
+            Uniteis eG within the MIG - Longarone Fiere (Longarone,
+            30 November 2010);
+          </p>
 
-              &#149;&nbsp;Moderatore al seminario "Il ruolo dei Giudici 
-              nazionali e della Corte di giustizia nel
-              processo di integrazione europea”, organizzato presso 
-              l'Aula Magna della Facoltà di Giurisprudenza dell'Università 
-              di Ferrara (Ferrara, 5
-              giugno 2009) <br>
+          <p>&#149;&nbsp;Moderator at the seminar "The reference 
+            to the Court of Justice of the European Union by the 
+            National Judge and the innovations introduced by the 
+            Treaty of Lisbon", organized at the Aula Magna of the 
+            Faculty of Law of the University of Ferrara (Ferrara , 
+            June 25, 2010);
+          </p>
 
-              &#149;&nbsp;Relatore, in lingua inglese, all’interno del 
-              "panel" "Law enforcement authorities and the
-              protection of the financial interests of the European Community", 
-              nell’ambito del Convegno internazionale “European and national
-              institutions combating fraud and corruption - what is the future 
-              of the cooperation?” (Varsavia, 15-17 novembre 2007)<br>
+          <p>&#149;&nbsp;Speaker at the conference "The reference
+            to the Court of Justice of the European Union by the
+            National court", organized by the Bar of Marsala 
+            (Marsala, June 18, 2010);
+          </p>
 
-              &#149;&nbsp;Incaricato di un seminario sul "Contenzioso 
-              comunitario" nell’ambito del corso di "Diritto
-              dell’Unione europea" presso la Facoltà di Giurisprudenza 
-              dell'Università di Ferrara (10-12 dicembre 2007)<br>
+          <p>&#149;&nbsp;Moderator at the seminar "The role Judges 
+            and the National Court of Justice in the process of 
+            European integration ", organized at the Aula Magna 
+            of the Faculty of Law of the University of Ferrara 
+            (Ferrara, June 5, 2009);
+          </p>
 
-              &#149;&nbsp;Incaricato di un seminario, in lingua spagnola, 
-              su "L’organizzazione del mercato
-              agroalimentare dell’Unione europea" nell’ambito del corso 
-              post-universitario di "Globalizzazione, negoziazioni e 
-              commercio agricolo
-              internazionale" presso la Facoltà di Giurisprudenza e di 
-              Scienze sociali e politiche dell’Università nazionale del Nordeste
-              (Argentina) (17 settembre 2004)<br>
+          <p>&#149;&nbsp;Speaker, in English, within the" panel "" 
+            Law Enforcement Authorities and the protection of the 
+            financial interests of the European Community ", in the 
+            framework of the international conference" European and 
+            national institutions Combating fraud and corruption 
+            - what is the future of the cooperation? "(Warsaw, 
+            15 to 17 November 2007) 
 
-              &#149;&nbsp;Incaricato di seminari su "Introduzione 
-              all'Unione Europea, alle Comunità Europee e alle
-              Fonti del Diritto Comunitario" nell’ambito del corso 
-              di "Legislazione forestale e ambientale" presso la 
-              Facoltà di Agraria
-              dell’Università di Padova (anni accademici 2002/2003, 
-              2003/2004, 2004/2005, 2005/2006)<br>
+            <br>
 
-              &#149;&nbsp;Relatore, in lingua inglese, all’interno del 
-              “panel” “Harmonisation of the criminal law with
-              EU instruments with respect to the protection of the financial 
-              interests of the Community”, nell’ambito del Convegno
-              internazionale “Protection of the financial interests of the 
-              European Union of 25: new challenges, old obstacles” 
-              (Sopot, 16-19 marzo 2006) <br>
+            &#149;&nbsp;In charge of a seminar on "Legal Community" 
+            during the course of "Law of the European Union" at the 
+            Faculty of Law of the University of Ferrara (10-12 
+            December 2007);
+          </p>
 
-              &#149;&nbsp;Direttore scientifico e Coordinatore di un corso 
-              (e, al suo interno, Moderatore delle 18
-              lezioni tenutesi e Incaricato della docenza di una di esse) 
-              di specializzazione e aggiornamento per professionisti su
-              “Diritto comunitario istituzionale, sanzionatorio e processuale” 
-              (Padova, maggio-ottobre 2005) <br>
+          <p>&#149;&nbsp;In charge of a seminary, in language 
+            Spanish, on "The organization of the food market of 
+            the European Union" under the post-graduate course 
+            of "Globalization, and international agricultural 
+            trade negotiations" at the Faculty of Law and Social 
+            and Political Sciences of the National University of 
+            Nordeste (Argentina) (September 17, 2004);
+          </p>
 
-              &#149;&nbsp;Docente di un seminario per professionisti su 
-              “La tutela degli operatori economici a fronte
-              del diniego o del recupero, da parte della Pubblica 
-              Amministrazione, delle agevolazioni finanziarie previste 
-              dalla normativa
-              comunitaria. Aspetti sostanziali e procedurali 
-              (in ambito civile, amministrativo e penale) con particolare 
-              riguardo al comparto
-              agro-alimentare” (Bari, 9 febbraio 2004) <br>
+          <p>&#149;&nbsp;In charge of seminars on "Introduction 
+            to the European Union, the European Community and the 
+            Sources of Community law" within the course of 
+            "Legislation forestry and environment" at the Faculty 
+            of Agriculture, University Padua (academic years 
+            2002/2003, 2003/2004, 2004/2005, 2005/2006);
+          </p>
 
-              &#149;&nbsp;Incaricato di un seminario sul 
-              “Processo comunitario” nell’ambito del Master “Diritto ed
-              Economia dell’Unione delle Comunità europee”, organizzato 
-              dal “Consorzio Provinciale Formazione” di Ferrara e 
-              finanziato dal Fondo sociale europeo (Ferrara, 10 giugno 2003)<br>
+          <p>&#149;&nbsp;Speaker, in English, within the "panel" 
+            "Harmonisation of the criminal law with EU instruments 
+            with respect to the protection of the financial interests 
+            of the Community "as part of the international conference" 
+            Protection of the financial interests of the European 
+            Union of 25: new challenges, old obstacles "(Sopot, 16 
+            to 19 March 2006);
+          </p>
 
-              &#149;&nbsp;Docente di “Contrattualistica internazionale” 
-              in corsi di formazione professionale
-              organizzati da “Ascom-Next” e finanziati dal Fondo sociale 
-              europeo (Padova, 1999/2000/2001)<br>
-            </p>
-          </div> <!-- papers --> 
-        </div>
+          <p>&#149;&nbsp;Scientific Director and Coordinator of a 
+            course (and, within it, Moderator of the 18 lectures 
+            held and charge of the teaching of one of them) of 
+            specialization and update professionals on "European 
+            Law institutional and procedural sanctions" (Padua, 
+            May-October 2005);
+          </p>
+
+          <p>&#149;&nbsp;Lecturer in a seminar for professionals 
+            on "The protection of traders against the denial or 
+            recovery by the government, the financial incentives 
+            provided by the Community legislation. Substantive 
+            and procedural aspects (in civil, administrative and 
+            criminal law) with particular emphasis on agro-food 
+            "(Bari, Feb. 9, 2004);
+          </p>
+
+          <p>&#149;&nbsp;In charge of a seminar on" Process 
+            Community "within the Master" Law and Economics of 
+            ' Union of the European Communities ", organized by 
+            the" Provincial Training Consortium "of Ferrara and 
+            funded by the European Social Fund (Ferrara, 10 June 2003);
+          </p>
+
+          <p>&#149;&nbsp;Professor of" International contracts 
+            "in vocational training courses organized by" 
+            Ascom-Next "and funded by European Social Fund 
+            (Padova, 1999/2000/2001);
+          </p>
+          </div> <!-- papers -->       
+
       </div>
+    </div>
 
     <!--Need to have 'notranslate' class because jquery code that is showing 
         and hiding the div overflow looks at the text ('» plus' or '« minus') 
@@ -355,7 +362,7 @@
         or shown -->
     <span class="notranslate" style="cursor: pointer; font-style: italic;"
           onclick="plusminusProfessionisti();">&raquo; plus</span>
-  </article>
+
 
   <article>
     <img class="right clearfix" style="margin: 0 10px;" 
@@ -366,42 +373,33 @@
       <h4 class = "notranslate">Senior Partner - Berlin</h4>
 
       <div class="more">
-        <p> &#149;&nbsp;Partner presso la sede di Berlino - Germania 
-          (dal 1999) e presso la sede di Padova - Italia (dal 1996)
-          <br>
-          &#149;&nbsp;Patrocinante davanti alle giurisdizioni italiana 
-          e tedesca
-          <br>
-          &#149;&nbsp;
-          Co-patrocinante presso il Tribunale di primo grado e la Corte di giustizia delle Comunità europee a Lussemburgo
-          <br>
-          &#149;&nbsp;Avvocato del Foro di Berlino - Germania (dal 1999)
-          <br>
-          &#149;&nbsp;Avvocato del Foro di Padova - Italia (dal 1996)
-          <br>
-          &#149;&nbsp;Collaboratrice dello Studio legale HINTERHÄUSER & PARTNERS 
-          - Berlino - Germania (1993-1999)
-          <br><br>
-          <b>&raquo;&nbsp;Altro</b>:
-          <br>
-          &#149;&nbsp;Docente di Diritto italiano, in materia commerciale, 
-          societaria e contrattuale - Facoltà
-          di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)
-          <br>
-        <h4>Specifici settori di attività seguiti:</h4>
-        <ul>
-          <li>diritto privato, commerciale, societario e tributario tedesco</li>
-          <li>contrattualistica di Diritto tedesco</li>
-          <li>costituzione e gestione di società in Germania</li>
-          <li>finanziamento di progetti di investimento in Germania e nell'Europa centrale e
-            orientale
-          </li>
-          <li>recupero crediti in Germania</li>
-          <li>penale e penale-amministrativo in Germania</li>
+         <ul>
+          <li>Partner at the Firm Berlin offices (since 1999)and in Padova (since 1996)</li>
+          <li class="LcustomTranslation" id="D16">Co-counsel at the Court of First Instance and the 
+            Court of Justice European Luxembourg</li> 
+          <li class="LcustomTranslation" id="D17">Defence counsel before  Italian and German Courts</li> 
+          <li class="LcustomTranslation" id="D18">Elected President if COMITES - BERLIN
         </ul>
 
-        <h4>Lingue di lavoro:</h4>
-        <p>italiano, tedesco, francese</p>
+        <h3>University Teaching Assignments</h3>
+        <p class="LcustomTranslation" id="D19">Professor of Italian commercial, corporate and contractual 
+          Law- Department of Law - Humboldt University in Berlin - 
+          Germany (since 2001) <br>
+        </p> 
+
+        <h4>Specific areas of activity</h4>
+        <ul>
+          <li>Private, commercial, corporate, tax and contracts 
+            Law in Germany</li>
+          <li>establishment and operation of companies in Germany</li>
+          <li>financing of investment projects in Germany and in 
+            Central and Eastern Europe</li>
+          <li>Debt collection</li>
+          <li class="LcustomTranslation" id="D20">criminal and criminal-administrative</li>
+        </ul>
+
+        <h4>Working languages:</h4>
+        <p>German, Italian, French</p>
       </div>
     </div>
 
@@ -413,7 +411,7 @@
           onclick="plusminusProfessionisti();">&raquo; plus</span>
   </article>
 
-  <article>
+     <article>
     <img class="right clearfix" style="margin: 0 10px;" 
          src="../images/Foto_Avv_Comparini_162x189.jpg" alt="Foto Avvocato Comparini">
 
@@ -422,39 +420,35 @@
       <h4 class = "notranslate">Senior Associate - Padova</h4>
 
       <div class="more">
-        <p>&#149;&nbsp; Avvocato del Foro di Padova - Italia (dal 2002)
-          <br/>&#149;&nbsp; Patrocinante davanti alla giurisdizione italiana
-          <br/>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
-          di Padova - Italia (dal 2013)
-
-                 <br/>&#149;&nbsp; In precedenza, collaboratrice presso un primario 
-          Studio legale attivo nei settori del
-          diritto civile e commerciale nonché della tutela dei consumatori 
-          e dei risparmiatori, maturando una
-          significativa esperienza nel contenzioso - Padova - Italia (2002-2012)</p>
-
-
-        <p>Specifici settori di attività seguiti nello Studio:</p>
-        <ul>
-          <li>diritto privato, commerciale, societario</li>
-          <li>concordati preventivi e procedure fallimentari</li>
-          <li>contratti di natura commerciale</li>
-          <li>agricoltura, pesca, industria alimentare, ambiente</li>
-          <li>concorrenza (anche sleale)</li>
+          <ul>
+          <li class="LcustomTranslation" id="D21">Lawyer. Member of the Bar of Padova, Italy 
+          (since 2002)</li>
+          <li class="LcustomTranslation" id="D22">Collaborator of the Firm at the headquarters 
+          in Padova - Italy (2013)</li> 
+          <li class="LcustomTranslation" id="D23">Previously, attorney at a leading firm 
+          active in the areas of civil and trade and the protection
+          of consumers and investors, gaining significant experience 
+          in litigation - Padova - Italy (2002-2012)</li> 
         </ul>
-        <p>L’Avv. Comparini, per lo Studio, si occupa anche del contenzioso 
-          davanti ai Tribunali e alle Corti
-          d’appello civili nonché di procedure arbitrali nazionali.
 
-        <p>In ragione delle specifiche circostanze del caso, svolge - 
-          nell’interesse dei clienti dello Studio -
-          attività (giudiziale e stragiudiziale) in materia di recupero 
-          di crediti commerciali.</p>
+        <p>Specific areas of activity</p>
+        <ul>
+          <li class="LcustomTranslation" id="D24">private, commercial, corporate Law</li>
+          <li>arrangements with creditors and bankruptcy procedures</li>
+          <li>debt collection</li>
+          <li>commercial contracts</li>
+          <li>agriculture, fisheries, food, environment</li>
+          <li>competition Law</li>
+        </ul>
 
-        <h4> Lingue di lavoro </h4>
-        <p> italiano, francese </p>
+        <p class="LcustomTranslation" id="D25">Lawyer Comparini is also involved in litigation before
+          the Courts and Courts of Appeal and in national mediation 
+          and arbitration procedures.
+        </p>
 
-      </div>
+        <h4>Working language</h4>
+        <p>Italian, French</p>
+  </div>
     </div>
 
     <!--Need to have 'notranslate' class because jquery code that is showing 
@@ -464,7 +458,7 @@
     <span class="notranslate" style="cursor: pointer; font-style: italic;"
           onclick="plusminusProfessionisti();">&raquo; plus</span>
   </article>
-
+    
   <article>
     <img class="right clearfix" style="margin: 0 10px;" 
          src="../images/foto_Avv_Tomann_162x189.jpg" alt="Foto Avvocato Tomann">
@@ -474,23 +468,21 @@
       <h4 class = "notranslate">Senior Associate - Berlin</h4>
 
       <div class="more">
-        <p>
-          <br/>&#149;&nbsp Avvocato del Foro di Berlino - Germania (dal 2003)
-          <br/>&#149;&nbsp Patrocinante davanti alla giurisdizione tedesca
-          <br/>&#149;&nbspCollaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)
-        </p>
-
-        <p> Specifici settori di attività seguiti nello Studio: </p>
         <ul>
-          <li> Diritto civile</li>
-          <li> Diritto societario e commerciale</li>
-          <li>Diritto del lavoro</li>
-          <li>Diritto immobiliare</li>
+          <li class="LcustomTranslation" id="D26">Lawyer. Member of the Bar of Berlin (since 2003)</li>
+          <li class="LcustomTranslation" id="D27">Representation before German Courts and Jurisdictions.</li> 
         </ul>
-        
-        <h4>Lingue di lavoro</h4>
-        <p> Tedesco, inglese, italiano</p>
-        <br>
+
+        <p>Specific areas of activity:</p>
+        <ul>
+          <li>Civil Law</li>
+          <li>Corporate and commercial law</li>
+          <li>Labor law</li>
+          <li>Real Estate Law</li>
+        </ul>
+
+        <h4>Working languages</h4>
+        <p> German, English, Italian</p>
       </div>
     </div>
 
@@ -511,24 +503,26 @@
       <h4 class = "notranslate">USA Senior Partner</h4>
 
       <div class="more">
-        <p>
-          <br/>&#149;&nbsp Economista, consulente d'affari
-          <br/>&#149;&nbsp MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
+       <p>
+          <br/>&#149;&nbsp Business and Investment Banking Consultant
+          <br/>&#149;&nbsp MBA Corporate & Securities Finance, 
+          Massachusetts Institute of Technology (MIT)
           <br/>&#149;&nbsp Ph.D Mathematics, Rice University, Houston, TX
           <br/>&#149;&nbsp GMAT 800
         </p>
 
-        <h4>Specifici settori di attività seguiti:</h4>
+        <h4>Specific areas of activity</h4>
         <ul>
-          <li>Sviluppo di opportunità d'affari e avviamento commerciale negli USA</li>
-          <li>strategia negoziale e risoluzione di conflitti</li>
-          <li>analisi economiche e commerciali</li>
+          <li>development of business opportunities and partnerships 
+            in the US</li>
+          <li>negotiation strategy and conflict resolution</li>
+          <li class="LcustomTranslation" id="D28">economic and financial analyses</li>
           <li>Mergers & Acquisitions</li>
-          <li>immobiliare New York, Miami, Houston</li>
+          <li>Real Estate New York, Miami, Houston</li>
         </ul>
 
-        <h4>Lingue di lavoro:</h4>
-        <p>italiano, inglese, francese, spagnolo</p>
+        <h4>Working languages:</h4>
+        <p>Italian, English, French, Spanish</p>
       </div>
     </div>
 
