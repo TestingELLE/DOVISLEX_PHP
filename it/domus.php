@@ -1,10 +1,10 @@
-<!--
 <div id="main-content">
-  <ul class="crumbs">
-    <li><a href="index.php?page=index" style="color: #b09b4c">DOMUS</a></li>
-    <li><a href="index.php?page=professionisti">Professionisti</a></li>
-    <li><a href="index.php?page=contact-us">Contact Us</a></li>
-  </ul> -->
+  <?php include('crumbs.html'); ?> 
+  <style>
+    #aboutuspage {
+        color: #b09b4c;
+    }
+  </style>
 
   <article>
     <h2>Benvenuti al sito di</h2>

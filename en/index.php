@@ -26,7 +26,7 @@
             $title = "Competition";
             break;
         case "contact-us":
-            $page = "../commonHTML/contact-us.html";
+            $page = "../commonHTML/contact-us.php";
             $title = "Contact Us";
             break;
         case "contenzioso":
@@ -66,7 +66,7 @@
             $title = "Privatezza";
             break;
         case "professionisti":
-            $page = "../commonHTML/professionisti.html";
+            $page = "../commonHTML/professionisti.php";
             $title = "Professionals";
             break;
         case "scambi":
@@ -98,7 +98,7 @@
             $title = "Uffici";
             break;
         default:
-           $page = "../commonHTML/index.html";
+           $page = "../commonHTML/index.php";
            $title = "Domus - About us";
     }
 ?>
@@ -130,7 +130,7 @@
                                                 '../commonHTML/contenzioso.php',
                                                 '../commonHTML/sitemap.html',
                                                 '../commonHTML/uffici.html',
-                                                 '../commonHTML/professionisti.html');
+                                                 '../commonHTML/professionisti.php');
                         if (!in_array($page, $noButtonList)) {
                            echo "<div id='buttons-container'>";
                            include('../commonHTML/buttons.html');
