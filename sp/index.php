@@ -98,7 +98,7 @@
             $title = "Uffici";
             break;
         default:
-           $page = "../commonHTML/index.php";
+           $page = "../commonHTML/de_nobis.php";
            $title = "Domus - About us";
     }
 ?>

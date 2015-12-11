@@ -122,8 +122,8 @@
             $title = "Uffici";
             break;
         default:
-           $page = "domus.php";
-           $title = "Domus";
+           $page = "de_nobis.php";
+           $title = "De Nobis - About us";
     }
 ?>
 
