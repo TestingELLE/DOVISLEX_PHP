@@ -112,8 +112,8 @@
 
 #navigation .menu-item .toggle-symbol { display: none; }
 
-li.menu-item.num-00 a:before { content: "De Nobis";}
-.num-00 .sub-menu.small li:nth-child(1) a:before { content: "Domus"; }
+li.menu-item.num-00 a:before { content: 'DE NOBIS'}
+.num-00 .sub-menu.small li:nth-child(1) a:before { content: 'De NOBIS - about us'; }
 .num-00 .sub-menu.small li:nth-child(2) a:before { content: "Professionals"; }
 .num-00 .sub-menu.small li:nth-child(3) a:before { content: "EU Court of Justice cases"; }
 .num-00 .sub-menu.small li:nth-child(4) a:before { content: "Bibliography"; }

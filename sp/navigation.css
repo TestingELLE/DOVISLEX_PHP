@@ -114,8 +114,8 @@
 
 
 #navigation .menu-item .toggle-symbol { display: none; }
-li.menu-item.num-00 a:before { content: 'Quiénes somos'}
-.num-00 .sub-menu.small li:nth-child(1) a:before { content: 'Quiénes somos'}
+li.menu-item.num-00 a:before { content: 'DE NOBIS'}
+.num-00 .sub-menu.small li:nth-child(1) a:before { content: 'DE NOBIS - Quiénes somos'}
 .num-00 .sub-menu.small li:nth-child(2) a:before { content: 'Profesionales'}
 .num-00 .sub-menu.small li:nth-child(3) a:before { content: 'Asuntos frente al Tribunal de Justicia de la UE'}
 .num-00 .sub-menu.small li:nth-child(4) a:before { content: 'Bibliografía'}
