@@ -22,7 +22,7 @@
         </td>
 
         <td>
-          <b>email address:</b> <br/>
+          <b>indirizzo email:</b> <br/>
           <a href="mailto:webmail@dovislex.eu">webmail@dovislex.eu</a>
         </td>
         </tr>

@@ -29,8 +29,6 @@ var data =
 +
 "<script src='../js/change-lang.js'></script>"
 +
-"<script src='../js/load-siteParts.js'></script>"
-+
 "<script src='../js/plus-minus.js'></script>"
 +
 "<script src='load-contents.js'></script>";
