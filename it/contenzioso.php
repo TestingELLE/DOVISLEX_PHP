@@ -1,6 +1,7 @@
 <link rel='stylesheet' type='text/css' href='../css/contenzioso.css'/>
 
 <div id="main-content">
+    <!-- 2015-12-12. Put notranslate here because googletranlsate would insert some extra spaces -->
   <header class="article-title notranslate"><h1>Casi</h1></header>
   <article>
     <h2>Elenco delle cause patrocinate dai Partner dello Studio 
@@ -8,7 +9,7 @@
     </h2>
     <br>
 
-    <div id="contenzioso"> <?php include('contenzioso_table.html'); ?>  </div>
+    <div id="contenzioso" class="notranslate"> <?php include('contenzioso_table.html'); ?>  </div>
 
     <p>Questa tabella riporta solo i casi che sono arrivati fino al 
       Tribunale e alla Corte di giustizia dell'Unione europea. La maggior 
