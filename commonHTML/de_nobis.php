@@ -90,7 +90,7 @@
       <li>proceedings in Italy before the courts of last instance 
         (Court of Cassation, Council of State, the Constitutional 
         Court, etc.);</li>
-      <li class="LcustomTranslation" id="F13">proceedings before the Tribunal and the Court of Justice of the European Union in Luxembourg</li>
+      <li class="LcustomTranslation" id="F13">proceedings before the General Court and the Court of Justice of the European Union in Luxembourg</li>
       <li class="LcustomTranslation" id="F14">proceedings before the European Court of Human Rights in Strasbourg</li>
       <li class="LcustomTranslation" id="F15">national and international arbitration proceedings</li>
       <li>administrative proceedings before the European Commission 
