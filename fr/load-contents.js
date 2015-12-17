@@ -17,7 +17,7 @@ function loadContents() {
     //INDEX.html
     appendORreplace('#F1', "En particulier, les associés du cabinet ont plaidé quelques soixante-dix affaires devant la Cour de justice de l'Union européenne à Luxembourg.");
     appendORreplace('.F2', "DE NOBIS");
-    appendORreplace('#F3', "CABINET D'AVOCATS");
+    appendORreplace('#F3', "CABINET D'AVOCATS DONÀ VISCARDINI");
     appendORreplace('#F4', "DOMAINES DE COMPÉTENCE");
     appendORreplace('#F5', "Commerce à l'intérieur de l'UE");
     appendORreplace('#F6', "Droit douanier");
@@ -47,7 +47,11 @@ appendORreplace('#F25',"concurrence");
 appendORreplace('#F26',"échanges à l'intérieur de l'UE");
 appendORreplace('#F27',"relations commerciales UE / pays tiers");
 appendORreplace('#F28',"droit pénal et administratif concernant les ressources financières communautaires");
-  
+
+//professionisti
+appendORreplace('#D8'," (depuis 1974)");
+
+
 }
 
 /* If an element is empty, then appends value.
