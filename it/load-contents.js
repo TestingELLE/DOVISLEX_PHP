@@ -8,11 +8,11 @@
  *  element with the given id. Depending on if the element is empty or not, value 
  *  is either appended or replaced */
 
+/* For Italian this is just an empty file to avoid errors*/
+
+
 function loadContents() {    
- 
-    
     //professionisti
-appendORreplace('#D8'," (since 1974)");
 
 }
 
