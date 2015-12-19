@@ -1,7 +1,7 @@
 <?php
 if (isset($_GET['accept-cookies'])) {
-    /* cookie notice banner accepted for one year or untill they clear history */
-    setcookie('accept-cookies', 'cookies-notice-banner-accepted', time() + 31556925);
+    /* cookie notice banner accepted for one year 31556925 or ~6 months 16000000 or until they clear history */
+    setcookie('accept-cookies', 'cookies-notice-banner-accepted', time() + 16000000);
     header('Location: ./index.php'); /* refresh this page */
 }
 ?>
@@ -169,13 +169,14 @@ if (isset($_GET['accept-cookies'])) {
                     <?php include($page); ?>
 
                     <?php 
-                        $noButtonList = array(  'Servizi.html',
-                                                'USArealEstate.html',
-                                                'bibliografia.html', 
+                        $noButtonList = array(  'bibliografia.html', 
                                                 'contenzioso.php', 
-                                                'professionisti.php', 
+                                                'privatezza.html',
+                                                'professionisti.php',
+                                                'Servizi.html',
                                                 'sitemap.html',
-                                                'uffici.html');
+                                                'uffici.html',
+                                                'USArealEstate.html');
                         if (!in_array($page, $noButtonList)) {
                            echo "<div id='buttons-container'>";
                            include('buttons.html');
