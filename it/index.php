@@ -1,3 +1,11 @@
+<?php
+if (isset($_GET['accept-cookies'])) {
+    /* cookie notice banner accepted for one year or untill they clear history */
+    setcookie('accept-cookies', 'cookies-notice-banner-accepted', time() + 31556925);
+    header('Location: ./index.php'); /* refresh this page */
+}
+?>
+
 <?php 
     $page = $_GET['page'];
     switch ($page) {
@@ -139,6 +147,18 @@
     </head>
 
     <body>
+        
+        <?php
+        /* show banner if cookies is not accepted */
+        if (!isset($_COOKIE['accept-cookies'])) {
+
+            include ('../cookie-notice-banner/cookie-notice-banner.html');
+            /* JQuery so the banner slides down and css for cookie notice banner */
+            echo '<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>'
+               . '<script src="../cookie-notice-banner/cookie-notice-banner.js"></script>';
+        }
+        ?>
+        
         <div id="supra-header"></div>
         <div id="page">
             <div id="header"> 
