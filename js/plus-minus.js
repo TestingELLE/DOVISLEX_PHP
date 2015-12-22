@@ -19,7 +19,7 @@ function plusminusGeneral() {
 }
 
 /*  This function is used in 
- *      professionisti_1.html
+ *      professionisti.html
  *      professionisti_2.html  */
 function plusminusProfessionisti() {
     var text = $(event.target).text();
