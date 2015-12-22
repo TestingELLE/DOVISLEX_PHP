@@ -174,8 +174,11 @@
 
         <h3>Relazioni a convegni/conferenze/seminari/corsi di perfezionamento:</h3>
         <div class="notranslate"> <!-- papers -->
-                <p>&#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</br>
-                    
+                <p>
+                &#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</br>
+                &#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia dell'Unione europea in materia di ne bis in idem tra sanzioni penali e "amministrative"”, nell'ambito dell'Incontro di studio "Il ne bis in idem in ambito tributario" organizzato dal "Dipartimento di Scienze Politiche, Giuridiche e Studi Internazionali dell'Università degli Studi di Padova" (Rovigo, 6 novembre 2015)</br>
+                &#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</br>
+ 
               &#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia 
               dell’Unione europea in materia d’asilo e immigrazione: recente 
               casistica e aspetti procedurali”, nell'ambito del Convegno "Madri 

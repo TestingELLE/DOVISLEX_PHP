@@ -93,8 +93,8 @@ if (isset($_GET['accept-cookies'])) {
             $page = "professionisti.php";
             $title = "Professionisti";
             break;
-        case "professionisti_1":
-            $page = "professionisti_1.html";
+        case "professionisti":
+            $page = "professionisti.html";
             $title = "Professionisti";
             break;
         case "professionisti_2":

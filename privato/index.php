@@ -72,7 +72,7 @@ if (isset($_SESSION['login_user'])) {
             <br>
           </div>
           
-        </div>
+
         <nav id="navigation"> 
             <?php include('navigation.html'); ?> 
         </nav>
