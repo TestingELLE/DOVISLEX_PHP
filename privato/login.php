@@ -13,7 +13,7 @@ if (isset($_POST['submit'])) {
         $password = $_POST['password'];
         
         // Establishing Connection by passing server_name, user_id and password
-        $connection = mysql_connect("62.149.150.171", "Sql924951", "a438135r74") or die(mysql_error());;
+        $connection = mysql_connect("62.149.150.171", "Sql924951", "a438135r74") or die(mysql_error());
 
         // To protect MySQL injection for Security purpose
         $username = stripslashes($username);
