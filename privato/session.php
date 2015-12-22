@@ -1,10 +1,10 @@
 <?php
 
 // Establishing Connection by passing server_name, user_id and password
-$connection = mysql_connect("echidna.arvixe.com:3306", "pupone_DVuser", "DVuserpasswords");
+$connection = mysql_connect("62.149.150.171", "Sql924951", "a438135r74");
 
 // Selecting Database
-$db = mysql_select_db("pupone_dovislex", $connection);
+$db = mysql_select_db("Sql924951_1", $connection);
 
 // Starting Session
 session_start();
