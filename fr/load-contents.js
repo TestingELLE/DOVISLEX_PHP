@@ -51,6 +51,16 @@ appendORreplace('#F28',"droit pénal et administratif concernant les ressources 
 //professionisti
 appendORreplace('#D8'," (depuis 1974)");
 
+//contenzioso php & html
+appendORreplace('#F29',"Liste des affaires représentées par les partenaires du cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
+appendORreplace('#F30',"Aide pour l'extensification dans le secteur de la viande  bovine");
+appendORreplace('#F31',"Recettes sur la fiscalité pétrolière");
+appendORreplace('#F32',"Ce tableau répertorie uniquement les affaires qui ont atteint le Tribunal ou la Cour de justice. La grande majorité des affaires ont lieu devant les juridictions nationales, les autres institutions européennes, ou suivent les procédures administratives.");
+appendORreplace('#F33',"Pour des raisons de confidentialité (en particulier, pour éviter l'identification du client), pour chaque afaire le numéro de rôle a été omis. Pour chaque cas sont rapportés:");
+appendORreplace('#F34',"l'année de l'origine de l'affaire;");
+appendORreplace('#F35',"Recours en carence");
+appendORreplace('#F36',"Recours en carence");
+
 
 }
 

@@ -11,6 +11,9 @@
 function loadContents() {
     //example: appendORreplace('#L19', "appeal to the Boards of Appeal");
     //see DE/load-contents.js for more examples
+//contenzioso.html
+appendORreplace('#F35',"Recursos por omisiòn");
+appendORreplace('#F36',"Recursos por omisiòn");
 }
 
 /* If an element is empty, then appends value.

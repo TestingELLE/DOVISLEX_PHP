@@ -140,6 +140,12 @@ appendORreplace('#D25',"Rechtsanwältin Comparini arbeitet auch in Rechtsstreiti
 appendORreplace('#D26',"Rechtsanwältin. Mitglied der Rechtsanwaltskammer Berlin (seit 2003) ");
 appendORreplace('#D27',"Vertretung vor deutschen Gerichten.");
 appendORreplace('#D28',"wirtschaftliche und finanzielle Analysen");
+
+
+
+//contenzioso.html
+appendORreplace('#F35',"Untätigkeitslage");
+appendORreplace('#F36',"Untätigkeitslage");
 }
 
 
