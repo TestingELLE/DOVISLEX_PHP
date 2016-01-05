@@ -75,6 +75,50 @@ appendORreplace('#L2',"Notre cabinet également prépare et introduit  réguliè
 appendORreplace('#L25',"contre des entreprises allemandes qui dans le secteur photovoltaïque avaient de facto imposé des contrats de fourniture de plaquettes de silicium contenant des clauses qui étaient excessivement restrictives de la concurrence ou autrement dit - un abus de leur position dominante; ");
 appendORreplace('#F49',"aides d'état");
 
+//arbitration
+appendORreplace('#F51',"Résolution extrajudiciaire des différends nationaux, de l'UE et internationaux");
+appendORreplace('#L62',"Le cabinet offre l'assistance et la représentation dans les procédures (formelles ou informelles) destinées à régler les différends ou  les prévenir, à la fois entre les entités privées ou avec les autorités publiques. ");
+appendORreplace('#L63',"À tous les niveaux (nationaux et internationaux), la société offre une assistance dans les procédures suivantes: une procédure d'arbitrage (officielle et amicale), la conciliation et la médiation (également dans le domaine de la fiscalité). ");
+appendORreplace('#F52',"contacts administratifs avec les institutions ou les organismes de l'Union européenne - en particulier la Commission européenne - la recherche de la solution d'un problème (dans tous les secteurs sous la législation communautaire); ");
+appendORreplace('#F53',"procédures administratives - et, le cas échéant, la conciliation ou l'arbitrage - conformément à la législation de l'Union européenne dans certains secteurs, en particulier dans l'achat de biens ou de services dans les pays tiers ");
+appendORreplace('#F54',"Au niveau international, l'entreprise offre une assistance dans divers domaines, y compris les procédures de la Chambre de commerce internationale (ICC). ");
+appendORreplace('#F55',"Dossiers");
+appendORreplace('#L64',"Pour donner une idée du type de procédures extrajudiciaires prises en charge par le Cabinet au niveau supranational, nous présentons la liste suivante:");
+appendORreplace('#F56',"dans un dossier où l'infraction présumée de contrat a aidé l'entreprise à remporter un appel d'offres lancé par la Délégation de l'Union européenne dans un Etat africain pour la rénovation de l'approvisionnement  en eau à la capitale de l'Etat (la plainte a prévu, en partie, des biens de l'origine chinoise plutôt que - comme considerés obligatoire - des biens ACP ou de l'origine communautaire); ");
+appendORreplace('#F57',"différend entre les parties au contrat d'agence internationale en ce qui concerne l'ndemnité et la prime de départ réclamées par l'agent français. Le différend a été soumis à l'arbitrage mené par la Chambre de commerce internationale à Paris (CPI). ");
+
+
+//PENALE-AMMINISTRATIVO.HTML
+appendORreplace('#F61',"Infractions pénales et administratives reliées à la fraude communautaire");
+appendORreplace('#F62',"Infractions pénales et administratives reliées à la fraude communautaire");
+appendORreplace('#F63',"Le cabinet suit (directement ou en association avec des criminalistes) les procédures pénales et administratives en Italie pour 'la fraude communautaire', où l'opérateur commercial est accusé d'avoir illégalement reçu des fonds de l'UE ou d'avoir éludé le paiement des droits de douane. En fait, dans tous ces affaires, la question dépend de l'interprétation correcte de la législation européenne. ");
+appendORreplace('#F64',"TVA - la fraude fiscale (liée aux importations - Art. 70, D.P.R. n. 43/1973)");
+appendORreplace('#F65',"TVA - la fraude liée au commerce et aux transactions intracommunautaires (Art. 2, 3, 4, 8, décret-loi, No. 74/2000)");
+
+//scambi
+appendORreplace('#F70',"la double imposition ou traitement fiscal discriminatoire");
+
+//import-export
+appendORreplace('#F71',"Depuis les années 80, le cabinet est très attentif aux problèmes de douane.  En effet plusieurs sont les problèmes qui peuvent affecter un opérateur commercial, et qui, en conséquence, méritent une analyse particulière, de préférence préventive. ");
+appendORreplace('#L6',"demander le classement tarifaire exact des marchandises importées (ce qui détermine le taux d'imposition des droits de douane et/ou l'existence d'interdictions ou de restrictions éventuelles à l'importation); ");
+appendORreplace('#L7',"utiliser dans les règles de douane les entrepôts TVA (en particulier dans les zones franches); ");
+appendORreplace('#L8',"le traitement légal des marchandises en régime de suspension de droits. ");
+//arbitration
+
+
+//arbitration
+
+
+//arbitration
+
+
+//arbitration
+
+
+
+//arbitration
+
+
 }
 
 /* If an element is empty, then appends value.
