@@ -62,6 +62,19 @@ appendORreplace('#F35',"Recours en carence");
 appendORreplace('#F36',"Recours en carence");
 
 
+//concorrenza
+appendORreplace('#F41',"Le cabinet offre une aide qualifiée dans l'interprétation et l'application du droit antitrust de l'Union européenne (les cartels et les pratiques anticoncurrentielles, l'abus de position dominante et les aides d'État). Le cabinet a une expérience considérable dans ce domaine dans les procédures devant les tribunaux de l'Union européenne.");
+appendORreplace('#F42',"ententes anticoncurrentielles ");
+appendORreplace('#F43',"Dossiers");
+appendORreplace('#F44',"Pour donner une idée du type d'affaires représentées par le cabinet devant le Tribunal et la Cour de justice de l'Union européenne, nous présentons la liste de procédures 'directes' suivante:");
+appendORreplace('#F45',"demande d'annulation d'une décision de la Commission européenne qui a considéré les aides d'État octroyées par la Grèce comme une aide illégale pour les entreprises actives sur le marché d'industrie du ciment;");
+appendORreplace('#F46',"actions pour contester la déclaration de la Commission européenne que certaines aides à finalité régionale prévue pour réduire l'impact environnemental des usines sidérurgiques était illégales;");
+appendORreplace('#F47',"actions aient pour objet de faire déclarer déchu le pouvoir de la Commission européenne de percevoir les amendes accordées par un jugement définitif pour des accords anti-concurrentiels;");
+appendORreplace('#F48',"Action fondée sur une clause d'arbitrage pour établir l'illégalité de la collection par la Commission européenne d'une garantie bancaire pour le paiement d'une amende, après la prescription du pouvoir de la Commission d'exiger le paiement de l'amende de la part du débiteur principal.");
+appendORreplace('#L2',"Notre cabinet également prépare et introduit  régulièrement des plaintes  auprès de la Commission européenne:");
+appendORreplace('#L25',"contre des entreprises allemandes qui dans le secteur photovoltaïque avaient de facto imposé des contrats de fourniture de plaquettes de silicium contenant des clauses qui étaient excessivement restrictives de la concurrence ou autrement dit - un abus de leur position dominante; ");
+appendORreplace('#F49',"aides d'état");
+
 }
 
 /* If an element is empty, then appends value.
