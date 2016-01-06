@@ -102,18 +102,43 @@ appendORreplace('#F70',"la double imposition ou traitement fiscal discriminatoir
 appendORreplace('#F71',"Depuis les années 80, le cabinet est très attentif aux problèmes de douane.  En effet plusieurs sont les problèmes qui peuvent affecter un opérateur commercial, et qui, en conséquence, méritent une analyse particulière, de préférence préventive. ");
 appendORreplace('#L6',"demander le classement tarifaire exact des marchandises importées (ce qui détermine le taux d'imposition des droits de douane et/ou l'existence d'interdictions ou de restrictions éventuelles à l'importation); ");
 appendORreplace('#L7',"utiliser dans les règles de douane les entrepôts TVA (en particulier dans les zones franches); ");
-appendORreplace('#L8',"le traitement légal des marchandises en régime de suspension de droits. ");
-//arbitration
+appendORreplace('#F72',"le traitement légal des marchandises en régime de suspension de droits. ");
+appendORreplace('#f73',"Accords relatifs à l'application de l'EEE (l'Espace économique européen) - entre l'UE et la Norvège, l'Islande et le Liechtenstein ");
+appendORreplace('#F74',"L'application des accords relatifs à l'OMS (l'Organisation mondiale du commerce)");
+appendORreplace('#F75',"La mise en  œuvre  des accords relatifs aux PECO (Pays d'Europe centrale et orientale )");
+appendORreplace('#F76',"Les accords relatifs aux pays ACP (Les pays d'Afrique, Caraїbes et Pacifique)");
 
 
-//arbitration
+//settori
+appendORreplace('#L11',"Le cabinet offre une assistance hautement qualifiée dans le domaine de l'agriculture, de la pêcherie, de l'environnement. Cette assistance necessite souvent les relations avec les administrations et les agences publiques en ce qui concerne l'interprétation et l'application du droit communautaire. Dans de nombreux cas, les problèmes peuvent être résolus à ce stade sans le lancement d'une procédure devant les tribunaux. En même temps, le nombre et l'importance des affaires invoquées devant les tribunaux de l'Union européenne sont très considérables. ");
+appendORreplace('#F80',"Affaires");
+appendORreplace('#L27',"Pour donner une meilleure idée des types de dossiers représentés par le cabinet devant le Tribunal et la Cour de justice de l'UE, nous présentons la liste pour bien illustrer quelques procédures 'directes': ");
+appendORreplace('#L29',"recours introduit en relation avec le rejet de la Commission d'une offre détenue par l'autorité autrichienne dans un appel d'offres pour la vente d'orge de la Communauté");
+appendORreplace('#F81',"concernant l'interprétation de la législation communautaire sur l'amélioration de l'efficacité des entreprises agricoles à l'égard du régime d'aide pour l'extensification de la production de la viande bovine; ");
+appendORreplace('#F82',"concernant l'interprétation et la validité de la législation communautaire sur les quotas laitiers; ");
+appendORreplace('#F83',"sur l'interprétation correcte de la législation communautaire et les règles internationales pour la protection de l'eau des lacs  contre la pollution industrielle; ");
 
+//contracts
+appendORreplace('#F92',"sous-traitance");
+appendORreplace('#F93',"accords de distribution (concession, agence et franchise)");
+appendORreplace('#F94',"mise en place d'un groupement européen d'intérêt économique (GEIE) ");
+appendORreplace('#F95',"Dossiers");
+appendORreplace('#L13',"Le Cabinet a établi de nombreux accords de distribution, avec une attention particulière aux problèmes - souvent sous-estimés par les clients - du respect des dispositions impératives concernant la protection de la concurrence fixées dans la législation européenne. ");
 
-//arbitration
+//trademarks
+appendORreplace('#L15',"La marque de commerce européenne, si elle est accordée, s'applique aux 28 États membres de l'Union européenne pendant une durée de 10 ans, et peut être renouvelée. Par conséquent, il est plus avantageux que de déposer une marque dans chaque pays (compte tenu les coûts associés). ");
+appendORreplace('#L16',"La marque européenne confère à son titulaire la protection contre la reproduction ou l'imitation de sa marque dans l'ensemble de l'Union européenne; plus particulièrement, le droit d'interdire à des tiers l'usage sans son consentement, des signes identiques ou similaires à ceux pour lesquels la marque est enregistrée (sous certaines conditions, ce droit comprend des produits ou des services d'autres que ceux auxquels la marque est enregistrée).");
+appendORreplace('#F101',"Dans certaines circonstances les actions suivantes sont possibles:");
+appendORreplace('#F102',"s'opposer au dépot de demande d'enregistrement d'une marque européenne par d'autres;");
+appendORreplace('#L17',"initier l'action en annulation de l'enregistrement de la marque déjà accordée à une autre entité.");
+appendORreplace('#L18',"faire déclarer une marque communautaire nulle ou déchue");
 
-
-//arbitration
-
+//USArealEstate
+appendORreplace('#F110',"Le cabinet offre des conseils juridiques et assistance dans les transactions immobilières aux Etats-Unis et surtout à New York, Miami et Houston. En particulier, le Cabinet fournit les services suivants: ");
+appendORreplace('#F111',"une assistance pendant les négociations et la phase de la rédaction d'un contrat d'achat");
+appendORreplace('#F112',"achat d'un appartement ou d'une maison à des fins personnelles");
+appendORreplace('#F113',"Nous avons préparé quelques guides pratiques avec les informations de base sur les transactions immobilières aux Etats-Unis (notamment à New York et Miami). Pour demander ces guides, veuillez nous contacter en utilisant le formulaire ci-dessous. ");
+appendORreplace('#L22',"Pour de l'assistance sur la sélection de la propriété ou de l'appartement possible - ou si vous êtes propriétaire et desirez vendre - nous pouvons vous diriger vers des professionnels avec qui nous avons de bonnes relations de coopération, dont l'expérience permet d'aider les clients italiens et internationaux. ");
 
 
 //arbitration
