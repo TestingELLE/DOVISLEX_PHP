@@ -41,7 +41,7 @@
     <strong class="LcustomTranslation" id="F8">International Trade Law and/or EU Law</strong>
     <ul>	
       <li class="LcustomTranslation" id="F9">Arbitration, ADR, negotiation strategy</li>
-      <li>Trade relations EU / third countries</li>
+      <li class="LcustomTranslation" id="S41">Trade relations EU / third countries</li>
       <li class="LcustomTranslation" id="D4">Contracts</li>
       <li>Execution of foreign judgments</li>
     </ul>
@@ -110,8 +110,7 @@
             onclick="plusminusGeneral();">&raquo; plus</span>
 
       <div class="extra-info">
-        <p class="LcustomTranslation" id="F17">The Law Firm <span class="notranslate">Donà Viscardini</span>
-          was founded in 1974 by Wilma Viscardini who wanted to make 
+        <p class="LcustomTranslation" id="F17">The Law Firm <span class="notranslate">Donà Viscardini</span> was founded in 1974 by Wilma Viscardini who wanted to make 
           available to businesses and individuals her expertise in 
           the field of Community law developed over years in the 
           European institutions. She was, in fact, an official of 
@@ -127,7 +126,7 @@
         <p class="LcustomTranslation" id="F19">Subsequently, attorney Viscardini's has been joined in the practice by her children, attorney Gabriele DONÀ and attorney Simonetta DONÀ, both with extensive professional and academic experience.
         </p>
 
-        <p>Lawyer Gabriele DONÀ was professor of procedural law 
+        <p class="LcustomTranslation" id="S42">Lawyer Gabriele DONÀ was professor of procedural law 
           of the European Union at the University of Ferrara 
           (2008-2013) and is regularly invited as a speaker at 
           national and international conferences. In November 2014, 
@@ -135,7 +134,7 @@
           European Lawyers based in Luxembourg.
         </p>
 
-        <p>Lawyer Simonetta DONÀ is a professor of commercial law, 
+        <p class="LcustomTranslation" id="S43">Lawyer Simonetta DONÀ is a professor of commercial law, 
           corporate and contracts law at Humboldt University in 
           Berlin (since 2001).
         </p>
