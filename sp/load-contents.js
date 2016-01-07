@@ -44,9 +44,27 @@ appendORreplace('#F81',"sobre la interpretación de la legislación comunitaria 
 appendORreplace('#F82',"sobre la correcta interpretación de la normativa comunitaria y las normas internacionales sobre protección de las aguas de lago de la contaminación industrial; ");
 appendORreplace('#F83',"sobre una regulación -declarada inválida- del Consejo de la Unión Europea, que prohíbe el uso de redes de deriva para la pesca del atún en el Mediterráneo. ");
 
-//contenzioso.html
+//penale-amministrativo.html
+appendORreplace('#F63',"La firma sigue (directamente o en asociación con abogados penalistas) procedimientos penales y administrativos en Italia por presunto 'fraude comunitario', en los que se acusa al operador comercial de recibir ilegalmente fondos de la UE o de haber evadido el pago de derechos de aduana. De hecho, en todos estos casos, la cuestión depende de la correcta interpretación de la legislación europea. ");
+appendORreplace('#S21',"Contrabando (art. 282 y ss., Decreto Presidencial núm. 43/1973)");
+appendORreplace('#S22',"&ldquo;Fraude Comunitario&rdquo;(art. 2, L. n. 898/1986)");
 
-//contenzioso.html
+//contracts.html
+appendORreplace('#F91',"Con el fin de proteger sus intereses comerciales, ahora es más importante que nunca que no se basen en meros acuerdos verbales o cortos escritos, en lugar de eso hay que pensar y escribirlos en detalle - el funcionamiento previsto de una relación de negocios-. Cuanto más a fondo se haga la preparación de las cláusulas contractuales pertinentes (que tienen en cuenta la ley sustantiva y procesal aplicable), más protección tendrá uno en la defensa judicial y extrajudicial de sus derechos en caso de incumplimiento por parte del socio comercial. ");
+appendORreplace('#S31',"concesión de licencias y transferencia de tecnología");
+appendORreplace('#L13',"La firma ha preparado numerosos acuerdos de distribución, con especial atención a los problemas - a menudo subestimados por los clientes - de conformidad con las disposiciones obligatorias relativas a la protección de la competencia previstas en la legislación europea. ");
+
+//contracts.html
+
+
+//contracts.html
+
+//contracts.html
+
+
+//contracts.html
+
+//contracts.html
 }
 
 /* If an element is empty, then appends value.
