@@ -74,7 +74,7 @@
           judgments of the Court of First Instance and the Court 
           of Justice European (1999)&nbsp;
         </p>
-        <h4>Specific areas of activity followed:</h4>
+        <h4 class="LcustomTranslation" id="S51">Specific areas of activity followed:</h4>
         <ul>
           <li class="LcustomTranslation" id="F24"> agriculture, fisheries, food, environment </li>
           <li class="LcustomTranslation" id="F25">competition</li>
@@ -124,11 +124,11 @@
           </li>
         </ul>
 
-        <h4>Specific areas of activity:</h4>
+        <h4 class="LcustomTranslation" id="S52">Specific areas of activity:</h4>
         <ul>
           <li>agriculture, fisheries, food, environment</li>
           <li>competition</li>
-          <li>trademarks, Community designs</li>
+          <li class="LcustomTranslation" id="S53">trademarks, Community designs</li>
           <li>imports / exports to and from non-EU countries</li>
           <li>commercial contracts</li>
           <li class="LcustomTranslation" id="D15">criminal and criminal-administrative in relation to 
@@ -384,13 +384,13 @@
           <li class="LcustomTranslation" id="D18">Elected President if COMITES - BERLIN
         </ul>
 
-        <h3>University Teaching Assignments</h3>
+        <h3 class="LcustomTranslation" id="S54">University Teaching Assignments</h3>
         <p class="LcustomTranslation" id="D19">Professor of Italian commercial, corporate and contractual 
           Law- Department of Law - Humboldt University in Berlin - 
           Germany (since 2001) <br>
         </p> 
 
-        <h4>Specific areas of activity</h4>
+        <h4 class="LcustomTranslation" id="S55">Specific areas of activity</h4>
         <ul>
           <li>Private, commercial, corporate, tax and contracts 
             Law in Germany</li>
@@ -434,10 +434,10 @@
           in litigation - Padova - Italy (2002-2012)</li> 
         </ul>
 
-        <p>Specific areas of activity</p>
+        <p class="LcustomTranslation" id="S56">Specific areas of activity</p>
         <ul>
           <li class="LcustomTranslation" id="D24">private, commercial, corporate Law</li>
-          <li>arrangements with creditors and bankruptcy procedures</li>
+          <li class="LcustomTranslation" id="S57">arrangements with creditors and bankruptcy procedures</li>
           <li>debt collection</li>
           <li>commercial contracts</li>
           <li>agriculture, fisheries, food, environment</li>
@@ -506,15 +506,14 @@
       <h4 class = "notranslate">USA Senior Partner</h4>
 
       <div class="more">
-       <p>
-          <br/>&#149;&nbsp Business and Investment Banking Consultant
-          <br/>&#149;&nbsp MBA Corporate & Securities Finance, 
-          Massachusetts Institute of Technology (MIT)
-          <br/>&#149;&nbsp Ph.D Mathematics, Rice University, Houston, TX
-          <br/>&#149;&nbsp GMAT 800
-        </p>
+          <ul>
+          <li class="LcustomTranslation" id="S58">Business and Investment Banking Consultant</li>
+          <li>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)</li>
+          <li>Ph.D Mathematics, Rice University, Houston, TX</li>
+          <li>GMAT 800</li>
+        </ul>
 
-        <h4>Specific areas of activity</h4>
+        <h4 class="LcustomTranslation" id="S59">Specific areas of activity</h4>
         <ul>
           <li>development of business opportunities and partnerships 
             in the US</li>

@@ -60,6 +60,8 @@ appendORreplace('#F33',"Pour des raisons de confidentialité (en particulier, po
 appendORreplace('#F34',"l'année de l'origine de l'affaire;");
 appendORreplace('#F35',"Recours en carence");
 appendORreplace('#F36',"Recours en carence");
+appendORreplace('#F37',"Taxe d'Etat de débarquement des produits pétroliers");
+appendORreplace('#F38',"Taxe de débarquement");
 
 
 //concorrenza
@@ -124,8 +126,10 @@ appendORreplace('#F93',"accords de distribution (concession, agence et franchise
 appendORreplace('#F94',"mise en place d'un groupement européen d'intérêt économique (GEIE) ");
 appendORreplace('#F95',"Dossiers");
 appendORreplace('#L13',"Le Cabinet a établi de nombreux accords de distribution, avec une attention particulière aux problèmes - souvent sous-estimés par les clients - du respect des dispositions impératives concernant la protection de la concurrence fixées dans la législation européenne. ");
+appendORreplace('#F91',"En vue de préserver vos intérêts commerciaux, il est plus important que jamais de s'appuyer sur le raisonnement détaillé et profond et pas seulement sur les ententes verbales ou les justifications succinctes présentées par écrit. Il s'agit d'une bonne stratégie d'affaires. Une préparation plus approfondie des clauses contractuelles qui intègre, le droit matériel et le droit procédural applicable, garantit au client d'une plus forte protection à la défense judiciaire et extrajudiciaire de ses droits en cas de défaut par d'un partenaire.");
 
 //trademarks
+appendORreplace('#L14',"Depuis 2000, le cabinet est également présent dans le domaine de la propriété intellectuelle. Il est possible de déposer une demande d'enregistrement de marque de commerce de l'UE par le dépôt de dossier auprès de l'Office de l'harmonisation dans le marché intérieur (OHMI) à Alicante, l'Espagne. ");
 appendORreplace('#L15',"La marque de commerce européenne, si elle est accordée, s'applique aux 28 États membres de l'Union européenne pendant une durée de 10 ans, et peut être renouvelée. Par conséquent, il est plus avantageux que de déposer une marque dans chaque pays (compte tenu les coûts associés). ");
 appendORreplace('#L16',"La marque européenne confère à son titulaire la protection contre la reproduction ou l'imitation de sa marque dans l'ensemble de l'Union européenne; plus particulièrement, le droit d'interdire à des tiers l'usage sans son consentement, des signes identiques ou similaires à ceux pour lesquels la marque est enregistrée (sous certaines conditions, ce droit comprend des produits ou des services d'autres que ceux auxquels la marque est enregistrée).");
 appendORreplace('#F101',"Dans certaines circonstances les actions suivantes sont possibles:");
@@ -140,9 +144,17 @@ appendORreplace('#F112',"achat d'un appartement ou d'une maison à des fins pers
 appendORreplace('#F113',"Nous avons préparé quelques guides pratiques avec les informations de base sur les transactions immobilières aux Etats-Unis (notamment à New York et Miami). Pour demander ces guides, veuillez nous contacter en utilisant le formulaire ci-dessous. ");
 appendORreplace('#L22',"Pour de l'assistance sur la sélection de la propriété ou de l'appartement possible - ou si vous êtes propriétaire et desirez vendre - nous pouvons vous diriger vers des professionnels avec qui nous avons de bonnes relations de coopération, dont l'expérience permet d'aider les clients italiens et internationaux. ");
 
+//Germania360,html
+appendORreplace('#F121',"Le recouvrement de prêts et de crédits en Allemagne et en Italie");
+appendORreplace('#F122',"Droit pénal");
+appendORreplace('#F123',"Soutien financier et d'affaires ");
 
-//arbitration
+//azioni_UE,html
+appendORreplace('#L39',"Droit de l'Union européenne (ou le droit communautaire, comme, ce terme qui a été utilisé avant le traité de Lisbonne, qui est entré en vigueur le 1er décembre 2009) est applicable à toutes les personnes physiques et morales, même ceux qui vivent / travaillent exclusivement à l'intérieur de leurs frontières nationales. ");
+appendORreplace('#L40',"En effet, le droit de l'UE s'applique non seulement aux relations internationales (intra- et extra- communautaires ), mais il exerce une influence significative sur d'autres branches du droit (soit par l'applicabilité directe ou parce que le droit d'un État membre doit s'y conformer). ");
+appendORreplace('#L41',"Droit de l'UE peut être invoqué par tous ceux qui y ont l'intérêt par divers moyens et instances. ");
 
+//Germania360,html
 
 }
 

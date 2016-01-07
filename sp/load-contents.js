@@ -54,14 +54,51 @@ appendORreplace('#F91',"Con el fin de proteger sus intereses comerciales, ahora 
 appendORreplace('#S31',"concesión de licencias y transferencia de tecnología");
 appendORreplace('#L13',"La firma ha preparado numerosos acuerdos de distribución, con especial atención a los problemas - a menudo subestimados por los clientes - de conformidad con las disposiciones obligatorias relativas a la protección de la competencia previstas en la legislación europea. ");
 
-//contracts.html
+//de_nobis.html
+appendORreplace('#F1',"En particular, los socios de la firma han aparecido en casi setenta procedimientos ante el Tribunal de Justicia de la Unión Europea en Luxemburgo. ");
+appendORreplace('#S41',"Las relaciones comerciales de la UE con terceros países");
+appendORreplace('#F10',"Ley administrativa  y penal en relación con los fondos de la UE");
+appendORreplace('#D6',"Consultoría de 360 ° y Asistencia para actividades en Alemania");
+appendORreplace('#F16',"Además - también gracias al papel del Sr. Gabriele Donà como Vice-Presidente de la Unión de Abogados Europeos - la Firma está conectada a una amplia red de profesionales con experiencias concretas, sobre todo en los estados miembros de la Unión Europea y en Estados Unidos (Nueva York, Houston). ");
+appendORreplace('#F17',"El bufete de abogados Donà Viscardini fue fundado en 1974 por Wilma Viscardini, quien quería poner a disposición de empresas y particulares su experiencia en el campo del Derecho comunitario desarrollada durante años en las instituciones europeas. Fue, de hecho, una funcionaria de la Comisión Europea durante 14 años (1959-1973) y, en particular, miembro del Servicio Jurídico de la Comisión en Bruselas durante nueve años (1964-1973). ");
+appendORreplace('#F18',"Además, la abogada Viscardini, fue durante años profesora de Derecho Comunitario en la Universidad de Padua y sigue activa en el mundo académico, así como invitada como ponente en numerosas conferencias. ");
+appendORreplace('#F19',"Posteriormente, la abogada Viscardini ha recibido la ayuda de sus hijos, el abogado Gabriele Donà y la abogada Simonetta Dona, ambos con amplia experiencia profesional y académica. ");
+appendORreplace('#S42',"El abogado Gabriele fue profesor de derecho procesal de la Unión Europea de la Universidad de Ferrara (2008-2013) y es invitado regularmente como ponente en congresos nacionales e internacionales. En noviembre de 2014, en Cracovia, fue elegido vicepresidente de la Unión de Abogados Europeos con sede en Luxemburgo. ");
+appendORreplace('#S43',"La abogada Simonetta Dona es profesora de derecho comercial, corporativo y contratos de derecho en la Universidad Humboldt de Berlín (desde 2001). ");
 
+//professionisti.html
+appendORreplace('#D9',"Abogado senior que ha comparecido ante los tribunales nacionales italianos, belgas, franceses y luxemburgueses; la Corte Suprema de Casación y otros tribunales italianos superiores; el Tribunal y el Tribunal de Justicia de las Comunidades Europeas en Luxemburgo; el Tribunal Europeo de Derechos Humanos en Estrasburgo; en procedimientos administrativos con las instituciones de la UE; en arbitraje nacional e internacional. Anteriormente ... ");
+appendORreplace('#F22',"Profesor de Derecho Europeo y de Comercio Internacional - Facultad de Ciencias Políticas y Facultad de Agricultura - Universidad de Padua (1974-1999) ");
+appendORreplace('#F23',"Autora para el Grupo 'Il Sole-24 Ore' de artículos sobre Derecho comunitario, en particular, comentando sobre las sentencias del Tribunal de Primera Instancia y el Tribunal de Justicia Europeo (1999)  ");
+appendORreplace('#S51',"Áreas específicas de actividad:");
+appendORreplace('#F27',"relaciones comerciales de la UE con terceros países");
+appendORreplace('#D10',"Abogado. Especialista en el derecho de la UE y del comercio internacional. Ha comparecido ante: ");
+appendORreplace('#D14',"Jurisdicciones belgas y alemanas, así como en arbitraje nacional e internacional. ");
+appendORreplace('#S52',"Áreas específicas de actividad:");
+appendORreplace('#',"Marcas y diseños comunitarios");
+appendORreplace('#S53',"Participación en la docencia universitaria");
+appendORreplace('#D17',"Abogado defensor ante los tribunales italianos y alemanes");
+appendORreplace('#S54',"Participación en la docencia universitaria");
+appendORreplace('#D19',"Profesora de derecho italiano comercial, corporativo y contractual -Departamento de Derecho - Universidad Humboldt de Berlín - Alemania (desde 2001) ");
+appendORreplace('#S55',"Áreas específicas de actividad:");
+appendORreplace('#D23',"Anteriormente, abogada en una firma líder activa en las áreas de civil y comercio y la protección de los consumidores y los inversores, ganando una importante experiencia en litigios - Padua - Italia (2002-2012)");
+appendORreplace('#S56',"Áreas específicas de actividad:");
+appendORreplace('#D24',"Derecho privado, comercial corporativo");
+appendORreplace('#S57',"acuerdos con los acreedores y procedimientos de quiebra");
+appendORreplace('#D25',"La abogada Comparini también está involucrada en litigios ante los Juzgados y Tribunales de Apelación y en procedimientos nacionales de mediación y arbitraje. ");
+appendORreplace('#S58',"Consultor de negocios y banca de inversión");
+appendORreplace('#S59',"Áreas específicas de actividad:");
 
-//contracts.html
-
-//contracts.html
-
-
+//NEWS.html
+appendORreplace('#S61',"Congreso de la Unión de los Abogados Europeos en Malaga");
+appendORreplace('#S62',"El abogado Gabriele Donà, Vicepresidente de la UAE, hablará el Viernes, 19 de junio sobre 'El ciudadano europeo a un nivel personal.' ");
+appendORreplace('#S63',"El abogado Gabriele Donà habla sobre 'La protección de los contribuyentes ante el Tribunal de Justicia de la Unión Europea - Casos de estudio'. ");
+appendORreplace('#S64',"La abogada Wilma Viscardini dará una conferencia sobre 'Más principios comunitarios para la protección del contribuyente invocables ante un tribunal nacional - Casos de estudio'.");
+appendORreplace('#S65',"El abogado Gabriele Donà es elegido vicepresidente de la Unión Europea de Abogados");
+appendORreplace('#S66',"En la Asamblea General de la Unión de Abogados Europeos (UAE) que se celebró 29 de noviembre 2014 en Cracovia la nueva 'Oficina' de la Asociación fue elegida. ");
+appendORreplace('#S67',"El prestigioso mandato durará dos años y podrá ser renovado si es necesario");
+appendORreplace('#S68',"Wilma Viscardini galardonada con la toga de oro");
+appendORreplace('#S69',"El Consejo del Colegio de Abogados de Padua honra a la abogada Wilma Viscardini con la Toga de Oro en reconocimiento a sus 50 años de carrera profesional. ");
 //contracts.html
 
 //contracts.html
