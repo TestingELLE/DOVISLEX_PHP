@@ -7,8 +7,8 @@
    *  client a way to choose a different language using the Google translator 
    *  widget. Because the widget is hidden from the client, a cookie must 
    *  be used to tell the translator to what language it should translate to. */
-  Cookies.set('googtrans', '/en/it', {domain: '.localhost', path: ''}); //needed for safari
-  Cookies.set('googtrans', '/en/it', {path: '/'});
+  Cookies.set('googtrans', '/en/es', {domain: '.localhost', path: ''}); //needed for safari
+  Cookies.set('googtrans', '/en/es', {path: '/'});
 
   /*  Function below is provided by Google, needed to translate the page */
   function googleTranslateElementInit() {
@@ -24,10 +24,11 @@
 <style>
   /*  Changes the color of the button selected to indicate that current page is
    *  in English */
-  #lang-change-it {
+  #lang-change-es {
     background-color: #B09B4C;
   }
 </style>
+
 
 <!-- Script below is provided by Google, needed to translate the page -->
 <script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>        
@@ -43,23 +44,7 @@
   </div>
   <h4> Studio legale • Cabinet d'Avocats • International Law Firm • Anwaltskanzlei • Abogados</h4>
 
-  <div class= "btn">
-    <!--Created an id for all links below following the 
-        'lang-change-xx' pattern that already existed for EN and SP,
-        Changed the class name so that all links share the same class 
-        name, and changed href attributes to call a function -->
-    <a id ="lang-change-en" class="btn_language" 
-       href="javascript:changeLang('lang-change-en');">EN</a>
-    <a id= "lang-change-es" class="btn_language" 
-      oncontextmenu="javascript:window.location.href = '../sp/index.php?page=index';" href="javascript:changeLang('lang-change-es');">SP</a>
-    <!--href="javascript:changeLang('lang-change-es');">SP</a>-->
-    <a id= "lang-change-fr" class="btn_language" 
-      href="javascript:changeLang('lang-change-fr');">FR</a>
-    <a id= "lang-change-de" class="btn_language" 
-       href="javascript:changeLang('lang-change-de');">DE</a>
-    <a id= "lang-change-it" class="btn_language" 
-       href="javascript:changeLang('lang-change-it');">IT</a>
-  </div>
+  <?php include '../commonHTML/commonHeader.php'; ?>
 
   <div class="middle-bar"></div>
 </div>

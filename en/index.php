@@ -118,7 +118,7 @@
         <div id="supra-header"></div>
         <div id="page">
             <div id="header"> 
-                <?php include('header.html'); ?> 
+                <?php include('header.php'); ?> 
             </div>
             <div id="main-container" class="clear"> 
                 <div id="tableDiv">
