@@ -88,6 +88,7 @@ appendORreplace('#S57',"acuerdos con los acreedores y procedimientos de quiebra"
 appendORreplace('#D25',"La abogada Comparini también está involucrada en litigios ante los Juzgados y Tribunales de Apelación y en procedimientos nacionales de mediación y arbitraje. ");
 appendORreplace('#S58',"Consultor de negocios y banca de inversión");
 appendORreplace('#S59',"Áreas específicas de actividad:");
+appendORreplace('#S592',"Áreas específicas de actividad:");
 
 //NEWS.html
 appendORreplace('#S61',"Congreso de la Unión de los Abogados Europeos en Malaga");
