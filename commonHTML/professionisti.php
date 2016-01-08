@@ -381,7 +381,7 @@
           <li class="LcustomTranslation" id="D16">Co-counsel at the Court of First Instance and the 
             Court of Justice European Luxembourg</li> 
           <li class="LcustomTranslation" id="D17">Defence counsel before  Italian and German Courts</li> 
-          <li class="LcustomTranslation" id="D18">Elected President if COMITES - BERLIN
+          <li class="LcustomTranslation" id="D18">Elected President of COMITES - BERLIN
         </ul>
 
         <h3 class="LcustomTranslation" id="S54">University Teaching Assignments</h3>
@@ -434,7 +434,7 @@
           in litigation - Padova - Italy (2002-2012)</li> 
         </ul>
 
-        <p class="LcustomTranslation" id="S56">Specific areas of activity</p>
+     <h4 class="LcustomTranslation" id="S56">Specific areas of activity</h4>
         <ul>
           <li class="LcustomTranslation" id="D24">private, commercial, corporate Law</li>
           <li class="LcustomTranslation" id="S57">arrangements with creditors and bankruptcy procedures</li>
@@ -476,7 +476,7 @@
           <li class="LcustomTranslation" id="D27">Representation before German Courts and Jurisdictions.</li> 
         </ul>
 
-        <p>Specific areas of activity:</p>
+        <h4 class="LcustomTranslation" id="S59">Specific areas of activity</h4>
         <ul>
           <li>Civil Law</li>
           <li>Corporate and commercial law</li>
@@ -513,7 +513,7 @@
           <li>GMAT 800</li>
         </ul>
 
-        <h4 class="LcustomTranslation" id="S59">Specific areas of activity</h4>
+        <h4 class="LcustomTranslation" id="S592">Specific areas of activity</h4>
         <ul>
           <li>development of business opportunities and partnerships 
             in the US</li>

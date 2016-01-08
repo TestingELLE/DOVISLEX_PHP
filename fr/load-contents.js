@@ -144,7 +144,7 @@ appendORreplace('#F112',"achat d'un appartement ou d'une maison à des fins pers
 appendORreplace('#F113',"Nous avons préparé quelques guides pratiques avec les informations de base sur les transactions immobilières aux Etats-Unis (notamment à New York et Miami). Pour demander ces guides, veuillez nous contacter en utilisant le formulaire ci-dessous. ");
 appendORreplace('#L22',"Pour de l'assistance sur la sélection de la propriété ou de l'appartement possible - ou si vous êtes propriétaire et desirez vendre - nous pouvons vous diriger vers des professionnels avec qui nous avons de bonnes relations de coopération, dont l'expérience permet d'aider les clients italiens et internationaux. ");
 
-//Germania360,html
+//Germania360.html
 appendORreplace('#F121',"Le recouvrement de prêts et de crédits en Allemagne et en Italie");
 appendORreplace('#F122',"Droit pénal");
 appendORreplace('#F123',"Soutien financier et d'affaires ");
@@ -154,7 +154,13 @@ appendORreplace('#L39',"Droit de l'Union européenne (ou le droit communautaire,
 appendORreplace('#L40',"En effet, le droit de l'UE s'applique non seulement aux relations internationales (intra- et extra- communautaires ), mais il exerce une influence significative sur d'autres branches du droit (soit par l'applicabilité directe ou parce que le droit d'un État membre doit s'y conformer). ");
 appendORreplace('#L41',"Droit de l'UE peut être invoqué par tous ceux qui y ont l'intérêt par divers moyens et instances. ");
 
-//Germania360,html
+//news.html
+appendORreplace('#F131',"Le centre de droit pénal fiscal accueille la conférence sur 'Évaluation de l'impôt et la criminalité dans la pratique quotidienne'. ");
+appendORreplace('#S66',"A l'Assemblée Générale de l'Union des avocats européens (UAE), qui a été tenu le 29 novembre 2014 à Cracovie, le nouveau «Bureau» de l'Association a été élu. ");
+appendORreplace('#F132',"À l'intérieur du «Bureau», l'avocat Gabriele Donà a été nommé le vice-président de la UAE. ");
+appendORreplace('#S67',"Le mandat prestigieux est d'une durée de deux ans et peut être renouvelé.");
+appendORreplace('#S68',"Wilma Viscardini a reçu le Toga d'or");
+appendORreplace('#S69',"Le Conseil de l'Association du Barreau de Padoue honore avocat Wilma Viscardini par le 'Golden Toga' en reconnaissance de ses 50 ans de carrière professionnelle. ");
 
 }
 

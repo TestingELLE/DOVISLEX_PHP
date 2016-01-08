@@ -146,6 +146,8 @@ appendORreplace('#D28',"wirtschaftliche und finanzielle Analysen");
 //contenzioso.html
 appendORreplace('#F35',"Untätigkeitslage");
 appendORreplace('#F36',"Untätigkeitslage");
+appendORreplace('#F37',"Staatlche Entladegebühr von Erdölprodukten");
+appendORreplace('#F38',"Staatlche Entladegebühr");
 }
 
 
