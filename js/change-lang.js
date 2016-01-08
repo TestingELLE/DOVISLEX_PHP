@@ -23,7 +23,7 @@ function changeLang(id) {
             selectedLanguage = "en"; 
             break;
         case "lang-change-es": 
-            selectedLanguage = "en"; 
+            selectedLanguage = "sp"; 
             break;
         case "lang-change-fr": 
             selectedLanguage = "fr"; 
