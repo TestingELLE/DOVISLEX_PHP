@@ -13,7 +13,7 @@
  
  
  Cookies.set('googtrans', '/en/en', {domain: '.localhost', path: ''}); //needed for safari
-  Cookies.set('googtrans', '/en/en', {path: '/'});
+  Cookies.set('googtrans', '/en/en', {path: ''});
   
   /*  Function below is provided by Google, needed to translate the page */
   function googleTranslateElementInit() {
