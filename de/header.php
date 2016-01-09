@@ -6,11 +6,16 @@
    *  Google translator is a client-side language translator that provides
    *  client a way to choose a different language using the Google translator 
    *  widget. Because the widget is hidden from the client, a cookie must 
-   *  be used to tell the translator to what language it should translate to. */
+   *  be used to tell the translator to what language it should translate to.
+   *  
+   *  This seems to wrok just as well
+   *  Cookies.set('googtrans', '/en/de', {path: ''}); */
+ 
   Cookies.set('googtrans', '/en/de', {domain: '.localhost', path: ''}); //needed for safari
   Cookies.set('googtrans', '/en/de', {path: '/'});
 
-  /*  Function below is provided by Google, needed to translate the page */
+
+/*  Function below is provided by Google, needed to translate the page */
   function googleTranslateElementInit() {
       new google.translate.TranslateElement({
           pageLanguage: 'en',

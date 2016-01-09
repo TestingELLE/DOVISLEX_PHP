@@ -52,6 +52,8 @@ appendORreplace('#F28',"droit pénal et administratif concernant les ressources 
 appendORreplace('#D8'," (depuis 1974)");
 
 //contenzioso php & html
+appendORreplace('#F39', "Affaire");
+appendORreplace('.Fm01',"Concurrence");
 appendORreplace('#F29',"Liste des affaires représentées par les partenaires du cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
 appendORreplace('#F30',"Aide pour l'extensification dans le secteur de la viande  bovine");
 appendORreplace('#F31',"Recettes sur la fiscalité pétrolière");
