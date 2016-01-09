@@ -406,7 +406,7 @@ div.btn {
     font-size: 18px; /*for older browsers*/
     font-size: 1.8rem;
     font-weight: 400;
-    margin: 16px 0 0;
+    margin: 8px 0 0;
     color: #b09b4c; /* gold */
 }
 

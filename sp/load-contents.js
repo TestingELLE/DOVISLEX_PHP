@@ -100,9 +100,48 @@ appendORreplace('#S66',"En la Asamblea General de la Unión de Abogados Europeos
 appendORreplace('#S67',"El prestigioso mandato durará dos años y podrá ser renovado si es necesario");
 appendORreplace('#S68',"Wilma Viscardini galardonada con la toga de oro");
 appendORreplace('#S69',"El Consejo del Colegio de Abogados de Padua honra a la abogada Wilma Viscardini con la Toga de Oro en reconocimiento a sus 50 años de carrera profesional. ");
-//contracts.html
 
-//contracts.html
+//trademarks.html
+appendORreplace('#L16',"La marca europea confiere a su titular proteccion contra la reproduccion o imitacion de su marca en toda la Union Europea; más específicamente, el derecho a prohibir a un tercero el uso, sin su consentimiendo, de signos idénticos o similares a los designados por la marca (bajo ciertas condiciones este derecho se puede extender a productos o servicios distintos de aquellos para los que se ha registrado la marca).");
+appendORreplace('#L18',"tratar de conseguir que una marca registrada sea declarada inválida o revocada");
+appendORreplace('#L19',"apelar a las Juntas de Recurso");
+appendORreplace('#L20',"apelar ante el Tribunal de la Unión Europea contra las resoluciones de las Juntas de Recurso");
+
+
+//germania360.html
+appendORreplace('#S70',"Consultoría 360 en Alemania");
+appendORreplace('#L65',"El estudio Viscardini Donà ofrece una gama más amplia de servicios en Alemania. En particular, la firma ofrece servicios de consultoría y asistencia legal y fiscal para la apertura de negocios y actividades sin ánimo de lucro en Alemania, así como asistencia en el sector inmobiliario y otros sectores.");
+appendORreplace('#S71',"Empezar o registrar una entidad con o sin ánimo de lucro");
+appendORreplace('#L31',"Actuar como un agente registrado, oficina registrada");
+appendORreplace('#S72',"Asistir en la fase de negociación de una compra / venta y en el borrador de los contratos ");
+appendORreplace('#S73',"Proporcionar representación legal para / en las juntas de condominios");
+appendORreplace('#S74',"preparacion de devoluciones personales de impuestos, devoluciones de IVA");
+appendORreplace('#S75',"Derecho Civil: Contratos, Relaciones Laborales, Derecho de familia (separaciones, divorcios, el reconocimiento del cambio de nombre), derecho de sucesiones alemán e italiano");
+
+
+//azioni_ue.html
+appendORreplace('#S81',"Acciones legales basadas en el derecho de la UE");
+appendORreplace('#L39',"El derecho de la Unión Europea (o Derecho comunitario, como se llamó antes del Tratado de Lisboa, que entró en vigor el 1 de diciembre de 2009) es aplicable a todas las personas físicas y jurídicas, incluso las que viven / trabajan exclusivamente dentro de sus fronteras nacionales. ");
+appendORreplace('#L41',"El derecho de la UE puede ser invocado por todos aquellos que tengan un interés, a través de múltiples vías y jurisdicciones. ");
+appendORreplace('#S82',"Puesto que la Ley de la UE es aplicable en los Estados miembros, toda controversia sobre la interpretación o validez debe plantearse ante los tribunales nacionales. ");
+appendORreplace('#L42',"De hecho, los tribunales nacionales deben aplicar la Ley de la UE y, si tienen dudas sobre su interpretación o su validez, pueden - y, a veces deben - plantear al Tribunal de Justicia de Luxemburgo el elaborar una decisión preliminar");
+appendORreplace('#L43',"La responsabilidad de aplicar la Ley de la UE y hacerla cumplir, si es necesario, en cooperación con el Tribunal de Justicia de la Unión Europea con sede en Luxemburgo, descansa en primera instancia en los tribunales nacionales. ");
+appendORreplace('#L44',"De hecho, el órgano jurisdiccional nacional llamado a pronunciarse sobre un asunto (civil, penal, administrativo o tributario) cuyo resultado dependa de una norma de la UE o un principio de Derecho puede o debe (según el caso) suspender el procedimiento para plantear al Tribunal de Justicia una cuestión prejudicial sobre la interpretación correcta o la validez de esa regla / principio de conformidad con el artículo 267 del TFUE (Tratado de Funcionamiento de la Unión Europea)");
+appendORreplace('#L45',"La referencia a la Corte de Justicia es un instrumento muy importante para la cooperación entre los órganos jurisdiccionales nacionales y el Tribunal de Justicia, ya que proporciona a los primeros - por ejemplo - una interpretación del Derecho de la UE necesaria para resolver disputas ante dichos órganos jurisdiccionales (en los casos - por ejemplo - donde ambas partes se han basado en la ley de la UE, pero la interpretación es diferente, o cuando una de las partes ha invocado la Ley de la UE y la otra ley nacional). ");
+appendORreplace('#L46',"Aunque el fallo de referencia sólo puede ser iniciado por  decisión del juez nacional en el caso, a menudo es altamente recomendable que una o ambas partes en el caso insten a la activación de este instrumento. ");
+appendORreplace('#L47',"Durante este procedimiento, las partes en el caso nacional tienen derecho a presentar (en forma escrita y/u oral) observaciones ante el Tribunal de Justicia. Por lo tanto, tienen la oportunidad de jugar un papel activo para tratar de inducir a la Corte Europea a proporcionar una interpretación (o un juicio sobre la validez) de las normas comunitarias favorable a su tesis. ");
+appendORreplace('#S83',"Los socios de la firma tienen una considerable experiencia con estos procedimientos - habiendo aparecido en casi setenta procedimientos (hasta la fecha - Marzo 2015) ante el Tribunal General y el Tribunal de Justicia de la Unión Europea en Luxemburgo. ");
+appendORreplace('#S84',"aduanas (clasificación arancelaria de las mercancías importadas de países no pertenecientes a la UE); ");
+appendORreplace('#L51',"Una queja no obvia la necesidad, en su caso (también con el fin de evitar las prescripciones u órdenes de decomiso), de llevar adelante una acción legal prevista en el ámbito nacional; sin embargo, puede ser una herramienta 'estratégica' con el propósito de mejorar la protección de los clientes de la firma. ");
+appendORreplace('#L52',"De hecho, una queja puede - si parece bien fundada - llevar a la Comisión a presionar (si es necesario, a través de la apertura de 'procedimiento de infracción' formales según el artículo 258 TFUE) a las autoridades nacionales competentes (centrales o locales) para modificar la legislación o las prácticas administrativas internas consideradas contrarias a la legislación o la jurisprudencia comunitaria. ");
+appendORreplace('#S85',"Independientemente de la industria, la queja - a veces - le permite depositar en el marco de una causa nacional los avisos pendientes - si son favorables - que la Comisión Europea facilitará a la entidad denunciante. ");
+appendORreplace('#L56',"contra Italia por las medidas fiscales de haber planificado y ejecutado que deben considerarse una ayuda de Estado incompatible con las normas europeas (artículos 107 y 108 del TFUE);");
+appendORreplace('#L59',"Por último, la firma prepara, presenta y representa quejas al Defensor del Pueblo Europeo (de conformidad con el artículo 228 del TFUE) que investiga las quejas sobre mala administración de las instituciones y órganos de la Unión Europea.");
+appendORreplace('#L60',"Al igual que con otros tipos de quejas, una queja al Defensor del Pueblo Europeo - no está mal recalcarlo - no obvia la necesidad de iniciar posibles acciones legales ante el Tribunal de la Unión Europea. ");
+appendORreplace('#L61',"Sin embargo, a veces, puede ser una alternativa útil considerar otros procedimientos legales, como el Defensor del Pueblo Europeo, que podrá decidir alentar soluciones amistosas que satisfagan tanto al demandante como a la institución. ")
+
+
+//XXXX.html
 }
 
 /* If an element is empty, then appends value.
