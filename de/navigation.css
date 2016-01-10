@@ -130,18 +130,17 @@ li.menu-item.num-20 a:before { content: 'EU & Internationales Recht'}
 .num-20 .sub-menu.large li:nth-child(3) a:before {  content: 'Zollrecht';}
 .num-20 .sub-menu.large li:nth-child(4) a:before {content: 'EU-Handelsbeziehungen';}
 .num-20 .sub-menu.large li:nth-child(5) a:before {content: 'Import und Export EU-Ländern';}
-.num-20 .sub-menu.large li:nth-child(6) a:before { content: 'Handelsbeziehungen zwischen EU und Drittländer';}
-.num-20 .sub-menu.large li:nth-child(7) a:before {content: 'Landwirtschaft, Fischerei, Industrie, Umwelt';}
-.num-20 .sub-menu.large li:nth-child(8) a:before {content: 'Strafrecht und Verwaltungsstrafrecht über wirtschaftliche EU-Ressourcen';}
-.num-20 .sub-menu.large li:nth-child(9) a:before {content: 'Internationale Handelsverträge';}
-.num-20 .sub-menu.large li:nth-child(10) a:before {content: 'EU-Markenrecht';}
-.num-20 .sub-menu.large li:nth-child(11) a:before { content: 'Immobiliengesellschaft in Deutschland und in den USA';}
+.num-20 .sub-menu.large li:nth-child(6) a:before {content: 'Landwirtschaft, Fischerei, Industrie, Umwelt';}
+.num-20 .sub-menu.large li:nth-child(7) a:before {content: 'Strafrecht und Verwaltungsstrafrecht über wirtschaftliche EU-Ressourcen';}
+.num-20 .sub-menu.large li:nth-child(8) a:before {content: 'Internationale Handelsverträge';}
+.num-20 .sub-menu.large li:nth-child(9) a:before {content: 'EU-Markenrecht';}
+.num-20 .sub-menu.large li:nth-child(10) a:before { content: 'Immobiliengesellschaft in Deutschland und in den USA';}
 
 li.menu-item.num-30 a:before {  content: 'Nationales Recht'}
 .num-30 .sub-menu.large li:nth-child(1) a:before {content: 'Kartellrecht, staatliche Beihilfen, Wettbewerb';}
 .num-30 .sub-menu.large li:nth-child(2) a:before {content: 'Schiedsverfahren, ADR und Verhandlungsstrategie';}
 .num-30 .sub-menu.large li:nth-child(3) a:before {content: 'Landwirtschaft, Fischerei, Industrie, Umwelt';}
-.num-30 .sub-menu.large li:nth-child(4) a:before {content: 'EU-Wirtschaftstrafrecht und Verwaltungsstrafrecht über EU-Ressourcen';}
+.num-30 .sub-menu.large li:nth-child(4) a:before {content: 'Zollrecht und Verwaltungsstrafrecht über EU-Ressourcen';}
 .num-30 .sub-menu.large li:nth-child(5) a:before {content: 'Internationale Handelsverträge';}
 .num-30 .sub-menu.large li:nth-child(6) a:before {content: 'Markenrecht und Geschmacksmusterrecht';}
 .num-30 .sub-menu.large li:nth-child(7) a:before {content: '360° Beratung in Deutschland';}/*umfassende beratung*/

@@ -51,21 +51,28 @@ appendORreplace('#F28',"droit pénal et administratif concernant les ressources 
 //professionisti
 appendORreplace('#D8'," (depuis 1974)");
 
-//contenzioso php & html
-appendORreplace('#F39', "Affaire");
-appendORreplace('.Fm01',"Concurrence");
-appendORreplace('#F29',"Liste des affaires représentées par les partenaires du cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
+//contenzioso.php
+appendORreplace('#F29',"Affaires");
+appendORreplace('#F290',"Liste des affaires plaidées par les partenaires du cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
+appendORreplace('#291',"Ce tableau reprend uniquement les affaires qui ont atteint le Tribunal ou la Cour de justice. La grande majorité des dossiers traités ont lieu seulement devant les juridictions nationales, les autres institutions européennes ou sur un plan administratif.");
+appendORreplace('#F292',"Pour des raisons de confidentialité (en particulier, pour éviter l'identification du client), pour chaque affaire le numéro d'enregistrement a été omis. Pour chaque affaire sont rapportés:");
+appendORreplace('#F293',"la lettre T pour indiquer les procédures devant le Tribunal (jusqu'au 30 novembre 2009, dénommé le Tribunal de première instance);");
+appendORreplace('#F294',"la lettre C (ou aucune lettre) pour indiquer les procédures devant la Cour de justice;");
+appendORreplace('#F295',"la lettre P pour indiquer une procédure de pourvoi devant la Cour de justice contre les décisions du Tribunal;");
+appendORreplace('#F296',"l'année d'enregistrement de l'affaire;");
+appendORreplace('#F297',"la matière concernée et d'éventuelles précisions.");
+
+//contenzioso.html
 appendORreplace('#F30',"Aide pour l'extensification dans le secteur de la viande  bovine");
 appendORreplace('#F31',"Recettes sur la fiscalité pétrolière");
-appendORreplace('#F32',"Ce tableau répertorie uniquement les affaires qui ont atteint le Tribunal ou la Cour de justice. La grande majorité des affaires ont lieu devant les juridictions nationales, les autres institutions européennes, ou suivent les procédures administratives.");
-appendORreplace('#F33',"Pour des raisons de confidentialité (en particulier, pour éviter l'identification du client), pour chaque afaire le numéro de rôle a été omis. Pour chaque cas sont rapportés:");
-appendORreplace('#F34',"l'année de l'origine de l'affaire;");
 appendORreplace('#F35',"Recours en carence");
 appendORreplace('#F36',"Recours en carence");
 appendORreplace('#F37',"Taxe d'Etat de débarquement des produits pétroliers");
 appendORreplace('#F38',"Taxe de débarquement");
-
-
+appendORreplace('#F39',"Affaire");
+appendORreplace('#F296',"l'année d'enregistrement de l'affaire;");
+appendORreplace('#F297',"la matière concernée et d'éventuelles précisions.");
+//
 //concorrenza
 appendORreplace('#F41',"Le cabinet offre une aide qualifiée dans l'interprétation et l'application du droit antitrust de l'Union européenne (les cartels et les pratiques anticoncurrentielles, l'abus de position dominante et les aides d'État). Le cabinet a une expérience considérable dans ce domaine dans les procédures devant les tribunaux de l'Union européenne.");
 appendORreplace('#F42',"ententes anticoncurrentielles ");
@@ -93,8 +100,7 @@ appendORreplace('#F57',"différend entre les parties au contrat d'agence interna
 
 
 //PENALE-AMMINISTRATIVO.HTML
-appendORreplace('#F61',"Infractions pénales et administratives reliées à la fraude communautaire");
-appendORreplace('#F62',"Infractions pénales et administratives reliées à la fraude communautaire");
+appendORreplace('#F62',"Droit douanier et Infractions pénales-administratives reliées à la fraude communautaire");
 appendORreplace('#F63',"Le cabinet suit (directement ou en association avec des criminalistes) les procédures pénales et administratives en Italie pour 'la fraude communautaire', où l'opérateur commercial est accusé d'avoir illégalement reçu des fonds de l'UE ou d'avoir éludé le paiement des droits de douane. En fait, dans tous ces affaires, la question dépend de l'interprétation correcte de la législation européenne. ");
 appendORreplace('#F64',"TVA - la fraude fiscale (liée aux importations - Art. 70, D.P.R. n. 43/1973)");
 appendORreplace('#F65',"TVA - la fraude liée au commerce et aux transactions intracommunautaires (Art. 2, 3, 4, 8, décret-loi, No. 74/2000)");

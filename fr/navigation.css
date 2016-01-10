@@ -143,26 +143,25 @@ li.menu-item.num-20 a:before { content: "Droit UE et international";}
 .num-20 .sub-menu.large li:nth-child(3) a:before { content: "Droit douanier"; }
 .num-20 .sub-menu.large li:nth-child(4) a:before { content: "Les échanges à l'intérieur de l'Union européenne"; }
 .num-20 .sub-menu.large li:nth-child(5) a:before { content: "Les importations / exportations des / vers les pays extra UE"; }
-.num-20 .sub-menu.large li:nth-child(6) a:before { content: "Les relations commerciales UE / pays tiers"; }
-.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Agriculture, pêche, industrie, environnement"; }
-.num-20 .sub-menu.large li:nth-child(8) a:before { content: "Droit pénal et pénal-administratif en relation avec les ressources financières de l'Union"; }
-.num-20 .sub-menu.large li:nth-child(9) a:before { content: "Contrats commerciaux"; }
-.num-20 .sub-menu.large li:nth-child(10) a:before { content: "Marques communautaires"; }
-.num-20 .sub-menu.large li:nth-child(11) a:before { content: "Immobilier aux Etats-Unis et en Allemagne"; }
+.num-20 .sub-menu.large li:nth-child(6) a:before { content: "Agriculture, pêche, industrie, environnement"; }
+.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Droit pénal et pénal-administratif en relation avec les ressources financières de l'Union"; }
+.num-20 .sub-menu.large li:nth-child(8) a:before { content: "Contrats commerciaux"; }
+.num-20 .sub-menu.large li:nth-child(9) a:before { content: "Marques communautaires"; }
+.num-20 .sub-menu.large li:nth-child(10) a:before { content: "Immobilier aux Etats-Unis et en Allemagne"; }
 
 
-li.menu-item.num-30 a:before { content: "Droit national";}
+li.menu-item.num-30 a:before { content: "Droits nationaux";}
 .num-30 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, Aides d'Etat, Concurrence"; }
 .num-30 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Négociation, Médiation, Arbitrages"; }
 .num-30 .sub-menu.large li:nth-child(3) a:before { content: "Agriculture, pêche, industrie, environnement"; }
-.num-30 .sub-menu.large li:nth-child(4) a:before { content: "Droit pénal et pénal-administratif en relation avec les ressources financières de l'Union"; }
+.num-30 .sub-menu.large li:nth-child(4) a:before { content: "Droit douanier et pénal-administratif en relation avec les ressources financières de l'Union"; }
 .num-30 .sub-menu.large li:nth-child(5) a:before { content: "Contrats commerciaux"; }
 .num-30 .sub-menu.large li:nth-child(6) a:before { content: "Marques, Dessins et Modèles"; }
 .num-30 .sub-menu.large li:nth-child(7) a:before { content: "Conseil à 360° pour l'ouverture d'entreprises et activités commerciales en Allemagne"; }
 
-li.menu-item.num-40 a:before { content: "Actions fondées sur le droit de l'UE";}
+li.menu-item.num-40 a:before { content: "Actions fondées sur le droit UE";}
 
 
-li.menu-item.num-50 a:before { content: "Affaires devant la Cour de Justice de l'UE"; }
+li.menu-item.num-50 a:before { content: "Affaires devant la Cour de Justice UE"; }
 li.menu-item.num-60 a:before { content: "Bureaux"; }
 li.menu-item.num-70 a:before { content: "Actualités"; }

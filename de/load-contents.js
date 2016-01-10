@@ -148,6 +148,9 @@ appendORreplace('#F35',"Untätigkeitslage");
 appendORreplace('#F36',"Untätigkeitslage");
 appendORreplace('#F37',"Staatlche Entladegebühr von Erdölprodukten");
 appendORreplace('#F38',"Staatlche Entladegebühr");
+
+//penale-amministrativo.html
+appendORreplace('#F62',"Zollrecht & CRIMINAL / ORDNUNGSWIDRIGKEITEN GEMEINSCHAFTSBETRUGS");
 }
 
 

@@ -45,6 +45,7 @@ appendORreplace('#F82',"sobre la correcta interpretación de la normativa comuni
 appendORreplace('#F83',"sobre una regulación -declarada inválida- del Consejo de la Unión Europea, que prohíbe el uso de redes de deriva para la pesca del atún en el Mediterráneo. ");
 
 //penale-amministrativo.html
+appendORreplace('#F62',"ADUANAS Y LAS INFRACCIONES ADMINISTRATIVAS / PENALES RELACIONADAS CON EL FRAUDE COMUNITARIO");
 appendORreplace('#F63',"La firma sigue (directamente o en asociación con abogados penalistas) procedimientos penales y administrativos en Italia por presunto 'fraude comunitario', en los que se acusa al operador comercial de recibir ilegalmente fondos de la UE o de haber evadido el pago de derechos de aduana. De hecho, en todos estos casos, la cuestión depende de la correcta interpretación de la legislación europea. ");
 appendORreplace('#S21',"Contrabando (art. 282 y ss., Decreto Presidencial núm. 43/1973)");
 appendORreplace('#S22',"&ldquo;Fraude Comunitario&rdquo;(art. 2, L. n. 898/1986)");

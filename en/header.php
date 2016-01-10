@@ -9,11 +9,15 @@
    *  be used to tell the translator to what language it should translate to.
    *  
    *   This seems to work just as well
-   *    Cookies.set('googtrans', '/en/en', {path: ''}); */
+   *    Cookies.set('googtrans', '/en/en', {path: ''});
+   *    
+   *    Cookies.set('googtrans', '/en/en', {domain: '.localhost', path: ''}); //needed for safari
+   *    */
  
  
- Cookies.set('googtrans', '/en/en', {domain: '.localhost', path: ''}); //needed for safari
-  Cookies.set('googtrans', '/en/en', {path: ''});
+  Cookies.set('googtrans', '/en/en', {expires: 2, path: ''});
+  Cookies.set('googtrans', '/en/en', {expires: 2, path: '/'});
+ // it seems that if we don't set this second one explicitly, the browser (or at least Chrome) sets it automatically.
   
   /*  Function below is provided by Google, needed to translate the page */
   function googleTranslateElementInit() {
@@ -26,6 +30,7 @@
   }
 </script>
 
+
 <style>
   /*  Changes the color of the button selected to indicate that current page is
    *  in English */
@@ -34,8 +39,10 @@
   }
 </style>
 
-<!-- Script below is provided by Google, needed to translate the page -->
-<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>        
+<!-- Script below is provided by Google, needed to translate the page 
+removed for English
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>     
+-->
 
 <div class="notranslate">
   <div id="stars">
