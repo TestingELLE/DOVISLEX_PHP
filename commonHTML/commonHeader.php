@@ -9,9 +9,7 @@
     <a id ="lang-change-en" class="btn_language" 
        href="javascript:changeLang('lang-change-en');">EN</a>
     <a id= "lang-change-es" class="btn_language" 
-       href="javascript:changeLang('lang-change-es');">SP</a>
-      <!-- this was for control-click oncontextmenu="javascript:window.location.href = '../sp/index.php?page=index';" href="javascript:changeLang('lang-change-es');">SP</a>
-      -->
+       href="javascript:changeLang('lang-change-es');">ES</a>
     <a id= "lang-change-fr" class="btn_language" 
       href="javascript:changeLang('lang-change-fr');">FR</a>
     <a id= "lang-change-de" class="btn_language" 
