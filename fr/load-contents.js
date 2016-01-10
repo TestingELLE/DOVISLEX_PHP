@@ -52,9 +52,9 @@ appendORreplace('#F28',"droit pénal et administratif concernant les ressources 
 appendORreplace('#D8'," (depuis 1974)");
 
 //contenzioso.php
-appendORreplace('#F291',"Affaires");
-appendORreplace('#F29',"Liste des affaires plaidées par les partenaires du cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
-appendORreplace('#D1',"Ce tableau reprend uniquement les affaires qui ont atteint le Tribunal ou la Cour de justice. La grande majorité des dossiers traités ont lieu seulement devant les juridictions nationales, les autres institutions européennes ou sur un plan administratif.");
+appendORreplace('#F29',"Affaires");
+appendORreplace('#F290',"Liste des affaires plaidées par les partenaires du cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
+appendORreplace('#291',"Ce tableau reprend uniquement les affaires qui ont atteint le Tribunal ou la Cour de justice. La grande majorité des dossiers traités ont lieu seulement devant les juridictions nationales, les autres institutions européennes ou sur un plan administratif.");
 appendORreplace('#F292',"Pour des raisons de confidentialité (en particulier, pour éviter l'identification du client), pour chaque affaire le numéro d'enregistrement a été omis. Pour chaque affaire sont rapportés:");
 appendORreplace('#F293',"la lettre T pour indiquer les procédures devant le Tribunal (jusqu'au 30 novembre 2009, dénommé le Tribunal de première instance);");
 appendORreplace('#F294',"la lettre C (ou aucune lettre) pour indiquer les procédures devant la Cour de justice;");
