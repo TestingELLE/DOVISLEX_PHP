@@ -4,9 +4,7 @@
     <!-- 2015-12-12. Put notranslate here because googletranlsate would insert some extra spaces -->
   <header class="article-title notranslate"><h1>Casi</h1></header>
   <article>
-    <h2>Elenco delle cause patrocinate dai Partner dello Studio 
-      davanti al Tribunale e alla Corte di giustizia dell’Unione europea
-    </h2>
+    <h1>Elenco delle cause patrocinate dai Partner dello Studio davanti al Tribunale e alla Corte di giustizia dell’Unione europea  </h1>
     <br>
 
     <div id="contenzioso" class="notranslate"> <?php include('contenzioso_table.html'); ?>  </div>
