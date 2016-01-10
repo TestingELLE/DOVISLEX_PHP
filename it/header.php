@@ -15,9 +15,13 @@
   */
 
  
-  Cookies.set('googtrans', '/it/it', {expires: 4, path: ''});
+Cookies.set('googtrans', '/it/it', {expires: 4, path: ''});
+Cookies.set('googtrans', '/it/it', {expires: 4, path: '/'});
+// it seems that if we don't set this second one explicitly, the browser (or at least Chrome) sets it automatically.
 
-  /*  Function below is provided by Google, needed to translate the page */
+
+
+ /*  Function below is provided by Google, needed to translate the page */
   function googleTranslateElementInit() {
       new google.translate.TranslateElement({
           pageLanguage: 'en',
@@ -36,8 +40,10 @@
   }
 </style>
 
-<!-- Script below is provided by Google, needed to translate the page -->
-<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>        
+<!-- Script below is provided by Google, needed to translate the page 
+removed for English
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>     
+-->      
 
 <div class="notranslate">
   <div id="stars">

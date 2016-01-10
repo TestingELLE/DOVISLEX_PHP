@@ -16,7 +16,8 @@
  
  
   Cookies.set('googtrans', '/en/de', {expires: 1, path: ''});
-
+  Cookies.set('googtrans', '/en/de', {expires: 1, path: '/'});
+ // it seems that if we don't set this second one explicitly, the browser (or at least Chrome) sets it automatically.
 
 /*  Function below is provided by Google, needed to translate the page */
   function googleTranslateElementInit() {
