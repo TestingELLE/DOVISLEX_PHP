@@ -5,7 +5,7 @@
   </header>
 
   <article>
-    <h2 class="LcustomTranslation" id="F29">List of cases represented by partners of the Firm before the Tribunal and the Court of Justice of the European Union</h2>
+    <h1 class="LcustomTranslation" id="F29">List of cases represented by partners of the Firm before the Tribunal and the Court of Justice of the European Union</h1>
     <br>
 
     <div id="contenzioso"> <?php include('contenzioso_table.html'); ?> </div>

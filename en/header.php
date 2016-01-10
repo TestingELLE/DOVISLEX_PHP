@@ -29,7 +29,6 @@
       }, 'google_translate_element');
   }
 </script>
--->
 
 
 <style>

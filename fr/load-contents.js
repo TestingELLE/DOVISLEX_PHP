@@ -100,8 +100,7 @@ appendORreplace('#F57',"différend entre les parties au contrat d'agence interna
 
 
 //PENALE-AMMINISTRATIVO.HTML
-appendORreplace('#F61',"Infractions pénales et administratives reliées à la fraude communautaire");
-appendORreplace('#F62',"Infractions pénales et administratives reliées à la fraude communautaire");
+appendORreplace('#F62',"Droit douanier et Infractions pénales-administratives reliées à la fraude communautaire");
 appendORreplace('#F63',"Le cabinet suit (directement ou en association avec des criminalistes) les procédures pénales et administratives en Italie pour 'la fraude communautaire', où l'opérateur commercial est accusé d'avoir illégalement reçu des fonds de l'UE ou d'avoir éludé le paiement des droits de douane. En fait, dans tous ces affaires, la question dépend de l'interprétation correcte de la législation européenne. ");
 appendORreplace('#F64',"TVA - la fraude fiscale (liée aux importations - Art. 70, D.P.R. n. 43/1973)");
 appendORreplace('#F65',"TVA - la fraude liée au commerce et aux transactions intracommunautaires (Art. 2, 3, 4, 8, décret-loi, No. 74/2000)");
