@@ -9,10 +9,13 @@
    *  be used to tell the translator to what language it should translate to.
    *  
    *  This seems to wrok just as well
-   *  Cookies.set('googtrans', '/en/de', {path: ''}); */
+   *  Cookies.set('googtrans', '/en/de', {path: ''}); 
+   *  
+   *  
+   *   Cookies.set('googtrans', '/en/de', {domain: '.localhost', path: ''}); //needed for safari*/
  
-  Cookies.set('googtrans', '/en/de', {domain: '.localhost', path: ''}); //needed for safari
-  Cookies.set('googtrans', '/en/de', {path: ''});
+ 
+  Cookies.set('googtrans', '/en/de', {expires: 1, path: ''});
 
 
 /*  Function below is provided by Google, needed to translate the page */

@@ -10,10 +10,12 @@
    *  
    *  This seems to work just as well
    *  Cookies.set('googtrans', '/it/it', {path: ''});
+   *  
+   *  Cookies.set('googtrans', '/it/it', {domain: '.localhost', path: ''}); //needed for safari
   */
 
- Cookies.set('googtrans', '/it/it', {domain: '.localhost', path: ''}); //needed for safari
-  Cookies.set('googtrans', '/it/it', {path: ''});
+ 
+  Cookies.set('googtrans', '/it/it', {expires: 4, path: ''});
 
   /*  Function below is provided by Google, needed to translate the page */
   function googleTranslateElementInit() {
