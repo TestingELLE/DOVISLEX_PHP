@@ -5,17 +5,17 @@
   </header>
 
   <article>
-    <h1 class="LcustomTranslation" id="F290">List of cases represented by partners of the Firm before the Tribunal and the Court of Justice of the European Union</h1>
+    <h1 class="LcustomTranslation" id="F290">List of cases pled by partners of the Firm before the General Court and the Court of Justice of the European Union</h1>
     <br>
 
     <div id="contenzioso"> <?php include('contenzioso_table.html'); ?> </div>
 
-    <p class="LcustomTranslation" id="F291">This table only lists those cases that have reached the Tribunal or the Court of Justice. The great majority of cases take place before national Courts, other European institutions, or follow administrative proceedings.
+    <p class="LcustomTranslation" id="F291">This table only lists those cases that have reached the General Court or the Court of Justice. The great majority of cases take place before national Courts, other European institutions, or follow administrative proceedings.
     </p>
 
     <p class="notranslate"><b>Nota Bene</b></p>
 
-    <p class="LcustomTranslation" id="F292">For reasons of confidentiality (in particular, to avoid identification of the client), for each case the roll number was omitted. For each case are reported:
+    <p class="LcustomTranslation" id="F292">For reasons of confidentiality (in particular, to avoid identification of the client), for each case the Register number has been omitted. For each case are reported:
     </p>
 
     <ul>
