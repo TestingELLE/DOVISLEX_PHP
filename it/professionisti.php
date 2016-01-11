@@ -22,19 +22,6 @@
           e la Corte di giustizia delle Comunità europee a Lussemburgo; presso 
           la Corte europea dei Diritti dell'Uomo a Strasburgo; e in arbitrati 
           nazionali ed internazionali. Precedentemente ...
-          <br>
-          <br> 
-          &#149;&nbsp;Funzionario CEE a Lussemburgo e successivamente a 
-          Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro del 
-          Servizio giuridico della Commissione delle Comunità europee, 
-          incaricata di dare pareri sui progetti di atti normativi elaborati 
-          dalle direzioni generali della Commissione; assistere, per gli 
-          aspetti giuridici, i rappresentanti della Commissione in sede di 
-          discussione delle proposte della stessa, sia al Parlamento europeo 
-          che al Consiglio dei Ministri; rappresentare e difendere la 
-          Commissione davanti alla Corte di giustizia delle Comunità europee;
-          <br>
-          <br>
           &#149;&nbsp;Funzionario CEE a Lussemburgo e successivamente a 
           Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro 
           del Servizio giuridico della Commissione delle Comunità europee, 
