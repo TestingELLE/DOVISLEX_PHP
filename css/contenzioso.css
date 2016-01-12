@@ -26,21 +26,21 @@ tbody {
 }
 
 .materia {
-    width: 39%;
+    width: 31%;
     word-wrap: break-word;
     margin-right: 0.5%;
 }
 
 .argomento {
-    width: 30%;
+    width: 20%;
     word-wrap: break-word;
 }
 
 .settore {
-    width: 20%;
+    width: 19%;
 }
 
-.argomento, .settore, .industria {
+.materia, .argomento, .settore {
     font-weight: bold;
 }
 
