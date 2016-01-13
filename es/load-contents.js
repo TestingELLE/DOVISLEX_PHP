@@ -11,7 +11,25 @@
 function loadContents() {
     //example: appendORreplace('#L19', "appeal to the Boards of Appeal");
     //see DE/load-contents.js for more examples
+    //
+
+
+//contenzioso.php
+appendORreplace('#F290',"LISTA DE LOS ASUNTOS PATROCINADOS POR LOS SOCIOS DEL DESPACHO ANTE EL TRIBUNAL GENERAL Y EL TRIBUNAL DE JUSTICIA DE LA UNIÓN EUROPEA");
+appendORreplace('#F291',"Esta tabla sólo enumera aquellos asuntos que han llegado al Tribunal general o al Tribunal de Justicia. La gran mayoría de los casos tratados tienen lugar ante tribunales nacionales, otras instituciones europeas, o a nivel administrativo. ");
+appendORreplace('#F292',"Por razones de confidencialidad (en particular, para evitar la identificación del cliente), para cada asunto se ha omitido el número de registro Para cada asunto se informa: ");
+appendORreplace('#F293',"la letra T para indicar los procedimientos ante el Tribunal General (hasta el 30 de noviembre de 2009 llamado Tribunal de Primera Instancia); ");
+appendORreplace('#F294',"la letra C (o ninguna letra) para indicar un procedimiento ante el Tribunal de Justicia;");
+appendORreplace('#F295',"la letra P para indicar un procedimiento de casaciòn ante el Tribunal de Justicia contra las decisiones del Tribunal General;");
+appendORreplace('#F296',"el año de registro del asunto");
+appendORreplace('#F297',"la materia tratada y eventuales aclaraciones.");
+
+
+
 //contenzioso.html
+appendORreplace('.Em01',"Derecho agrario");
+appendORreplace('.Em02',"Importaciones de terceros paises");
+appendORreplace('.Em03',"Certificados de importación");
 appendORreplace('#F35',"Recursos por omisiòn");
 appendORreplace('#F36',"Recursos por omisiòn");
 
