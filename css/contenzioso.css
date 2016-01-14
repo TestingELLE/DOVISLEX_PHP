@@ -19,25 +19,25 @@ tbody {
 }
 
 .causa {
-    width: 9%;
+    width: 8%;
     margin-left: 0;
     margin-right: 0.5%;
     min-width: 52px
 }
 
 .materia {
-    width: 31%;
+    width: 33%;
     word-wrap: break-word;
     margin-right: 0.5%;
 }
 
 .argomento {
-    width: 20%;
+    width: 39%;
     word-wrap: break-word;
 }
 
 .settore {
-    width: 19%;
+    width: 20%;
 }
 
 .materia, .argomento, .settore {

@@ -26,7 +26,7 @@
       <li class="LcustomTranslation" id="F295">the letter <b>P</b> to indicate appeal proceedings before the <b>Court of Justice against decisions of the General Court</b>;
       </li>
       <li class="LcustomTranslation" id="F296">the year of rooting of the case;</li>
-      <li class="LcustomTranslation" id="F297">the subject matter and any clarifications.</li>
+      <li class="LcustomTranslation" id="F297">the subject-matter and any clarifications.</li>
     </ul>
   </article>
 
