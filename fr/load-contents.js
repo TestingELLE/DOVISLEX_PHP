@@ -67,10 +67,8 @@ appendORreplace('#F30',"Aide pour l'extensification dans le secteur de la viande
 appendORreplace('#F31',"Recettes sur la fiscalité pétrolière");
 appendORreplace('#F32',"Droits d'enregistrement");
 appendORreplace('#F33',"Filets maillants dérivants pour la pêche au thon en Méditerranée française");
-appendORreplace('#F35',"Recours en carence");
-appendORreplace('#F36',"Recours en carence");
+appendORreplace('.Em12',"Recours en carence");
 appendORreplace('#F37',"Taxe d'Etat de débarquement des produits pétroliers");
-appendORreplace('#F38',"Taxe de débarquement");
 appendORreplace('#F39',"Affaire");
 
 //

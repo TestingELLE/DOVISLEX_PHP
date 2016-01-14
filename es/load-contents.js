@@ -26,12 +26,30 @@ appendORreplace('#F297',"la materia tratada y eventuales aclaraciones.");
 
 
 
-//contenzioso.html
+//contenzioso-table.html
 appendORreplace('.Em01',"Derecho agrario");
 appendORreplace('.Em02',"Importaciones de terceros paises");
 appendORreplace('.Em03',"Certificados de importación");
-appendORreplace('#F35',"Recursos por omisiòn");
-appendORreplace('#F36',"Recursos por omisiòn");
+appendORreplace('.Em04',"Practicas colusorias");
+appendORreplace('.Em05',"Recurso de indemnización");
+appendORreplace('.Em06',"Ayudas de Estado");
+appendORreplace('.Em07',"Industria naval");
+appendORreplace('#E301',"Fiscalidad");
+appendORreplace('#F32',"Impuesto de inscripciòn registral");
+appendORreplace('#E302',"Subvenciones comunitarias");
+appendORreplace('.Em08',"Transparencia administrativa de las instituciones comunitarias");
+appendORreplace('#E303',"Medio ambiente - aguas lacustres franceses");
+appendORreplace('#E304',"Cuotas lecheras");
+appendORreplace('#E305',"Ventas por parte de los organismos de intervención");
+appendORreplace('#E306',"Subvenciones comunitarias");
+appendORreplace('#E307',"Medidas de salvaguardia");
+appendORreplace('.Em09',"Tasa fiscal de desembarque");
+appendORreplace('#E308',"Industria - petróleo");
+appendORreplace('.Em10',"Derechos sanitarios");
+appendORreplace('#E310',"Montantes compensatorios monetarios");
+appendORreplace('#E311',"Exportaciones a terceros países");
+appendORreplace('.Em11',"Restricciones cuantitativas");
+appendORreplace('.Em12',"Recurso por omisiòn");
 
 //concorrenza.html
 appendORreplace('#F41',"La firma ofrece asistencia calificada en la interpretación y aplicación de la ley antimonopolio de la Unión Europea (cárteles y las prácticas contrarias a la competencia, el abuso de posición dominante y ayudas estatales). La Firma cuenta con amplia experiencia en esta área en procedimientos ante los tribunales de la Unión Europea.");
