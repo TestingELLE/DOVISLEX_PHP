@@ -47,6 +47,8 @@ function loadContents() {
     
     
     //concorrenza.html
+    appendORreplace('##F42',"Kartellen");
+appendORreplace('##F49',"unlauteren Wettbewerb");
      appendORreplace('#L23', "Um eine Vorstellung von der Art der Fälle die die Kanzlei vor dem Gericht und dem Gerichtshof der europäischen Union vertreten, zu geben, hier verzeichnen wir die \"direkte\" Verfahren:");
      appendORreplace('#L1', "Maßnahmen um die von der europäischen Kommission verhängte Geldstrafen für die wettbewerbswidrigen Vereinbarungen im Stahlsektor wiederzusetzen;");
     appendORreplace('#L2', "Die Kanzlei erstellt und führt regelmäßig  Beschwerden vor der Europäischen Kommission:");
@@ -110,6 +112,7 @@ appendORreplace('#F1',"Insbesondere haben die Partner der Kanzlei bereits fast s
 appendORreplace('#D3',"Kapitalverkehr");
 appendORreplace('#D4',"Verträge");
 appendORreplace('#D5',"Kartellrecht und unlauterer Wettbewerb");
+appendORreplace('#F7',"Unionsmarken");
 appendORreplace('#F10',"Straf- und Strafverwaltungsrecht in Bezug auf EU-Mittel");
 appendORreplace('#D6',"360 ° Beratung und Unterstützung für Aktivitäten in Deutschland");
 appendORreplace('#F11',"GERICHTE UND VERFAHREN");

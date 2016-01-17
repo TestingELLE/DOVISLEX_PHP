@@ -28,14 +28,14 @@
     <h2>Settori di attività</h2>
     <br><strong>Diritto dell'Unione europea</strong>
     <ul>
-      <li>Antitrust, aiuti di Stato, concorrenza</li>
+      <li>Concorrenza, Aiuti di Stato</li>
       <li>Scambi di merci all’interno dell’area UE</li>
       <li>Importazioni/esportazioni da e verso Paesi extra UE</li>
       <li>Rapporti con i Paesi ACP</li>
       <li>Diritto doganale</li>
       <li>Diritto di stabilimento</li>
       <li>Circolazione dei capitali</li>
-      <li>Marchi</li>
+      <li>Marchi dell'Unione europea</li>
       <li>Agricoltura, pesca, industria, ambiente</li>
     </ul>
 
