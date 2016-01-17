@@ -167,9 +167,10 @@
         <h3>PAPERS PRESENTED AT MEETINGS / CONFERENCES / SEMINARS / COURSES:</h3>
         <div class="notranslate">
           <p>
-             &#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</br>
+              &#149;&nbsp;Speaker at Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
+          <p>
                     
-             &#149;&nbsp;Relatore su "La giurisprudenza della Corte 
+             &#149;&nbsp;Speaker on "La giurisprudenza della Corte 
             di giustizia dell’Unione europea in materia d’asilo e 
             immigrazione: recente casistica e aspetti procedurali”, 
             nell'ambito del Convegno "Madri migranti e minori: 
@@ -181,7 +182,7 @@
             (Bari, 5 ottobre 2015);
           </p>
 
-          <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte 
+          <p>&#149;&nbsp;Speaker on "La giurisprudenza della Corte 
             di giustizia dell'Unione europea in materia di ne bis in 
             idem tra sanzioni penali e amministrative”, nell'ambito 
             del Convegno "Novità reati tributari - responsabilità 
@@ -191,14 +192,14 @@
             (Cuneo, 18 settembre 2015);
           </p>
 
-          <p>&#149;&nbsp;Relatore su "Le citoyen européen sur le 
+          <p>&#149;&nbsp;Speaker on "Le citoyen européen sur le 
             plan personnel”, nell'ambito del Convegno "Le Citoyen 
             au coeur de l'Union européenne - De la Convention et 
             de la Charte à nos jours" organizzato dalla "Unione 
             degli Avvocati europei" (Malaga, 19 giugno 2015);
           </p>
 
-          <p>&#149;&nbsp;Relatore su "La tutela del contribuente 
+          <p>&#149;&nbsp;Speaker on "La tutela del contribuente 
             in sede pregiudiziale davanti alla Corte di giustizia 
             dell’Unione europea - Casi pratici”, nell'ambito del 
             Convegno "Accertamento tributario e reato nella pratica 

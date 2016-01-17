@@ -17,9 +17,9 @@
       International Trade law, the result of over 50 years of specific experience.
     </p>
 
-    <p class="LcustomTranslation" id="F1">In particular, the Partners of the Firm have appeared 
+    <p><span class="LcustomTranslation" id="F1">In particular, the Partners of the Firm have appeared 
       in almost <a href='index.php?page=contenzioso'> seventy proceedings </a> 
-      before the Court of Justice of the European Union in Luxembourg.
+      before the Court of Justice of the European Union in Luxembourg. </span><a href='index.php?page=contenzioso'> => Cases </a> 
     </p>
 
 
@@ -27,14 +27,14 @@
     </br><strong>European Union Law</strong>
 
     <ul>
-      <li>Antitrust, State aid, competition</li>
+      <li  class="LcustomTranslation" id="E1b">Competition, State aid</li>
       <li class="LcustomTranslation" id="F5">Trade within the EU</li>
       <li>Imports/exports to and from non-EU countries</li>
       <li>Relations with ACP countries</li>
       <li class="LcustomTranslation" id="F6">Customs Law</li>
       <li>Right of establishment </li>
       <li class="LcustomTranslation" id="D3">Movements of capitals</li>
-      <li class="LcustomTranslation" id="F7">EU Trademarks</li>
+      <li class="LcustomTranslation" id="F7">European Union trade marks</li>
       <li>Agriculture, fisheries, industry, environment</li>
     </ul>
 
@@ -87,9 +87,7 @@
     <p class="LcustomTranslation" id="D7">The Firm provides legal assistance with:</p>
     <ul>
       <li class="LcustomTranslation" id="F12">proceedings before the courts of Italy, Germany, Belgium and France (civil, criminal, administrative and tax)</li>
-      <li>proceedings in Italy before the courts of last instance 
-        (Court of Cassation, Council of State, the Constitutional 
-        Court, etc.);</li>
+      <li  class="LcustomTranslation" id="E12">proceedings in Italy before the courts of last instance (Court of Cassation, Council of State, the Constitutional Court, etc.);</li>
       <li class="LcustomTranslation" id="F13">proceedings before the General Court and the Court of Justice of the European Union in Luxembourg</li>
       <li class="LcustomTranslation" id="F14">proceedings before the European Court of Human Rights in Strasbourg</li>
       <li class="LcustomTranslation" id="F15">national and international arbitration proceedings</li>
