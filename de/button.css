@@ -10,7 +10,7 @@
 
 .items li:nth-child(1)  p:before {
     /*content: 'Kartellrecht, staatliche Beihilfen, Wettbewerbsrecht';*/
-    content: 'Antitrust, staatliche Beihilfen, Wettbewerb';
+    content: 'Antitrust, staatliche Beihilfen & Wettbewerb';
 }
 
 .items li:nth-child(1)  p:hover:before {
@@ -68,11 +68,11 @@
 }
 
 .items li:nth-child(8) p:before {
-    content: 'EU-Markenrecht';
+    content: 'Unionsmarken';
 }
 
 .items li:nth-child(8) p:hover:before {
-    content: 'Trademarks, models & designs';
+    content: 'EU trade marks';
 }
 
 .items li:nth-child(9) p:before {

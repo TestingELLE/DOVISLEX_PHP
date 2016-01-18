@@ -65,11 +65,11 @@
 }
 
 .items li:nth-child(8) p:before {
-    content: 'Marchi, disegni e modelli';
+    content: 'Marchi UE';
 }
 
 .items li:nth-child(8) p:hover:before {
-    content: 'Trademarks, models & designs';
+    content: 'EU trade marks';
 }
 
 .items li:nth-child(9) p:before {
