@@ -47,8 +47,10 @@ function loadContents() {
     
     
     //concorrenza.html
-    appendORreplace('##F42',"Kartellen");
-appendORreplace('##F49',"unlauteren Wettbewerb");
+appendORreplace('#F42',"Kartellen");
+appendORreplace('#D42',"Zusammenschlüsse");
+appendORreplace('#F49',"staatliche Beihilfen");
+appendORreplace('#D49',"unlauteren Wettbewerb");
      appendORreplace('#L23', "Um eine Vorstellung von der Art der Fälle die die Kanzlei vor dem Gericht und dem Gerichtshof der europäischen Union vertreten, zu geben, hier verzeichnen wir die \"direkte\" Verfahren:");
      appendORreplace('#L1', "Maßnahmen um die von der europäischen Kommission verhängte Geldstrafen für die wettbewerbswidrigen Vereinbarungen im Stahlsektor wiederzusetzen;");
     appendORreplace('#L2', "Die Kanzlei erstellt und führt regelmäßig  Beschwerden vor der Europäischen Kommission:");
@@ -105,7 +107,7 @@ appendORreplace('##F49',"unlauteren Wettbewerb");
     //other
     appendORreplace('#L5', "Zum Beispiel:");
     
-    //index/ about-us
+//de-nobis/ about-us
 appendORreplace('#D1',"WILLKOMMEN AUF DER WEBSEITE DER");
 appendORreplace('#D2',"Die Kanzlei verfügt über ein fundiertes Wissen des Unionsrechts und des internationalen Handelsrechts, das Ergebnis einer über 50 Jahre langen spezifischen Erfahrung.");
 appendORreplace('#F1',"Insbesondere haben die Partner der Kanzlei bereits fast siebzig Verfahren vor dem Gerichtshof der Europäischen Union in Luxemburg vertreten.");
@@ -118,9 +120,10 @@ appendORreplace('#D6',"360 ° Beratung und Unterstützung für Aktivitäten in D
 appendORreplace('#F11',"GERICHTE UND VERFAHREN");
 appendORreplace('#D7',"Die Kanzlei bietet Rechtsberatung für:");
 appendORreplace('#F12',"Verfahren vor den Gerichten von Italien, Deutschland, Belgien und Frankreich (Zivil-, Straf-, Verwaltungs- und Steuergerichtsbarkeit)");
-appendORreplace('#F13',"Verfahren in Italien vor den Gerichten letzter Instanz (Kassationsgerichtshof, Staatsrat, Verfassungsgericht, etc.);");
+appendORreplace('#F13',"Verfahren in Italien vor den Gerichten letzter Instanz (Kassationsgerichtshof, Staatsrat, Verfassungsgericht, etc.)");
 appendORreplace('#F15',"nationale und internationale Schiedsverfahren");
 appendORreplace('#F16',"Zusätzlich ist die Kanzlei – auch Dank der Position des Avv. Gabriele Donà als Vizepräsident der Union der europäischen Anwälte – mit einem breiten Netzwerk von Fachleuten verbunden, die besondere Erfahrungen vor allem in den Mitgliedstaaten der Europäischen Union und in den Vereinigten Staaten (New York, Houston) aufweisen.");
+appendORreplace('.F29',"Fälle");
 
 appendORreplace('#D8'," (seit 1974)");
 appendORreplace('#D9',"Senior Anwältin, die vor den italienischen, belgischen, französischen und luxemburgischen nationalen Gerichten aufgetreten ist; vor dem Obersten Kassationsgericht und anderen höheren italienischen Gerichten; vor dem Gericht und dem Gerichtshof der Europäischen Gemeinschaften in Luxemburg; vor dem Europäischen Gerichtshof für Menschenrechte in Straßburg; in Verwaltungsverfahren mit den EU-Institutionen; in nationalen und internationalen Schiedsverfahren. Vorher ...");
@@ -154,6 +157,8 @@ appendORreplace('#F38',"Staatlche Entladegebühr");
 
 //penale-amministrativo.html
 appendORreplace('#F62',"Zollrecht & CRIMINAL / ORDNUNGSWIDRIGKEITEN GEMEINSCHAFTSBETRUGS");
+
+
 }
 
 

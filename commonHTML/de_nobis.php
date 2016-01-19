@@ -9,21 +9,16 @@
   <article>
     <h2 class="LcustomTranslation" id="D1">Welcome to the site of</h2>
 
-    <h1 class="LcustomTranslation" id="F3">Law Firm 
-      <span class="notranslate">Donà Viscardini</span>
-    </h1>
+    <h1 class="notranslate LcustomTranslation" id="F3">Law Firm Donà Viscardini</h1>
 
-    <p class="LcustomTranslation" id="D2">The Firm has a deep knowledge of European Union law and of 
-      International Trade law, the result of over 50 years of specific experience.
+    <p class="LcustomTranslation" id="D2">The Firm has a deep knowledge of European Union law and of International Trade law, the result of over 50 years of specific experience.
     </p>
 
-    <p><span class="LcustomTranslation" id="F1">In particular, the Partners of the Firm have appeared 
-      in almost <a href='index.php?page=contenzioso'> seventy proceedings </a> 
-      before the Court of Justice of the European Union in Luxembourg. </span><a href='index.php?page=contenzioso'> => Cases </a> 
+    <p><span class="LcustomTranslation" id="F1">In particular, the Partners of the Firm have appeared in almost <a href='index.php?page=contenzioso'> seventy proceedings </a> before the Court of Justice of the European Union in Luxembourg. </span><span> =>  </span><a href='index.php?page=contenzioso'><span  class="LcustomTranslation F29"> Cases </span></a> 
     </p>
 
 
-    <h2 class="LcustomTranslation" id="F1">Practice Areas</h2>
+    <h2 class="LcustomTranslation" id="F4">Practice Areas</h2>
     </br><strong>European Union Law</strong>
 
     <ul>

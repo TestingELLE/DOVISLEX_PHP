@@ -28,7 +28,7 @@
     <h2>Settori di attività</h2>
     <br><strong>Diritto dell'Unione europea</strong>
     <ul>
-      <li>Concorrenza, Aiuti di Stato</li>
+      <li>Concorrenza, aiuti di Stato</li>
       <li>Scambi di merci all’interno dell’area UE</li>
       <li>Importazioni/esportazioni da e verso Paesi extra UE</li>
       <li>Rapporti con i Paesi ACP</li>

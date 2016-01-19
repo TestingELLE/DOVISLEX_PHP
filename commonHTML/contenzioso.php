@@ -1,7 +1,7 @@
 <link rel='stylesheet' type='text/css' href='../css/contenzioso.css'/>
 <div id="main-content">
   <header class="article-title notranslate">
-    <h1>Cases</h1>
+    <h1 class="LcustomTranslation F29">Cases</h1>
   </header>
 
   <article>

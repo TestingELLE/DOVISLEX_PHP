@@ -15,10 +15,12 @@ function loadContents() {
     //see DE/load-contents.js for more examples
     
     //INDEX.html
+    appendORreplace('#D2',"Le Cabinet a une profonde connaissance du droit de l'Union européenne et du droit du commerce international, le résultat de plus de 50 ans d'expérience spécifique.");
     appendORreplace('#F1', "En particulier, les associés du Cabinet ont plaidé quelques soixante-dix affaires devant la Cour de justice de l'Union européenne à Luxembourg.");
     appendORreplace('.F2', "DE NOBIS");
     appendORreplace('#F3', "CABINET D'AVOCATS DONÀ VISCARDINI");
     appendORreplace('#F4', "DOMAINES DE COMPÉTENCE");
+    appendORreplace('#E1b',"Concurrence, aides d'État");
     appendORreplace('#F5', "Commerce à l'intérieur de l'UE");
     appendORreplace('#F6', "Droit douanier");
     
@@ -52,7 +54,7 @@ appendORreplace('#F28',"droit pénal et administratif concernant les ressources 
 appendORreplace('#D8'," (depuis 1974)");
 
 //contenzioso.php
-appendORreplace('#F29',"Affaires");
+appendORreplace('.F29',"Affaires");
 appendORreplace('#F290',"Liste des affaires plaidées par les partenaires du Cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
 appendORreplace('#291',"Ce tableau reprend uniquement les affaires qui ont atteint le Tribunal ou la Cour de justice. La grande majorité des dossiers traités ont lieu seulement devant les juridictions nationales, les autres institutions européennes ou sur un plan administratif.");
 appendORreplace('#F292',"Pour des raisons de confidentialité (en particulier, pour éviter l'identification du client), pour chaque affaire le numéro d'enregistrement a été omis. Pour chaque affaire sont rapportés:");
@@ -112,7 +114,7 @@ appendORreplace('#F71',"Depuis les années 80, le Cabinet est très attentif aux
 appendORreplace('#L6',"demander le classement tarifaire exact des marchandises importées (ce qui détermine le taux d'imposition des droits de douane et/ou l'existence d'interdictions ou de restrictions éventuelles à l'importation); ");
 appendORreplace('#L7',"utiliser dans les règles de douane les entrepôts TVA (en particulier dans les zones franches); ");
 appendORreplace('#F72',"le traitement légal des marchandises en régime de suspension de droits. ");
-appendORreplace('#f73',"Accords relatifs à l'application de l'EEE (l'Espace économique européen) - entre l'UE et la Norvège, l'Islande et le Liechtenstein ");
+appendORreplace('#F73',"Accords relatifs à l'application de l'EEE (l'Espace économique européen) - entre l'UE et la Norvège, l'Islande et le Liechtenstein ");
 appendORreplace('#F74',"L'application des accords relatifs à l'OMS (l'Organisation mondiale du commerce)");
 appendORreplace('#F75',"La mise en  œuvre  des accords relatifs aux PECO (Pays d'Europe centrale et orientale )");
 appendORreplace('#F76',"Les accords relatifs aux pays ACP (Les pays d'Afrique, Caraїbes et Pacifique)");
@@ -121,7 +123,7 @@ appendORreplace('#F76',"Les accords relatifs aux pays ACP (Les pays d'Afrique, C
 //settori
 appendORreplace('#L11',"Le Cabinet offre une assistance hautement qualifiée dans le domaine de l'agriculture, de la pêcherie, de l'environnement. Cette assistance necessite souvent les relations avec les administrations et les agences publiques en ce qui concerne l'interprétation et l'application du droit communautaire. Dans de nombreux cas, les problèmes peuvent être résolus à ce stade sans le lancement d'une procédure devant les tribunaux. En même temps, le nombre et l'importance des affaires invoquées devant les tribunaux de l'Union européenne sont très considérables. ");
 appendORreplace('#F80',"Affaires");
-appendORreplace('#L27',"Pour donner une meilleure idée des types de dossiers représentés par le Cabinet devant le Tribunal et la Cour de justice de l'UE, nous présentons la liste pour bien illustrer quelques procédures 'directes': ");
+appendORreplace('#L27',"Pour donner une meilleure idée des types d'affaires plaidées par le Cabinet devant le Tribunal et la Cour de justice de l'UE, voici quelques exemples de procédures 'directes':");
 appendORreplace('#L29',"recours introduit en relation avec le rejet de la Commission d'une offre détenue par l'autorité autrichienne dans un appel d'offres pour la vente d'orge de la Communauté");
 appendORreplace('#F81',"concernant l'interprétation de la législation communautaire sur l'amélioration de l'efficacité des entreprises agricoles à l'égard du régime d'aide pour l'extensification de la production de la viande bovine; ");
 appendORreplace('#F82',"concernant l'interprétation et la validité de la législation communautaire sur les quotas laitiers; ");
@@ -136,7 +138,7 @@ appendORreplace('#L13',"Le Cabinet a établi de nombreux accords de distribution
 appendORreplace('#F91',"En vue de préserver vos intérêts commerciaux, il est plus important que jamais de s'appuyer sur le raisonnement détaillé et profond et pas seulement sur les ententes verbales ou les justifications succinctes présentées par écrit. Il s'agit d'une bonne stratégie d'affaires. Une préparation plus approfondie des clauses contractuelles qui intègre, le droit matériel et le droit procédural applicable, garantit au client d'une plus forte protection à la défense judiciaire et extrajudiciaire de ses droits en cas de défaut par d'un partenaire.");
 
 //trademarks
-appendORreplace('#L14',"Depuis 2000, le Cabinet est également présent dans le domaine de la propriété intellectuelle. Il est possible de déposer une demande d'enregistrement de marque de commerce de l'UE par le dépôt de dossier auprès de l'Office de l'harmonisation dans le marché intérieur (OHMI) à Alicante, l'Espagne. ");
+appendORreplace('#L14',"Depuis 2000, le Cabinet est également présent dans le domaine de la propriété intellectuelle. Il est possible de déposer une demande d'enregistrement d'une marque UE par le dépôt de dossier auprès de l'Office de l'Union européenne pour la propriété intellectuelle (EUIPO) à Alicante (Espagne).");
 appendORreplace('#L15',"La marque de commerce européenne, si elle est accordée, s'applique aux 28 États membres de l'Union européenne pendant une durée de 10 ans, et peut être renouvelée. Par conséquent, il est plus avantageux que de déposer une marque dans chaque pays (compte tenu les coûts associés). ");
 appendORreplace('#L16',"La marque européenne confère à son titulaire la protection contre la reproduction ou l'imitation de sa marque dans l'ensemble de l'Union européenne; plus particulièrement, le droit d'interdire à des tiers l'usage sans son consentement, des signes identiques ou similaires à ceux pour lesquels la marque est enregistrée (sous certaines conditions, ce droit comprend des produits ou des services d'autres que ceux auxquels la marque est enregistrée).");
 appendORreplace('#F101',"Dans certaines circonstances les actions suivantes sont possibles:");

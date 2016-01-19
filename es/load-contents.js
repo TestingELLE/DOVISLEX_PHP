@@ -15,6 +15,7 @@ function loadContents() {
 
 
 //contenzioso.php
+appendORreplace('.F29',"Asuntos");//& de nobis
 appendORreplace('#F290',"LISTA DE LOS ASUNTOS PATROCINADOS POR LOS SOCIOS DEL DESPACHO ANTE EL TRIBUNAL GENERAL Y EL TRIBUNAL DE JUSTICIA DE LA UNIÓN EUROPEA");
 appendORreplace('#F291',"Esta tabla sólo enumera aquellos asuntos que han llegado al Tribunal general o al Tribunal de Justicia. La gran mayoría de los casos tratados tienen lugar ante tribunales nacionales, otras instituciones europeas, o a nivel administrativo. ");
 appendORreplace('#F292',"Por razones de confidencialidad (en particular, para evitar la identificación del cliente), para cada asunto se ha omitido el número de registro Para cada asunto se informa: ");
@@ -52,8 +53,8 @@ appendORreplace('.Em11',"Restricciones cuantitativas");
 appendORreplace('.Em12',"Recurso por omisiòn");
 
 //concorrenza.html
-appendORreplace('#F42',"practicas collusorias");
-appendORreplace('#F49',"Ayuda de Estado");
+appendORreplace('#F42',"practicas colusorias");
+appendORreplace('#F49',"ayudas de Estado");
 appendORreplace('#F41',"La Firma ofrece asistencia calificada en la interpretación y aplicación de la ley antimonopolio de la Unión Europea (cárteles y las prácticas contrarias a la competencia, el abuso de posición dominante y ayudas estatales). La Firma cuenta con amplia experiencia en esta área en procedimientos ante los tribunales de la Unión Europea.");
 appendORreplace('#S1',"acciones para impugnar la declaración de la Comisión Europea de que algunas ayudas regionales para reducir el impacto de las plantas de acero eran ilegales");
 appendORreplace('#F47',"acciones para aplicar el estatuto de limitaciones al poder de la Comision Europea para conseguir multas dadas en un juicio final por acuerdos contrarios a la competencia");
@@ -75,6 +76,7 @@ appendORreplace('#F73',"Acuerdos relativos a la aplicación del Espacio Económi
 appendORreplace('#F74',"Acuerdos relativos a la aplicación de la OMC (Organización Mundial del Comercio) ");
 
 //settori.html
+appendORreplace('#L27',"Para dar una idea más clara del tipo de asuntos patrocinados por el Despacho ante el Tribunal General y el Tribunal de Justicia de la UE, enumeramos, como ejemplos, algunos procedimientos 'directos':");
 appendORreplace('#L28',"recurso de anulación contra una decisión de la Comisión por la que un proyecto de inversión para la racionalización de la producción de alfalfa deshidratada había sido excluido de la financiación comunitaria; ");
 appendORreplace('#L29',"acción contra el rechazo, por la Comisión, de una oferta en una licitación para la venta de cebada de la Comunidad en poder de la autoridad austriaca; ");
 appendORreplace('#S11',"acciones para impugnar una decisión de la Comisión que consideraba ilegal algunas ayudas regionales para reducir el impacto ambiental de las plantas de acero. ");
@@ -94,13 +96,13 @@ appendORreplace('#S31',"concesión de licencias y transferencia de tecnología")
 appendORreplace('#L13',"La Firma ha preparado numerosos acuerdos de distribución, con especial atención a los problemas - a menudo subestimados por los clientes - de conformidad con las disposiciones obligatorias relativas a la protección de la competencia previstas en la legislación europea. ");
 
 //de_nobis.html
-appendORreplace('#F3',"Despacho de abogados");
+appendORreplace('#F3',"Despacho de abogados Donà Viscardini");
 appendORreplace('#F1',"En particular, los socios de la Firma han aparecido en casi setenta procedimientos ante el Tribunal de Justicia de la Unión Europea en Luxemburgo. ");
-appendORreplace('#E1b',"Cpmpetencia, Ayudas de Estado");
+appendORreplace('#E1b',"Competencia, ayudas de Estado");
 appendORreplace('#S41',"Las relaciones comerciales de la UE con terceros países");
 appendORreplace('#F10',"Ley administrativa  y penal en relación con los fondos de la UE");
-appendORreplace('#F12',"procedimientos ante los tribunales de Italia, Alemania, Bélgica y Francia (civil, penal, administrativo y fiscal");
-appendORreplace('#E12',"procedimientos en Italia ante los tribunales de última instancia (Tribunal de Casación, el Consejo de Estado, el Tribunal Constitucional, etc.);");
+appendORreplace('#F12',"procedimientos ante los tribunales de Italia, Alemania, Bélgica y Francia (civil, penal, administrativo y fiscal)");
+appendORreplace('#E12',"procedimientos en Italia ante los tribunales de última instancia (Tribunal de Casación, el Consejo de Estado, el Tribunal Constitucional, etc.)");
 appendORreplace('#F13',"procedimientos ante el Tribunal General y el Tribunal de Justicia de la Unión Europea en Luxemburgo");
 appendORreplace('#F14',"procedimientos ante el Tribunal Europeo de Derechos Humanos en Estrasburgo");
 appendORreplace('#D6',"Consultoría de 360 ° y Asistencia para actividades en Alemania");
@@ -110,6 +112,7 @@ appendORreplace('#F18',"Además, la abogada Viscardini, fue durante años profes
 appendORreplace('#F19',"Posteriormente, la abogada Viscardini ha recibido la ayuda de sus hijos, el abogado Gabriele Donà y la abogada Simonetta Dona, ambos con amplia experiencia profesional y académica. ");
 appendORreplace('#S42',"El abogado Gabriele fue profesor de derecho procesal de la Unión Europea de la Universidad de Ferrara (2008-2013) y es invitado regularmente como ponente en congresos nacionales e internacionales. En noviembre de 2014, en Cracovia, fue elegido vicepresidente de la Unión de Abogados Europeos con sede en Luxemburgo. ");
 appendORreplace('#S43',"La abogada Simonetta Dona es profesora de derecho comercial, corporativo y contratos de derecho en la Universidad Humboldt de Berlín (desde 2001). ");
+appendORreplace('.F29',"Asuntos");
 
 //professionisti.html
 appendORreplace('#D9',"Abogado senior que ha comparecido ante los tribunales nacionales italianos, belgas, franceses y luxemburgueses; la Corte Suprema de Casación y otros tribunales italianos superiores; el Tribunal y el Tribunal de Justicia de las Comunidades Europeas en Luxemburgo; el Tribunal Europeo de Derechos Humanos en Estrasburgo; en procedimientos administrativos con las instituciones de la UE; en arbitraje nacional e internacional. Anteriormente ... ");
@@ -147,6 +150,7 @@ appendORreplace('#S68',"Wilma Viscardini galardonada con la toga de oro");
 appendORreplace('#S69',"El Consejo del Colegio de Abogados de Padua honra a la abogada Wilma Viscardini con la Toga de Oro en reconocimiento a sus 50 años de carrera profesional. ");
 
 //trademarks.html
+appendORreplace('#L14',"Desde el año 2000 la firma también está activa en el ámbito de la propiedad intelectual. Es posible registrar una marca UE a través de una solicitud a la Oficina de Propiedad Intelectual de la Unión Europea  (EUIPO) en Alicante (España).");
 appendORreplace('#L16',"La marca europea confiere a su titular proteccion contra la reproduccion o imitacion de su marca en toda la Union Europea; más específicamente, el derecho a prohibir a un tercero el uso, sin su consentimiendo, de signos idénticos o similares a los designados por la marca (bajo ciertas condiciones este derecho se puede extender a productos o servicios distintos de aquellos para los que se ha registrado la marca).");
 appendORreplace('#L18',"tratar de conseguir que una marca registrada sea declarada inválida o revocada");
 appendORreplace('#L19',"apelar a las Juntas de Recurso");
