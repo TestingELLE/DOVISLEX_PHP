@@ -21,8 +21,8 @@
           giurisdizioni superiori italiane; presso il Tribunale di primo grado 
           e la Corte di giustizia delle Comunità europee a Lussemburgo; presso 
           la Corte europea dei Diritti dell'Uomo a Strasburgo; e in arbitrati 
-          nazionali ed internazionali. Precedentemente ...
-          &#149;&nbsp;Funzionario CEE a Lussemburgo e successivamente a 
+          nazionali ed internazionali. Precedentemente ...</p>
+          <p>&#149;&nbsp;Funzionario CEE a Lussemburgo e successivamente a 
           Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro 
           del Servizio giuridico della Commissione delle Comunità europee, 
           incaricata di dare pareri sui progetti di atti normativi elaborati 
@@ -31,32 +31,20 @@
           discussione delle proposte della stessa, sia al Parlamento europeo 
           che al Consiglio dei Ministri; rappresentare e difendere la 
           Commissione davanti alla Corte di giustizia delle Comunità europee;
-          <br>
-          <br>
-          &#149;&nbsp;Docente di Diritto comunitario e degli Scambi 
+          </p>
+          <p>&#149;&nbsp;Docente di Diritto comunitario e degli Scambi 
           internazionali - Facoltà di Scienze Politiche e Facoltà di 
-          Agraria - Università di Padova (dal 1974 al 1999)
-          <br>
-          <br>
-          &#149;&nbsp;Autore di numerose 
-          <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>,
-          tra cui le seguenti:
-          <br>
+          Agraria - Università di Padova (dal 1974 al 1999)</p>
+       
+          <p>&#149;&nbsp;Autore di numerose <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>, tra cui le seguenti:</p>
           <div class="publications notranslate">
           - <a href="index.php?page=biblios#trattato" target="central">
             <i>"Trattato breve di Diritto agrario italiano e comunitario"</i>
           </a>,
-          diretto da L&nbsp; Costato, Cedam, I edizione (1994), II 
-          edizione (1997) e III edizione (2003)
+          diretto da L&nbsp; Costato, Cedam, I edizione (1994), II edizione (1997) e III edizione (2003)
           <br>
           - <a href="index.php?page=biblios#la_tutela" target="central">
-            <i>"La tutela penale e amministrativa degli operatori 
-              economici e gli interessi finanziari dell'Unione europea 
-              - Aspetti sostanziali e procedurali in materia di: 
-              contrabbando, evasione i&nbsp;v&nbsp;a&nbsp;, truffa, 
-              frode comunitaria, malversazione, sgravi e rimborsi 
-              doganali, restituzioni all'esportazione"</i>
-          </a>, Cedam (2000)
+            <i>"La tutela penale e amministrativa degli operatori economici e gli interessi finanziari dell'Unione europea - Aspetti sostanziali e procedurali in materia di: contrabbando, evasione i&nbsp;v&nbsp;a&nbsp;, truffa, frode comunitaria, malversazione, sgravi e rimborsi doganali, restituzioni all'esportazione"</i></a>, Cedam (2000)
           <br>
           - <a href="index.php?page=biblios#diritto_agrario" target="central">
             <i>"Diritto agrario e forestale italiano e comunitario"</i>
@@ -65,7 +53,7 @@
           (1996) e II edizione (1999)
           <br>
           </div> <!-- publications -->
-          &#149;&nbsp;Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
+          <p>&#149;&nbsp;Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
           <a href="index.php?page=bibliografia" target="central">articoli</a>&nbsp; in
           materia di diritto comunitario, in particolare di commento a 
           sentenze del Tribunale di primo grado e della Corte di giustizia 
@@ -111,19 +99,9 @@
         </p>
         <ul>
           <li>Corte di cassazione e alle altre Magistrature superiori</li>
-          <li> la Corte di giustizia dell'Unione europea a Lussemburgo
-            [al 20 febbraio 2015, in 28 procedimenti relativi alle 
-            seguenti materie: diritto agrario dell'Unione
-            europea, pesca, ambiente, importazioni da Paesi terzi, 
-            intese (antitrust), aiuti di Stato, fiscalità,
-            doganale, diritto parlamentare europeo, trasparenza amministrativa 
-            delle istituzioni dell'Unione europea, funzione
-            pubblica europea]
-          </li>
+          <li>la Corte di giustizia dell'Unione europea a Lussemburgo [al 20 febbraio 2015, in 28 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
           <li>Corte europea dei diritti dell'uomo a Strasburgo</li>
-          <li>giurisdizioni belga e tedesca nonché in arbitrati nazionali 
-            e internazionali.
-          </li>
+          <li>giurisdizioni belga e tedesca nonché in arbitrati nazionali e internazionali.</li>
         </ul>
 
         <h4>Specifici settori di attività seguiti:</h4>
@@ -139,182 +117,180 @@
 
         <h4>Lingue di lavoro:</h4>
 
-        <p>italiano, francese, inglese, spagnolo</p><br>
-        <h3>Docenze universitarie/post-universitarie:</h3>
+        <p>italiano, francese, inglese, spagnolo</p>
+        <h4>Docenze universitarie/post-universitarie:</h4>
 
         <p>Professore (nell'ambito del "Modulo europeo Jean Monnet") di 
           "Diritto processuale dell'Unione europea: il contenzioso davanti 
           alla Corte di giustizia dell'Unione europea" presso il
           Dipartimento di Giurisprudenza dell'Università di Ferrara 
-          -- sede di Rovigo (2008-2013)<br></p>
+          -- sede di Rovigo (2008-2013)</p>
 
-        <h3>Appartenenza ad Associazioni scientifiche o professionali:</h3>
+        <h4>Appartenenza ad Associazioni scientifiche o professionali:</h4>
 
         <p>&#149;&nbsp;Vicepresidente della U.A.E. (Unione degli Avvocati 
-          europei) con sede a Lussemburgo<br>
-          &#149;&nbsp;Coordinatore del Gruppo di studio Triveneto del 
+          europei) con sede a Lussemburgo</p>
+          <p>&#149;&nbsp;Coordinatore del Gruppo di studio Triveneto del 
           “Centro di diritto penale tributario, comunitario e delle 
           materie collegate” di Torino (Associazione italiana di esperti 
-          di Diritto dell'Unione europea a tutela degli interessi finanziari dell'Unione)
-          <br>
-        </p>
+          di Diritto dell'Unione europea a tutela degli interessi finanziari dell'Unione)</p>
 
-        <h3>Relazioni a convegni/conferenze/seminari/corsi di perfezionamento:</h3>
+        <h4>Relazioni a convegni/ conferenze/ seminari/ corsi di perfezionamento:</h4>
         <div class="notranslate"> <!-- papers -->
                 <p>
-                &#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</br>
-                &#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia dell'Unione europea in materia di ne bis in idem tra sanzioni penali e "amministrative"”, nell'ambito dell'Incontro di studio "Il ne bis in idem in ambito tributario" organizzato dal "Dipartimento di Scienze Politiche, Giuridiche e Studi Internazionali dell'Università degli Studi di Padova" (Rovigo, 6 novembre 2015)</br>
-                &#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</br>
- 
-              &#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia 
+                &#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
+                <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia dell'Unione europea in materia di ne bis in idem tra sanzioni penali e "amministrative"”, nell'ambito dell'Incontro di studio "Il ne bis in idem in ambito tributario" organizzato dal "Dipartimento di Scienze Politiche, Giuridiche e Studi Internazionali dell'Università degli Studi di Padova" (Rovigo, 6 novembre 2015)</p>
+                <p>&#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
+                
+              <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia 
               dell’Unione europea in materia d’asilo e immigrazione: recente 
               casistica e aspetti procedurali”, nell'ambito del Convegno "Madri 
               migranti e minori: diritti e accoglienza - Nuove frontiere 
               professionali per l’avvocato europeo" organizzato dalla Commissione 
               “Famiglia” dell’Unione degli Avvocati europei, dall'"Ordine degli 
               Avvocati di Bari", dall'"Osservatorio Nazionale sul diritto di 
-              famiglia", da "Save the Children" (Bari, 5 ottobre 2015)<br>
+              famiglia", da "Save the Children" (Bari, 5 ottobre 2015)</p>
 
-              &#149;&nbsp;Relatore su "La giurisprudenza della Corte di 
+              <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte di 
               giustizia dell'Unione europea in materia di ne bis in idem 
               tra sanzioni penali e amministrative”, nell'ambito del Convegno 
               "Novità reati tributari - responsabilità amministrativa - abuso 
               di diritto e frodi fiscali" organizzato dal "Centro di diritto 
               penale tributario, comunitario e delle materie collegate" di 
-              Torino (Cuneo, 18 settembre 2015)<br>
+              Torino (Cuneo, 18 settembre 2015)</p>
 
-              &#149;&nbsp;Relatore su "Le citoyen européen sur le plan 
+              <p>&#149;&nbsp;Relatore su "Le citoyen européen sur le plan 
               personnel”, nell'ambito del Convegno "Le Citoyen au coeur 
               de l'Union européenne - De la Convention et de la Charte à 
               nos jours" organizzato dalla "Unione degli Avvocati europei" 
-              (Malaga, 19 giugno 2015)<br>
+              (Malaga, 19 giugno 2015)</p>
 
-              &#149;&nbsp;Relatore su "La tutela del contribuente in sede 
+              <p>&#149;&nbsp;Relatore su "La tutela del contribuente in sede 
               pregiudiziale davanti alla Corte di giustizia dell’Unione 
               europea - Casi pratici”, nell'ambito del Convegno "Accertamento 
               tributario e reato nella pratica professionale quotidiana - La 
               tutela nazionale ed europea del contribuente" organizzato dal 
               "Centro di diritto penale tributario, comunitario e delle materie 
-              collegate" di Torino (Creazzo, 29 maggio 2015)<br>
+              collegate" di Torino (Creazzo, 29 maggio 2015)</p>
 
-              &#149;&nbsp;Relatore su "La regolarizzazione fiscale dei capitali 
+              <p>&#149;&nbsp;Relatore su "La regolarizzazione fiscale dei capitali 
               detenuti all'estero e dei proventi generati da tali capitali 
               ("voluntary disclosure")", convegno organizzato da Uniteis eG 
               nell'ambito del M.I.G. - Longarone Fiere (Longarone, 
-              2 dicembre 2014)<br>
+              2 dicembre 2014)</p>
 
-              &#149;&nbsp;Relatore su "La disapplicazione delle norme 
+              <p>&#149;&nbsp;Relatore su "La disapplicazione delle norme 
               (sostanziali e processuali) nazionali a seguito
               delle pronunce pregiudiziali della Corte di giustizia 
               dell’Unione europea”, nell'ambito del Convegno "I principi 
               comunitari fondamentali nell'ordinamento tributario italiano" 
               organizzato dall'Università di Padova e dalla Associazione 
               Nazionale Tributaristi
-              Italiani - Sez. Veneto (Rovigo, 28 giugno 2013) <br>
+              Italiani - Sez. Veneto (Rovigo, 28 giugno 2013) </p>
 
-              &#149;&nbsp;Relatore della lezione "Giudice del lavoro e 
+              <p>&#149;&nbsp;Relatore della lezione "Giudice del lavoro e 
               rinvio pregiudiziale alla Corte di giustizia
               dell’Unione europea: aspetti procedurali e recente 
               casistica giurisprudenziale”, nell'ambito del "Corso di 
               perfezionamento in Diritto
               del Lavoro", per Avvocati, organizzato dall'Università 
-              "Statale" di Milano (Milano, 18 gennaio 2013) <br>
+              "Statale" di Milano (Milano, 18 gennaio 2013) </p>
 
-              &#149;&nbsp;Relatore alla conferenza "La clausola contrattuale 
+              <p>&#149;&nbsp;Relatore alla conferenza "La clausola contrattuale 
               attributiva della competenza e il foro
               alternativo del luogo di esecuzione dell'obbligazione dedotta 
               in giudizio in materia contrattuale alla luce del reg. 
               (CE) n. 44/2001 e della
               giurisprudenza della Corte di Giustizia dell'Unione Europea”, 
               organizzata dalla Camera civile di Ferrara (Ferrara, 14
-              dicembre 2012)<br>
+              dicembre 2012)</p>
 
-              &#149;&nbsp;Relatore a un convegno sugli obblighi dei cittadini 
+              <p>&#149;&nbsp;Relatore a un convegno sugli obblighi dei cittadini 
               italiani che operano in Germania nei
               confronti del fisco italiano, organizzato da Uniteis eG 
               nell'ambito del M.I.G. - Longarone Fiere (Longarone, 4 dicembre
               2012)
-              <br>
+              </p>
 
-              &#149;&nbsp;Relatore alla conferenza "Giudice civile e rinvio 
+              <p>&#149;&nbsp;Relatore alla conferenza "Giudice civile e rinvio 
               pregiudiziale alla Corte di giustizia
               dell’Unione europea: aspetti procedurali e recente casistica 
               giurisprudenziale”, organizzata dalla Camera civile di 
               Ferrara (Ferrara,
-              26 maggio 2011) <br>
+              26 maggio 2011) </p>
 
-              &#149;&nbsp;Relatore a un convegno sulle problematiche 
+              <p>&#149;&nbsp;Relatore a un convegno sulle problematiche 
               fiscali e amministrative attinenti alla residenza
               di chi opera in più Stati membri dell'Unione europea, 
               organizzato da Uniteis eG nell'ambito del M.I.G. - 
               Longarone Fiere
-              (Longarone, 30 novembre 2010) <br>
+              (Longarone, 30 novembre 2010) </p>
 
-              &#149;&nbsp;Moderatore al seminario "Il rinvio pregiudiziale 
+              <p>&#149;&nbsp;Moderatore al seminario "Il rinvio pregiudiziale 
               alla Corte di giustizia dell’Unione europea
               da parte del Giudice nazionale e le novità introdotte dal 
               Trattato di Lisbona”, organizzato presso l'Aula Magna della 
               Facoltà di
               Giurisprudenza dell'Università di Ferrara 
-              (Ferrara, 25 giugno 2010) <br>
+              (Ferrara, 25 giugno 2010)</p>
 
-              &#149;&nbsp;Relatore alla conferenza "Il rinvio pregiudiziale 
+              <p>&#149;&nbsp;Relatore alla conferenza "Il rinvio pregiudiziale 
               alla Corte di giustizia dell’Unione
               europea da parte del Giudice nazionale”, organizzata dall'Ordine 
-              degli Avvocati di Marsala (Marsala, 18 giugno 2010) <br>
+              degli Avvocati di Marsala (Marsala, 18 giugno 2010) </p>
 
-              &#149;&nbsp;Moderatore al seminario "Il ruolo dei Giudici 
+              <p>&#149;&nbsp;Moderatore al seminario "Il ruolo dei Giudici 
               nazionali e della Corte di giustizia nel
               processo di integrazione europea”, organizzato presso 
               l'Aula Magna della Facoltà di Giurisprudenza dell'Università 
               di Ferrara (Ferrara, 5
-              giugno 2009) <br>
+              giugno 2009) </p>
 
-              &#149;&nbsp;Relatore, in lingua inglese, all’interno del 
+              <p>&#149;&nbsp;Relatore, in lingua inglese, all’interno del 
               "panel" "Law enforcement authorities and the
               protection of the financial interests of the European Community", 
               nell’ambito del Convegno internazionale “European and national
               institutions combating fraud and corruption - what is the future 
-              of the cooperation?” (Varsavia, 15-17 novembre 2007)<br>
+              of the cooperation?” (Varsavia, 15-17 novembre 2007)</p>
 
-              &#149;&nbsp;Incaricato di un seminario sul "Contenzioso 
+              <p>&#149;&nbsp;Incaricato di un seminario sul "Contenzioso 
               comunitario" nell’ambito del corso di "Diritto
               dell’Unione europea" presso la Facoltà di Giurisprudenza 
-              dell'Università di Ferrara (10-12 dicembre 2007)<br>
+              dell'Università di Ferrara (10-12 dicembre 2007)</p>
 
-              &#149;&nbsp;Incaricato di un seminario, in lingua spagnola, 
+              <p>&#149;&nbsp;Incaricato di un seminario, in lingua spagnola, 
               su "L’organizzazione del mercato
               agroalimentare dell’Unione europea" nell’ambito del corso 
               post-universitario di "Globalizzazione, negoziazioni e 
               commercio agricolo
               internazionale" presso la Facoltà di Giurisprudenza e di 
               Scienze sociali e politiche dell’Università nazionale del Nordeste
-              (Argentina) (17 settembre 2004)<br>
+              (Argentina) (17 settembre 2004)</p>
 
-              &#149;&nbsp;Incaricato di seminari su "Introduzione 
+              <p>&#149;&nbsp;Incaricato di seminari su "Introduzione 
               all'Unione Europea, alle Comunità Europee e alle
               Fonti del Diritto Comunitario" nell’ambito del corso 
               di "Legislazione forestale e ambientale" presso la 
               Facoltà di Agraria
               dell’Università di Padova (anni accademici 2002/2003, 
-              2003/2004, 2004/2005, 2005/2006)<br>
+              2003/2004, 2004/2005, 2005/2006)</p>
 
-              &#149;&nbsp;Relatore, in lingua inglese, all’interno del 
+              <p>&#149;&nbsp;Relatore, in lingua inglese, all’interno del 
               “panel” “Harmonisation of the criminal law with
               EU instruments with respect to the protection of the financial 
               interests of the Community”, nell’ambito del Convegno
               internazionale “Protection of the financial interests of the 
               European Union of 25: new challenges, old obstacles” 
-              (Sopot, 16-19 marzo 2006) <br>
+              (Sopot, 16-19 marzo 2006) </p>
 
-              &#149;&nbsp;Direttore scientifico e Coordinatore di un corso 
+              <p>&#149;&nbsp;Direttore scientifico e Coordinatore di un corso 
               (e, al suo interno, Moderatore delle 18
               lezioni tenutesi e Incaricato della docenza di una di esse) 
               di specializzazione e aggiornamento per professionisti su
               “Diritto comunitario istituzionale, sanzionatorio e processuale” 
-              (Padova, maggio-ottobre 2005) <br>
+              (Padova, maggio-ottobre 2005) </p>
 
-              &#149;&nbsp;Docente di un seminario per professionisti su 
+              <p>&#149;&nbsp;Docente di un seminario per professionisti su 
               “La tutela degli operatori economici a fronte
               del diniego o del recupero, da parte della Pubblica 
               Amministrazione, delle agevolazioni finanziarie previste 
@@ -322,19 +298,18 @@
               comunitaria. Aspetti sostanziali e procedurali 
               (in ambito civile, amministrativo e penale) con particolare 
               riguardo al comparto
-              agro-alimentare” (Bari, 9 febbraio 2004) <br>
+              agro-alimentare” (Bari, 9 febbraio 2004) </p>
 
-              &#149;&nbsp;Incaricato di un seminario sul 
+              <p>&#149;&nbsp;Incaricato di un seminario sul 
               “Processo comunitario” nell’ambito del Master “Diritto ed
               Economia dell’Unione delle Comunità europee”, organizzato 
               dal “Consorzio Provinciale Formazione” di Ferrara e 
-              finanziato dal Fondo sociale europeo (Ferrara, 10 giugno 2003)<br>
+              finanziato dal Fondo sociale europeo (Ferrara, 10 giugno 2003)</p>
 
-              &#149;&nbsp;Docente di “Contrattualistica internazionale” 
+              <p>&#149;&nbsp;Docente di “Contrattualistica internazionale” 
               in corsi di formazione professionale
               organizzati da “Ascom-Next” e finanziati dal Fondo sociale 
-              europeo (Padova, 1999/2000/2001)<br>
-            </p>
+              europeo (Padova, 1999/2000/2001)</p>
           </div> <!-- papers --> 
         </div>
       </div>
@@ -356,28 +331,20 @@
       <h4 class = "notranslate">Senior Partner - Berlin</h4>
 
       <div class="more">
-        <p> &#149;&nbsp;Partner presso la sede di Berlino - Germania 
-          (dal 1999) e presso la sede di Padova - Italia (dal 1996)
-          <br>
-          &#149;&nbsp;Patrocinante davanti alle giurisdizioni italiana 
-          e tedesca
-          <br>
-          &#149;&nbsp;
-          Co-patrocinante presso il Tribunale di primo grado e la Corte di giustizia delle Comunità europee a Lussemburgo
-          <br>
-          &#149;&nbsp;Avvocato del Foro di Berlino - Germania (dal 1999)
-          <br>
-          &#149;&nbsp;Avvocato del Foro di Padova - Italia (dal 1996)
-          <br>
-          &#149;&nbsp;Collaboratrice dello Studio legale HINTERHÄUSER & PARTNERS 
-          - Berlino - Germania (1993-1999)
-          <br><br>
-          <b>&raquo;&nbsp;Altro</b>:
-          <br>
-          &#149;&nbsp;Docente di Diritto italiano, in materia commerciale, 
-          societaria e contrattuale - Facoltà
-          di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)
-          <br>
+
+        <p>Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996)</p>
+        <p>&#149;&nbsp;Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
+        <p>&#149;&nbsp;Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.</p>
+        
+        <p>Patrocinante o co-patrocinante presso:
+        <ul>
+
+        <li>le giurisdizioni italiana e tedesca</li>
+        <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>
+
+        </ul>
+        </p>
+          
         <h4>Specifici settori di attività seguiti:</h4>
         <ul>
           <li>diritto privato, commerciale, societario e tributario tedesco</li>
@@ -414,10 +381,10 @@
       <div class="more">
         <p>&#149;&nbsp; Avvocato del Foro di Padova - Italia (dal 2002)
           <br/>&#149;&nbsp; Patrocinante davanti alla giurisdizione italiana
-          <br/>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
+          <br/><p>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
           di Padova - Italia (dal 2013)
 
-                 <br/>&#149;&nbsp; In precedenza, collaboratrice presso un primario 
+                 <br/><p>&#149;&nbsp; In precedenza, collaboratrice presso un primario 
           Studio legale attivo nei settori del
           diritto civile e commerciale nonché della tutela dei consumatori 
           e dei risparmiatori, maturando una

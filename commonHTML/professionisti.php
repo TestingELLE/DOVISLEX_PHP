@@ -137,9 +137,9 @@
 
 
         <h4>Working languages:</h4>
-        <p>Italian, French, English, Spanish</p><br>
+        <p>Italian, French, English, Spanish</p>
 
-        <h3>University Teaching Assignments</h3>
+        <h4>University Teaching Assignments</h4>
 
         <p>Professor (part of the "European Module Jean Monnet")
           of "Procedural Law of the European Union: the litigation
@@ -149,7 +149,7 @@
         </p>
 
 
-        <h3>MEMBERSHIPS IN SCIENTIFIC OR PROFESSIONAL ASSOCIATIONS:</h3>
+        <h4>Memberships is Scientific or Professional Associations:</h4>
             <div>
               <ul>
                 <li>Vice President of the <span class="notranslate">UAE</span> 
@@ -164,198 +164,176 @@
             </div>   
 
 
-        <h3>PAPERS PRESENTED AT MEETINGS / CONFERENCES / SEMINARS / COURSES:</h3>
-        <div class="notranslate">
-          <p>
-              &#149;&nbsp;Speaker at Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
-          <p>
-                    
-             &#149;&nbsp;Speaker on "La giurisprudenza della Corte 
-            di giustizia dell’Unione europea in materia d’asilo e 
-            immigrazione: recente casistica e aspetti procedurali”, 
-            nell'ambito del Convegno "Madri migranti e minori: 
-            diritti e accoglienza - Nuove frontiere professionali 
-            per l’avvocato europeo" organizzato dalla Commissione 
-            “Famiglia” dell’Unione degli Avvocati europei, dall'"Ordine 
-            degli Avvocati di Bari", dall'"Osservatorio Nazionale sul
-            diritto di famiglia", da "Save the Children" 
-            (Bari, 5 ottobre 2015);
-          </p>
+        <h4>Papers presented at meetings / conferences / seminars / courses:</h4>
+        <div class="notranslate"> <!-- papers -->
+                <p>
+                &#149;&nbsp;<span class="Fm12">Speaker at</span> Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
+                <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di giustizia dell'Unione europea in materia di ne bis in idem tra sanzioni penali e "amministrative"”, nell'ambito dell'Incontro di studio "Il ne bis in idem in ambito tributario" organizzato dal "Dipartimento di Scienze Politiche, Giuridiche e Studi Internazionali dell'Università degli Studi di Padova" (Rovigo, 6 novembre 2015)</p>
+                <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
+                
+                <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di giustizia 
+              dell’Unione europea in materia d’asilo e immigrazione: recente 
+              casistica e aspetti procedurali”, nell'ambito del Convegno "Madri 
+              migranti e minori: diritti e accoglienza - Nuove frontiere 
+              professionali per l’avvocato europeo" organizzato dalla Commissione 
+              “Famiglia” dell’Unione degli Avvocati europei, dall'"Ordine degli 
+              Avvocati di Bari", dall'"Osservatorio Nazionale sul diritto di 
+              famiglia", da "Save the Children" (Bari, 5 ottobre 2015)</p>
 
-          <p>&#149;&nbsp;Speaker on "La giurisprudenza della Corte 
-            di giustizia dell'Unione europea in materia di ne bis in 
-            idem tra sanzioni penali e amministrative”, nell'ambito 
-            del Convegno "Novità reati tributari - responsabilità 
-            amministrativa - abuso di diritto e frodi fiscali" 
-            organizzato dal "Centro di diritto penale tributario, 
-            comunitario e delle materie collegate" di Torino 
-            (Cuneo, 18 settembre 2015);
-          </p>
+              <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di 
+              giustizia dell'Unione europea in materia di ne bis in idem 
+              tra sanzioni penali e amministrative”, nell'ambito del Convegno 
+              "Novità reati tributari - responsabilità amministrativa - abuso 
+              di diritto e frodi fiscali" organizzato dal "Centro di diritto 
+              penale tributario, comunitario e delle materie collegate" di 
+              Torino (Cuneo, 18 settembre 2015)</p>
+              <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "Le citoyen européen sur le plan 
+              personnel”, nell'ambito del Convegno "Le Citoyen au coeur 
+              de l'Union européenne - De la Convention et de la Charte à 
+              nos jours" organizzato dalla "Unione degli Avvocati europei" 
+              (Malaga, 19 giugno 2015)</p>
 
-          <p>&#149;&nbsp;Speaker on "Le citoyen européen sur le 
-            plan personnel”, nell'ambito del Convegno "Le Citoyen 
-            au coeur de l'Union européenne - De la Convention et 
-            de la Charte à nos jours" organizzato dalla "Unione 
-            degli Avvocati europei" (Malaga, 19 giugno 2015);
-          </p>
+              <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La tutela del contribuente in sede 
+              pregiudiziale davanti alla Corte di giustizia dell’Unione 
+              europea - Casi pratici”, nell'ambito del Convegno "Accertamento 
+              tributario e reato nella pratica professionale quotidiana - La 
+              tutela nazionale ed europea del contribuente" organizzato dal 
+              "Centro di diritto penale tributario, comunitario e delle materie 
+              collegate" di Torino (Creazzo, 29 maggio 2015)</p>
 
-          <p>&#149;&nbsp;Speaker on "La tutela del contribuente 
-            in sede pregiudiziale davanti alla Corte di giustizia 
-            dell’Unione europea - Casi pratici”, nell'ambito del 
-            Convegno "Accertamento tributario e reato nella pratica 
-            professionale quotidiana - La tutela nazionale ed europea 
-            del contribuente" organizzato dal "Centro di diritto 
-            penale tributario, comunitario e delle materie collegate" 
-            di Torino (Creazzo, 29 maggio 2015);
-          </p>
+              <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La regolarizzazione fiscale dei capitali 
+              detenuti all'estero e dei proventi generati da tali capitali 
+              ("voluntary disclosure")", convegno organizzato da Uniteis eG 
+              nell'ambito del M.I.G. - Longarone Fiere (Longarone, 
+              2 dicembre 2014)</p>
 
-          <p>&#149;&nbsp;Speaker on "The tax regularization of 
-            capital held abroad and earnings on those funds 
-            (" voluntary disclosure ")," conference organized by 
-            Uniteis eG within the MIG - Longarone Fiere 
-            (Longarone, December 2, 2014);
-          </p>
+              <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La disapplicazione delle norme 
+              (sostanziali e processuali) nazionali a seguito
+              delle pronunce pregiudiziali della Corte di giustizia 
+              dell’Unione europea”, nell'ambito del Convegno "I principi 
+              comunitari fondamentali nell'ordinamento tributario italiano" 
+              organizzato dall'Università di Padova e dalla Associazione 
+              Nazionale Tributaristi
+              Italiani - Sez. Veneto (Rovigo, 28 giugno 2013) </p>
 
-          <p>&#149;&nbsp;Speaker on "The application of the rules 
-            (substantive and procedural) national as a result of 
-            a preliminary ruling of the Court of Justice of the 
-            European Union", as part of the conference "The 
-            principles of Community principles in the Italian 
-            tax" organized by the University of Padua and by the
-            National Association of Italian Tax - Sec. Veneto 
-            (Rovigo, June 28, 2013);
-          </p>
+              <p>&#149;&nbsp;Relatore della lezione "Giudice del lavoro e 
+              rinvio pregiudiziale alla Corte di giustizia
+              dell’Unione europea: aspetti procedurali e recente 
+              casistica giurisprudenziale”, nell'ambito del "Corso di 
+              perfezionamento in Diritto
+              del Lavoro", per Avvocati, organizzato dall'Università 
+              "Statale" di Milano (Milano, 18 gennaio 2013) </p>
 
-          <p>&#149;&nbsp;Speaker of the lesson "Judge of work 
-            and reference to the Court of Justice of the European 
-            Union: procedural aspects and recent case law", under 
-            the "Course Improvement in Employment Law ", for 
-            Lawyers, organized by" State "in Milan (Milan, January 
-            18, 2013);
-          </p>
+              <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> la conferenza "La clausola contrattuale 
+              attributiva della competenza e il foro
+              alternativo del luogo di esecuzione dell'obbligazione dedotta 
+              in giudizio in materia contrattuale alla luce del reg. 
+              (CE) n. 44/2001 e della
+              giurisprudenza della Corte di Giustizia dell'Unione Europea”, 
+              organizzata dalla Camera civile di Ferrara (Ferrara, 14
+              dicembre 2012)</p>
 
-          <p>&#149;&nbsp;Speaker at the conference" The contractual 
-            clause conferring jurisdiction and the alternative 
-            forum of the place of performance of the obligation 
-            in proceedings relating to a contract in the light of 
-            the reg. (EC) n. 44/2001 and the European Court of
-            Justice of the European Union ", organized by the Civil 
-            Chamber of Ferrara (Ferrara, 14 December 2012);
-          </p>
+              <p>&#149;&nbsp;Relatore a un convegno sugli obblighi dei cittadini 
+              italiani che operano in Germania nei
+              confronti del fisco italiano, organizzato da Uniteis eG 
+              nell'ambito del M.I.G. - Longarone Fiere (Longarone, 4 dicembre
+              2012)
+              </p>
 
-          <p>&#149;&nbsp;Speaker at a conference on the obligations 
-            of Italian citizens working in Germany against the 
-            Italian tax authorities, organized by Uniteis eG 
-            within the MIG - Longarone Fiere (Longarone, December 
-            4, 2012);
-          </p>
+              <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> la conferenza "Giudice civile e rinvio 
+              pregiudiziale alla Corte di giustizia
+              dell’Unione europea: aspetti procedurali e recente casistica 
+              giurisprudenziale”, organizzata dalla Camera civile di 
+              Ferrara (Ferrara,
+              26 maggio 2011) </p>
 
-          <p>&#149;&nbsp;Speaker at the conference "Civil Judge 
-            and reference to the Court of Justice of the European
-            Union: procedural aspects and recent case law", organized 
-            by the Chamber of Civil Ferrara (Ferrara, 26 May 2011);
-          </p>
+              <p>&#149;&nbsp;Relatore a un convegno sulle problematiche 
+              fiscali e amministrative attinenti alla residenza
+              di chi opera in più Stati membri dell'Unione europea, 
+              organizzato da Uniteis eG nell'ambito del M.I.G. - 
+              Longarone Fiere
+              (Longarone, 30 novembre 2010) </p>
 
-          <p>&#149;&nbsp;Speaker at a conference on tax issues and 
-            administrative provisions relating to the residence of 
-            those who work in most EU Member States, organized by
-            Uniteis eG within the MIG - Longarone Fiere (Longarone,
-            30 November 2010);
-          </p>
+              <p>&#149;&nbsp;Moderatore al seminario "Il rinvio pregiudiziale 
+              alla Corte di giustizia dell’Unione europea
+              da parte del Giudice nazionale e le novità introdotte dal 
+              Trattato di Lisbona”, organizzato presso l'Aula Magna della 
+              Facoltà di
+              Giurisprudenza dell'Università di Ferrara 
+              (Ferrara, 25 giugno 2010)</p>
 
-          <p>&#149;&nbsp;Moderator at the seminar "The reference 
-            to the Court of Justice of the European Union by the 
-            National Judge and the innovations introduced by the 
-            Treaty of Lisbon", organized at the Aula Magna of the 
-            Faculty of Law of the University of Ferrara (Ferrara , 
-            June 25, 2010);
-          </p>
+              <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> la conferenza "Il rinvio pregiudiziale 
+              alla Corte di giustizia dell’Unione
+              europea da parte del Giudice nazionale”, organizzata dall'Ordine 
+              degli Avvocati di Marsala (Marsala, 18 giugno 2010) </p>
 
-          <p>&#149;&nbsp;Speaker at the conference "The reference
-            to the Court of Justice of the European Union by the
-            National court", organized by the Bar of Marsala 
-            (Marsala, June 18, 2010);
-          </p>
+              <p>&#149;&nbsp;Moderatore al seminario "Il ruolo dei Giudici 
+              nazionali e della Corte di giustizia nel
+              processo di integrazione europea”, organizzato presso 
+              l'Aula Magna della Facoltà di Giurisprudenza dell'Università 
+              di Ferrara (Ferrara, 5
+              giugno 2009) </p>
 
-          <p>&#149;&nbsp;Moderator at the seminar "The role Judges 
-            and the National Court of Justice in the process of 
-            European integration ", organized at the Aula Magna 
-            of the Faculty of Law of the University of Ferrara 
-            (Ferrara, June 5, 2009);
-          </p>
+              <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> the "panel" "Law enforcement authorities and the protection of the financial interests of the European Community", nell’ambito del Convegno internazionale “European and national institutions combating fraud and corruption - what is the future of the cooperation?” (Varsavia, 15-17 novembre 2007)</p>
 
-          <p>&#149;&nbsp;Speaker, in English, within the" panel "" 
-            Law Enforcement Authorities and the protection of the 
-            financial interests of the European Community ", in the 
-            framework of the international conference" European and 
-            national institutions Combating fraud and corruption 
-            - what is the future of the cooperation? "(Warsaw, 
-            15 to 17 November 2007) 
+              <p>&#149;&nbsp;Incaricato di un seminario sul "Contenzioso 
+              comunitario" nell’ambito del corso di "Diritto
+              dell’Unione europea" presso la Facoltà di Giurisprudenza 
+              dell'Università di Ferrara (10-12 dicembre 2007)</p>
 
-            <br>
+              <p>&#149;&nbsp;Incaricato di un seminario, in lingua spagnola, 
+              su "L’organizzazione del mercato
+              agroalimentare dell’Unione europea" nell’ambito del corso 
+              post-universitario di "Globalizzazione, negoziazioni e 
+              commercio agricolo
+              internazionale" presso la Facoltà di Giurisprudenza e di 
+              Scienze sociali e politiche dell’Università nazionale del Nordeste
+              (Argentina) (17 settembre 2004)</p>
 
-            &#149;&nbsp;In charge of a seminar on "Legal Community" 
-            during the course of "Law of the European Union" at the 
-            Faculty of Law of the University of Ferrara (10-12 
-            December 2007);
-          </p>
+              <p>&#149;&nbsp;Incaricato di seminari su "Introduzione 
+              all'Unione Europea, alle Comunità Europee e alle
+              Fonti del Diritto Comunitario" nell’ambito del corso 
+              di "Legislazione forestale e ambientale" presso la 
+              Facoltà di Agraria
+              dell’Università di Padova (anni accademici 2002/2003, 
+              2003/2004, 2004/2005, 2005/2006)</p>
 
-          <p>&#149;&nbsp;In charge of a seminary, in language 
-            Spanish, on "The organization of the food market of 
-            the European Union" under the post-graduate course 
-            of "Globalization, and international agricultural 
-            trade negotiations" at the Faculty of Law and Social 
-            and Political Sciences of the National University of 
-            Nordeste (Argentina) (September 17, 2004);
-          </p>
+              <p>&#149;&nbsp;Relatore, in lingua inglese, all’interno del 
+              “panel” “Harmonisation of the criminal law with
+              EU instruments with respect to the protection of the financial 
+              interests of the Community”, nell’ambito del Convegno
+              internazionale “Protection of the financial interests of the 
+              European Union of 25: new challenges, old obstacles” 
+              (Sopot, 16-19 marzo 2006) </p>
 
-          <p>&#149;&nbsp;In charge of seminars on "Introduction 
-            to the European Union, the European Community and the 
-            Sources of Community law" within the course of 
-            "Legislation forestry and environment" at the Faculty 
-            of Agriculture, University Padua (academic years 
-            2002/2003, 2003/2004, 2004/2005, 2005/2006);
-          </p>
+              <p>&#149;&nbsp;Direttore scientifico e Coordinatore di un corso 
+              (e, al suo interno, Moderatore delle 18
+              lezioni tenutesi e Incaricato della docenza di una di esse) 
+              di specializzazione e aggiornamento per professionisti su
+              “Diritto comunitario istituzionale, sanzionatorio e processuale” 
+              (Padova, maggio-ottobre 2005) </p>
 
-          <p>&#149;&nbsp;Speaker, in English, within the "panel" 
-            "Harmonisation of the criminal law with EU instruments 
-            with respect to the protection of the financial interests 
-            of the Community "as part of the international conference" 
-            Protection of the financial interests of the European 
-            Union of 25: new challenges, old obstacles "(Sopot, 16 
-            to 19 March 2006);
-          </p>
+              <p>&#149;&nbsp;Docente di un seminario per professionisti su 
+              “La tutela degli operatori economici a fronte
+              del diniego o del recupero, da parte della Pubblica 
+              Amministrazione, delle agevolazioni finanziarie previste 
+              dalla normativa
+              comunitaria. Aspetti sostanziali e procedurali 
+              (in ambito civile, amministrativo e penale) con particolare 
+              riguardo al comparto
+              agro-alimentare” (Bari, 9 febbraio 2004) </p>
 
-          <p>&#149;&nbsp;Scientific Director and Coordinator of a 
-            course (and, within it, Moderator of the 18 lectures 
-            held and charge of the teaching of one of them) of 
-            specialization and update professionals on "European 
-            Law institutional and procedural sanctions" (Padua, 
-            May-October 2005);
-          </p>
+              <p>&#149;&nbsp;Incaricato di un seminario sul 
+              “Processo comunitario” nell’ambito del Master “Diritto ed
+              Economia dell’Unione delle Comunità europee”, organizzato 
+              dal “Consorzio Provinciale Formazione” di Ferrara e 
+              finanziato dal Fondo sociale europeo (Ferrara, 10 giugno 2003)</p>
 
-          <p>&#149;&nbsp;Lecturer in a seminar for professionals 
-            on "The protection of traders against the denial or 
-            recovery by the government, the financial incentives 
-            provided by the Community legislation. Substantive 
-            and procedural aspects (in civil, administrative and 
-            criminal law) with particular emphasis on agro-food 
-            "(Bari, Feb. 9, 2004);
-          </p>
-
-          <p>&#149;&nbsp;In charge of a seminar on" Process 
-            Community "within the Master" Law and Economics of 
-            ' Union of the European Communities ", organized by 
-            the" Provincial Training Consortium "of Ferrara and 
-            funded by the European Social Fund (Ferrara, 10 June 2003);
-          </p>
-
-          <p>&#149;&nbsp;Professor of" International contracts 
-            "in vocational training courses organized by" 
-            Ascom-Next "and funded by European Social Fund 
-            (Padova, 1999/2000/2001);
-          </p>
-          </div> <!-- papers -->       
+              <p>&#149;&nbsp;Docente di “Contrattualistica internazionale” 
+              in corsi di formazione professionale
+              organizzati da “Ascom-Next” e finanziati dal Fondo sociale 
+              europeo (Padova, 1999/2000/2001)</p>
+          </div> <!-- papers -->  
 
       </div>
     </div>
@@ -385,7 +363,7 @@
           <li class="LcustomTranslation" id="D18">Elected President of COMITES - BERLIN
         </ul>
 
-        <h3 class="LcustomTranslation" id="S54">University Teaching Assignments</h3>
+        <h4 class="LcustomTranslation" id="S54">University Teaching Assignments</h4>
         <p class="LcustomTranslation" id="D19">Professor of Italian commercial, corporate and contractual 
           Law- Department of Law - Humboldt University in Berlin - 
           Germany (since 2001) <br>

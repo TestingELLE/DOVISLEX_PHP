@@ -72,6 +72,8 @@ appendORreplace('#F33',"Filets maillants dérivants pour la pêche au thon en M�
 appendORreplace('.Em12',"Recours en carence");
 appendORreplace('#F37',"Taxe d'Etat de débarquement des produits pétroliers");
 appendORreplace('#F39',"Affaire");
+appendORreplace('.Fm11',"Rapporteur sur");
+appendORreplace('.Fm12',"Rapporteur à");
 
 //
 //concorrenza
