@@ -135,7 +135,7 @@
           materie collegate” di Torino (Associazione italiana di esperti 
           di Diritto dell'Unione europea a tutela degli interessi finanziari dell'Unione)</p>
 
-        <h4>Relazioni a convegni/conferenze/seminari/corsi di perfezionamento:</h4>
+        <h4>Relazioni a convegni/ conferenze/ seminari/ corsi di perfezionamento:</h4>
         <div class="notranslate"> <!-- papers -->
                 <p>
                 &#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
