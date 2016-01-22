@@ -52,28 +52,57 @@ appendORreplace('#F28',"droit pénal et administratif concernant les ressources 
 
 //professionisti
 appendORreplace('#D8'," (depuis 1974)");
+appendORreplace('.Fm11',"Rapporteur sur");
+appendORreplace('.Fm12',"Rapporteur à");
+
 
 //contenzioso.php
 appendORreplace('.F29',"Affaires");
-appendORreplace('#F290',"Liste des affaires plaidées par les partenaires du Cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
-appendORreplace('#291',"Ce tableau reprend uniquement les affaires qui ont atteint le Tribunal ou la Cour de justice. La grande majorité des dossiers traités ont lieu seulement devant les juridictions nationales, les autres institutions européennes ou sur un plan administratif.");
+appendORreplace('#F290',"Liste des affaires plaidées par les associés du Cabinet devant le Tribunal et la Cour de justice de l'Union européenne");
+appendORreplace('#F291',"Ce tableau reprend uniquement les affaires qui ont atteint le Tribunal ou la Cour de justice. La grande majorité des dossiers sont traités devant les juridictions nationales, ou font l'objet de procédures administratives devant les institutions européennes et/ou nationales.");
 appendORreplace('#F292',"Pour des raisons de confidentialité (en particulier, pour éviter l'identification du client), pour chaque affaire le numéro d'enregistrement a été omis. Pour chaque affaire sont rapportés:");
-appendORreplace('#F293',"la lettre T pour indiquer les procédures devant le Tribunal (jusqu'au 30 novembre 2009, dénommé le Tribunal de première instance);");
-appendORreplace('#F294',"la lettre C (ou aucune lettre) pour indiquer les procédures devant la Cour de justice;");
-appendORreplace('#F295',"la lettre P pour indiquer une procédure de pourvoi devant la Cour de justice contre les décisions du Tribunal;");
+appendORreplace('#F293',"la lettre T pour indiquer les procédures devant le Tribunal (jusqu'au 30 novembre 2009, dénommé Tribunal de première instance);");
+appendORreplace('#F294',"la lettre C (ou aucune lettre) pour indiquer les procédures devant la Cour de Justice;");
+appendORreplace('#F295',"la lettre P pour indiquer une procédure de pourvoi devant la Cour de Justice contre les décisions du Tribunal;");
 appendORreplace('#F296',"l'année d'enregistrement de l'affaire;");
 appendORreplace('#F297',"la matière concernée et d'éventuelles précisions.");
 
 //contenzioso.html
-appendORreplace('#F30',"Aide pour l'extensification dans le secteur de la viande  bovine");
+appendORreplace('#F39',"Affaire");
+appendORreplace('#F39b',"Matière");
 appendORreplace('#F31',"Recettes sur la fiscalité pétrolière");
 appendORreplace('#F32',"Droits d'enregistrement");
-appendORreplace('#F33',"Filets maillants dérivants pour la pêche au thon en Méditerranée française");
-appendORreplace('.Em12',"Recours en carence");
+appendORreplace('#F33',"Filets dérivants pour la pêche au thon dans la Méditerranée Française");
+appendORreplace('#F33b',"Environnement - Pêche");
+appendORreplace('#F33c',"Pollution");
 appendORreplace('#F37',"Taxe d'Etat de débarquement des produits pétroliers");
-appendORreplace('#F39',"Affaire");
-appendORreplace('.Fm11',"Rapporteur sur");
-appendORreplace('.Fm12',"Rapporteur à");
+appendORreplace('#E301',"Fiscalité");
+appendORreplace('.Fm01',"Concurrence");
+appendORreplace('.Em01',"Droit agricole");
+appendORreplace('.Em02',"Importations des pays tiers");
+appendORreplace('.Em03',"Certificats d'importation");
+appendORreplace('.Em04',"Ententes");
+appendORreplace('.Em04b',"Agriculture - Ail");
+appendORreplace('.Em06',"Aides d'État");
+appendORreplace('.Em08',"Transparence administrative des institutions de l'UE");
+appendORreplace('.Em09',"Taxe de débarquement");
+appendORreplace('.Em10',"Droits sanitaires");
+appendORreplace('.Em11',"Restrictions quantitatives");
+appendORreplace('.Em12',"Recours en carence");
+appendORreplace('.Fm31',"Droit parlementaire européen");
+appendORreplace('.Fm32',"Agriculture - viande");
+appendORreplace('#E303',"Environnement - eaux lacustres françaises");
+appendORreplace('#E304',"Quotas laitiers");
+appendORreplace('#E305',"Vente par les organismes d'intervention");
+appendORreplace('.Fm30',"Aides pour l'extensification");
+appendORreplace('#E307',"Mesures de sauvegarde");
+appendORreplace('#E308',"industrie - pétrole");
+appendORreplace('#E310',"Montants compensatoires monétaires");
+appendORreplace('#E311',"Exportations vers les pays tiers");
+appendORreplace('#F302',"Joueurs de football professionnels");
+appendORreplace('#F303',"Sport - football");
+appendORreplace('#F304',"Prix du sucre");
+
 
 //
 //concorrenza

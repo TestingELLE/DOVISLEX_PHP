@@ -15,42 +15,49 @@ function loadContents() {
 
 
 //contenzioso.php
-appendORreplace('.F29',"Asuntos");//& de nobis
+appendORreplace('.F29',"Asuntos");
 appendORreplace('#F290',"LISTA DE LOS ASUNTOS PATROCINADOS POR LOS SOCIOS DEL DESPACHO ANTE EL TRIBUNAL GENERAL Y EL TRIBUNAL DE JUSTICIA DE LA UNIÓN EUROPEA");
-appendORreplace('#F291',"Esta tabla sólo enumera aquellos asuntos que han llegado al Tribunal general o al Tribunal de Justicia. La gran mayoría de los casos tratados tienen lugar ante tribunales nacionales, otras instituciones europeas, o a nivel administrativo. ");
+appendORreplace('#F291',"Esta tabla sólo enumera aquellos asuntos que han llegado al Tribunal general o al Tribunal de Justicia. La gran mayoría de los casos tratados tienen lugar ante los tribunales nacionales o siguen un iter administrativo ante las instituciones europeas y/o nacionales.");
 appendORreplace('#F292',"Por razones de confidencialidad (en particular, para evitar la identificación del cliente), para cada asunto se ha omitido el número de registro Para cada asunto se informa: ");
 appendORreplace('#F293',"la letra T para indicar los procedimientos ante el Tribunal General (hasta el 30 de noviembre de 2009 llamado Tribunal de Primera Instancia); ");
-appendORreplace('#F294',"la letra C (o ninguna letra) para indicar un procedimiento ante el Tribunal de Justicia;");
-appendORreplace('#F295',"la letra P para indicar un procedimiento de casaciòn ante el Tribunal de Justicia contra las decisiones del Tribunal General;");
+appendORreplace('#F294',"la letra C (o ninguna letra) para indicar los procedimientos ante el Tribunal de Justicia;");
+appendORreplace('#F295',"la letra P para indicar los procedimientos de casación ante el Tribunal de Justicia contra las resoluciones del Tribunal General;");
 appendORreplace('#F296',"el año de registro del asunto");
 appendORreplace('#F297',"la materia tratada y eventuales aclaraciones.");
 
 
-
 //contenzioso-table.html
 appendORreplace('.Em01',"Derecho agrario");
-appendORreplace('.Em02',"Importaciones de terceros paises");
+appendORreplace('.Em02',"Importaciones de terceros países");
 appendORreplace('.Em03',"Certificados de importación");
-appendORreplace('.Em04',"Practicas colusorias");
+appendORreplace('.Em04',"Prácticas colusorias");
 appendORreplace('.Em05',"Recurso de indemnización");
 appendORreplace('.Em06',"Ayudas de Estado");
 appendORreplace('.Em07',"Industria naval");
+appendORreplace('.Em08',"Transparencia administrativa de las instituciones de la UE");
+appendORreplace('.Em09',"Tasa fiscal de desembarque de productos petrolíferos");
+appendORreplace('.Em10',"Derechos sanitarios");
+appendORreplace('.Em11',"Restricciones cuantitativas");
+appendORreplace('.Em12',"Recurso por omisión");
+appendORreplace('.Em13',"Sistema de pensión de los diputados del Parlamento Europeo");
+appendORreplace('.Em14',"Aduanas");
+appendORreplace('.Em15',"Consumption tax");
+appendORreplace('.Fm01',"Competencia");
+appendORreplace('.FM30',"Ayudas para la extensificación");
 appendORreplace('#E301',"Fiscalidad");
-appendORreplace('#F32',"Impuesto de inscripciòn registral");
-appendORreplace('#E302',"Subvenciones comunitarias");
-appendORreplace('.Em08',"Transparencia administrativa de las instituciones comunitarias");
+appendORreplace('#E302',"Subvenciones de la UE");
 appendORreplace('#E303',"Medio ambiente - aguas lacustres franceses");
+appendORreplace('#E303b',"Medio ambiente");
 appendORreplace('#E304',"Cuotas lecheras");
 appendORreplace('#E305',"Ventas por parte de los organismos de intervención");
-appendORreplace('#E306',"Subvenciones comunitarias");
+appendORreplace('#E306',"Subvenciones de la UE");
 appendORreplace('#E307',"Medidas de salvaguardia");
-appendORreplace('.Em09',"Tasa fiscal de desembarque");
 appendORreplace('#E308',"Industria - petróleo");
-appendORreplace('.Em10',"Derechos sanitarios");
 appendORreplace('#E310',"Montantes compensatorios monetarios");
 appendORreplace('#E311',"Exportaciones a terceros países");
-appendORreplace('.Em11',"Restricciones cuantitativas");
-appendORreplace('.Em12',"Recurso por omisiòn");
+appendORreplace('#E312',"Libre circulación de los trabajadores");
+appendORreplace('#F32',"Impuesto de inscripción registral");
+appendORreplace('#F39',"Asunto");
 
 //concorrenza.html
 appendORreplace('#F42',"practicas colusorias");
