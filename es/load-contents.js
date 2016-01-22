@@ -21,14 +21,14 @@ appendORreplace('#F291',"Esta tabla sólo enumera aquellos asuntos que han llega
 appendORreplace('#F292',"Por razones de confidencialidad (en particular, para evitar la identificación del cliente), para cada asunto se ha omitido el número de registro Para cada asunto se informa: ");
 appendORreplace('#F293',"la letra T para indicar los procedimientos ante el Tribunal General (hasta el 30 de noviembre de 2009 llamado Tribunal de Primera Instancia); ");
 appendORreplace('#F294',"la letra C (o ninguna letra) para indicar los procedimientos ante el Tribunal de Justicia;");
-appendORreplace('#F295',"la letra P para indicar los procedimientos de casaciòn ante el Tribunal de Justicia contra las resoluciones del Tribunal General;");
+appendORreplace('#F295',"la letra P para indicar los procedimientos de casación ante el Tribunal de Justicia contra las resoluciones del Tribunal General;");
 appendORreplace('#F296',"el año de registro del asunto");
 appendORreplace('#F297',"la materia tratada y eventuales aclaraciones.");
 
 
 //contenzioso-table.html
 appendORreplace('.Em01',"Derecho agrario");
-appendORreplace('.Em02',"Importaciones de terceros paises");
+appendORreplace('.Em02',"Importaciones de terceros países");
 appendORreplace('.Em03',"Certificados de importación");
 appendORreplace('.Em04',"Prácticas colusorias");
 appendORreplace('.Em05',"Recurso de indemnización");
@@ -38,7 +38,7 @@ appendORreplace('.Em08',"Transparencia administrativa de las instituciones de la
 appendORreplace('.Em09',"Tasa fiscal de desembarque de productos petrolíferos");
 appendORreplace('.Em10',"Derechos sanitarios");
 appendORreplace('.Em11',"Restricciones cuantitativas");
-appendORreplace('.Em12',"Recurso por omisiòn");
+appendORreplace('.Em12',"Recurso por omisión");
 appendORreplace('.Em13',"Sistema de pensión de los diputados del Parlamento Europeo");
 appendORreplace('.Em14',"Aduanas");
 appendORreplace('.Em15',"Consumption tax");
