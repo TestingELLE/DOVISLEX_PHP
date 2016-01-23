@@ -22,7 +22,7 @@ appendORreplace('#F292',"Por razones de confidencialidad (en particular, para ev
 appendORreplace('#F293',"la letra T para indicar los procedimientos ante el Tribunal General (hasta el 30 de noviembre de 2009 llamado Tribunal de Primera Instancia); ");
 appendORreplace('#F294',"la letra C (o ninguna letra) para indicar los procedimientos ante el Tribunal de Justicia;");
 appendORreplace('#F295',"la letra P para indicar los procedimientos de casación ante el Tribunal de Justicia contra las resoluciones del Tribunal General;");
-appendORreplace('#F296',"el año de registro del asunto");
+appendORreplace('#F296',"el año de registro del asunto;");
 appendORreplace('#F297',"la materia tratada y eventuales aclaraciones.");
 
 
@@ -58,6 +58,7 @@ appendORreplace('#E311',"Exportaciones a terceros países");
 appendORreplace('#E312',"Libre circulación de los trabajadores");
 appendORreplace('#F32',"Impuesto de inscripción registral");
 appendORreplace('#F39',"Asunto");
+appendORreplace('#F302',"Jugadores de futból profesionales");
 
 //concorrenza.html
 appendORreplace('#F42',"practicas colusorias");
