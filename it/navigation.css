@@ -117,10 +117,10 @@
 li.menu-item.num-00 a:before { content: 'De Nobis'}
 .num-00 .sub-menu.small li:nth-child(1) a:before { content: 'De NOBIS'; }
 .num-00 .sub-menu.small li:nth-child(2) a:before { content: 'Professionisti'; }
-.num-00 .sub-menu.small li:nth-child(3) a:before { content: 'EU Court of Justice cases'; }
+.num-00 .sub-menu.small li:nth-child(3) a:before { content: 'cause davanti alla Corte UE'; }
 .num-00 .sub-menu.small li:nth-child(4) a:before { content: 'bibliografia'; }
-.num-00 .sub-menu.small li:nth-child(5) a:before { content: 'News'; }
-.num-00 .sub-menu.small li:nth-child(6) a:before { content: 'Contact Us'; }
+.num-00 .sub-menu.small li:nth-child(5) a:before { content: 'Nova'; }
+.num-00 .sub-menu.small li:nth-child(6) a:before { content: 'Contattaci'; }
 
 li.menu-item.num-20 a:before { content: 'Diritto UE e internazionale'}
 .num-20 .sub-menu.large li:nth-child(1) a:before { content: 'Antitrust, aiuti di stato, concorrenza'; }
