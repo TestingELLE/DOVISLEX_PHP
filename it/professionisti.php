@@ -16,8 +16,8 @@
       <h4 class="notranslate">Founder & Senior Partner (dal 1974)</h4>
 
       <div class="more">
-        <p>Patrocinante davanti alle giurisdizioni italiana, belga, francese 
-          e lussemburghese; presso la Suprema Corte di cassazione e le altre
+        <p>Patrocinante davanti alle giurisdizioni italiane, belghe, francesi 
+          e lussemburghesi; presso la Suprema Corte di cassazione e le altre
           giurisdizioni superiori italiane; presso il Tribunale di primo grado 
           e la Corte di giustizia delle Comunità europee a Lussemburgo; presso 
           la Corte europea dei Diritti dell'Uomo a Strasburgo; e in arbitrati 
