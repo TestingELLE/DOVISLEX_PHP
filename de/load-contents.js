@@ -15,6 +15,7 @@ function loadContents() {
     
     
     //arbitration.html
+    appendORreplace('#F51',"AUSSERGERICHTLICHE AUFLÖSUNG NATIONALER, EU UND INTERNATIONALER STREITIGKEITEN");
     appendORreplace('#L62', "Die Firma bietet Unterstützung und Vertretung in Verfahren (formellen oder informellen) in die Beilegung von Streitigkeiten oder Verhinderung von Streitigkeiten, die sich in den beziehungen mit Private oder mit Behörden ausrichtet. ");
     appendORreplace('#L63', "Das Unternehmen bietet auf alle Ebenen (national und itenational) Unterstützung bei den volgenden Verfahrensarten: Schedsverfahren (formellen und gültichen), Schlichtungen und Mediationen (auch im Steuerbereich).");
    appendORreplace('#L64', "Um eine Vorstellung der Art der außergerichtliche Verfahren von der Firma auf der supranationalen Ebene unterstützt zu geben, verzeichnen wir:");

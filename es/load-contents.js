@@ -76,6 +76,7 @@ appendORreplace('#L3',"contra los Estados miembros sospechosos de haber planeado
 appendORreplace('#L25',"contra empresas alemanas que habían impuesto de facto contratos en el sector fotovoltaico para el suministro de obleas de silicio que contenían claúsulas excesivamente restrictivas para la competición o que abusaban de una posición dominante");
 
 //arbitration.html
+appendORreplace('#F51',"Resoluciòn extrajudicial de los conflictos nacionales, de la UE y internacionales");
 appendORreplace('#L62',"La Firma proporciona asistencia y representación en procedimientos (formales o informales) encaminados a la solución de controversias o prevenir que surjan controversias, tanto entre entidades privadas como con las autoridades públicas. ");
 appendORreplace('#L63',"En todos los niveles (nacional e internacional), la Firma ofrece asistencia con los siguientes tipos de procedimientos:  procedimientos de arbitraje (tanto formales como amistosos), conciliación y mediación (también en el ámbito fiscal). ");
 appendORreplace('#F56',"en un caso de supuesto incumplimiento de contrato la compañía ganó una licitación realizada por la Delegación de la Unión Europea en un estado africano por la renovación del suministro de agua de la capital del estado (la queja se debió a que se suministró, parcialmente, bienes de origen chino en lugar de bienes comunitarios o APC -como es obligatorio hacer-).");
