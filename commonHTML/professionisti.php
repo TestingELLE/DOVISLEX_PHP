@@ -96,7 +96,7 @@
         of this span and uses that to determine if the div needs to be hidden 
         or shown -->
     <span class="notranslate" style="cursor: pointer; font-style: italic;"
-          onclick="plusminusProfessionisti();">&raquo; plus</span>
+          onclick="plusminusProfessionisti(event);">&raquo; plus</span>
   </article>
 
   <article>
@@ -343,7 +343,7 @@
         of this span and uses that to determine if the div needs to be hidden 
         or shown -->
     <span class="notranslate" style="cursor: pointer; font-style: italic;"
-          onclick="plusminusProfessionisti();">&raquo; plus</span>
+          onclick="plusminusProfessionisti(event);">&raquo; plus</span>
 
 
   <article>
@@ -390,7 +390,7 @@
         of this span and uses that to determine if the div needs to be hidden 
         or shown -->
     <span class="notranslate" style="cursor: pointer; font-style: italic;"
-          onclick="plusminusProfessionisti();">&raquo; plus</span>
+          onclick="plusminusProfessionisti(event);">&raquo; plus</span>
   </article>
 
      <article>
@@ -438,7 +438,7 @@
         of this span and uses that to determine if the div needs to be hidden 
         or shown -->
     <span class="notranslate" style="cursor: pointer; font-style: italic;"
-          onclick="plusminusProfessionisti();">&raquo; plus</span>
+          onclick="plusminusProfessionisti(event);">&raquo; plus</span>
   </article>
     
   <article>
@@ -473,7 +473,7 @@
         of this span and uses that to determine if the div needs to be hidden 
         or shown -->
     <span class="notranslate" style="cursor: pointer; font-style: italic;"
-          onclick="plusminusProfessionisti();">&raquo; plus</span>
+          onclick="plusminusProfessionisti(event);">&raquo; plus</span>
   </article>
 
   <article>
@@ -512,6 +512,6 @@
         of this span and uses that to determine if the div needs to be hidden 
         or shown -->
     <span class="notranslate" style="cursor: pointer; font-style: italic;"
-          onclick="plusminusProfessionisti();">&raquo; plus</span>
+          onclick="plusminusProfessionisti(event);">&raquo; plus</span>
   </article>
 </div>
