@@ -1,4 +1,4 @@
-<?php // enter php code here ?>
+<?php // enter php code here    ?>
 
 
 <div class= "btn">
@@ -11,10 +11,10 @@
     <a id= "lang-change-es" class="btn_language" 
        href="javascript:changeLang('lang-change-es');">ES</a>
     <a id= "lang-change-fr" class="btn_language" 
-      href="javascript:changeLang('lang-change-fr');">FR</a>
+       href="javascript:changeLang('lang-change-fr');">FR</a>
     <a id= "lang-change-de" class="btn_language" 
        href="javascript:changeLang('lang-change-de');">DE</a>
     <a id= "lang-change-it" class="btn_language" 
        href="javascript:changeLang('lang-change-it');">IT</a>
-  </div>
+</div>
 

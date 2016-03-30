@@ -187,8 +187,8 @@ a:hover, a:focus, a:active {
     /*background-image: url('../images/logo2_Sans_kt1_2.21.png');
     background-repeat: no-repeat;
     background-position: 20px 16px;
-  	background-size: auto 80px;
-  	*/
+        background-size: auto 80px;
+    */
     border-bottom: 8px solid #b09b4c;
     padding: 10px 5px 10px 20px;
     position: fixed;
@@ -201,7 +201,7 @@ a:hover, a:focus, a:active {
     background-image: url('../images/Stars_DV_logo_kt1_2.21.png');
     background-repeat: no-repeat;
     /*background-position: 20px 16px;
-  	background-size: auto 80px;*/
+        background-size: auto 80px;*/
     /*position: relative;
     top: -3px; left: 40px;
     z-index: 290;*/
@@ -296,7 +296,7 @@ div.btn {
     /*position: relative;
     right: 15%;
     background-color:#EEE ;*/
-    
+
     background-color:transparent;
     position: absolute;
     right: 1%;

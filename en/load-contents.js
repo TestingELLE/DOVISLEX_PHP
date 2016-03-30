@@ -8,11 +8,11 @@
  *  element with the given id. Depending on if the element is empty or not, value 
  *  is either appended or replaced */
 
-function loadContents() {    
- 
-    
+function loadContents() {
+
+
     //professionisti
-appendORreplace('#D8'," (since 1974)");
+    appendORreplace('#D8', " (since 1974)");
 
 }
 

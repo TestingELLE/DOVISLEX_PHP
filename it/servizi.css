@@ -24,33 +24,32 @@ with any questions regarding Web Fonts:  http://www.linotype.com
 */
 @import url("https://fast.fonts.net/lt/1.css?apiType=css&c=1f450d59-a6b4-469a-a5bd-4572fe5805a4&fontids=739810");
 @font-face{
-font-family:"Helvetica W02 Light";
-src:url("../fonts/739810/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?#iefix");
-src:url("../fonts/739810/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?#iefix") format("eot"),url("../fonts/739810/80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff") format("woff"),url("../fonts/739810/b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf") format("truetype"),url("../fonts/739810/92c941ea-2b06-4b72-9165-17476d424d6c.svg#92c941ea-2b06-4b72-9165-17476d424d6c") format("svg");
+    font-family:"Helvetica W02 Light";
+    src:url("../fonts/739810/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?#iefix");
+    src:url("../fonts/739810/ff80873b-6ac3-44f7-b029-1b4111beac76.eot?#iefix") format("eot"),url("../fonts/739810/80c34ad2-27c2-4d99-90fa-985fd64ab81a.woff") format("woff"),url("../fonts/739810/b8cb02c2-5b58-48d8-9501-8d02869154c2.ttf") format("truetype"),url("../fonts/739810/92c941ea-2b06-4b72-9165-17476d424d6c.svg#92c941ea-2b06-4b72-9165-17476d424d6c") format("svg");
 }
 
 
-        
-        
-        .submenu-block-column.js-adapted .row,
-        .submenu.js-adapted .row{margin:0;}
-        .submenu-block-column.js-adapted .col-xs-8,
-        .submenu-block-column.js-adapted .col-xs-4,
-        .submenu.js-adapted .col-xs-8,
-        .submenu.js-adapted .col-xs-4{width:auto; padding:0;}
-        .submenu-block-column.js-adapted .col-xs-8 a,
-        .submenu-block-column.js-adapted .col-xs-4 a,
-        .submenu.js-adapted .col-xs-8 a,
-        .submenu.js-adapted .col-xs-4 a{white-space: nowrap;}
-        .submenu-block-column.js-adapted.acapo .col-xs-8 a,
-        .submenu-block-column.js-adapted.acapo .col-xs-4 a,
-        .submenu.js-adapted.acapo .col-xs-8 a,
-        .submenu.js-adapted.acapo .col-xs-4 a{white-space: normal;}
-        
-        .open .submenu,
-        /*.menu-item:hover .submenu{display:block;}*/
-        .menu-item{height:76px; display:inline-block; padding-right:20px; }
-        /* Sottomenu aperto */
-        .menu-item a.subOpened{text-decoration:underline;}
-        .under-first-level-menu{margin-top:88px;}
-        
+
+
+.submenu-block-column.js-adapted .row,
+.submenu.js-adapted .row{margin:0;}
+.submenu-block-column.js-adapted .col-xs-8,
+.submenu-block-column.js-adapted .col-xs-4,
+.submenu.js-adapted .col-xs-8,
+.submenu.js-adapted .col-xs-4{width:auto; padding:0;}
+.submenu-block-column.js-adapted .col-xs-8 a,
+.submenu-block-column.js-adapted .col-xs-4 a,
+.submenu.js-adapted .col-xs-8 a,
+.submenu.js-adapted .col-xs-4 a{white-space: nowrap;}
+.submenu-block-column.js-adapted.acapo .col-xs-8 a,
+.submenu-block-column.js-adapted.acapo .col-xs-4 a,
+.submenu.js-adapted.acapo .col-xs-8 a,
+.submenu.js-adapted.acapo .col-xs-4 a{white-space: normal;}
+
+.open .submenu,
+/*.menu-item:hover .submenu{display:block;}*/
+.menu-item{height:76px; display:inline-block; padding-right:20px; }
+/* Sottomenu aperto */
+.menu-item a.subOpened{text-decoration:underline;}
+.under-first-level-menu{margin-top:88px;}

@@ -23,19 +23,19 @@
     
     
 #main-content{
-	display: block;
-	width: 100%;
+        display: block;
+        width: 100%;
 }
 
 #buttons-container{
-	display: block;
-	width: 100%;
+        display: block;
+        width: 100%;
 }
 
 
 .outerContainer {
-   	float: left;
-   	width: 100%;
+        float: left;
+        width: 100%;
     max-width: 540px;
     background-repeat: no-repeat;
     background-size: cover;
