@@ -11,7 +11,7 @@
 /* For Italian this is just an empty file to avoid errors*/
 
 
-function loadContents() {    
+function loadContents() {
     //professionisti
 
 }
