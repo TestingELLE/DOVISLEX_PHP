@@ -32,8 +32,7 @@
                     che al Consiglio dei Ministri; rappresentare e difendere la 
                     Commissione davanti alla Corte di giustizia delle Comunità europee;
                 </p>
-                <p>&#149;&nbsp;Docente di Diritto comunitario e degli Scambi 
-                    internazionali - Facoltà di Scienze Politiche e Facoltà di 
+                <p>&#149;&nbsp;Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di 
                     Agraria - Università di Padova (dal 1974 al 1999)</p>
 
                 <p>&#149;&nbsp;Autore di numerose <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>, tra cui le seguenti:</p>
@@ -58,8 +57,8 @@
                     materia di diritto comunitario, in particolare di commento a 
                     sentenze del Tribunale di primo grado e della Corte di giustizia 
                     delle Comunità europee (dal 1999)&nbsp;
-                </p>
                 <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                 </p>
 
                 <div id="collapse1" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
