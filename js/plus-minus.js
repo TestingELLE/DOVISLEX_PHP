@@ -21,7 +21,8 @@ function plusminusGeneral() {
 /*  This function is used in 
  *      professionisti.html
  *      professionisti_2.html  */
-function plusminusProfessionisti(e) {
+
+/*function plusminusProfessionisti(e) {
 
 
     var e = window.event || e;
@@ -40,7 +41,7 @@ function plusminusProfessionisti(e) {
     $(e.target).text(function (_, value) {
         return value == '« minus' ? '» plus' : '« minus';
     });
-}
+}*/
 
 
 function plus(Obj) {
