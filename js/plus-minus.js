@@ -21,12 +21,13 @@ function plusminusGeneral() {
 /*  This function is used in 
  *      professionisti.html
  *      professionisti_2.html  */
-function plusminusProfessionisti(obj) {
+
+/*function plusminusProfessionisti(e) {
 
 
-    //var e = window.event || e;
-    var text = $(obj).text();
-    var parent = $(obj).parent().find('div');
+    var e = window.event || e;
+    var text = $(e.target).text();
+    var parent = $(e.target).parent().find('div');
 
     if (text === '« minus') {
         parent.css('overflow', 'hidden');
@@ -37,7 +38,33 @@ function plusminusProfessionisti(obj) {
         parent.css('height', '');
     }
 
-    $(obj).text(function (_, value) {
+    $(e.target).text(function (_, value) {
         return value == '« minus' ? '» plus' : '« minus';
     });
+}*/
+
+
+function plus(Obj) {
+
+    var collapse_content_selector = $(Obj).attr('data-href');
+    var toggle_switch = $(Obj);
+
+    $(collapse_content_selector).toggle(function () {
+        if ($(this).css('display') == 'none') {
+            toggle_switch.html('&raquo; plus');
+        } else {
+            toggle_switch.html('&raquo; minus');
+        }
+    });
+}
+
+function minus(Obj) {
+
+    var button_to_control = $(Obj).attr('aria-controls');
+    var collapse_content_selector = $(Obj).attr('data-href');
+    $(collapse_content_selector).hide(500);
+
+    var firstbutton = document.getElementById(button_to_control);
+    $(firstbutton).html('&raquo; plus');
+
 }
