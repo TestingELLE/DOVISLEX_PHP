@@ -92,7 +92,7 @@
                     <h4>Working languages:</h4>
                     <p>Italian, French, English, Spanish 
                         </br>
-                        <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle1 notranslate" onclick="minus(this)">&raquo; minus</button>
+                        <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
                 </div>
             </div>
