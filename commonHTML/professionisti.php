@@ -73,8 +73,8 @@
                     &nbsp; in Community law, in particular commenting on 
                     judgments of the Court of First Instance and the Court 
                     of Justice European (1999)&nbsp;
+                    <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
-                <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
                 <div id="collapse1" style="display:none">
                     <h4 class="LcustomTranslation" id="S51">Specific areas of activity followed:</h4>
@@ -90,8 +90,10 @@
                     </ul>
 
                     <h4>Working languages:</h4>
-                    <p>Italian, French, English, Spanish </p>
-                    <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle1 notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p>Italian, French, English, Spanish 
+                        </br>
+                        <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle1 notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
@@ -118,10 +120,10 @@
                     </li>
                     <li class="LcustomTranslation" id="D12">the Court of Cassation and other Italian higher Courts</li>
                     <li class="LcustomTranslation" id="D13">the European Court of Human Rights in Strasbourg</li>
-                    <li class="LcustomTranslation" id="D14">Belgian and German jurisdictions  as well as in national and international arbitration. 
+                    <li class="LcustomTranslation" id="D14">Belgian and German jurisdictions  as well as in national and international arbitration.&nbsp;
+                        <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li>
                 </ul>
-                <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
                 <div id="collapse2" style="display:none">
                     <h4 class="LcustomTranslation" id="S52">Specific areas of activity:</h4>
@@ -332,9 +334,11 @@
                         <p>&#149;&nbsp;Docente di “Contrattualistica internazionale” 
                             in corsi di formazione professionale
                             organizzati da “Ascom-Next” e finanziati dal Fondo sociale 
-                            europeo (Padova, 1999/2000/2001)</p>
+                            europeo (Padova, 1999/2000/2001)
+                            </br>
+                            <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                        </p>
                     </div> <!-- papers -->  
-                    <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                 </div>
             </div>
     </article>
@@ -359,7 +363,8 @@
                 <h4 class="LcustomTranslation" id="S54">University Teaching Assignments</h4>
                 <p class="LcustomTranslation" id="D19">Professor of Italian commercial, corporate and contractual 
                     Law- Department of Law - Humboldt University in Berlin - 
-                    Germany (since 2001) <br>
+                    Germany (since 2001)&nbsp;
+                    <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p> 
                 <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
@@ -376,8 +381,10 @@
                     </ul>
 
                     <h4>Working languages:</h4>
-                    <p>German, Italian, French</p>
-                    <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p>German, Italian, French
+                        </br>
+                        <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
@@ -400,9 +407,10 @@
                     <li class="LcustomTranslation" id="D23">Previously, attorney at a leading firm 
                         active in the areas of civil and trade and the protection
                         of consumers and investors, gaining significant experience 
-                        in litigation - Padova - Italy (2002-2012)</li> 
+                        in litigation - Padova - Italy (2002-2012)&nbsp;
+                        <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    </li> 
                 </ul>
-                <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
                 <div id="collapse4" style="display:none">
                     <h4 class="LcustomTranslation" id="S56">Specific areas of activity</h4>
@@ -421,8 +429,10 @@
                     </p>
 
                     <h4>Working language</h4>
-                    <p>Italian, French</p>
-                    <button aria-controls="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p>Italian, French
+                        </br>
+                        <button aria-controls="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
@@ -439,9 +449,10 @@
             <div class="more">
                 <ul>
                     <li class="LcustomTranslation" id="D26">Lawyer. Member of the Bar of Berlin (since 2003)</li>
-                    <li class="LcustomTranslation" id="D27">Representation before German Courts and Jurisdictions.</li> 
+                    <li class="LcustomTranslation" id="D27">Representation before German Courts and Jurisdictions.&nbsp;
+                        <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    </li> 
                 </ul>
-                <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
                 <div id="collapse5" style="display:none">
                     <h4 class="LcustomTranslation" id="S59">Specific areas of activity</h4>
@@ -453,8 +464,10 @@
                     </ul>
 
                     <h4>Working languages</h4>
-                    <p> German, English, Italian</p>
-                    <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p> German, English, Italian
+                        </br>
+                        <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
@@ -473,9 +486,10 @@
                     <li class="LcustomTranslation" id="S58">Business and Investment Banking Consultant</li>
                     <li>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)</li>
                     <li>Ph.D Mathematics, Rice University, Houston, TX</li>
-                    <li>GMAT 800</li>
+                    <li>GMAT 800&nbsp;
+                        <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    </li>
                 </ul>
-                <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
                 <div id="collapse6" style="display:none">
                     <h4 class="LcustomTranslation" id="S592">Specific areas of activity</h4>
@@ -489,8 +503,10 @@
                     </ul>
 
                     <h4>Working languages:</h4>
-                    <p>Italian, English, French, Spanish</p>
-                    <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p>Italian, English, French, Spanish
+                        </br>
+                        <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
