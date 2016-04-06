@@ -366,7 +366,6 @@
                     Germany (since 2001)&nbsp;
                     <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p> 
-                <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
                 <div id="collapse3" style="display:none">
                     <h4 class="LcustomTranslation" id="S55">Specific areas of activity</h4>
