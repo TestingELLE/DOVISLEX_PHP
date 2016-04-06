@@ -53,13 +53,12 @@
                     (1996) e II edizione (1999)
                     <br>
                 </div> <!-- publications -->
+                
                 <p>&#149;&nbsp;Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
                     <a href="index.php?page=bibliografia" target="central">articoli</a>&nbsp; in
                     materia di diritto comunitario, in particolare di commento a 
                     sentenze del Tribunale di primo grado e della Corte di giustizia 
-                    delle Comunità europee (dal 1999)&nbsp;
-                </p>
-                <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    delle Comunità europee (dal 1999)&nbsp;<button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
                 <div id="collapse1" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
@@ -75,8 +74,10 @@
                     </ul>
 
                     <h4>Lingue di lavoro:</h4>
-                    <p>italiano, francese, inglese, spagnolo</p>
-                    <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p>italiano, francese, inglese, spagnolo
+                        <br>
+                        <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
@@ -98,10 +99,9 @@
                     <li>Corte di cassazione e alle altre Magistrature superiori</li>
                     <li>la Corte di giustizia dell'Unione europea a Lussemburgo [al 20 febbraio 2015, in 28 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
                     <li>Corte europea dei diritti dell'uomo a Strasburgo</li>
-                    <li>giurisdizioni belga e tedesca nonché in arbitrati nazionali e internazionali.</li>
+                    <li>giurisdizioni belga e tedesca nonché in arbitrati nazionali e internazionali.&nbsp;<button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></li>
                 </ul>
-                <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-
+                
                 <div id="collapse2" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
@@ -308,9 +308,11 @@
                         <p>&#149;&nbsp;Docente di “Contrattualistica internazionale” 
                             in corsi di formazione professionale
                             organizzati da “Ascom-Next” e finanziati dal Fondo sociale 
-                            europeo (Padova, 1999/2000/2001)</p>
+                            europeo (Padova, 1999/2000/2001)
+                            <br>
+                            <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                        </p>
                     </div> <!-- papers --> 
-                    <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                 </div>
             </div>
         </div>
@@ -334,12 +336,9 @@
                 <ul>
 
                     <li>le giurisdizioni italiana e tedesca</li>
-                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>
-
+                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo&nbsp;<button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></li>
                 </ul>
                 </p>
-                <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-
                 <div id="collapse3" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
@@ -354,8 +353,10 @@
                     </ul>
 
                     <h4>Lingue di lavoro:</h4>
-                    <p>italiano, tedesco, francese</p>
-                    <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p>italiano, tedesco, francese
+                        <br>
+                        <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
@@ -379,9 +380,7 @@
                     Studio legale attivo nei settori del
                     diritto civile e commerciale nonché della tutela dei consumatori 
                     e dei risparmiatori, maturando una
-                    significativa esperienza nel contenzioso - Padova - Italia (2002-2012)</p>
-
-                <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    significativa esperienza nel contenzioso - Padova - Italia (2002-2012)&nbsp;<button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>
 
                 <div id="collapse4" style="display:none">
                     <h4>Specifici settori di attività seguiti nello Studio:</h4>
@@ -402,8 +401,10 @@
                         di crediti commerciali.</p>
 
                     <h4> Lingue di lavoro </h4>
-                    <p> italiano, francese </p>
-                    <button aria-controls="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p> italiano, francese
+                        <br>
+                        <button aria-controls="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
@@ -421,9 +422,9 @@
                 <p>
                     <br/>&#149;&nbsp Avvocato del Foro di Berlino - Germania (dal 2003)
                     <br/>&#149;&nbsp Patrocinante davanti alla giurisdizione tedesca
-                    <br/>&#149;&nbspCollaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)
+                    <br/>&#149;&nbspCollaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;<button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+
                 </p>
-                <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
                 <div id="collapse5" style="display:none">
                     <h4> Specifici settori di attività seguiti nello Studio: </h4>
@@ -435,9 +436,10 @@
                     </ul>
 
                     <h4>Lingue di lavoro</h4>
-                    <p> Tedesco, inglese, italiano</p>
-                    <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                    <br>
+                    <p> Tedesco, inglese, italiano
+                        <br>
+                        <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
@@ -456,10 +458,9 @@
                     <br/>&#149;&nbsp Economista, consulente d'affari
                     <br/>&#149;&nbsp MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
                     <br/>&#149;&nbsp Ph.D Mathematics, Rice University, Houston, TX
-                    <br/>&#149;&nbsp GMAT 800
-                </p>
-                <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    <br/>&#149;&nbsp GMAT 800&nbsp;<button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
+                </p>
                 <div id="collapse6" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
@@ -471,8 +472,10 @@
                     </ul>
 
                     <h4>Lingue di lavoro:</h4>
-                    <p>italiano, inglese, francese, spagnolo</p>
-                    <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    <p>italiano, inglese, francese, spagnolo
+                        <br>
+                        <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
         </div>
