@@ -53,7 +53,7 @@
                     (1996) e II edizione (1999)
                     <br>
                 </div> <!-- publications -->
-                
+
                 <p>&#149;&nbsp;Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
                     <a href="index.php?page=bibliografia" target="central">articoli</a>&nbsp; in
                     materia di diritto comunitario, in particolare di commento a 
@@ -101,7 +101,7 @@
                     <li>Corte europea dei diritti dell'uomo a Strasburgo</li>
                     <li>giurisdizioni belga e tedesca nonché in arbitrati nazionali e internazionali.&nbsp;<button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></li>
                 </ul>
-                
+
                 <div id="collapse2" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>

@@ -23,25 +23,25 @@ function plusminusGeneral() {
  *      professionisti_2.html  */
 
 /*function plusminusProfessionisti(e) {
-
-
-    var e = window.event || e;
-    var text = $(e.target).text();
-    var parent = $(e.target).parent().find('div');
-
-    if (text === '« minus') {
-        parent.css('overflow', 'hidden');
-        parent.css('height', '200px');
-
-    } else { //(text ===  '» plus')
-        parent.css('overflow', 'visible');
-        parent.css('height', '');
-    }
-
-    $(e.target).text(function (_, value) {
-        return value == '« minus' ? '» plus' : '« minus';
-    });
-}*/
+ 
+ 
+ var e = window.event || e;
+ var text = $(e.target).text();
+ var parent = $(e.target).parent().find('div');
+ 
+ if (text === '« minus') {
+ parent.css('overflow', 'hidden');
+ parent.css('height', '200px');
+ 
+ } else { //(text ===  '» plus')
+ parent.css('overflow', 'visible');
+ parent.css('height', '');
+ }
+ 
+ $(e.target).text(function (_, value) {
+ return value == '« minus' ? '» plus' : '« minus';
+ });
+ }*/
 
 
 function plus(Obj) {

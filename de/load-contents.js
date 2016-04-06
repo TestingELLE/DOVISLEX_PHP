@@ -132,8 +132,8 @@ function loadContents() {
     appendORreplace('#D11', "Dem Gerichtshof der Europäischen Union in Luxemburg [bis Februar 2015 in 28 Fällen in den folgenden Bereichen: Agrarrecht der EU, Fischerei, Umwelt, Einfuhren aus Drittländern, Kartelle (Kartellrecht), staatliche Beihilfen, Steuern, Zoll, Rechte der Mitglieder des Europäischen Parlaments, die Transparenz der Verwaltung der EU-Institutionen, der europäischen öffentlichen Dienst;");
     appendORreplace('#D12', "dem Kassationsgericht und anderen italienischen Gerichten höherer Instanz");
     appendORreplace('#D13', "dem Europäischen Gerichtshof für Menschenrechte in Straßburg");
-    appendORreplace('#D14', "den belgischen und deutschen Gerichtsbarkeiten sowie in nationalen und internationalen Schiedsverfahren.&nbsp;<button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>");
-    appendORreplace('#D15', "Straf- und Verwaltungsrecht im Zusammenhang mit Gemeinschaftsmitteln");
+    appendORreplace('#D14', "den belgischen und deutschen Gerichtsbarkeiten sowie in nationalen und internationalen Schiedsverfahren.&nbsp;<button id="pair2" data-href="#collapse2" class="nav - toggle notranslate" onclick="plus(this)">&raquo; plus</button>");
+            appendORreplace('#D15', "Straf- und Verwaltungsrecht im Zusammenhang mit Gemeinschaftsmitteln");
     appendORreplace('#D16', "Co-Counsel bei dem Gericht erster Instanz und dem Gerichtshof der Europäischen Union in  Luxemburg");
     appendORreplace('#D17', "Zugelassene Anwältin vor den italienischen und deutschen Gerichten");
     appendORreplace('#D18', "Gewählte Präsidentin des COMITES - BERLIN");

@@ -478,7 +478,7 @@
                     <li>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)</li>
                     <li>Ph.D Mathematics, Rice University, Houston, TX</li>
                     <li>GMAT 800&nbsp;<button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-</li>
+                    </li>
                 </ul>
 
                 <div id="collapse6" style="display:none">
