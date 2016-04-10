@@ -837,12 +837,12 @@ button.nav-toggle {
     background-color: #eeeeee;
     border: none;
     color: #004d68;
-    padding: 3px 3px;
+    padding: 1px 1px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.4rem;
-    margin: 4px 2px;
+    margin: 0px 0px;
     cursor: pointer;
 }

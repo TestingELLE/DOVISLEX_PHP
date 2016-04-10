@@ -131,7 +131,7 @@ function loadContents() {
 //professionisti.html
     appendORreplace('#D9', "Abogado senior que ha comparecido ante los tribunales nacionales italianos, belgas, franceses y luxemburgueses; la Corte Suprema de Casación y otros tribunales italianos superiores; el Tribunal y el Tribunal de Justicia de las Comunidades Europeas en Luxemburgo; el Tribunal Europeo de Derechos Humanos en Estrasburgo; en procedimientos administrativos con las instituciones de la UE; en arbitraje nacional e internacional. Anteriormente ... ");
     appendORreplace('#F22', "Profesor de Derecho Europeo y de Comercio Internacional - Facultad de Ciencias Políticas y Facultad de Agricultura - Universidad de Padua (1974-1999) ");
-    appendORreplace('#F23', "Autora para el Grupo 'Il Sole-24 Ore' de artículos sobre Derecho comunitario, en particular, comentando sobre las sentencias del Tribunal de Primera Instancia y el Tribunal de Justicia Europeo (1999)&nbsp;");
+    appendORreplace('#F23', "Autora para el Grupo 'Il Sole-24 Ore' de artículos sobre Derecho comunitario, en particular, comentando sobre las sentencias del Tribunal de Primera Instancia y el Tribunal de Justicia Europeo (1999)");
     appendORreplace('#S51', "Áreas específicas de actividad:");
     appendORreplace('#F27', "relaciones comerciales de la UE con terceros países");
     appendORreplace('#D10', "Abogado. Especialista en el derecho de la UE y del comercio internacional. Ha comparecido ante: ");

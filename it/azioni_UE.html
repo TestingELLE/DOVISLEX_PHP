@@ -25,17 +25,18 @@
         <h3>DAVANTI AI GIUDICI NAZIONALI</h3>
 
         <div class="more">
-            <span class="notranslate" style="cursor: pointer; font-style: italic;"
-                  onclick="plusminusGeneral();">
-                &raquo; plus
-            </span>
+            <button id="pairA" data-href="#collapseA" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
-            <div class=extra-info>
+
+            <div class=extra-info id="collapseA" style="display:none">
                 <p>Poiché il diritto dell'Unione europea è applicabile negli Stati membri, eventuali vertenze circa la sua interpretazione o validità devono essere sollevate davanti ai giudici nazionali, competenti secondo le regole processuali interne di ogni Stato. </p>
 
                 <p>Compete, infatti, ai giudici nazionali in primis applicare il diritto comunitario e a farlo rispettare.</p>
 
-                <p>Peraltro, se ritiene che una norma interna sia in contrasto con il diritto dell’Unione, il giudice nazionale investito di una specifica controversia ha anche il potere di disapplicare detta norma nel caso di specie (senza dunque dover previamente sollevare una questione di legittimità costituzionale o attendere la sua abrogazione legislativa).</p>
+                <p>Peraltro, se ritiene che una norma interna sia in contrasto con il diritto dell’Unione, il giudice nazionale investito di una specifica controversia ha anche il potere di disapplicare detta norma nel caso di specie (senza dunque dover previamente sollevare una questione di legittimità costituzionale o attendere la sua abrogazione legislativa).
+                    <br>
+                    <button aria-controls="pairA" data-href="#collapseA" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                </p>
             </div>
         </div>
 
@@ -43,12 +44,9 @@
             giudice nazionale</h3>
 
         <div class="more">
-            <span class="notranslate" style="cursor: pointer; font-style: italic;"
-                  onclick="plusminusGeneral();">
-                &raquo; plus
-            </span>
+            <button id="pairB" data-href="#collapseB" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
-            <div class=extra-info>
+            <div class=extra-info id="collapseB" style="display:none">
                 <p>Come detto, sono <i>in primis</i> i giudici nazionali a essere tenuti 
                     ad applicare il diritto comunitario e a farlo rispettare, 
                     se del caso in collaborazione con la Corte di giustizia 
@@ -107,6 +105,8 @@
                     amministrativa (accusa o pretesa che erano il frutto di una
                     non corretta interpretazione o applicazione della normativa 
                     comunitaria).
+                    <br>
+                    <button aria-controls="pairB" data-href="#collapseB" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                 </p>
             </div>
         </div>
@@ -115,12 +115,9 @@
         <h3>Ricorso diretto al Tribunale dell’Unione europea</h3>
 
         <div class="more">
-            <span class="notranslate" style="cursor: pointer; font-style: italic;"
-                  onclick="plusminusGeneral();">
-                &raquo; plus
-            </span>
+            <button id="pairC" data-href="#collapseC" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
-            <div class=extra-info>
+            <div class=extra-info id="collapseC" style="display:none">
                 <p>A determinate condizioni, gli interessati possono anche 
                     ricorrere direttamente al Tribunale dell’Unione europea 
                     (le cui decisioni sono poi impugnabili davanti alla Corte
@@ -145,6 +142,8 @@
                     clausola compromissoria contenuta in un contratto stipulato 
                     dall'Unione o per conto di questa con una determinata 
                     impresa (art. 272 TFUE).
+                    <br>
+                    <button aria-controls="pairC" data-href="#collapseC" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                 </p>
             </div>
         </div>
@@ -154,12 +153,9 @@
             di giustizia dell’Unione europea</h3>
 
         <div class="more">
-            <span class="notranslate" style="cursor: pointer; font-style: italic;"
-                  onclick="plusminusGeneral();">
-                &raquo; plus
-            </span>
+            <button id="pairD" data-href="#collapseD" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
-            <div class=extra-info>
+            <div class=extra-info id="collapseD" style="display:none">
                 <p>I Partner dello Studio - oltre alle cause fondate sul 
                     diritto europeo pendenti davanti ai giudici nazionali 
                     (italiani, tedeschi, belgi e francesi) - a oggi (marzo 2015) 
@@ -213,6 +209,7 @@
                         loro funzionari).
                     </li>
                 </ul>
+                <button aria-controls="pairD" data-href="#collapseD" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
             </div>
         </div>
 
@@ -220,12 +217,9 @@
         <h3>Denunce alla Commissione europea contro imprese o Stati membri</h3>
 
         <div class="more">
-            <span class="notranslate" style="cursor: pointer; font-style: italic;"
-                  onclick="plusminusGeneral();">
-                &raquo; plus
-            </span>
+            <button id="pairE" data-href="#collapseE" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
-            <div class=extra-info>
+            <div class=extra-info id="collapseE" style="display:none">
                 <p>Lo Studio, inoltre, regolarmente prepara, introduce e 
                     coltiva davanti alla Commissione europea denunce in vari 
                     settori.
@@ -320,6 +314,7 @@
                         smaltimento rifiuti.
                     </li>
                 </ul>
+                <button aria-controls="pairE" data-href="#collapseE" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
             </div>
         </div>
 
@@ -327,12 +322,9 @@
         <h3>Denunce al Mediatore europeo contro casi di cattiva amministrazione</h3>
 
         <div class="more">
-            <span class="notranslate" style="cursor: pointer; font-style: italic;"
-                  onclick="plusminusGeneral();">
-                &raquo; plus
-            </span>
+            <button id="pairF" data-href="#collapseF" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
-            <div class=extra-info>
+            <div class=extra-info id="collapseF" style="display:none">
                 <p>Lo Studio infine prepara, introduce e coltiva davanti al 
                     Mediatore europeo (ai sensi dell’art. 228 TFUE) denunce 
                     relative ai casi di cattiva amministrazione che coinvolgono
@@ -362,6 +354,8 @@
                     amministrazione - può decidere di incoraggiare soluzioni 
                     amichevoli che soddisfino sia il denunciante sia 
                     l’istituzione.
+                    <br>
+                    <button aria-controls="pairF" data-href="#collapseF" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                 </p>
             </div>
         </div>

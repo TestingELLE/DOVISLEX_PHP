@@ -99,10 +99,10 @@
 
         <div class="more">
             <h2>the members of the Firm</h2>
-            <span class="notranslate" style="cursor: pointer; font-style: italic;" 
-                  onclick="plusminusGeneral();">&raquo; plus</span>
+            <button id="pair" data-href="#collapse" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
-            <div class="extra-info">
+
+            <div class="extra-info" id="collapse" style="display:none">
                 <p class="LcustomTranslation" id="F17">The Law Firm <span class="notranslate">Donà Viscardini</span> was founded in 1974 by Wilma Viscardini who wanted to make 
                     available to businesses and individuals her expertise in 
                     the field of Community law developed over years in the 
@@ -132,11 +132,14 @@
                     Berlin (since 2001).
                 </p>
 
-                <p class="LcustomTranslation" id="F20">Other partners and associates of the Firm also have 
+                <p>
+                    <span class="LcustomTranslation" id="F20">Other partners and associates of the Firm also have 
                     extensive expertise in European and international Law, 
                     sometimes enriched with significant professional and 
                     academic experiences (in the Community Institutions and 
-                    leading law Firms abroad).
+                    leading law Firms abroad).</span>
+                    <br>
+                    <button aria-controls="pair" data-href="#collapse" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                 </p>
             </div>
         </div>
