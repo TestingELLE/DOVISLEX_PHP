@@ -68,11 +68,9 @@
                     </br>
                 </div> <!-- publications -->
 
-                <p class="LcustomTranslation" id="F23">&#149;&nbsp;Author for the Group "Il Sole-24 Ore" of &nbsp;
-                    <a href="index.php?page=bibliografia" target="central">articles</a>
-                    &nbsp; in Community law, in particular commenting on 
-                    judgments of the Court of First Instance and the Court 
-                    of Justice European (1999)&nbsp;
+                <p>
+                    <span class="LcustomTranslation" id="F23">&#149;&nbsp;Author for the Group "Il Sole-24 Ore" of &nbsp;
+                    <a href="index.php?page=bibliografia" target="central">articles</a> &nbsp; in Community law, in particular commenting on judgments of the Court of First Instance and the Court of Justice European (1999)&nbsp;</span>
                     <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
 
