@@ -124,12 +124,10 @@
 
         <div class="more">
             <h2>sui componenti dello Studio </h2>
-            <span class="notranslate" style="cursor: pointer; font-style: italic;"
-                  onclick="plusminusGeneral();">
-                &raquo; plus
-            </span>
+            <button id="pair" data-href="#collapse" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
 
-            <div class=extra-info>
+
+            <div class="extra-info" id="collapse" style="display:none">
                 <p>Lo Studio legale DONÀ VISCARDINI è stato fondato nel 1974 
                     da Wilma VISCARDINI la quale desiderava mettere a 
                     disposizione delle imprese la propria esperienza nel 
@@ -193,6 +191,8 @@
                     MBA MIT - Boston) per strategia negoziale, analisi 
                     economiche e finanziarie, sviluppo di relazioni d'affari
                     negli USA.
+                    <br>
+                    <button aria-controls="pair" data-href="#collapse" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                 </p>
             </div>
         </div>

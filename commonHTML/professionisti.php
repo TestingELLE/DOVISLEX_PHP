@@ -118,7 +118,8 @@
                     </li>
                     <li class="LcustomTranslation" id="D12">the Court of Cassation and other Italian higher Courts</li>
                     <li class="LcustomTranslation" id="D13">the European Court of Human Rights in Strasbourg</li>
-                    <li class="LcustomTranslation" id="D14">Belgian and German jurisdictions  as well as in national and international arbitration.&nbsp;
+                    <li>
+                        <span class="LcustomTranslation" id="D14">Belgian and German jurisdictions  as well as in national and international arbitration.&nbsp;</span>
                         <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li>
                 </ul>
@@ -359,9 +360,10 @@
                 </ul>
 
                 <h4 class="LcustomTranslation" id="S54">University Teaching Assignments</h4>
-                <p class="LcustomTranslation" id="D19">Professor of Italian commercial, corporate and contractual 
+                <p> 
+                    <span class="LcustomTranslation" id="D19">Professor of Italian commercial, corporate and contractual 
                     Law- Department of Law - Humboldt University in Berlin - 
-                    Germany (since 2001)&nbsp;
+                    Germany (since 2001)&nbsp;</span>
                     <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p> 
 
@@ -401,10 +403,11 @@
                         (since 2002)</li>
                     <li class="LcustomTranslation" id="D22">Collaborator of the Firm at the headquarters 
                         in Padova - Italy (2013)</li> 
-                    <li class="LcustomTranslation" id="D23">Previously, attorney at a leading firm 
+                    <li> 
+                        <span class="LcustomTranslation" id="D23">Previously, attorney at a leading firm 
                         active in the areas of civil and trade and the protection
                         of consumers and investors, gaining significant experience 
-                        in litigation - Padova - Italy (2002-2012)&nbsp;
+                        in litigation - Padova - Italy (2002-2012)&nbsp;</span>
                         <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li> 
                 </ul>
@@ -446,7 +449,8 @@
             <div class="more">
                 <ul>
                     <li class="LcustomTranslation" id="D26">Lawyer. Member of the Bar of Berlin (since 2003)</li>
-                    <li class="LcustomTranslation" id="D27">Representation before German Courts and Jurisdictions.&nbsp;
+                    <li>
+                        <span class="LcustomTranslation" id="D27">Representation before German Courts and Jurisdictions.&nbsp;</span>
                         <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li> 
                 </ul>
