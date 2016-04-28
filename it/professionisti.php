@@ -95,13 +95,14 @@
 
             <div class="more">
                 <p>Avvocato del Foro di Padova (dal 1999) specializzato in diritto 
-                    dell'Unione europea. Patrocinante presso:
+                    dell'Unione europea. </br>Patrocinante davanti a:
                 </p>
                 <ul>
-                    <li>Corte di cassazione e alle altre Magistrature superiori</li>
-                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [al 20 febbraio 2015, in 28 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
-                    <li>Corte europea dei diritti dell'uomo a Strasburgo</li>
-                    <li>giurisdizioni belga e tedesca nonché in arbitrati nazionali e internazionali.&nbsp;
+                    <li>la giurisdizione italiana, comprese la Corte di cassazione e le altre Magistrature superiori</li>
+                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo in quasi 30 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
+                    <li>la Corte europea dei diritti dell'uomo a Strasburgo</li>
+                    <li>le giurisdizioni belga e tedesca</li>
+                    <li>arbitrati nazionali e internazionali.</&nbsp;
                         <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li>
                 </ul>
@@ -383,10 +384,10 @@
 
             <div class="more">
                 <p>&#149;&nbsp; Avvocato del Foro di Padova - Italia (dal 2002)
-                    <br/>&#149;&nbsp; Patrocinante davanti alla giurisdizione italiana
+                    <br/>&#149;&nbsp; Patrocinante davanti alla giurisdizione italiana, comprese la Corte di cassazione e le altre Magistrature superiori
                     <br/>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
                     di Padova - Italia (dal 2013)
-                 <br/>&#149;&nbsp; In precedenza, collaboratrice presso un primario 
+                 <br/>&#149;&nbsp;In precedenza, collaboratrice presso un primario 
                     Studio legale attivo nei settori del
                     diritto civile e commerciale nonché della tutela dei consumatori 
                     e dei risparmiatori, maturando una
@@ -434,10 +435,9 @@
             <h4 class = "notranslate">Senior Associate - Berlin</h4>
 
             <div class="more">
-                <p>
-                    <br/>&#149;&nbsp Avvocato del Foro di Berlino - Germania (dal 2003)
+                <p>&#149;&nbsp Avvocato del Foro di Berlino - Germania (dal 2003)
                     <br/>&#149;&nbsp Patrocinante davanti alla giurisdizione tedesca
-                    <br/>&#149;&nbspCollaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
+                    <br/>&#149;&nbsp Collaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
                     <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
 
@@ -472,8 +472,7 @@
             <h4 class = "notranslate">USA Senior Partner</h4>
 
             <div class="more">
-                <p>
-                    <br/>&#149;&nbsp Economista, consulente d'affari
+                <p>&#149;&nbsp Economista, consulente d'affari
                     <br/>&#149;&nbsp MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
                     <br/>&#149;&nbsp Ph.D Mathematics, Rice University, Houston, TX
                     <br/>&#149;&nbsp GMAT 800&nbsp;

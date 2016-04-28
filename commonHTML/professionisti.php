@@ -108,20 +108,20 @@
             <h4 class = "notranslate">Managing Partner</h4>
 
             <div class="more">
-                <span class="LcustomTranslation" id="D10">Lawyer. Specialist in EU and international commerce Law. Has appeared before:</span>
+                <span class="LcustomTranslation" id="D10">Lawyer. Specializes in EU and international commerce Law. Has pled before:</span>
                 <ul>
                     <li class="LcustomTranslation" id="D11">the Court of Justice of the European Union in 
-                        Luxembourg [to February 2015, in 28 cases in the 
-                        following areas: agricultural law of the EU, fisheries, 
+                        Luxembourg [to April 2016] in nearly 30 cases in the 
+                        following areas: agricultural law, fisheries, 
                         environment, imports from third countries, cartels 
-                        (antitrust), State aid, taxation , customs, rights 
-                        of MEPs, administrative transparency of the EU 
-                        institutions, the European civil service;
+                        (antitrust), State aid, taxation, customs, European parliamentary law, administrative transparency of the EU 
+                        institutions, European civil service;
                     </li>
-                    <li class="LcustomTranslation" id="D12">the Court of Cassation and other Italian higher Courts</li>
-                    <li class="LcustomTranslation" id="D13">the European Court of Human Rights in Strasbourg</li>
+                    <li class="LcustomTranslation" id="D12">the Court of Cassation and other Italian higher Courts;</li>
+                    <li class="LcustomTranslation" id="D13">the European Court of Human Rights in Strasbourg;</li>
                     <li>
-                        <span class="LcustomTranslation" id="D14">Belgian and German jurisdictions  as well as in national and international arbitration.&nbsp;</span>
+                        <span class="LcustomTranslation" id="D14">Belgian and German jurisdictions</li>
+                    <li>national and international arbitration.</>&nbsp;</span>
                         <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li>
                 </ul>
@@ -130,12 +130,12 @@
                     <h4 class="LcustomTranslation" id="S52">Specific areas of activity:</h4>
                     <ul>
                         <li>agriculture, fisheries, food, environment</li>
-                        <li>competition</li>
-                        <li class="LcustomTranslation" id="S53">trademarks, Community designs</li>
-                        <li>imports / exports to and from non-EU countries</li>
+                        <li>competition (cartels, State aid)</li>
+                        <li>customs/taxation</li>
+                        <li>imports / exports from/ to non-EU countries</li>
+                        <li class="LcustomTranslation" id="S53">trademarks</li>     
                         <li>commercial contracts</li>
-                        <li class="LcustomTranslation" id="D15">criminal and criminal-administrative in relation to 
-                            Community funds </li>
+                        <li class="LcustomTranslation" id="D15">criminal/administrative offenses in relation to Community funds </li>
                     </ul>
 
 
@@ -156,7 +156,7 @@
                     <div>
                         <ul>
                             <li>Vice President of the <span class="notranslate">UAE</span> 
-                                (Union of European Lawyers), based in Luxembourg
+                                (European Lawyers Union), based in Luxembourg
                             </li>
                             <li>Coordinator of the Study Group of the Triveneto 
                                 "Centre of criminal tax law, Community and related 
@@ -170,7 +170,7 @@
                     <h4>Papers presented at meetings / conferences / seminars / courses:</h4>
                     <div class="notranslate"> <!-- papers -->
                         <p>
-                            &#149;&nbsp;<span class="Fm12">Speaker at</span> Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
+                            &#149;&nbsp;<span class="Fm12">Speaker at</span> the conference "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
                         <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di giustizia dell'Unione europea in materia di ne bis in idem tra sanzioni penali e "amministrative"”, nell'ambito dell'Incontro di studio "Il ne bis in idem in ambito tributario" organizzato dal "Dipartimento di Scienze Politiche, Giuridiche e Studi Internazionali dell'Università degli Studi di Padova" (Rovigo, 6 novembre 2015)</p>
 
                         <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di giustizia 
@@ -406,6 +406,7 @@
                 <ul>
                     <li class="LcustomTranslation" id="D21">Lawyer. Member of the Bar of Padova, Italy 
                         (since 2002)</li>
+                    <li>Admitted to plead in Italian Courts, including the <span class="notranslate">"Corte di cassazione"</span> e other high courts</li>
                     <li class="LcustomTranslation" id="D22">Collaborator of the Firm at the headquarters 
                         in Padova - Italy (2013)</li> 
                     <li> 
