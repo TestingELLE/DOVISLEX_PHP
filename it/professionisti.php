@@ -16,27 +16,46 @@
             <h4 class="notranslate">Founder & Senior Partner (dal 1974)</h4>
 
             <div class="more">
-                <p>Patrocinante davanti alle giurisdizioni italiane, belghe, francesi 
-                    e lussemburghesi; presso la Suprema Corte di cassazione e le altre
-                    giurisdizioni superiori italiane; presso il Tribunale di primo grado 
-                    e la Corte di giustizia delle Comunità europee a Lussemburgo; presso 
-                    la Corte europea dei Diritti dell'Uomo a Strasburgo; e in arbitrati 
-                    nazionali ed internazionali. Precedentemente ...</p>
-                <p>&#149;&nbsp;Funzionario CEE a Lussemburgo e successivamente a 
-                    Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro 
-                    del Servizio giuridico della Commissione delle Comunità europee, 
-                    incaricata di dare pareri sui progetti di atti normativi elaborati 
-                    dalle direzioni generali della Commissione; assistere, per gli 
-                    aspetti giuridici, i rappresentanti della Commissione in sede di 
-                    discussione delle proposte della stessa, sia al Parlamento europeo 
-                    che al Consiglio dei Ministri; rappresentare e difendere la 
-                    Commissione davanti alla Corte di giustizia delle Comunità europee;
-                </p>
-                <p>&#149;&nbsp;Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di 
+                <p>Patrocinante davanti a:
+                <ul>
+                    <li>le giurisdizioni italiane, belghe, francesi e lussemburghesi;</li>
+                    <li>la Suprema Corte di cassazione e le altre giurisdizioni superiori italiane;</li>
+                    <li>il Tribunale di primo grado e la Corte di giustizia delle Comunità europee a Lussemburgo;</li>
+                    <li>la Corte europea dei Diritti dell'Uomo a Strasburgo;</li>
+                    <li>in arbitrati nazionali ed internazionali.</li>
+                     
+                  </ul>
+                <p>Precedentemente ...<br>
+                Funzionario CEE a Lussemburgo e successivamente a Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro 
+                    del Servizio giuridico della Commissione delle Comunità europee, incaricata di dare pareri sui progetti di atti normativi elaborati 
+                    dalle direzioni generali della Commissione; assistere, per gli aspetti giuridici, i rappresentanti della Commissione in sede di 
+                    discussione delle proposte della stessa, sia al Parlamento europeo che al Consiglio dei Ministri; rappresentare e difendere la Commissione davanti alla Corte di giustizia delle Comunità europee;</p>
+                <p>Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di 
                     Agraria - Università di Padova (dal 1974 al 1999)</p>
+                
+                <h4>Specifici settori di attività seguiti:</h4>
+                    <ul>
+                        <li>agricoltura, pesca, industria alimentare, ambiente</li>
+                        <li>concorrenza</li>
+                        <li>scambi all'interno dell'area comunitaria</li>
+                        <li>importazioni/esportazioni da e verso Paesi extra UE</li>
+                        <li>rapporti commerciali UE/Paesi terzi</li>
+                        <li>contratti di natura commerciale</li>
+                        <li>penale e penale-amministrativo in relazione alle risorse 
+                            finanziarie comunitarie</li>
+                    </ul>
 
-                <p>&#149;&nbsp;Autore di numerose <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>, tra cui le seguenti:</p>
-                <div class="publications notranslate">
+                    <h4>Lingue di lavoro:</h4>
+                    <p>italiano, francese, inglese, spagnolo
+                        <br>
+                        <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
+                    
+                <p>Autore di numerose <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>, tra cui le seguenti:</p>
+                
+                <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                
+                <div id="collapse1" style="display:none" class="notranslate">
                     - <a href="index.php?page=biblios#trattato" target="central">
                         <i>"Trattato breve di Diritto agrario italiano e comunitario"</i>
                     </a>,
@@ -51,39 +70,20 @@
                     per il Diritto comunitario, da W. Viscardini, Cedam, I edizione 
                     (1996) e II edizione (1999)
                     <br>
-                </div> <!-- publications -->
-                <p>&#149;&nbsp;Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
+                 
+                <p>Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
                     <a href="index.php?page=bibliografia" target="central">articoli</a>&nbsp; in
                     materia di diritto comunitario, in particolare di commento a 
                     sentenze del Tribunale di primo grado e della Corte di giustizia 
-                    delle Comunità europee (dal 1999)&nbsp;
-                    <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                </p>
-
-                <div id="collapse1" style="display:none">
-                    <h4>Specifici settori di attività seguiti:</h4>
-                    <ul>
-                        <li>agricoltura, pesca, industria alimentare, ambiente</li>
-                        <li>concorrenza</li>
-                        <li>scambi all'interno dell'area comunitaria</li>
-                        <li>importazioni/esportazioni da e verso Paesi extra UE</li>
-                        <li>rapporti commerciali UE/Paesi terzi</li>
-                        <li>contratti di natura commerciale</li>
-                        <li>penale e penale-amministrativo in relazione alle risorse 
-                            finanziarie comunitarie</li>
-                    </ul>
-
-                    <h4>Lingue di lavoro:</h4>
-                    <p>italiano, francese, inglese, spagnolo
-                        </br>
-                        <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                    </p>
+                    delle Comunità europee (dal 1999)</p>
+                    
+              
+                    
                 </div>
             </div>
         </div>
     </article>
-    
-    </br>
+
 
     <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
@@ -95,16 +95,16 @@
 
             <div class="more">
                 <p>Avvocato del Foro di Padova (dal 1999) specializzato in diritto 
-                    dell'Unione europea. </br>Patrocinante davanti a:
+                    dell'Unione europea. <br>Patrocinante davanti a:
                 </p>
                 <ul>
                     <li>la giurisdizione italiana, comprese la Corte di cassazione e le altre Magistrature superiori</li>
-                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo in quasi 30 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
+                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [in quasi 30 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
                     <li>la Corte europea dei diritti dell'uomo a Strasburgo</li>
                     <li>le giurisdizioni belga e tedesca</li>
-                    <li>arbitrati nazionali e internazionali.</&nbsp;
+                    <li>arbitrati nazionali e internazionali.</li>
                         <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                    </li>
+                    
                 </ul>
 
                 <div id="collapse2" style="display:none">
@@ -132,9 +132,9 @@
 
                     <h4>Appartenenza ad Associazioni scientifiche o professionali:</h4>
 
-                    <p>&#149;&nbsp;Vicepresidente della U.A.E. (Unione degli Avvocati 
+                    </li><li>Vicepresidente della U.A.E. (Unione degli Avvocati 
                         europei) con sede a Lussemburgo</p>
-                    <p>&#149;&nbsp;Coordinatore del Gruppo di studio Triveneto del 
+                    </li><li>Coordinatore del Gruppo di studio Triveneto del 
                         “Centro di diritto penale tributario, comunitario e delle 
                         materie collegate” di Torino (Associazione italiana di esperti 
                         di Diritto dell'Unione europea a tutela degli interessi finanziari dell'Unione)</p>
@@ -313,7 +313,7 @@
                             in corsi di formazione professionale
                             organizzati da “Ascom-Next” e finanziati dal Fondo sociale 
                             europeo (Padova, 1999/2000/2001)
-                            </br>
+                            <br>
                             <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                         </p>
                     </div> <!-- papers --> 
@@ -322,7 +322,7 @@
         </div>
     </article>
     
-    </br>
+    <br>
 
     <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
@@ -335,10 +335,11 @@
             <div class="more">
 
                 <p>Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996)</p>
-                <p>&#149;&nbsp;Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
-                <p>&#149;&nbsp;Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.</p>
+                <p>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
+                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.</p>
 
-                <p>Patrocinante o co-patrocinante presso:
+               
+                <p>Patrocinante o co-patrocinante presso:</p>
                 <ul>
 
                     <li>le giurisdizioni italiana e tedesca</li>
@@ -347,7 +348,7 @@
                     </li>
 
                 </ul>
-                </p>
+            
 
                 <div id="collapse3" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
@@ -364,7 +365,7 @@
 
                     <h4>Lingue di lavoro:</h4>
                     <p>italiano, tedesco, francese
-                        </br>
+                        <br>
                         <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
                 </div>
@@ -372,7 +373,7 @@
         </div>
     </article>
     
-    </br>
+    <br>
 
     <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
@@ -383,17 +384,12 @@
             <h4 class = "notranslate">Senior Associate - Padova</h4>
 
             <div class="more">
-                <p>&#149;&nbsp; Avvocato del Foro di Padova - Italia (dal 2002)
-                    <br/>&#149;&nbsp; Patrocinante davanti alla giurisdizione italiana, comprese la Corte di cassazione e le altre Magistrature superiori
-                    <br/>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
-                    di Padova - Italia (dal 2013)
-                 <br/>&#149;&nbsp;In precedenza, collaboratrice presso un primario 
-                    Studio legale attivo nei settori del
-                    diritto civile e commerciale nonché della tutela dei consumatori 
-                    e dei risparmiatori, maturando una
-                    significativa esperienza nel contenzioso - Padova - Italia (2002-2012)&nbsp;
+                <p>Avvocato del Foro di Padova - Italia (dal 2002)</p>
+                    
+                <p>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2013)</p>
+                 <p>In precedenza, collaboratrice presso un primario Studio legale attivo nei settori del diritto civile e commerciale nonché della tutela dei consumatori e dei risparmiatori, maturando una significativa esperienza nel contenzioso - Padova - Italia (2002-2012)&nbsp;</p>
                     <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                </p>
+                </p
 
 
                 <div id="collapse4" style="display:none">
@@ -416,7 +412,7 @@
 
                     <h4> Lingue di lavoro </h4>
                     <p> italiano, francese 
-                        </br>
+                        <br>
                         <button aria-controls="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
                 </div>
@@ -424,7 +420,7 @@
         </div>
     </article>
     
-    </br>
+    <br>
 
     <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
@@ -435,9 +431,9 @@
             <h4 class = "notranslate">Senior Associate - Berlin</h4>
 
             <div class="more">
-                <p>&#149;&nbsp Avvocato del Foro di Berlino - Germania (dal 2003)
-                    <br/>&#149;&nbsp Patrocinante davanti alla giurisdizione tedesca
-                    <br/>&#149;&nbsp Collaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
+                <p>Avvocato del Foro di Berlino - Germania (dal 2003)</p>
+                    <p>Patrocinante davanti alla giurisdizione tedesca</p>
+                    <p>Collaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
                     <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
 
@@ -452,16 +448,16 @@
 
                     <h4>Lingue di lavoro</h4>
                     <p> Tedesco, inglese, italiano
-                        </br>
+                        <br>
                         <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
                     <br>
                 </div>
             </div>
         </div>
-    </article>
-    
-    </br>
+
+        </article>
+    <br>
     
     <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
@@ -472,10 +468,10 @@
             <h4 class = "notranslate">USA Senior Partner</h4>
 
             <div class="more">
-                <p>&#149;&nbsp Economista, consulente d'affari
-                    <br/>&#149;&nbsp MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
-                    <br/>&#149;&nbsp Ph.D Mathematics, Rice University, Houston, TX
-                    <br/>&#149;&nbsp GMAT 800&nbsp;
+                <li>Economista, consulente d'affari</li>
+                    <li>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)</li>
+                    <li>Ph.D Mathematics, Rice University, Houston, TX</li>
+                    <li>GMAT 800&nbsp;</li>
                     <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
 
@@ -491,7 +487,7 @@
 
                     <h4>Lingue di lavoro:</h4>
                     <p>italiano, inglese, francese, spagnolo
-                        </br>
+                        <br>
                         <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
                 </div>
