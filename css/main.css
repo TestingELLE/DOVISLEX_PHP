@@ -846,3 +846,7 @@ button.nav-toggle {
     margin: 0px 0px;
     cursor: pointer;
 }
+
+.clearfix_new {
+    overflow: auto;
+}

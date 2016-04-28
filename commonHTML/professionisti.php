@@ -5,7 +5,7 @@
             color: #b09b4c;
         }
     </style>
-    <article>
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/foto Avv Viscardini biblioteca.jpg" 
              alt="Foto Avvocato Viscardini">
@@ -70,7 +70,7 @@
 
                 <p>
                     <span class="LcustomTranslation" id="F23">&#149;&nbsp;Author for the Group "Il Sole-24 Ore" of &nbsp;
-                    <a href="index.php?page=bibliografia" target="central">articles</a> &nbsp; in Community law, in particular commenting on judgments of the Court of First Instance and the Court of Justice European (1999)&nbsp;</span>
+                        <a href="index.php?page=bibliografia" target="central">articles</a> &nbsp; in Community law, in particular commenting on judgments of the Court of First Instance and the Court of Justice European (1999)&nbsp;</span>
                     <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
 
@@ -96,8 +96,10 @@
             </div>
         </div>
     </article>
-
-    <article>
+    
+    </br>
+    
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_G_Dona_162x189.jpg" alt="Foto Avvocato Gabriele Donà">
 
@@ -340,8 +342,10 @@
                 </div>
             </div>
     </article>
-
-    <article>
+    
+    </br>
+    
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_S_Dona_162x189.jpg" alt="Foto Avvocato Simonetta Donà">
 
@@ -361,8 +365,8 @@
                 <h4 class="LcustomTranslation" id="S54">University Teaching Assignments</h4>
                 <p> 
                     <span class="LcustomTranslation" id="D19">Professor of Italian commercial, corporate and contractual 
-                    Law- Department of Law - Humboldt University in Berlin - 
-                    Germany (since 2001)&nbsp;</span>
+                        Law- Department of Law - Humboldt University in Berlin - 
+                        Germany (since 2001)&nbsp;</span>
                     <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p> 
 
@@ -387,8 +391,10 @@
             </div>
         </div>
     </article>
+    
+    </br>
 
-    <article>
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_Comparini_162x189.jpg" alt="Foto Avvocato Comparini">
 
@@ -404,9 +410,9 @@
                         in Padova - Italy (2013)</li> 
                     <li> 
                         <span class="LcustomTranslation" id="D23">Previously, attorney at a leading firm 
-                        active in the areas of civil and trade and the protection
-                        of consumers and investors, gaining significant experience 
-                        in litigation - Padova - Italy (2002-2012)&nbsp;</span>
+                            active in the areas of civil and trade and the protection
+                            of consumers and investors, gaining significant experience 
+                            in litigation - Padova - Italy (2002-2012)&nbsp;</span>
                         <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li> 
                 </ul>
@@ -436,8 +442,10 @@
             </div>
         </div>
     </article>
+    
+    </br>
 
-    <article>
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/foto_Avv_Tomann_162x189.jpg" alt="Foto Avvocato Tomann">
 
@@ -472,8 +480,10 @@
             </div>
         </div>
     </article>
-
-    <article>
+    
+    </br>
+    
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Luca Donà_162x189.jpg" alt="Foto Luca Donà">
 

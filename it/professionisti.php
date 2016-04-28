@@ -6,7 +6,7 @@
         }
     </style>
 
-    <article>
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/foto Avv Viscardini biblioteca.jpg" 
              alt="Foto Avvocato Viscardini">
@@ -57,7 +57,7 @@
                     materia di diritto comunitario, in particolare di commento a 
                     sentenze del Tribunale di primo grado e della Corte di giustizia 
                     delle Comunità europee (dal 1999)&nbsp;
-                <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
 
                 <div id="collapse1" style="display:none">
@@ -82,8 +82,10 @@
             </div>
         </div>
     </article>
+    
+    </br>
 
-    <article>
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_G_Dona_162x189.jpg" alt="Foto Avvocato Gabriele Donà">
 
@@ -318,8 +320,10 @@
             </div>
         </div>
     </article>
+    
+    </br>
 
-    <article>
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_S_Dona_162x189.jpg" alt="Foto Avvocato Simonetta Donà">
 
@@ -366,8 +370,10 @@
             </div>
         </div>
     </article>
+    
+    </br>
 
-    <article>
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_Comparini_162x189.jpg" alt="Foto Avvocato Comparini">
 
@@ -378,16 +384,15 @@
             <div class="more">
                 <p>&#149;&nbsp; Avvocato del Foro di Padova - Italia (dal 2002)
                     <br/>&#149;&nbsp; Patrocinante davanti alla giurisdizione italiana
-                <br/><p>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
+                    <br/>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
                     di Padova - Italia (dal 2013)
-
-                 <br/><p>&#149;&nbsp; In precedenza, collaboratrice presso un primario 
+                 <br/>&#149;&nbsp; In precedenza, collaboratrice presso un primario 
                     Studio legale attivo nei settori del
                     diritto civile e commerciale nonché della tutela dei consumatori 
                     e dei risparmiatori, maturando una
                     significativa esperienza nel contenzioso - Padova - Italia (2002-2012)&nbsp;
                     <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                 </p>
+                </p>
 
 
                 <div id="collapse4" style="display:none">
@@ -417,8 +422,10 @@
             </div>
         </div>
     </article>
+    
+    </br>
 
-    <article>
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/foto_Avv_Tomann_162x189.jpg" alt="Foto Avvocato Tomann">
 
@@ -453,8 +460,10 @@
             </div>
         </div>
     </article>
-
-    <article>
+    
+    </br>
+    
+    <article class="clearfix_new">
         <img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Luca Donà_162x189.jpg" alt="Foto Luca Donà">
 
