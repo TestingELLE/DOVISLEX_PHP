@@ -13,13 +13,21 @@
             <h4 class="notranslate">Founder & Senior Partner (dal 1974)</h4>
 
             <div class="more">
-                <p>Patrocinante davanti alle giurisdizioni italiane, belghe, francesi 
-                    e lussemburghesi; presso la Suprema Corte di cassazione e le altre
-                    giurisdizioni superiori italiane; presso il Tribunale di primo grado 
-                    e la Corte di giustizia delle Comunità europee a Lussemburgo; presso 
-                    la Corte europea dei Diritti dell'Uomo a Strasburgo; e in arbitrati 
-                    nazionali ed internazionali. Precedentemente ...</p>
-                <p>&#149;&nbsp;Funzionario CEE a Lussemburgo e successivamente a 
+                <p class="nospace">Patrocinante davanti a:
+                    <ul>
+                    <li>le giurisdizioni italiane, belghe, francesi e lussemburghesi;</li>
+                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [al 20 febbraio 2015, in quasi 70 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea];</li>
+                    <li>la Corte di cassazione e le altre Magistrature superiori;</li>    
+                    <li>la Corte europea dei diritti dell'uomo a Strasburgo;</li>
+                    <li>in arbitrati nazionali e internazionali.</li>
+                </ul>
+                <p class="nospace">Precedentemente ...
+                &nbsp;
+                        <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>
+                
+
+                <div id="collapse1" style="display:none">
+                    <p>Funzionario CEE a Lussemburgo e successivamente a 
                     Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro 
                     del Servizio giuridico della Commissione delle Comunità europee, 
                     incaricata di dare pareri sui progetti di atti normativi elaborati 
@@ -29,10 +37,10 @@
                     che al Consiglio dei Ministri; rappresentare e difendere la 
                     Commissione davanti alla Corte di giustizia delle Comunità europee;
                 </p>
-                <p>&#149;&nbsp;Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di 
+                <p>Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di 
                     Agraria - Università di Padova (dal 1974 al 1999)</p>
 
-                <p>&#149;&nbsp;Autore di numerose <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>, tra cui le seguenti:</p>
+                <p class="nospace">Autore di numerose <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>, tra cui le seguenti:</p>
                 <div class="publications notranslate">
                     - <a href="index.php?page=biblios#trattato" target="central">
                         <i>"Trattato breve di Diritto agrario italiano e comunitario"</i>
@@ -47,17 +55,15 @@
                     </a>, diretto da L. Costato, E. Casadei e G. Sgarbanti, e curato,
                     per il Diritto comunitario, da W. Viscardini, Cedam, I edizione 
                     (1996) e II edizione (1999)
-                    <br>
+                    <br><br>
                 </div> <!-- publications -->
-                <p>&#149;&nbsp;Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
+                <p>Autore per il Gruppo "Il Sole-24 Ore" di &nbsp;
                     <a href="index.php?page=bibliografia" target="central">articoli</a>&nbsp; in
                     materia di diritto comunitario, in particolare di commento a 
                     sentenze del Tribunale di primo grado e della Corte di giustizia 
                     delle Comunità europee (dal 1999)&nbsp;
-                    <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    
                 </p>
-
-                <div id="collapse1" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
                         <li>agricoltura, pesca, industria alimentare, ambiente</li>
@@ -85,7 +91,7 @@
             <h4 class = "notranslate">Managing Partner</h4>
 
             <div class="more">
-                <p>Avvocato del Foro di Padova (dal 1999) specializzato in diritto 
+                <p class="nospace">Avvocato del Foro di Padova (dal 1999) specializzato in diritto 
                     dell'Unione europea. Patrocinante presso:
                 </p>
                 <ul>
@@ -319,19 +325,17 @@
             <div class="more">
 
                 <p>Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996)</p>
-                <p>&#149;&nbsp;Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
-                <p>&#149;&nbsp;Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.</p>
+                <p>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
+                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.</p>
 
-                <p>Patrocinante o co-patrocinante presso:
+                <p class="nospace">Patrocinante o co-patrocinante presso:</p>
                 <ul>
-
                     <li>le giurisdizioni italiana e tedesca</li>
                     <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo&nbsp;
                         <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li>
 
                 </ul>
-                </p>
 
                 <div id="collapse3" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
@@ -362,7 +366,7 @@
 
             <div class="more">
                 <p>&#149;&nbsp; Avvocato del Foro di Padova - Italia (dal 2002)
-                    <br/>&#149;&nbsp; Patrocinante davanti alla giurisdizione italiana
+                    <br/>Patrocinante davanti alla giurisdizione italiana compresa la corte di cassazione e le altre magistratre superiori
                     <br/>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
                     di Padova - Italia (dal 2013)
                  <br/>&#149;&nbsp; In precedenza, collaboratrice presso un primario 
