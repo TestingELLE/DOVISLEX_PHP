@@ -5,13 +5,10 @@
             color: #b09b4c;
         }
     </style>
-    <article class="clearfix_new">
-        <img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/foto Avv Viscardini biblioteca.jpg" 
-             alt="Foto Avvocato Viscardini">
-
-        <div>
-            <h2 class="noTextTransform notranslate">Wilma VISCARDINI</h2>
+    <article class="clearfix_new" >
+            <h2 class="noTextTransform notranslate">Wilma VISCARDINI<img class ="right clearfix" style="margin: 0 10px;" 
+                src="../images/foto Avv Viscardini biblioteca.jpg" 
+                alt="Foto Avvocato Viscardini"></h2>
             <h4 class="notranslate">Founder & Senior Partner<span class="LcustomTranslation" id="D8"> (dal 1974)</span></h4>
 
             <div class="more">
@@ -94,17 +91,11 @@
                     </p>
                 </div>
             </div>
-        </div>
     </article>
     
-    </br>
-    
     <article class="clearfix_new">
-        <img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Foto_Avv_G_Dona_162x189.jpg" alt="Foto Avvocato Gabriele Donà">
-
-        <div>
-            <h2 class="noTextTransform notranslate">Gabriele DONÀ</h2>
+            <h2 class="noTextTransform notranslate">Gabriele DONÀ<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Foto_Avv_G_Dona_162x189.jpg" alt="Foto Avvocato Gabriele Donà"></h2>
             <h4 class = "notranslate">Managing Partner</h4>
 
             <div class="more">
@@ -340,17 +331,11 @@
                         </p>
                     </div> <!-- papers -->  
                 </div>
-            </div>
     </article>
     
-    </br>
-    
     <article class="clearfix_new">
-        <img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Foto_Avv_S_Dona_162x189.jpg" alt="Foto Avvocato Simonetta Donà">
-
-        <div>
-            <h2 class="noTextTransform notranslate">Simonetta DONÀ</h2>
+            <h2 class="noTextTransform notranslate">Simonetta DONÀ<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Foto_Avv_S_Dona_162x189.jpg" alt="Foto Avvocato Simonetta Donà"></h2>
             <h4 class = "notranslate">Senior Partner - Berlin</h4>
 
             <div class="more">
@@ -389,17 +374,11 @@
                     </p>
                 </div>
             </div>
-        </div>
     </article>
-    
-    </br>
 
     <article class="clearfix_new">
-        <img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Foto_Avv_Comparini_162x189.jpg" alt="Foto Avvocato Comparini">
-
-        <div>
-            <h2 class="noTextTransform notranslate">Barbara COMPARINI</h2>
+            <h2 class="noTextTransform notranslate">Barbara COMPARINI<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Foto_Avv_Comparini_162x189.jpg" alt="Foto Avvocato Comparini"></h2>
             <h4 class = "notranslate">Senior Associate - Padova</h4>
 
             <div class="more">
@@ -441,17 +420,11 @@
                     </p>
                 </div>
             </div>
-        </div>
     </article>
-    
-    </br>
 
     <article class="clearfix_new">
-        <img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/foto_Avv_Tomann_162x189.jpg" alt="Foto Avvocato Tomann">
-
-        <div>
-            <h2 class="noTextTransform notranslate">Katja TOMANN</h2>
+            <h2 class="noTextTransform notranslate">Katja TOMANN<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/foto_Avv_Tomann_162x189.jpg" alt="Foto Avvocato Tomann"></h2>
             <h4 class = "notranslate">Senior Associate - Berlin</h4>
 
             <div class="more">
@@ -479,17 +452,11 @@
                     </p>
                 </div>
             </div>
-        </div>
     </article>
     
-    </br>
-    
     <article class="clearfix_new">
-        <img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Foto_Luca Donà_162x189.jpg" alt="Foto Luca Donà">
-
-        <div>
-            <h2 class="noTextTransform notranslate">Luca DONÀ</h2>
+            <h2 class="noTextTransform notranslate">Luca DONÀ<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Foto_Luca Donà_162x189.jpg" alt="Foto Luca Donà"></h2>
             <h4 class = "notranslate">USA Senior Partner</h4>
 
             <div class="more">
@@ -520,6 +487,5 @@
                     </p>
                 </div>
             </div>
-        </div>
     </article>
 </div>
