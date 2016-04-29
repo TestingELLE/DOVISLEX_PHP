@@ -850,3 +850,7 @@ button.nav-toggle {
 .clearfix_new {
     overflow: auto;
 }
+
+.red_border {
+    border: 5px solid red;
+}
