@@ -13,18 +13,19 @@
             <h4 class="notranslate">Founder & Senior Partner (dal 1974)</h4>
 
             <div class="more">
-                <p class="nospace">Patrocinante davanti a:
+                 <p class="nospace">Avvocato del Foro di Padova (dal 1961) specializzato in diritto 
+                    dell'Unione europea.<br>Patrocinante davanti a:
+                 </p>
                     <ul>
-                    <li>le giurisdizioni italiane, belghe, francesi e lussemburghesi;</li>
-                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [al 20 febbraio 2015, in quasi 70 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea];</li>
-                    <li>la Corte di cassazione e le altre Magistrature superiori;</li>    
-                    <li>la Corte europea dei diritti dell'uomo a Strasburgo;</li>
-                    <li>in arbitrati nazionali e internazionali.</li>
+                    <li>la giurisdizione italiana comprese la Corte di cassazione e le altre Magistrature superiori</li>
+                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [in circa 70 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>   
+                    <li>la Corte europea dei diritti dell'uomo a Strasburgo</li>
+                     <li>le giurisdizioni belghe, francesi e tedesche</li>
+                    <li>in arbitrati nazionali e internazionali</li>
                 </ul>
-                <p class="nospace">Precedentemente ...
-                &nbsp;
-                        <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>
-                
+                <p class="nospace">Precedentemente&nbsp;...
+                    &nbsp;
+                        <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>       
 
                 <div id="collapse1" style="display:none">
                     <p>Funzionario CEE a Lussemburgo e successivamente a 
@@ -37,8 +38,22 @@
                     che al Consiglio dei Ministri; rappresentare e difendere la 
                     Commissione davanti alla Corte di giustizia delle Comunità europee;
                 </p>
-                <p>Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di 
-                    Agraria - Università di Padova (dal 1974 al 1999)</p>
+                <p>Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di Agraria - Università di Padova (dal 1974 al 1999)</p>
+                
+                <h4>Specifici settori di attività seguiti:</h4>
+                    <ul>
+                        <li>agricoltura, pesca, industria alimentare, ambiente</li>
+                        <li>concorrenza</li>
+                        <li>scambi all'interno dell'area comunitaria</li>
+                        <li>importazioni/esportazioni da e verso Paesi extra UE</li>
+                        <li>rapporti commerciali UE/Paesi terzi</li>
+                        <li>contratti di natura commerciale</li>
+                        <li>penale e penale-amministrativo in relazione alle risorse 
+                            finanziarie comunitarie</li>
+                    </ul>
+
+                    <h4>Lingue di lavoro:</h4>
+                    <p>italiano, francese, inglese, spagnolo</p>
 
                 <p class="nospace">Autore di numerose <a href="index.php?page=bibliografia" target="central">pubblicazioni</a>, tra cui le seguenti:</p>
                 <div class="publications notranslate">
@@ -64,21 +79,6 @@
                     delle Comunità europee (dal 1999)&nbsp;
                     
                 </p>
-                    <h4>Specifici settori di attività seguiti:</h4>
-                    <ul>
-                        <li>agricoltura, pesca, industria alimentare, ambiente</li>
-                        <li>concorrenza</li>
-                        <li>scambi all'interno dell'area comunitaria</li>
-                        <li>importazioni/esportazioni da e verso Paesi extra UE</li>
-                        <li>rapporti commerciali UE/Paesi terzi</li>
-                        <li>contratti di natura commerciale</li>
-                        <li>penale e penale-amministrativo in relazione alle risorse 
-                            finanziarie comunitarie</li>
-                    </ul>
-
-                    <h4>Lingue di lavoro:</h4>
-                    <p>italiano, francese, inglese, spagnolo
-                        </br>
                         <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
                 </div>
@@ -92,13 +92,14 @@
 
             <div class="more">
                 <p class="nospace">Avvocato del Foro di Padova (dal 1999) specializzato in diritto 
-                    dell'Unione europea. Patrocinante presso:
+                    dell'Unione europea.<br>Patrocinante davanti a:
                 </p>
                 <ul>
-                    <li>Corte di cassazione e alle altre Magistrature superiori</li>
-                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [al 20 febbraio 2015, in 28 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
-                    <li>Corte europea dei diritti dell'uomo a Strasburgo</li>
-                    <li>giurisdizioni belga e tedesca nonché in arbitrati nazionali e internazionali.&nbsp;
+                    <li>la giurisdizione italiana comprese la Corte di cassazione e le altre Magistrature superiori</li>
+                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [in circa 30 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
+                    <li>la Corte europea dei diritti dell'uomo a Strasburgo</li>
+                    <li>le giurisdizioni belga e tedesca
+                     <li>in arbitrati nazionali e internazionali.&nbsp;
                         <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li>
                 </ul>
@@ -326,18 +327,16 @@
 
                 <p>Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996)</p>
                 <p>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
-                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.</p>
+                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo. <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>
 
-                <p class="nospace">Patrocinante o co-patrocinante presso:</p>
-                <ul>
-                    <li>le giurisdizioni italiana e tedesca</li>
-                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo&nbsp;
-                        <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                    </li>
-
-                </ul>
+               
 
                 <div id="collapse3" style="display:none">
+                     <p class="nospace">Patrocinante o co-patrocinante presso:</p>
+                <ul>
+                    <li>le giurisdizioni italiana e tedesca</li>
+                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>
+                </ul>
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
                         <li>diritto privato, commerciale, societario e tributario tedesco</li>
@@ -365,14 +364,11 @@
             <h4 class = "notranslate">Senior Associate - Padova</h4>
 
             <div class="more">
-                <p>&#149;&nbsp; Avvocato del Foro di Padova - Italia (dal 2002)
-                    <br/>Patrocinante davanti alla giurisdizione italiana compresa la corte di cassazione e le altre magistratre superiori
-                    <br/>&#149;&nbsp; Collaboratrice dello Studio presso la sede 
-                    di Padova - Italia (dal 2013)
-                 <br/>&#149;&nbsp; In precedenza, collaboratrice presso un primario 
-                    Studio legale attivo nei settori del
-                    diritto civile e commerciale nonché della tutela dei consumatori 
-                    e dei risparmiatori, maturando una
+                <p>Avvocato del Foro di Padova - Italia (dal 2002)
+                 <br>Patrocinante davanti alla giurisdizione italiana compresa la corte di cassazione e le altre magistratre superiori
+                    <br>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2013)
+                     <br>In precedenza, collaboratrice presso un primario Studio legale attivo nei settori del
+                    diritto civile e commerciale nonché della tutela dei consumatori e dei risparmiatori, maturando una
                     significativa esperienza nel contenzioso - Padova - Italia (2002-2012)&nbsp;
                     <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
@@ -411,14 +407,14 @@
             <h4 class = "notranslate">Senior Associate - Berlin</h4>
 
             <div class="more">
-                <p>
-                    <br/>&#149;&nbsp Avvocato del Foro di Berlino - Germania (dal 2003)
-                    <br/>&#149;&nbsp Patrocinante davanti alla giurisdizione tedesca
-                    <br/>&#149;&nbspCollaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
+                <p>Avvocato del Foro di Berlino - Germania (dal 2003)
+                    <br/>Patrocinante davanti alla giurisdizione tedesca
+                    <br/>Collaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
+                    
                     <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
 
-                <div id="collapse5" style="display:none">
+                <div id="collapse5" > <!-- style="display:none" -->
                     <h4> Specifici settori di attività seguiti nello Studio: </h4>
                     <ul>
                         <li> Diritto civile</li>
@@ -429,9 +425,11 @@
 
                     <h4>Lingue di lavoro</h4>
                     <p> Tedesco, inglese, italiano
-                        </br>
+                     
+                      
                         <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
+                       
                     <br>
                 </div>
             </div>
@@ -442,16 +440,17 @@
              src="../images/Foto_Luca Donà_162x189.jpg" alt="Foto Luca Donà"></h2>
             <h4 class = "notranslate">USA Senior Partner</h4>
 
-            <div class="more">
-                <p>
-                    <br/>&#149;&nbsp Economista, consulente d'affari
-                    <br/>&#149;&nbsp MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
-                    <br/>&#149;&nbsp Ph.D Mathematics, Rice University, Houston, TX
-                    <br/>&#149;&nbsp GMAT 800&nbsp;
+            <div class="more"> <!-- &#149;&nbsp  -->
+                <p>Consulente d'affari
+                    <br/>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
+                    <br/>Ph.D Mathematics, Rice University, Houston, TX
+                    <br/>GMAT&nbsp;800
+                    <!--
                     <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
+                    -->
 
-                <div id="collapse6" style="display:none">
+                <div id="collapse6"> <!--style="display:none" -->
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
                         <li>Sviluppo di opportunità d'affari e avviamento commerciale negli USA</li>
@@ -464,8 +463,10 @@
                     <h4>Lingue di lavoro:</h4>
                     <p>italiano, inglese, francese, spagnolo
                         </br>
+                        <!--
                         <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
+                        -->
                 </div>
             </div>
     </article>
