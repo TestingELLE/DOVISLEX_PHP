@@ -13,13 +13,15 @@
             <h4 class="notranslate">Founder & Senior Partner (dal 1974)</h4>
 
             <div class="more">
-                <p class="nospace">Patrocinante davanti a:
+                 <p class="nospace">Avvocato del Foro di Padova (dal 1961) specializzato in diritto 
+                    dell'Unione europea.<br>Patrocinante davanti a:
+                 </p>
                     <ul>
-                    <li>le giurisdizioni italiane, belghe, francesi e lussemburghesi;</li>
-                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [al 20 febbraio 2015, in quasi 70 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea];</li>
-                    <li>la Corte di cassazione e le altre Magistrature superiori;</li>    
-                    <li>la Corte europea dei diritti dell'uomo a Strasburgo;</li>
-                    <li>in arbitrati nazionali e internazionali.</li>
+                    <li>la giurisdizione italiana comprese la Corte di cassazione e le altre Magistrature superiori</li>
+                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [in circa 70 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>   
+                    <li>la Corte europea dei diritti dell'uomo a Strasburgo</li>
+                     <li>le giurisdizioni belghe, francesi e tedesche</li>
+                    <li>in arbitrati nazionali e internazionali</li>
                 </ul>
                 <p class="nospace">Precedentemente&nbsp;...
                     &nbsp;
@@ -90,11 +92,11 @@
 
             <div class="more">
                 <p class="nospace">Avvocato del Foro di Padova (dal 1999) specializzato in diritto 
-                    dell'Unione europea. Patrocinante davanti a:
+                    dell'Unione europea.<br>Patrocinante davanti a:
                 </p>
                 <ul>
                     <li>la giurisdizione italiana comprese la Corte di cassazione e le altre Magistrature superiori</li>
-                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [in quasi 30 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
+                    <li>la Corte di giustizia dell'Unione europea a Lussemburgo [in circa 30 procedimenti relativi alle seguenti materie: diritto agrario dell'Unione europea, pesca, ambiente, importazioni da Paesi terzi,intese (antitrust), aiuti di Stato, fiscalità, doganale, diritto parlamentare europeo, trasparenza amministrativa delle istituzioni dell'Unione europea, funzione pubblica europea]</li>
                     <li>la Corte europea dei diritti dell'uomo a Strasburgo</li>
                     <li>le giurisdizioni belga e tedesca
                      <li>in arbitrati nazionali e internazionali.&nbsp;
@@ -325,18 +327,16 @@
 
                 <p>Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996)</p>
                 <p>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
-                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.</p>
+                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo. <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>
 
-                <p class="nospace">Patrocinante o co-patrocinante presso:</p>
-                <ul>
-                    <li>le giurisdizioni italiana e tedesca</li>
-                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo&nbsp;
-                        <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                    </li>
-
-                </ul>
+               
 
                 <div id="collapse3" style="display:none">
+                     <p class="nospace">Patrocinante o co-patrocinante presso:</p>
+                <ul>
+                    <li>le giurisdizioni italiana e tedesca</li>
+                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>
+                </ul>
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
                         <li>diritto privato, commerciale, societario e tributario tedesco</li>
@@ -365,13 +365,10 @@
 
             <div class="more">
                 <p>Avvocato del Foro di Padova - Italia (dal 2002)
-                    <br/>Patrocinante davanti alla giurisdizione italiana compresa la corte di cassazione e le altre magistratre superiori
-                    <br/>Collaboratrice dello Studio presso la sede 
-                    di Padova - Italia (dal 2013)
-                 <br/>In precedenza, collaboratrice presso un primario 
-                    Studio legale attivo nei settori del
-                    diritto civile e commerciale nonché della tutela dei consumatori 
-                    e dei risparmiatori, maturando una
+                 <br>Patrocinante davanti alla giurisdizione italiana compresa la corte di cassazione e le altre magistratre superiori
+                    <br>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2013)
+                     <br>In precedenza, collaboratrice presso un primario Studio legale attivo nei settori del
+                    diritto civile e commerciale nonché della tutela dei consumatori e dei risparmiatori, maturando una
                     significativa esperienza nel contenzioso - Padova - Italia (2002-2012)&nbsp;
                     <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
@@ -410,14 +407,13 @@
             <h4 class = "notranslate">Senior Associate - Berlin</h4>
 
             <div class="more">
-                <p>
-                    <br/>Avvocato del Foro di Berlino - Germania (dal 2003)
+                <p>Avvocato del Foro di Berlino - Germania (dal 2003)
                     <br/>Patrocinante davanti alla giurisdizione tedesca
                     <br/>Collaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
-                    <!--
+                    
                     <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
--->
+
                 <div id="collapse5" > <!-- style="display:none" -->
                     <h4> Specifici settori di attività seguiti nello Studio: </h4>
                     <ul>
@@ -430,10 +426,10 @@
                     <h4>Lingue di lavoro</h4>
                     <p> Tedesco, inglese, italiano
                      
-                        <!--
+                      
                         <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
-                        -->
+                       
                     <br>
                 </div>
             </div>
@@ -445,8 +441,7 @@
             <h4 class = "notranslate">USA Senior Partner</h4>
 
             <div class="more"> <!-- &#149;&nbsp  -->
-                <p>
-                    <br/>Consulente d'affari
+                <p>Consulente d'affari
                     <br/>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
                     <br/>Ph.D Mathematics, Rice University, Houston, TX
                     <br/>GMAT&nbsp;800
