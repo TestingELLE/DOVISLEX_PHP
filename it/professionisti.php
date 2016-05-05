@@ -414,7 +414,7 @@
                     <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
 
-                <div id="collapse5" > <!-- style="display:none" -->
+                <div id="collapse5" style="display:none"> <!-- style="display:none" -->
                     <h4> Specifici settori di attività seguiti nello Studio: </h4>
                     <ul>
                         <li> Diritto civile</li>
