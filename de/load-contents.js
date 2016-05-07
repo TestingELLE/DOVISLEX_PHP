@@ -123,7 +123,7 @@ function loadContents() {
     appendORreplace('#F12', "Verfahren vor den Gerichten von Italien, Deutschland, Belgien und Frankreich (Zivil-, Straf-, Verwaltungs- und Steuergerichtsbarkeit)");
     appendORreplace('#F13', "Verfahren in Italien vor den Gerichten letzter Instanz (Kassationsgerichtshof, Staatsrat, Verfassungsgericht, etc.)");
     appendORreplace('#F15', "nationale und internationale Schiedsverfahren");
-    appendORreplace('#F16', "Zusätzlich ist die Kanzlei – auch Dank der Position des Avv. Gabriele Donà als Vizepräsident der Union der europäischen Anwälte – mit einem breiten Netzwerk von Fachleuten verbunden, die besondere Erfahrungen vor allem in den Mitgliedstaaten der Europäischen Union und in den Vereinigten Staaten (New York, Houston) aufweisen.");
+    appendORreplace('#F16',"Zusätzlich ist die Kanzlei – auch Dank der Position des Avv. Gabriele Donà als Vizepräsident der Union der europäischen Anwälte (UAE) – mit einem breiten Netzwerk von Fachleuten verbunden, die besondere Erfahrungen vor allem in den Mitgliedstaaten der Europäischen Union und in den Vereinigten Staaten (New York, Houston) aufweisen.");
     appendORreplace('.F29', "Fälle");
 
     appendORreplace('#D8', " (seit 1974)");

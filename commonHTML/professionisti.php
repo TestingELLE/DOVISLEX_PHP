@@ -146,9 +146,7 @@
                     <h4>Memberships is Scientific or Professional Associations:</h4>
                     <div>
                         <ul>
-                            <li>Vice President of the <span class="notranslate">UAE</span> 
-                                (European Lawyers Union), based in Luxembourg
-                            </li>
+                            <li>Vice President of the <span class="notranslate">European Lawyers' Union (UAE)</span>, based in Luxembourg</li>
                             <li>Coordinator of the Study Group of the Triveneto 
                                 "Centre of criminal tax law, Community and related 
                                 matters" of Turin (Italian association of experts of 

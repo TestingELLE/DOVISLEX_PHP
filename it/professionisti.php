@@ -23,12 +23,7 @@
                      <li>le giurisdizioni belghe, francesi e tedesche</li>
                     <li>in arbitrati nazionali e internazionali</li>
                 </ul>
-                <p class="nospace">Precedentemente&nbsp;...
-                    &nbsp;
-                        <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>       
-
-                <div id="collapse1" style="display:none">
-                    <p>Funzionario CEE a Lussemburgo e successivamente a 
+                <p>Precedentemente, funzionario CEE a Lussemburgo e successivamente a 
                     Bruxelles - Belgio (dal 1959 al 1973). In particolare, membro 
                     del Servizio giuridico della Commissione delle Comunità europee, 
                     incaricata di dare pareri sui progetti di atti normativi elaborati 
@@ -38,7 +33,12 @@
                     che al Consiglio dei Ministri; rappresentare e difendere la 
                     Commissione davanti alla Corte di giustizia delle Comunità europee;
                 </p>
-                <p>Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di Agraria - Università di Padova (dal 1974 al 1999)</p>
+                <p>Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di Agraria - Università di Padova (dal 1974 al 1999)
+                    &nbsp;
+                        <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>       
+
+                <div id="collapse1" style="display:none">
+                    <p>
                 
                 <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
@@ -100,9 +100,27 @@
                     <li>la Corte europea dei diritti dell'uomo a Strasburgo</li>
                     <li>le giurisdizioni belga e tedesca
                      <li>in arbitrati nazionali e internazionali.&nbsp;
-                        <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                        
                     </li>
                 </ul>
+                <h4>Docenze universitarie/post-universitarie:</h4>
+
+                    <p>Professore (nell'ambito del "Modulo europeo Jean Monnet") di 
+                        "Diritto processuale dell'Unione europea: il contenzioso davanti 
+                        alla Corte di giustizia dell'Unione europea" presso il
+                        Dipartimento di Giurisprudenza dell'Università di Ferrara 
+                        -- sede di Rovigo (2008-2013)</p>
+
+                    <h4>Appartenenza ad Associazioni scientifiche o professionali:</h4>
+
+                    <p>Vicepresidente della U.A.E. (Unione degli Avvocati 
+                        europei) con sede a Lussemburgo.</p>
+                    <p>Coordinatore del Gruppo di studio Triveneto del 
+                        “Centro di diritto penale tributario, comunitario e delle 
+                        materie collegate” di Torino (Associazione italiana di esperti 
+                        di Diritto dell'Unione europea a tutela degli interessi finanziari dell'Unione).&nbsp;
+                   
+                    <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button> </p>
 
                 <div id="collapse2" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
@@ -119,22 +137,7 @@
                     <h4>Lingue di lavoro:</h4>
 
                     <p>italiano, francese, inglese, spagnolo</p>
-                    <h4>Docenze universitarie/post-universitarie:</h4>
-
-                    <p>Professore (nell'ambito del "Modulo europeo Jean Monnet") di 
-                        "Diritto processuale dell'Unione europea: il contenzioso davanti 
-                        alla Corte di giustizia dell'Unione europea" presso il
-                        Dipartimento di Giurisprudenza dell'Università di Ferrara 
-                        -- sede di Rovigo (2008-2013)</p>
-
-                    <h4>Appartenenza ad Associazioni scientifiche o professionali:</h4>
-
-                    <p>&#149;&nbsp;Vicepresidente della U.A.E. (Unione degli Avvocati 
-                        europei) con sede a Lussemburgo</p>
-                    <p>&#149;&nbsp;Coordinatore del Gruppo di studio Triveneto del 
-                        “Centro di diritto penale tributario, comunitario e delle 
-                        materie collegate” di Torino (Associazione italiana di esperti 
-                        di Diritto dell'Unione europea a tutela degli interessi finanziari dell'Unione)</p>
+                    
 
                     <h4>Relazioni a convegni/ conferenze/ seminari/ corsi di perfezionamento:</h4>
                     <div class="notranslate"> <!-- papers -->

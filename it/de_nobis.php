@@ -115,7 +115,7 @@
         </ul>
 
         <p>Inoltre - anche grazie al ruolo dell’Avv. Gabriele DONÀ 
-            quale Vicepresidente dell’Unione degli Avvocati europei – lo 
+            quale Vicepresidente dell’Unione degli Avvocati europei (UAE) – lo 
             Studio si avvale della collaborazione di una rete di 
             professionisti con esperienze specifiche, in modo particolare 
             negli Stati membri dell’Unione europea e negli Stati
