@@ -120,7 +120,7 @@ function loadContents() {
     appendORreplace('#F13', "procedimientos ante el Tribunal General y el Tribunal de Justicia de la Unión Europea en Luxemburgo");
     appendORreplace('#F14', "procedimientos ante el Tribunal Europeo de Derechos Humanos en Estrasburgo");
     appendORreplace('#D6', "Consultoría de 360 ° y Asistencia para actividades en Alemania");
-    appendORreplace('#F16',"Además - también gracias al papel del abogado Gabriele DONA' como Vicepresidente de la Unión de Abogados Europeos (UAE) - la Firma está conectada a una amplia red de profesionales con experiencias especificas, slos obre todo en los Estados miembros de la Unión Europea y en Estados Unidos (Nueva York, Houston). ");
+    appendORreplace('#F16',"Además - también gracias al papel del abogado Gabriele DONÀ como Vicepresidente de la Unión de Abogados Europeos (UAE) - la Firma está conectada a una amplia red de profesionales con experiencias especificas, sobre todo en los Estados miembros de la Unión Europea y en Estados Unidos (Nueva York, Houston). ");
     appendORreplace('#F17', "El bufete de abogados Donà Viscardini fue fundado en 1974 por Wilma Viscardini, quien quería poner a disposición de empresas y particulares su experiencia en el campo del Derecho comunitario desarrollada durante años en las instituciones europeas. Fue, de hecho, una funcionaria de la Comisión Europea durante 14 años (1959-1973) y, en particular, miembro del Servicio Jurídico de la Comisión en Bruselas durante nueve años (1964-1973). ");
     appendORreplace('#F18', "Además, la abogada Viscardini, fue durante años profesora de Derecho Comunitario en la Universidad de Padua y sigue activa en el mundo académico, así como invitada como ponente en numerosas conferencias. ");
     appendORreplace('#F19', "Posteriormente, la abogada Viscardini ha recibido la ayuda de sus hijos, el abogado Gabriele Donà y la abogada Simonetta Dona, ambos con amplia experiencia profesional y académica. ");
@@ -169,8 +169,8 @@ function loadContents() {
     appendORreplace('#L14', "Desde el año 2000 la firma también está activa en el ámbito de la propiedad intelectual. Es posible registrar una marca UE a través de una solicitud a la Oficina de Propiedad Intelectual de la Unión Europea  (EUIPO) en Alicante (España).");
     appendORreplace('#L16', "La marca europea confiere a su titular proteccion contra la reproduccion o imitacion de su marca en toda la Union Europea; más específicamente, el derecho a prohibir a un tercero el uso, sin su consentimiendo, de signos idénticos o similares a los designados por la marca (bajo ciertas condiciones este derecho se puede extender a productos o servicios distintos de aquellos para los que se ha registrado la marca).");
     appendORreplace('#L18', "tratar de conseguir que una marca registrada sea declarada inválida o revocada");
-    appendORreplace('#L19', "apelar a las Juntas de Recurso");
-    appendORreplace('#L20', "apelar ante el Tribunal de la Unión Europea contra las resoluciones de las Juntas de Recurso");
+    appendORreplace('#L19',"apelar a las Juntas de Recurso de la EUIPO");
+    appendORreplace('#L20',"apelar ante el Tribunal General de la Unión Europea contra las resoluciones de las Juntas de Recurso");
 
 
 //germania360.html
