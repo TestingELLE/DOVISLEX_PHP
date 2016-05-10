@@ -32,8 +32,7 @@ function loadContents() {
     appendORreplace('#F13', "procédures devant le Tribunal et la Cour de justice de l'Union européenne à Luxembourg");
     appendORreplace('#F14', "procédures devant la Cour européenne des droits de l'homme à Strasbourg");
     appendORreplace('#F15', "procédures d'arbitrage national et international");
-    appendORreplace('#F16',"En outre -  grâce également au rôle de l'Avocat Gabriele DONÀ en tant que vice-président de l'Union des avocats européens (UAE)  - le Cabinet est relié à un vaste réseau de professionnels avec des expériences spécifiques, notamment dans les États membres de l'Union européenne ainsi qu'aux États-Unis ( New York, Houston).");
-
+    appendORreplace('#F16',"En outre -  grâce également au rôle de Me. Gabriele DONÀ' en tant que Vice-Président de l'Union des Avocats européens (UAE)  - le Cabinet est relié à un vaste réseau de professionnels avec des expériences spécifiques ,notamment dans les États membres de l'Union européenne ainsi qu'aux États-Unis (New York, Houston).");
     appendORreplace('#F17', "Le Cabinet d'avocats Donà Viscardini a été fondé en 1974 par Maître Wilma Viscardini qui voulait mettre à la disposition des entreprises et des particuliers son expertise dans le domaine du droit communautaire - développée au fil des ans dans les institutions européennes. Elle était, en fait, fonctionnaire de la Commission européenne depuis 14 ans (1959-1973) et, en particulier, membre du service juridique de la Commission à Bruxelles pendant neuf ans (1964-1973).");
 
     appendORreplace('#F18', "De plus, Maître Viscardini, était depuis des années professeur de droit communautaire à l'Université de Padoue et est toujours active dans le monde académique et invitée comme conférencier lors de nombreuses conférences.");

@@ -91,7 +91,7 @@
         </ul>
 
         <p class="LcustomTranslation" id="F16">Furthermore - also thanks to Attorney Gabriele DONÀ's role 
-            as Vice-President of the <span class="notranslate">European Lawyers' Union (UAE)</span> - the 
+            as Vice President of the European Lawyers' Union (UAE) - the 
             Firm is connected to a wide network of professionals with 
             specific experiences, especially in the Member States of the 
             European Union and in the United States (New York, Houston).
