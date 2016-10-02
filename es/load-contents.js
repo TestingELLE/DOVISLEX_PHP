@@ -46,7 +46,7 @@ function loadContents() {
     appendORreplace('.Em15', "Impuesto sobre el consumo");
     appendORreplace('.Em16', "Agricultura - azúcar");
     appendORreplace('.Fm01', "Competencia");
-    appendORreplace('.FM30', "Ayudas destinadas a la extensificación de la producción");
+    appendORreplace('.Fm30', "Ayudas destinadas a la extensificación de la producción");
     appendORreplace('#E301', "Fiscalidad");
     appendORreplace('#E303', "Medio ambiente - aguas lacustres francesas");
     appendORreplace('#E303b', "Medio ambiente");
@@ -61,9 +61,10 @@ function loadContents() {
     appendORreplace('#F33c', "Contaminación");
     appendORreplace('#F39', "Asunto");
     appendORreplace('#F302', "Jugadores de fútbol profesionales");
-    appendORreplace('#F303', "Desportes - fútbol");
+    appendORreplace('#F303', "Deportes - fútbol");
     appendORreplace('#F304', "Precios del azúcar");
     appendORreplace('.Fm33', "Subvenciones de la UE");
+    appendORreplace('.Fm31',"Derecho parlamentario europeo");
 
 //concorrenza.html
     appendORreplace('#F42', "practicas colusorias");
@@ -120,7 +121,7 @@ function loadContents() {
     appendORreplace('#F13', "procedimientos ante el Tribunal General y el Tribunal de Justicia de la Unión Europea en Luxemburgo");
     appendORreplace('#F14', "procedimientos ante el Tribunal Europeo de Derechos Humanos en Estrasburgo");
     appendORreplace('#D6', "Consultoría de 360 ° y Asistencia para actividades en Alemania");
-    appendORreplace('#F16',"Además - también gracias al papel del abogado Gabriele DONÀ como Vicepresidente de la Unión de Abogados Europeos (UAE) - la Firma está conectada a una amplia red de profesionales con experiencias especificas, sobre todo en los Estados miembros de la Unión Europea y en Estados Unidos (Nueva York, Houston). ");
+    appendORreplace('#F16',"Además - también gracias al papel del abogado Gabriele DONÀ como Vicepresidente de la Unión de Abogados Europeos (UAE) - la Firma está conectada a una amplia red de profesionales con experiencias especificas, sobre todo en los Estados miembros de la Unión Europea y en los Estados Unidos (Nueva York, Houston). ");
     appendORreplace('#F17', "El bufete de abogados Donà Viscardini fue fundado en 1974 por Wilma Viscardini, quien quería poner a disposición de empresas y particulares su experiencia en el campo del Derecho comunitario desarrollada durante años en las instituciones europeas. Fue, de hecho, una funcionaria de la Comisión Europea durante 14 años (1959-1973) y, en particular, miembro del Servicio Jurídico de la Comisión en Bruselas durante nueve años (1964-1973). ");
     appendORreplace('#F18', "Además, la abogada Viscardini, fue durante años profesora de Derecho Comunitario en la Universidad de Padua y sigue activa en el mundo académico, así como invitada como ponente en numerosas conferencias. ");
     appendORreplace('#F19', "Posteriormente, la abogada Viscardini ha recibido la ayuda de sus hijos, el abogado Gabriele Donà y la abogada Simonetta Dona, ambos con amplia experiencia profesional y académica. ");

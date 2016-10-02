@@ -141,8 +141,12 @@
 
                     <h4>Relazioni a convegni/ conferenze/ seminari/ corsi di perfezionamento:</h4>
                     <div class="notranslate"> <!-- papers -->
-                        <p>
-                            &#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
+                         <p>&#149;&nbsp;Relatore su "I principi di non discriminazione e di libertà di circolazione degli sportivi professionisti nella giurisprudenza della Corte di giustizia dell'Unione europea”, nell'ambito del Convegno “Discriminazioni nello sport e autonomia dei privati” organizzato dalla Commissione “Diritto dello sport” e dalla Delegazione “Catania e Sicilia orientale” della "Unione degli Avvocati europei” (Fiumefreddo, 23 settembre 2016)</p>
+                         <p>&#149;&nbsp;Relatore su "Ne bis in idem et les pouvoirs d’imposer des amendes des autorités européennes et nationales de concurrence”, nell'ambito del Convegno “Les défis de l’avocat en l’Europe du XXIème siècle” organizzato dalla "Unione degli Avvocati europei” (Alba Iulia, 24 giugno 2016)</p>
+                        <p>&#149;&nbsp;Relatore della lezione "Giudice del lavoro e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, nell'ambito del "Corso di perfezionamento e di alta specializzazione in discipline lavoristiche", per Avvocati, organizzato dall'Università "Statale" di Milano (Milano, 17 giugno 2016) </p>
+                        <p>&#149;&nbsp;Relatore alla Tavola Rotonda "Obbligatorietà contraddittorio endoprocedimentale. Legislazione - Corte di cassazione - Corte di giustizia" organizzata dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 26 maggio 2016)</p>
+                       
+                        <p>&#149;&nbsp;Relatore al Convegno "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
                         <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia dell'Unione europea in materia di ne bis in idem tra sanzioni penali e "amministrative"”, nell'ambito dell'Incontro di studio "Il ne bis in idem in ambito tributario" organizzato dal "Dipartimento di Scienze Politiche, Giuridiche e Studi Internazionali dell'Università degli Studi di Padova" (Rovigo, 6 novembre 2015)</p>
 
                         <p>&#149;&nbsp;Relatore su "La giurisprudenza della Corte di giustizia 

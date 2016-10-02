@@ -158,12 +158,14 @@
 
                     <h4>Papers presented at meetings / conferences / seminars / courses:</h4>
                     <div class="notranslate"> <!-- papers -->
-                        <p>
-                            &#149;&nbsp;<span class="Fm12">Speaker at</span> the conference "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
+                          <p>&#149;&nbsp;<span>Speaker on</span> "I principi di non discriminazione e di libertà di circolazione degli sportivi professionisti nella giurisprudenza della Corte di giustizia dell'Unione europea”, as part of the Convegno “Discriminazioni nello sport e autonomia dei privati” organized by the Commissione “Diritto dello sport” and by the Delegazione “Catania e Sicilia orientale” of the European Lawyers' Union (UAE) (Fiumefreddo, 23 settembre 2016)</p>
+                          <p>&#149;&nbsp;<span>Speaker on</span> "Ne bis in idem et les pouvoirs d’imposer des amendes des autorités européennes et nationales de concurrence”, at the Conference “Les défis de l’avocat en l’Europe du XXIème siècle”  organized by the European Lawyers' Union (UAE) (Alba Iulia, 24 June 2016)</p>
+                        <p>&#149;&nbsp;<span>Speaker on</span> the lecture "Giudice del lavoro e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, as part of the "Corso di perfezionamento e di alta specializzazione in discipline lavoristiche", for lawyers organized by "Università Statale" di Milano" (Milano, 17 June 2016) </p>
+                        <p>&#149;&nbsp;<span>Speaker at</span> the Round Table "Obbligatorietà contraddittorio endoprocedimentale. Legislazione - Corte di cassazione - Corte di giustizia" organized by the "Centro di diritto penale tributario, comunitario e delle materie collegate" of Torino (Torino, 26 May 2016)</p>
+                        <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> the conference "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
                         <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di giustizia dell'Unione europea in materia di ne bis in idem tra sanzioni penali e "amministrative"”, nell'ambito dell'Incontro di studio "Il ne bis in idem in ambito tributario" organizzato dal "Dipartimento di Scienze Politiche, Giuridiche e Studi Internazionali dell'Università degli Studi di Padova" (Rovigo, 6 novembre 2015)</p>
 
-                        <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di giustizia 
-                            dell’Unione europea in materia d’asilo e immigrazione: recente 
+                        <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di giustizia dell’Unione europea in materia d’asilo e immigrazione: recente 
                             casistica e aspetti procedurali”, nell'ambito del Convegno "Madri 
                             migranti e minori: diritti e accoglienza - Nuove frontiere 
                             professionali per l’avvocato europeo" organizzato dalla Commissione 

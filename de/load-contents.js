@@ -66,6 +66,8 @@ function loadContents() {
     appendORreplace('#L12', "Kaufvertrag");
     appendORreplace('#L13', "Die Kanzlei hat zahlreiche Vertriebsvereinbarungen vorbereitet, mit besonderem Augenmerk auf die Probleme -oft von den Kunden unterschützt- der Befolgung der Verbindlichen Vorschriften zum Schutz des Wettbewerbs vom europäischen Recht vorgesehen.");
 
+//de_nobis.html
+appendORreplace('#S42',"Rechtsanwalt Gabriele DONÀ war Professor für Verfahrensrecht der Europäischen Union an der Universität Ferrara (2008-2013) und wird regelmäßig als Redner auf nationalen und internationalen Konferenzen eingeladen. Im November 2014 in Krakau, wurde er Vizepräsident der Europäischer Anwaltsverein (UAE) mit Sitz in Luxemburg gewählt.");
 
     //germania360.html
     appendORreplace('#L65', "Die Kanzlei Donà Viscardini bietet eine erweiterte Palette von Dienstleistungen in Deutschland. Insbesondere stellt die Firma Beratung und rechtliche und steuerliche Unterstützung für die Öffnung der unternehmen und non-profit Aktivitäten in Deutschland, als auch Unterstützung bei der Immobilien-und anderen Branchen.");
