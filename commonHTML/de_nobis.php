@@ -103,7 +103,7 @@
 
 
             <div class="extra-info" id="collapse" style="display:none">
-                <p class="LcustomTranslation" id="F17">The Law Firm <span class="notranslate">Donà Viscardini</span> was founded in 1974 by Wilma Viscardini who wanted to make 
+                <p class="LcustomTranslation" id="F17">The Law Firm <span class="notranslate">Donà Viscardini</span> was founded in 1974 by Wilma VISCARDINI who wanted to make 
                     available to businesses and individuals her expertise in 
                     the field of Community law developed over years in the 
                     European institutions. She was, in fact, an official of 
@@ -112,11 +112,11 @@
                     in Brussels for nine years (1964-1973).
                 </p>
 
-                <p class="LcustomTranslation" id="F18">Also, attorney Viscardini, was for years a professor Community law at the University of Padua and is still active in the academic 
+                <p class="LcustomTranslation" id="F18">Also, attorney VISCARDINI, was for years a professor Community law at the University of Padua and is still active in the academic 
                     world and invited as a speaker at numerous conferences.
                 </p>
 
-                <p class="LcustomTranslation" id="F19">Subsequently, attorney Viscardini's has been joined in the practice by her children, attorney Gabriele DONÀ and attorney Simonetta DONÀ, both with extensive professional and academic experience.
+                <p class="LcustomTranslation" id="F19">Subsequently, attorney VISCARDINI's has been joined in the practice by her children, attorney Gabriele DONÀ and attorney Simonetta DONÀ, both with extensive professional and academic experience.
                 </p>
 
                 <p class="LcustomTranslation" id="S42">Lawyer Gabriele DONÀ was professor of procedural law of the European Union at the University of Ferrara  (2008-2013) and is regularly invited as a speaker at national and international conferences. In November 2014, in Krakow, he was elected Vice President of the Union of European Lawyers based in Luxembourg.
