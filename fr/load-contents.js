@@ -106,6 +106,7 @@ function loadContents() {
     appendORreplace('#F302', "Joueurs de football professionnels");
     appendORreplace('#F303', "Sport - football");
     appendORreplace('#F304', "Prix du sucre");
+    appendORreplace('#Fm33',"subventions de l'UE");
 
 
 //

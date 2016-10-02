@@ -119,12 +119,7 @@
                 <p class="LcustomTranslation" id="F19">Subsequently, attorney Viscardini's has been joined in the practice by her children, attorney Gabriele DONÀ and attorney Simonetta DONÀ, both with extensive professional and academic experience.
                 </p>
 
-                <p class="LcustomTranslation" id="S42">Lawyer Gabriele DONÀ was professor of procedural law 
-                    of the European Union at the University of Ferrara 
-                    (2008-2013) and is regularly invited as a speaker at 
-                    national and international conferences. In November 2014, 
-                    in Krakow, he was elected Vice President of the Union of 
-                    European Lawyers based in Luxembourg.
+                <p class="LcustomTranslation" id="S42">Lawyer Gabriele DONÀ was professor of procedural law of the European Union at the University of Ferrara  (2008-2013) and is regularly invited as a speaker at national and international conferences. In November 2014, in Krakow, he was elected Vice President of the Union of European Lawyers based in Luxembourg.
                 </p>
 
                 <p class="LcustomTranslation" id="S43">Lawyer Simonetta DONÀ is a professor of commercial law, 
