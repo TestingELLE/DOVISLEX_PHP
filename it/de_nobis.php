@@ -16,12 +16,8 @@
         </p>
 
         <p>In particolare, i Partner dello Studio hanno patrocinato 
-            in quasi 
-            <a href='index.php?page=contenzioso'>
-                settanta procedimenti 
-            </a>
-            davanti alla Corte di giustizia dell’Unione europea con 
-            sede a Lussemburgo.
+            in quasi settanta procedimenti davanti alla Corte di giustizia dell’Unione europea con 
+            sede a Lussemburgo ==>  <a href='index.php?page=contenzioso'>Cause</a>.
         </p>
 
 
