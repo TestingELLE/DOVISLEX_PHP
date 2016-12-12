@@ -456,7 +456,7 @@
     
     <article class="clearfix_new">
             <h2 class="noTextTransform notranslate">Luca DONÀ<img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Foto_Luca Donà_162x189.jpg" alt="Foto Luca Donà"></h2>
+             src="../images/Foto_Luca Dona_162x189.jpg" alt="Foto Luca Donà"></h2>
             <h4 class = "notranslate">USA Senior Partner</h4>
 
             <div class="more">

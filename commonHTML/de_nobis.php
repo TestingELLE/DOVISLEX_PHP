@@ -14,7 +14,7 @@
         <p class="LcustomTranslation" id="D2">The Firm has a deep knowledge of European Union law and of International Trade law, the result of over 50 years of specific experience.
         </p>
 
-        <p><span class="LcustomTranslation" id="F1">In particular, the Partners of the Firm have pled almost <a href='index.php?page=contenzioso'> seventy proceedings </a> before the Court of Justice of the European Union in Luxembourg. </span><span> =>  </span><a href='index.php?page=contenzioso'><span  class="LcustomTranslation F29"> Cases </span></a> 
+        <p><span class="LcustomTranslation" id="F1">In particular, the Partners of the Firm have pled almost seventy proceedings before the Court of Justice of the European Union in Luxembourg. </span><span> =>  </span><a href='index.php?page=contenzioso'><span  class="LcustomTranslation F29"> Cases </span></a> 
         </p>
 
 
