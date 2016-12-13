@@ -68,6 +68,7 @@ function loadContents() {
 
 //de_nobis.html
 appendORreplace('#S42',"Rechtsanwalt Gabriele DONÀ war Professor für Verfahrensrecht der Europäischen Union an der Universität Ferrara (2008-2013) und wird regelmäßig als Redner auf nationalen und internationalen Konferenzen eingeladen. Im November 2014 in Krakau, wurde er Vizepräsident der Europäischer Anwaltsverein (UAE) mit Sitz in Luxemburg gewählt.");
+appendORreplace('.F29',"Rechtssachen");
 
     //germania360.html
     appendORreplace('#L65', "Die Kanzlei Donà Viscardini bietet eine erweiterte Palette von Dienstleistungen in Deutschland. Insbesondere stellt die Firma Beratung und rechtliche und steuerliche Unterstützung für die Öffnung der unternehmen und non-profit Aktivitäten in Deutschland, als auch Unterstützung bei der Immobilien-und anderen Branchen.");
@@ -128,7 +129,6 @@ appendORreplace('#S42',"Rechtsanwalt Gabriele DONÀ war Professor für Verfahren
    appendORreplace('#F16',"Zusätzlich ist die Kanzlei – auch Dank der Position des Avv. Gabriele DONÀ als Vizepräsident der Europäischer Anwaltsverein (UAE) – mit einem breiten Netzwerk von Fachleuten verbunden, die besondere Erfahrungen vor allem in den Mitgliedstaaten der Europäischen Union und in den Vereinigten Staaten (New York, Houston) aufweisen.");
   appendORreplace('#F17',"Die Kanzlei Donà Viscardini wurde 1974 von Wilma VISCARDINI gegründet, die für Unternehmen und Privatpersonen ihre Expertise auf dem Gebiet des Gemeinschaftsrechts entwickelt sich über Jahre in den europäischen Institutionen zur Verfügung stellen wollte. Sie war in der Tat, ein Beamter der Europäischen Kommission seit 14 Jahren (1959-1973) und insbesondere ein Mitglied des Juristischen Dienstes der Kommission in Brüssel neun Jahre lang (1964-1973).");
    appendORreplace('#F18',"Auch Anwalt VISCARDINI war jahrelang Professor Gemeinschaftsrecht an der Universität von Padua und ist immer noch aktiv in der akademischen Welt und als Redner auf zahlreichen Konferenzen eingeladen.");
-    appendORreplace('.F29', "Fälle");
 
     appendORreplace('#D8', " (seit 1974)");
     appendORreplace('#D9', "Senior Anwältin, die vor den italienischen, belgischen, französischen und luxemburgischen nationalen Gerichten aufgetreten ist; vor dem Obersten Kassationsgericht und anderen höheren italienischen Gerichten; vor dem Gericht und dem Gerichtshof der Europäischen Gemeinschaften in Luxemburg; vor dem Europäischen Gerichtshof für Menschenrechte in Straßburg; in Verwaltungsverfahren mit den EU-Institutionen; in nationalen und internationalen Schiedsverfahren. Vorher ...");
