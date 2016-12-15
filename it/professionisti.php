@@ -334,16 +334,19 @@
 
                 <p>Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996)</p>
                 <p>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
-                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo. <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>
+                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo. 
+                  <p class="nospace">Patrocinante o co-patrocinante presso:</p>
+                <ul>
+                    <li>le giurisdizioni italiana e tedesca</li>
+                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>
+                 
+                    <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    </ul> 
 
                
 
                 <div id="collapse3" style="display:none">
-                     <p class="nospace">Patrocinante o co-patrocinante presso:</p>
-                <ul>
-                    <li>le giurisdizioni italiana e tedesca</li>
-                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>
-                </ul>
+                     
                     <h4>Specifici settori di attività seguiti:</h4>
                     <ul>
                         <li>diritto privato, commerciale, societario e tributario tedesco</li>
@@ -377,11 +380,13 @@
                      <br>In precedenza, collaboratrice presso un primario Studio legale attivo nei settori del
                     diritto civile e commerciale nonché della tutela dei consumatori e dei risparmiatori, maturando una
                     significativa esperienza nel contenzioso - Padova - Italia (2002-2012)&nbsp;
+                    <!--
                     <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
+                    -->
 
 
-                <div id="collapse4" style="display:none">
+                <div id="collapse4">
                     <h4>Specifici settori di attività seguiti nello Studio:</h4>
                     <ul>
                         <li>diritto privato, commerciale, societario</li>
@@ -402,8 +407,10 @@
                     <h4> Lingue di lavoro </h4>
                     <p> italiano, francese 
                         </br>
+                        <!--
                         <button aria-controls="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
+                        -->
                 </div>
             </div>
     </article>
@@ -417,11 +424,11 @@
                 <p>Avvocato del Foro di Berlino - Germania (dal 2003)
                     <br/>Patrocinante davanti alla giurisdizione tedesca
                     <br/>Collaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
-                    
+                    <!--
                     <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                 </p>
-
-                <div id="collapse5" style="display:none"> <!-- style="display:none" -->
+-->
+                <div id="collapse5"> <!-- style="display:none" -->
                     <h4> Specifici settori di attività seguiti nello Studio: </h4>
                     <ul>
                         <li> Diritto civile</li>
@@ -433,10 +440,10 @@
                     <h4>Lingue di lavoro</h4>
                     <p> Tedesco, inglese, italiano
                      
-                      
+                      <!--
                         <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
-                       
+                      --> 
                     <br>
                 </div>
             </div>
@@ -444,7 +451,7 @@
     
     <article class="clearfix_new">
             <h2 class="noTextTransform notranslate">Luca DONÀ<img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Foto_Luca Donà_162x189.jpg" alt="Foto Luca Donà"></h2>
+             src="../images/Foto_Luca Dona_162x189.jpg" alt="Foto Luca Donà"></h2>
             <h4 class = "notranslate">USA Senior Partner</h4>
 
             <div class="more"> <!-- &#149;&nbsp  -->

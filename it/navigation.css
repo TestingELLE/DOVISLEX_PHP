@@ -104,8 +104,8 @@
 #navigation .sub-menu a {height: 95%;}
 
 #navigation .num-00 {width: 9%;}
-#navigation .num-20 {width: 19%;}
-#navigation .num-30 {width: 13%;}
+#navigation .num-20 {width: 25%;}
+/* #navigation .num-30 {width: 13%;} */
 #navigation .num-40 {width: 18%;}
 #navigation .num-50 {width: 18%;}
 #navigation .num-60 {width: 8%;}
@@ -122,17 +122,18 @@ li.menu-item.num-00 a:before { content: 'De Nobis'}
 .num-00 .sub-menu.small li:nth-child(5) a:before { content: 'Nova'; }
 .num-00 .sub-menu.small li:nth-child(6) a:before { content: 'Contattaci'; }
 
-li.menu-item.num-20 a:before { content: 'Diritto UE e internazionale'}
+li.menu-item.num-20 a:before { content: 'Diritti nazionali, Diritto UE e internazionale'}
 .num-20 .sub-menu.large li:nth-child(1) a:before { content: 'Antitrust, aiuti di stato, concorrenza'; }
 .num-20 .sub-menu.large li:nth-child(2) a:before { content: 'Arbitrati, ADR e strategia negoziale'; }
-.num-20 .sub-menu.large li:nth-child(3) a:before { content: 'Diritto doganale'; }
+.num-20 .sub-menu.large li:nth-child(3) a:before { content: "Diritto doganale e penale-amministrativo in relazione alle risorse finanziarie dell\'Unione"; }
 .num-20 .sub-menu.large li:nth-child(4) a:before { content: "Scambi all\'interno dell\'area dell\'Unione Europea"; }
 .num-20 .sub-menu.large li:nth-child(5) a:before { content: 'Importazioni/esportazioni da e verso Paesi UE'; }
 .num-20 .sub-menu.large li:nth-child(6) a:before { content: 'Agricoltura, pesca, industria, ambiente'; }
-.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Penale e penale-amministrativo in relazione alle risorse finanziarie dell\'Unione"; }
-.num-20 .sub-menu.large li:nth-child(8) a:before { content: 'Contratti internazionali di natura commerciale'; }
-.num-20 .sub-menu.large li:nth-child(9) a:before { content: "Marchi dell\'Unione"; }
+.num-20 .sub-menu.large li:nth-child(7) a:before { content: 'Contratti di natura commerciale'; }
+.num-20 .sub-menu.large li:nth-child(8) a:before { content: 'Proprietà Intellettuale e Marchi'; }
+.num-20 .sub-menu.large li:nth-child(9) a:before { content: 'Consulenza a 360° per apertura di attività in Germania'; }
 .num-20 .sub-menu.large li:nth-child(10) a:before { content: 'Immobiliare USA'; }
+
 
 li.menu-item.num-30 a:before { content: 'Diritti nazionali'}
 .num-30 .sub-menu.large li:nth-child(1) a:before { content: 'Antitrust, aiuti di stato, concorrenza'; }
