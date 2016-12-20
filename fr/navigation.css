@@ -101,14 +101,13 @@
 }
 #navigation .sub-menu a {height: 95%;}
 
-#navigation .num-00 {width: 12%;}
-/*#navigation .num-10 {width: 15%;}*/
-#navigation .num-20 {width: 14%;}
-#navigation .num-30 {width: 11%;}
-#navigation .num-40 {width: 20%;} /* font-size: 0.7em;*/
-#navigation .num-50 {width: 23%;} /* font-size: 0.6em;*/
-#navigation .num-60 {width: 9%;}
-#navigation .num-70 {width: 11%;}
+#navigation .num-00 {width: 9%;}
+#navigation .num-20 {width: 22%;}
+/* #navigation .num-30 {width: 13%;} */
+#navigation .num-40 {width: 18%;}
+#navigation .num-50 {width: 18%;}
+#navigation .num-60 {width: 8%;}
+#navigation .num-70 {width: 8%;}
 
 
 #navigation .menu-item .toggle-symbol { display: none; }
@@ -121,43 +120,19 @@ li.menu-item.num-00 a:before { content: "DE NOBIS";}
 .num-00 .sub-menu.small li:nth-child(5) a:before { content: "Actualités"; }
 .num-00 .sub-menu.small li:nth-child(6) a:before { content: "Contactez-nous"; }
 
-/*
-li.menu-item.num-10 a:before { content: "Domaines de compétence";}
-.num-10 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, Aides d'Etat, Concurrence"; }
-.num-10 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Négociation, Médiation, Arbitrages"; }
-.num-10 .sub-menu.large li:nth-child(3) a:before { content: "Droit douanier"; }
-.num-10 .sub-menu.large li:nth-child(4) a:before { content: "Les échanges à l'intérieur de l'Union européenne"; }
-.num-10 .sub-menu.large li:nth-child(5) a:before { content: "Les importations / exportations des / vers les pays extra UE"; }
-.num-10 .sub-menu.large li:nth-child(6) a:before { content: "Les relations commerciales UE / pays tiers"; }
-.num-10 .sub-menu.large li:nth-child(7) a:before { content: "Agriculture, pêche, industrie, environnement"; }
-.num-10 .sub-menu.large li:nth-child(8) a:before { content: "Droit pénal et pénal-administratif en relation avec les ressources financières de l'Union européenne"; }
-.num-10 .sub-menu.large li:nth-child(9) a:before { content: "Contrats commerciaux"; }
-.num-10 .sub-menu.large li:nth-child(10) a:before { content: "Marques"; }
-.num-10 .sub-menu.large li:nth-child(11) a:before { content: "Immobilier aux Etats-Unis et en Allemagne"; }
-.num-10 .sub-menu.large li:nth-child(12) a:before { content: "Conseil à 360° pour l'ouverture d'entreprises et activités commerciales en Allemagne"; }
-*/
 
-li.menu-item.num-20 a:before { content: "Droit UE et international";}
+li.menu-item.num-20 a:before { content: "Domaines de compétence";}
 .num-20 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, Aides d'Etat, Concurrence"; }
 .num-20 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Négociation, Médiation, Arbitrages"; }
 .num-20 .sub-menu.large li:nth-child(3) a:before { content: "Droit douanier"; }
 .num-20 .sub-menu.large li:nth-child(4) a:before { content: "Les échanges à l'intérieur de l'Union européenne"; }
 .num-20 .sub-menu.large li:nth-child(5) a:before { content: "Les importations / exportations des / vers les pays extra UE"; }
 .num-20 .sub-menu.large li:nth-child(6) a:before { content: "Agriculture, pêche, industrie, environnement"; }
-.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Droit pénal et pénal-administratif en relation avec les ressources financières de l'Union"; }
-.num-20 .sub-menu.large li:nth-child(8) a:before { content: "Contrats commerciaux"; }
-.num-20 .sub-menu.large li:nth-child(9) a:before { content: "Marques communautaires"; }
+.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Contrats commerciaux"; }
+.num-20 .sub-menu.large li:nth-child(8) a:before { content: "Propriété Intellectuelle et Marques"; }
+.num-20 .sub-menu.large li:nth-child(9) a:before { content: "Conseil à 360° pour l'ouverture d'entreprises et activités commerciales en Allemagne"; }
 .num-20 .sub-menu.large li:nth-child(10) a:before { content: "Immobilier aux Etats-Unis et en Allemagne"; }
 
-
-li.menu-item.num-30 a:before { content: "Droits nationaux";}
-.num-30 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, Aides d'Etat, Concurrence"; }
-.num-30 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Négociation, Médiation, Arbitrages"; }
-.num-30 .sub-menu.large li:nth-child(3) a:before { content: "Agriculture, pêche, industrie, environnement"; }
-.num-30 .sub-menu.large li:nth-child(4) a:before { content: "Droit douanier et pénal-administratif en relation avec les ressources financières de l'Union"; }
-.num-30 .sub-menu.large li:nth-child(5) a:before { content: "Contrats commerciaux"; }
-.num-30 .sub-menu.large li:nth-child(6) a:before { content: "Marques, Dessins et Modèles"; }
-.num-30 .sub-menu.large li:nth-child(7) a:before { content: "Conseil à 360° pour l'ouverture d'entreprises et activités commerciales en Allemagne"; }
 
 li.menu-item.num-40 a:before { content: "Actions fondées sur le droit UE";}
 
