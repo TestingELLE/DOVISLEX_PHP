@@ -121,19 +121,20 @@ li.menu-item.num-00 a:before { content: "De Nobis";}
 .num-00 .sub-menu.small li:nth-child(6) a:before { content: "Contact Us"; }
 
 
-li.menu-item.num-20 a:before { content: "EU & International Law";}
+
+li.menu-item.num-20 a:before { content: "Practice Areas";}
 .num-20 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, State aid, Competition"; }
 .num-20 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Negotiation, Mediation, Arbitration"; }
 .num-20 .sub-menu.large li:nth-child(3) a:before { content: "Customs Law"; }
 .num-20 .sub-menu.large li:nth-child(4) a:before { content: "Exchanges within the internal area of ​the European Union"; }
 .num-20 .sub-menu.large li:nth-child(5) a:before { content: "Imports/Exports from/to Countries extra EU"; }
-.num-20 .sub-menu.large li:nth-child(6) a:before { content: "Trade relations EU/third Countries"; }
-.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Agriculture, fishing, industry, environment"; }
-.num-20 .sub-menu.large li:nth-child(8) a:before { content: "Criminal and Criminal-administrative Law related to the financial resources of the European Union"; }
-.num-20 .sub-menu.large li:nth-child(9) a:before { content: "Commercial contracts"; }
-.num-20 .sub-menu.large li:nth-child(10) a:before { content: "EU trademarks"; }
-.num-20 .sub-menu.large li:nth-child(11) a:before { content: "Real Estate in USA and Germany"; }
+.num-20 .sub-menu.large li:nth-child(6) a:before { content: "Agriculture, fishing, industry, environment"; }
+.num-20 .sub-menu.large li:nth-child(7) a:before { content: "Commercial contracts"; }
+.num-20 .sub-menu.large li:nth-child(8) a:before { content: "Intellectual Property & Trademarks"; }
+.num-20 .sub-menu.large li:nth-child(9) a:before { content: "360° consultancy in Germany"; }
+.num-20 .sub-menu.large li:nth-child(10) a:before { content: "Real Estate in USA and Germany"; }
 
+/*
 li.menu-item.num-30 a:before { content: "National Law";}
 .num-30 .sub-menu.large li:nth-child(1) a:before { content: "Antitrust, State aid, Competition"; }
 .num-30 .sub-menu.large li:nth-child(2) a:before { content: "ADR - Negotiation, Mediation, Arbitration"; }
@@ -142,6 +143,7 @@ li.menu-item.num-30 a:before { content: "National Law";}
 .num-30 .sub-menu.large li:nth-child(5) a:before { content: "Commercial contracts"; }
 .num-30 .sub-menu.large li:nth-child(6) a:before { content: "Trademarks, Designs"; }
 .num-30 .sub-menu.large li:nth-child(7) a:before { content: "360° consultancy in Germany"; }
+*/
 
 li.menu-item.num-40 a:before { content: "Actions based on EU Law";}
 

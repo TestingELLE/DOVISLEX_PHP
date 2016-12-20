@@ -134,7 +134,7 @@ li.menu-item.num-20 a:before { content: 'Aree di Attività'}
 .num-20 .sub-menu.large li:nth-child(9) a:before { content: 'Consulenza a 360° per apertura di attività in Germania'; }
 .num-20 .sub-menu.large li:nth-child(10) a:before { content: 'Immobiliare USA'; }
 
-
+/*
 li.menu-item.num-30 a:before { content: 'Diritti nazionali'}
 .num-30 .sub-menu.large li:nth-child(1) a:before { content: 'Antitrust, aiuti di stato, concorrenza'; }
 .num-30 .sub-menu.large li:nth-child(2) a:before { content: 'Arbitrati, ADR e strategia negoziale'; }
@@ -143,6 +143,7 @@ li.menu-item.num-30 a:before { content: 'Diritti nazionali'}
 .num-30 .sub-menu.large li:nth-child(5) a:before { content: 'Contratti di natura commerciale'; }
 .num-30 .sub-menu.large li:nth-child(6) a:before { content: 'Marchi, disegni e modelli'; }
 .num-30 .sub-menu.large li:nth-child(7) a:before { content: 'Consulenza a 360° per apertura di attività in Germania'; }
+*/
 
 li.menu-item.num-40 a:before { content: 'Azioni basate sul diritto UE'}
 li.menu-item.num-50 a:before { content: 'cause davanti alla corte UE'}
