@@ -158,10 +158,12 @@
 
                     <h4>Papers presented at meetings / conferences / seminars / courses:</h4>
                     <div class="notranslate"> <!-- papers -->
-                          <p>&#149;&nbsp;<span>Speaker on</span> "I principi di non discriminazione e di libertà di circolazione degli sportivi professionisti nella giurisprudenza della Corte di giustizia dell'Unione europea”, as part of the Convegno “Discriminazioni nello sport e autonomia dei privati” organized by the Commissione “Diritto dello sport” and by the Delegazione “Catania e Sicilia orientale” of the European Lawyers' Union (UAE) (Fiumefreddo, 23 settembre 2016)</p>
-                          <p>&#149;&nbsp;<span>Speaker on</span> "Ne bis in idem et les pouvoirs d’imposer des amendes des autorités européennes et nationales de concurrence”, at the Conference “Les défis de l’avocat en l’Europe du XXIème siècle”  organized by the European Lawyers' Union (UAE) (Alba Iulia, 24 June 2016)</p>
-                        <p>&#149;&nbsp;<span>Speaker on</span> the lecture "Giudice del lavoro e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, as part of the "Corso di perfezionamento e di alta specializzazione in discipline lavoristiche", for lawyers organized by "Università Statale" di Milano" (Milano, 17 June 2016) </p>
-                        <p>&#149;&nbsp;<span>Speaker at</span> the Round Table "Obbligatorietà contraddittorio endoprocedimentale. Legislazione - Corte di cassazione - Corte di giustizia" organized by the "Centro di diritto penale tributario, comunitario e delle materie collegate" of Torino (Torino, 26 May 2016)</p>
+                            <p>&#149;&nbsp;<span class="Fm11">Speaker on </span>  "Lezione su il Giudice penale e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, nell'ambito del "Corso di aggiornamento in diritto penale” organizzato dalla LAF - Libera Associazione Forense (Milano, 18 novembre 2016)</p>
+                            
+                          <p>&#149;&nbsp;<span class="Fm11">Speaker on </span> "I principi di non discriminazione e di libertà di circolazione degli sportivi professionisti nella giurisprudenza della Corte di giustizia dell'Unione europea”, as part of the Convegno “Discriminazioni nello sport e autonomia dei privati” organized by the Commissione “Diritto dello sport” and by the Delegazione “Catania e Sicilia orientale” of the European Lawyers' Union (UAE) (Fiumefreddo, 23 settembre 2016)</p>
+                          <p>&#149;&nbsp;<span class="Fm11">Speaker on </span> "Ne bis in idem et les pouvoirs d’imposer des amendes des autorités européennes et nationales de concurrence”, at the Conference “Les défis de l’avocat en l’Europe du XXIème siècle”  organized by the European Lawyers' Union (UAE) (Alba Iulia, 24 June 2016)</p>
+                        <p>&#149;&nbsp;<span class="Fm11">Speaker on </span> the lecture "Giudice del lavoro e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, as part of the "Corso di perfezionamento e di alta specializzazione in discipline lavoristiche", for lawyers organized by "Università Statale" di Milano" (Milano, 17 June 2016) </p>
+                        <p>&#149;&nbsp;<span class="Fm11">Speaker on </span> the Round Table "Obbligatorietà contraddittorio endoprocedimentale. Legislazione - Corte di cassazione - Corte di giustizia" organized by the "Centro di diritto penale tributario, comunitario e delle materie collegate" of Torino (Torino, 26 May 2016)</p>
                         <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> the conference "La riforma dei reati tributari (Dlgs. 158/2015)" organizzato dalla "Associazione Nazionale Tributaristi Italiani" - Sez. Piemonte e Valle d'Aosta e dal "Centro di diritto penale tributario, comunitario e delle materie collegate" di Torino (Torino, 20 novembre 2015)</p>
                         <p>&#149;&nbsp;<span class="Fm11">Speaker on</span> "La giurisprudenza della Corte di giustizia dell'Unione europea in materia di ne bis in idem tra sanzioni penali e "amministrative"”, nell'ambito dell'Incontro di studio "Il ne bis in idem in ambito tributario" organizzato dal "Dipartimento di Scienze Politiche, Giuridiche e Studi Internazionali dell'Università degli Studi di Padova" (Rovigo, 6 novembre 2015)</p>
 
@@ -209,7 +211,7 @@
                             Nazionale Tributaristi
                             Italiani - Sez. Veneto (Rovigo, 28 giugno 2013) </p>
 
-                        <p>&#149;&nbsp;Relatore della lezione "Giudice del lavoro e 
+                        <p>&#149;&nbsp;<span class="Fm11">Speaker on </span>"Lezione su Giudice del lavoro e 
                             rinvio pregiudiziale alla Corte di giustizia
                             dell’Unione europea: aspetti procedurali e recente 
                             casistica giurisprudenziale”, nell'ambito del "Corso di 
@@ -217,55 +219,26 @@
                             del Lavoro", per Avvocati, organizzato dall'Università 
                             "Statale" di Milano (Milano, 18 gennaio 2013) </p>
 
-                        <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> la conferenza "La clausola contrattuale 
-                            attributiva della competenza e il foro
-                            alternativo del luogo di esecuzione dell'obbligazione dedotta 
-                            in giudizio in materia contrattuale alla luce del reg. 
-                            (CE) n. 44/2001 e della
-                            giurisprudenza della Corte di Giustizia dell'Unione Europea”, 
-                            organizzata dalla Camera civile di Ferrara (Ferrara, 14
-                            dicembre 2012)</p>
+                        <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> the conference "La clausola contrattuale attributiva della competenza e il foro alternativo del luogo di esecuzione dell'obbligazione dedotta in giudizio in materia contrattuale alla luce del reg. (CE) n. 44/2001 e della giurisprudenza della Corte di Giustizia dell'Unione Europea”, organized by the Camera civile di Ferrara (Ferrara, 14 dicembre 2012)</p>
 
-                        <p>&#149;&nbsp;Relatore a un convegno sugli obblighi dei cittadini 
-                            italiani che operano in Germania nei
-                            confronti del fisco italiano, organizzato da Uniteis eG 
-                            nell'ambito del M.I.G. - Longarone Fiere (Longarone, 4 dicembre
-                            2012)
+                        <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> a meeting "sugli obblighi dei cittadini italiani che operano in Germania nei confronti del fisco italiano, organizzato da Uniteis eG  nell'ambito del M.I.G. - Longarone Fiere (Longarone, 4 dicembre 2012)"
                         </p>
 
-                        <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> la conferenza "Giudice civile e rinvio 
-                            pregiudiziale alla Corte di giustizia
-                            dell’Unione europea: aspetti procedurali e recente casistica 
-                            giurisprudenziale”, organizzata dalla Camera civile di 
-                            Ferrara (Ferrara,
-                            26 maggio 2011) </p>
+                        <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> the conference "Giudice civile e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, organizzata dalla Camera civile di Ferrara (Ferrara, 26 maggio 2011) </p>
 
-                        <p>&#149;&nbsp;Relatore a un convegno sulle problematiche 
-                            fiscali e amministrative attinenti alla residenza
-                            di chi opera in più Stati membri dell'Unione europea, 
-                            organizzato da Uniteis eG nell'ambito del M.I.G. - 
-                            Longarone Fiere
-                            (Longarone, 30 novembre 2010) </p>
+                        <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> a meting on "le problematiche iscali e amministrative attinenti alla residenza di chi opera in più Stati membri dell'Unione europea, organizzato da Uniteis eG nell'ambito del M.I.G. - Longarone Fiere (Longarone, 30 novembre 2010)" </p>
 
-                        <p>&#149;&nbsp;Moderatore al seminario "Il rinvio pregiudiziale 
+                        <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> al seminario "Il rinvio pregiudiziale 
                             alla Corte di giustizia dell’Unione europea
                             da parte del Giudice nazionale e le novità introdotte dal 
-                            Trattato di Lisbona”, organizzato presso l'Aula Magna della 
-                            Facoltà di
-                            Giurisprudenza dell'Università di Ferrara 
-                            (Ferrara, 25 giugno 2010)</p>
+                            Trattato di Lisbona”, organizzato at <span class="notranslate"> l'Aula Magna della Facoltà di Giurisprudenza dell'Università di Ferrara (Ferrara, 25 giugno 2010)</span></p>
 
                         <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> la conferenza "Il rinvio pregiudiziale 
                             alla Corte di giustizia dell’Unione
                             europea da parte del Giudice nazionale”, organizzata dall'Ordine 
                             degli Avvocati di Marsala (Marsala, 18 giugno 2010) </p>
 
-                        <p>&#149;&nbsp;Moderatore al seminario "Il ruolo dei Giudici 
-                            nazionali e della Corte di giustizia nel
-                            processo di integrazione europea”, organizzato presso 
-                            l'Aula Magna della Facoltà di Giurisprudenza dell'Università 
-                            di Ferrara (Ferrara, 5
-                            giugno 2009) </p>
+                        <p>&#149;&nbsp;Moderator at the seminary "Il ruolo dei Giudici nazionali e della Corte di giustizia nel processo di integrazione europea”, organized at l'Aula Magna della Facoltà di Giurisprudenza dell'Università di Ferrara (Ferrara, 5 giugno 2009) </p>
 
                         <p>&#149;&nbsp;<span class="Fm12">Speaker at</span> the "panel" "Law enforcement authorities and the protection of the financial interests of the European Community", nell’ambito del Convegno internazionale “European and national institutions combating fraud and corruption - what is the future of the cooperation?” (Varsavia, 15-17 novembre 2007)</p>
 
@@ -291,7 +264,7 @@
                             dell’Università di Padova (anni accademici 2002/2003, 
                             2003/2004, 2004/2005, 2005/2006)</p>
 
-                        <p>&#149;&nbsp;Relatore, in lingua inglese, all’interno del 
+                        <p>&#149;&nbsp;<span class="Fm11">Speaker on</span>, in lingua inglese, all’interno del 
                             “panel” “Harmonisation of the criminal law with
                             EU instruments with respect to the protection of the financial 
                             interests of the Community”, nell’ambito del Convegno
