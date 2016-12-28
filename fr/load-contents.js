@@ -16,7 +16,7 @@ function loadContents() {
 
     //INDEX.html
     appendORreplace('#D2', "Le Cabinet a une profonde connaissance du droit de l'Union européenne et du droit du commerce international, le résultat de plus de 50 ans d'expérience spécifique.");
-    appendORreplace('#F1', "En particulier, les associés du Cabinet ont plaidé quelques soixante-dix affaires devant la Cour de justice de l'Union européenne à Luxembourg.");
+appendORreplace('#F1',"En particulier, les associés du Cabinet - outre les affaires plaidées devant des tribunaux nationaux (Italie, Allemagne, Belgique, France) -  ont plaidé quelques soixante-dix affaires devant la Cour de justice de l'Union européenne à Luxembourg.");
     appendORreplace('.F2', "DE NOBIS");
     appendORreplace('#F3', "CABINET D'AVOCATS DONÀ VISCARDINI");
     appendORreplace('#F4', "DOMAINES DE COMPÉTENCE");

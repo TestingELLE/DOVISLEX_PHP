@@ -112,7 +112,7 @@ function loadContents() {
 
 //de_nobis.html
     appendORreplace('#F3', "Despacho de abogados Donà Viscardini");
-    appendORreplace('#F1', "En particular, los socios de la Firma han patrocinado casi setenta procedimientos ante el Tribunal de Justicia de la Unión Europea en Luxemburgo. ");
+appendORreplace('#F1',"En particular, los socios de la Firma - además de los asuntos patrocinados ante tribunales nacionales (Italia, Alemania, Belgica, Francia) -  han patrocinado casi setenta procedimientos ante el Tribunal de Justicia de la Unión Europea en Luxemburgo. ");
     appendORreplace('#E1b', "Competencia, ayudas de Estado");
     appendORreplace('#S41', "Las relaciones comerciales de la UE con terceros países");
     appendORreplace('#F10', "Ley administrativa  y penal en relación con los fondos de la UE");
