@@ -16,7 +16,7 @@
         </p>
 
         <p>I Partner dello Studio - oltre alle cause fondate sul diritto europeo pendenti davanti ai giudici nazionali (italiani, tedeschi, belgi e francesi) - a oggi hanno patrocinato 
-            in quasi settanta procedimenti davanti alla Corte di giustizia dell’Unione europea con 
+            quasi settanta procedimenti davanti alla Corte di giustizia dell’Unione europea con 
             sede a Lussemburgo ==>  <a href='index.php?page=contenzioso'>Cause</a>.
         </p>
 
