@@ -15,7 +15,7 @@
             anni di esperienza specifica.
         </p>
 
-        <p>I Partner dello Studio - oltre alle cause fondate sul diritto europeo davanti ai giudici nazionali (italiani, tedeschi, belgi e francesi) - a oggi hanno patrocinato quasi settanta procedimenti davanti al Tribunale e la Corte di giustizia dell’Unione europea a Lussemburgo ==>  <a href='index.php?page=contenzioso'>Cause</a>.
+        <p>I Partner dello Studio - oltre alle cause fondate sul diritto europeo davanti ai giudici nazionali (italiani, tedeschi, belgi e francesi) - a oggi hanno patrocinato quasi settanta procedimenti davanti al Tribunale e alla Corte di giustizia dell’Unione europea a Lussemburgo ==>  <a href='index.php?page=contenzioso'>Cause</a>.
         </p>
 
 
