@@ -68,7 +68,8 @@
                 <p>
                     <span class="LcustomTranslation" id="F23">&#149;&nbsp;Author for the Group "Il Sole-24 Ore" of &nbsp;
                         <a href="index.php?page=bibliografia" target="central">articles</a> &nbsp; in Community law, in particular commenting on judgments of the Court of First Instance and the Court of Justice European (1999)&nbsp;</span>
-                    <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    <br>
+                    <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo;&raquo; plus</button>
                 </p>
 
                 <div id="collapse1" style="display:none">
@@ -113,9 +114,9 @@
                     <li>
                         <span class="LcustomTranslation" id="D14">Belgian and German jurisdictions</li>
                     <li>national and international arbitration.</>&nbsp;</span>
-                        <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li>
                 </ul>
+                <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo;&raquo; plus</button>
 
                 <div id="collapse2" style="display:none">
                     <h4 class="LcustomTranslation" id="S52">Specific areas of activity:</h4>
@@ -158,6 +159,7 @@
 
                     <h4>Papers presented at meetings / conferences / seminars / courses:</h4>
                     <div class="notranslate"> <!-- papers -->
+                           <p>&#149;&nbsp;<span class="Fm11">Speaker on </span> "Il contraddittorio endo-procedimentale. Attualità e prospettive a confronto” organized by the "Unione dei giovani dottori commercialisti ed esperti contabili" di Ferrara (Ferrara, 16 marzo 2017)</p>
                             <p>&#149;&nbsp;<span class="Fm11">Speaker on </span>  "Lezione su il Giudice penale e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, nell'ambito del "Corso di aggiornamento in diritto penale” organizzato dalla LAF - Libera Associazione Forense (Milano, 18 novembre 2016)</p>
                             
                           <p>&#149;&nbsp;<span class="Fm11">Speaker on </span> "I principi di non discriminazione e di libertà di circolazione degli sportivi professionisti nella giurisprudenza della Corte di giustizia dell'Unione europea”, as part of the Convegno “Discriminazioni nello sport e autonomia dei privati” organized by the Commissione “Diritto dello sport” and by the Delegazione “Catania e Sicilia orientale” of the European Lawyers' Union (UAE) (Fiumefreddo, 23 settembre 2016)</p>
@@ -300,10 +302,11 @@
                             organizzati da “Ascom-Next” e finanziati dal Fondo sociale 
                             europeo (Padova, 1999/2000/2001)
                             </br>
-                            <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                        </p>
-                    </div> <!-- papers -->  
+                            <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo;&raquo; minus</button>
+                        </p> 
+                 </div> <!-- papers --> 
                 </div>
+            </div>
     </article>
     
     <article class="clearfix_new">
@@ -325,7 +328,8 @@
                     <span class="LcustomTranslation" id="D19">Professor of Italian commercial, corporate and contractual 
                         Law- Department of Law - Humboldt University in Berlin - 
                         Germany (since 2001)&nbsp;</span>
-                    <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    <br>
+                    <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo;&raquo; plus</button>
                 </p> 
 
                 <div id="collapse3" style="display:none">
@@ -343,7 +347,7 @@
                     <h4>Working languages:</h4>
                     <p>German, Italian, French
                         </br>
-                        <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                        <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo;&raquo; minus</button>
                     </p>
                 </div>
             </div>

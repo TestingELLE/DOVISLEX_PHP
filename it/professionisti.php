@@ -34,8 +34,9 @@
                     Commissione davanti alla Corte di giustizia delle Comunità europee;
                 </p>
                 <p>Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di Agraria - Università di Padova (dal 1974 al 1999)
-                    &nbsp;
-                        <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button></p>       
+                    <br> 
+                     <button id="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="plus(this)">&raquo;&raquo; plus</button> 
+                </p>     
 
                 <div id="collapse1" style="display:none">
                     <p>
@@ -77,10 +78,9 @@
                     materia di diritto comunitario, in particolare di commento a 
                     sentenze del Tribunale di primo grado e della Corte di giustizia 
                     delle Comunità europee (dal 1999)&nbsp;
-                    
-                </p>
-                        <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                    </p>
+                <br>
+                        <button aria-controls="pair1" data-href="#collapse1" class="nav-toggle notranslate" onclick="minus(this)">&raquo;&raquo; minus</button>
+                 </p>
                 </div>
             </div>
     </article>
@@ -118,9 +118,10 @@
                     <p>Coordinatore del Gruppo di studio Triveneto del 
                         “Centro di diritto penale tributario, comunitario e delle 
                         materie collegate” di Torino (Associazione italiana di esperti 
-                        di Diritto dell'Unione europea a tutela degli interessi finanziari dell'Unione).&nbsp;
-                   
-                    <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button> </p>
+                        di Diritto dell'Unione europea a tutela degli interessi finanziari dell Unione).
+                        <br>
+                    <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo;&raquo; plus</button>
+                    </p>
 
                 <div id="collapse2" style="display:none">
                     <h4>Specifici settori di attività seguiti:</h4>
@@ -141,6 +142,7 @@
 
                     <h4>Relazioni a convegni/ conferenze/ seminari/ corsi di perfezionamento:</h4>
                     <div class="notranslate"> <!-- papers -->
+                        <p>&#149;&nbsp;Relatore al Convegno "Il contraddittorio endo-procedimentale. Attualità e prospettive a confronto” organizzato dalla "Unione dei giovani dottori commercialisti ed esperti contabili" di Ferrara (Ferrara, 16 marzo 2017)</p>
                         <p>&#149;&nbsp;Relatore della lezione "Giudice penale e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, nell'ambito del "Corso di aggiornamento in diritto penale” organizzato dalla LAF - Libera Associazione Forense (Milano, 18 novembre 2016)</p>
                          <p>&#149;&nbsp;Relatore su "I principi di non discriminazione e di libertà di circolazione degli sportivi professionisti nella giurisprudenza della Corte di giustizia dell'Unione europea”, nell'ambito del Convegno “Discriminazioni nello sport e autonomia dei privati” organizzato dalla Commissione “Diritto dello sport” e dalla Delegazione “Catania e Sicilia orientale” della "Unione degli Avvocati europei” (Fiumefreddo, 23 settembre 2016)</p>
                          <p>&#149;&nbsp;Relatore su "Ne bis in idem et les pouvoirs d’imposer des amendes des autorités européennes et nationales de concurrence”, nell'ambito del Convegno “Les défis de l’avocat en l’Europe du XXIème siècle” organizzato dalla "Unione degli Avvocati europei” (Alba Iulia, 24 giugno 2016)</p>
@@ -317,10 +319,10 @@
                         <p>&#149;&nbsp;Docente di “Contrattualistica internazionale” 
                             in corsi di formazione professionale
                             organizzati da “Ascom-Next” e finanziati dal Fondo sociale 
-                            europeo (Padova, 1999/2000/2001)
-                            </br>
-                            <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                        </p>
+                            europeo (Padova, 1999/2000/2001)                            
+                            <br>
+                            <button aria-controls="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="minus(this)">&raquo;&raquo; minus</button>
+                       
                     </div> <!-- papers --> 
                 </div>
             </div>
@@ -339,12 +341,9 @@
                   <p class="nospace">Patrocinante o co-patrocinante presso:</p>
                 <ul>
                     <li>le giurisdizioni italiana e tedesca</li>
-                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>
-                 
-                    <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>               
                     </ul> 
-
-               
+                  <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo;&raquo; plus</button>
 
                 <div id="collapse3" style="display:none">
                      
@@ -363,7 +362,7 @@
                     <h4>Lingue di lavoro:</h4>
                     <p>italiano, tedesco, francese
                         </br>
-                        <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                        <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo;&raquo; minus</button>
                     </p>
                 </div>
             </div>
