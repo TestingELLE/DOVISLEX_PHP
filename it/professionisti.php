@@ -31,7 +31,7 @@
                     aspetti giuridici, i rappresentanti della Commissione in sede di 
                     discussione delle proposte della stessa, sia al Parlamento europeo 
                     che al Consiglio dei Ministri; rappresentare e difendere la 
-                    Commissione davanti alla Corte di giustizia delle Comunità europee;
+                    Commissione davanti alla Corte di giustizia delle Comunità europee
                 </p>
                 <p>Docente di Diritto comunitario e degli Scambi internazionali - Facoltà di Scienze Politiche e Facoltà di Agraria - Università di Padova (dal 1974 al 1999)
                     <br> 
@@ -115,10 +115,7 @@
 
                     <p>Vicepresidente della U.A.E. (Unione degli Avvocati 
                         europei) con sede a Lussemburgo.</p>
-                    <p>Coordinatore del Gruppo di studio Triveneto del 
-                        “Centro di diritto penale tributario, comunitario e delle 
-                        materie collegate” di Torino (Associazione italiana di esperti 
-                        di Diritto dell'Unione europea a tutela degli interessi finanziari dell Unione).
+                    <p>Membro del Comitato scientifico del “Centro di diritto penale tributario” di Torino.
                         <br>
                     <button id="pair2" data-href="#collapse2" class="nav-toggle notranslate" onclick="plus(this)">&raquo;&raquo; plus</button>
                     </p>
@@ -142,7 +139,15 @@
 
                     <h4>Relazioni a convegni/ conferenze/ seminari/ corsi di perfezionamento:</h4>
                     <div class="notranslate"> <!-- papers -->
-                        <p>&#149;&nbsp;Relatore su "L’attuazione in Italia della direttiva 2014/104/UE sul risarcimento del danno per violazione del diritto della concorrenza: inquadramento e possibili applicazioni pratiche”, nell'ambito del XV Stage di diritto dell’Unione europea “Andrea Cafiero” organizzato dal Consiglio dell’Ordine degli Avvocati di Napoli (Ischia, 17 giugno 2017)</p>
+                       <p>&#149;&nbsp;Relatore su "Giudice tributario e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e casistica giurisprudenziale”, nell'ambito della Conferenza “La giustizia europea come fattore per una più efficace tutela giudiziaria in materia tributaria” organizzata dalla “Camera Avvocati Tributaristi Veneto” (Padova, 29 ottobre 2018)</p>
+
+<p>&#149;&nbsp;Relatore su "L'article 48 de la Charte des droits fondamentaux de l'Union Européenne”, nell'ambito della Conferenza internazionale “Le soupçon” organizzata dall’Unione degli Avvocati europei (UAE) (Marsiglia, 19 ottobre 2018)</p>
+
+<p>&#149;&nbsp;Relatore su "Il principio del ne bis in idem nella giurisprudenza europea. Riflessi per l’accertamento tributario”, nell'ambito del Convegno “Accertamento tributario e profili penalistici” organizzato (tra gli altri) dall’"Ordine degli Avvocati di Milano” (Milano, 12 settembre 2018)</p>
+
+<p>&#149;&nbsp;Relatore su "Il primato, le tendenze espansive e le fonti del diritto europeo”, nell'ambito del Corso di specializzazione “L’accertamento tributario nella dimensione europea e nazionale” organizzato (tra gli altri) dall’"Ordine dei dottori commercialisti ed esperti contabili" di Ferrara (Ferrara, 8 marzo 2018)</p>
+
+<p>&#149;&nbsp;Relatore su "L’attuazione in Italia della direttiva 2014/104/UE sul risarcimento del danno per violazione del diritto della concorrenza: inquadramento e possibili applicazioni pratiche”, nell'ambito del XV Stage di diritto dell’Unione europea “Andrea Cafiero” organizzato dal Consiglio dell’Ordine degli Avvocati di Napoli (Ischia, 17 giugno 2017)</p>
                         <p>&#149;&nbsp;Relatore al Convegno "Il contraddittorio endo-procedimentale. Attualità e prospettive a confronto” organizzato dalla "Unione dei giovani dottori commercialisti ed esperti contabili" di Ferrara (Ferrara, 16 marzo 2017)</p>
                         <p>&#149;&nbsp;Relatore della lezione "Giudice penale e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, nell'ambito del "Corso di aggiornamento in diritto penale” organizzato dalla LAF - Libera Associazione Forense (Milano, 18 novembre 2016)</p>
                          <p>&#149;&nbsp;Relatore su "I principi di non discriminazione e di libertà di circolazione degli sportivi professionisti nella giurisprudenza della Corte di giustizia dell'Unione europea”, nell'ambito del Convegno “Discriminazioni nello sport e autonomia dei privati” organizzato dalla Commissione “Diritto dello sport” e dalla Delegazione “Catania e Sicilia orientale” della "Unione degli Avvocati europei” (Fiumefreddo, 23 settembre 2016)</p>
