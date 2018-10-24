@@ -30,7 +30,7 @@
                     discussing the proposals of the same, both before the 
                     European Parliament and the Council of Ministers; 
                     represented and defended the Commission before the 
-                    Court of Justice of the European Communities;
+                    Court of Justice of the European Communities
                 </p>
 
                 <p class="LcustomTranslation" id="F22">Professor of European Law and International 
@@ -148,10 +148,7 @@
                     <div>
                         <ul>
                             <li>Vice President of the <span class="notranslate">European Lawyers' Union (UAE)</span>, based in Luxembourg</li>
-                            <li>Coordinator of the Study Group of the Triveneto 
-                                "Centre of criminal tax law, Community and related 
-                                matters" of Turin (Italian association of experts of 
-                                EU law to protect Union's financial interests) 
+                            <li>Membro del Comitato scientifico del “Centro di diritto penale tributario” di Torino. 
                             </li>
                         </ul>
                     </div>   
@@ -159,6 +156,15 @@
 
                     <h4>Papers presented at meetings / conferences / seminars / courses:</h4>
                     <div class="notranslate"> <!-- papers -->
+                        
+                         <p>&#149;&nbsp;Speaker on "Giudice tributario e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e casistica giurisprudenziale”, nell'ambito della Conferenza “La giustizia europea come fattore per una più efficace tutela giudiziaria in materia tributaria” organizzata dalla “Camera Avvocati Tributaristi Veneto” (Padova, 29 ottobre 2018)</p>
+
+<p>&#149;&nbsp;Speaker on "L'article 48 de la Charte des droits fondamentaux de l'Union Européenne”, nell'ambito della Conferenza internazionale “Le soupçon” organizzata dall’Unione degli Avvocati europei (UAE) (Marsiglia, 19 ottobre 2018)</p>
+
+<p>&#149;&nbsp;Speaker on "Il principio del ne bis in idem nella giurisprudenza europea. Riflessi per l’accertamento tributario”, nell'ambito del Convegno “Accertamento tributario e profili penalistici” organizzato (tra gli altri) dall’"Ordine degli Avvocati di Milano” (Milano, 12 settembre 2018)</p>
+
+<p>&#149;&nbsp;Speaker on "Il primato, le tendenze espansive e le fonti del diritto europeo”, nell'ambito del Corso di specializzazione “L’accertamento tributario nella dimensione europea e nazionale” organizzato (tra gli altri) dall’"Ordine dei dottori commercialisti ed esperti contabili" di Ferrara (Ferrara, 8 marzo 2018)</p>
+
                           <p>&#149;&nbsp;<span class="Fm11">Speaker on </span> "L’attuazione in Italia della direttiva 2014/104/UE sul risarcimento del danno per violazione del diritto della concorrenza: inquadramento e possibili applicazioni pratiche”, nell'ambito del XV Stage di diritto dell’Unione europea “Andrea Cafiero” organized by "Consiglio dell’Ordine degli Avvocati di Napoli" (Ischia, 17 June 2017)</p>
                            <p>&#149;&nbsp;<span class="Fm11">Speaker on </span> "Il contraddittorio endo-procedimentale. Attualità e prospettive a confronto” organized by the "Unione dei giovani dottori commercialisti ed esperti contabili" di Ferrara (Ferrara, 16 March 2017)</p>
                             <p>&#149;&nbsp;<span class="Fm11">Speaker on </span>  "Lezione su il Giudice penale e rinvio pregiudiziale alla Corte di giustizia dell’Unione europea: aspetti procedurali e recente casistica giurisprudenziale”, nell'ambito del "Corso di aggiornamento in diritto penale” organizzato dalla LAF - Libera Associazione Forense (Milano, 18 November 2016)</p>
