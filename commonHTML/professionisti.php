@@ -147,7 +147,7 @@
                     <h4>Memberships is Scientific or Professional Associations:</h4>
                     <div>
                         <ul>
-                            <li>Vice President of the <span class="notranslate">European Lawyers' Union (UAE)</span>, based in Luxembourg</li>
+                            <li>President of the <span class="notranslate">European Lawyers' Union (UAE)</span>, based in Luxembourg</li>
                             <li>Membro del Comitato scientifico del “Centro di diritto penale tributario” di Torino. 
                             </li>
                         </ul>
