@@ -109,7 +109,7 @@
         </ul>
 
         <p>Inoltre - anche grazie al ruolo dell’Avv. Gabriele DONÀ 
-            quale Vicepresidente dell’Unione degli Avvocati europei (UAE) – lo 
+            quale Presidente dell’Unione degli Avvocati europei (UAE) – lo 
             Studio si avvale della collaborazione di una rete di 
             professionisti con esperienze specifiche, in modo particolare 
             negli Stati membri dell’Unione europea e negli Stati
@@ -148,8 +148,8 @@
                     processuale dell’Unione europea all’Università di Ferrara
                     (2008-2013) ed è regolarmente invitato quale relatore in
                     convegni anche internazionali. A novembre 2014, a Cracovia, 
-                    è stato eletto Vicepresidente dell’Unione degli Avvocati 
-                    europei con sede a Lussemburgo.
+                    è stato eletto Vicepresidente dell’Unione degli Avvocati
+                    europei (UAE). Tale carica è stata confermata a novembre 2016 a Lussemburgo. Il 1 dicembre 2018, a Lisbona, l’Avv. DONÀ è stato eletto Presidente della UAE. 
                 </p>
 
                 <p>L’Avv. Simonetta DONÀ, dal 2001, è docente di diritto 

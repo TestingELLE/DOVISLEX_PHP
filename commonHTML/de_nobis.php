@@ -92,7 +92,7 @@
         </ul>
 
         <p class="LcustomTranslation" id="F16">Furthermore - also thanks to Attorney Gabriele DONÀ's role 
-            as Vice President of the European Lawyers' Union (UAE) - the 
+            as President of the European Lawyers' Union (UAE) - the 
             Firm is connected to a wide network of professionals with 
             specific experiences, especially in the Member States of the 
             European Union and in the United States (New York, Houston).
@@ -120,7 +120,7 @@
                 <p class="LcustomTranslation" id="F19">Subsequently, attorney VISCARDINI's has been joined in the practice by her children, attorney Gabriele DONÀ and attorney Simonetta DONÀ, both with extensive professional and academic experience.
                 </p>
 
-                <p class="LcustomTranslation" id="S42">Lawyer Gabriele DONÀ was professor of procedural law of the European Union at the University of Ferrara  (2008-2013) and is regularly invited as a speaker at national and international conferences. In November 2014, in Krakow, he was elected Vice President of the Union of European Lawyers based in Luxembourg.
+                <p class="LcustomTranslation" id="S42">Lawyer Gabriele DONÀ was professor of procedural law of the European Union at the University of Ferrara  (2008-2013) and is regularly invited as a speaker at national and international conferences. In November 2014, in Krakow, he was elected Vice President of the Union of European Lawyers based in Luxembourg. This office was renewed in November 2016 in Luxembourg. On December 1 2018, in Lisbona, attorney Gabriele DONÀ has been elected President of the UAE.
                 </p>
 
                 <p class="LcustomTranslation" id="S43">Lawyer Simonetta DONÀ is a professor of commercial law, 

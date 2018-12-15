@@ -113,7 +113,7 @@
 
                     <h4>Appartenenza ad Associazioni scientifiche o professionali:</h4>
 
-                    <p>Vicepresidente della U.A.E. (Unione degli Avvocati 
+                    <p>Presidente della U.A.E. (Unione degli Avvocati 
                         europei) con sede a Lussemburgo.</p>
                     <p>Membro del Comitato scientifico del “Centro di diritto penale tributario” di Torino.
                         <br>
