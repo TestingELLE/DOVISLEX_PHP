@@ -190,9 +190,8 @@ switch ($page) {
                 <?php include('navigation.html'); ?> 
             </nav>
             <footer id="colophon" class="clearfix notranslate"> 
-                <?php include('footer.html'); ?>
+                <?php include('footer.html'); ?> 
             </footer>
         </div>
-        <br>
     </body>
 </html>

@@ -377,14 +377,11 @@
                             active in the areas of civil and trade and the protection
                             of consumers and investors, gaining significant experience 
                             in litigation - Padova - Italy (2002-2012)&nbsp;</span>
-                       <!--
-                    <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                </p>
-                    -->
+                        <button id="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li> 
                 </ul>
 
-                <div id="collapse4">
+                <div id="collapse4" style="display:none">
                     <h4 class="LcustomTranslation" id="S56">Specific areas of activity</h4>
                     <ul>
                         <li class="LcustomTranslation" id="D24">private, commercial, corporate Law</li>
@@ -402,11 +399,9 @@
 
                     <h4>Working language</h4>
                     <p>Italian, French
-                   </br>
-                        <!--
+                        </br>
                         <button aria-controls="pair4" data-href="#collapse4" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
-                        -->
                 </div>
             </div>
     </article>
@@ -421,13 +416,11 @@
                     <li class="LcustomTranslation" id="D26">Lawyer. Member of the Bar of Berlin (since 2003)</li>
                     <li>
                         <span class="LcustomTranslation" id="D27">Representation before German Courts and Jurisdictions.&nbsp;</span>
-                        <!--
-                    <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                </p>-->
+                        <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
                     </li> 
                 </ul>
 
-                <div id="collapse5"><!-- style="display:none" -->
+                <div id="collapse5" style="display:none">
                     <h4 class="LcustomTranslation" id="S59">Specific areas of activity</h4>
                     <ul>
                         <li>Civil Law</li>
@@ -438,60 +431,15 @@
 
                     <h4>Working languages</h4>
                     <p> German, English, Italian
-                      
-                      <!--
+                        </br>
                         <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
-                      --> 
-                    <br>
-                     </br>
                 </div>
             </div>
     </article>
     
-    
-
     
     <article class="clearfix_new">
-            <h2 class="noTextTransform notranslate">Luca DONÀ<img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Foto_Luca Dona_162x189.jpg" alt="Foto Luca Donà"></h2>
-            <h4 class = "notranslate">USA Senior Partner</h4>
-
-            <div class="more">
-                <ul>
-                    <li class="LcustomTranslation" id="S58">Business and Investment Banking Consultant</li>
-                    <li>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)</li>
-                    <li>Ph.D Mathematics, Rice University, Houston, TX</li>
-                    <li>GMAT 800&nbsp;
-                         <!--
-                    <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                </p>
-                    -->
-
-                <div id="collapse6"> <!--style="display:none" -->
-                    <h4 class="LcustomTranslation" id="S592">Specific areas of activity</h4>
-                    <ul>
-                        <li>development of business opportunities and partnerships 
-                            in the US</li>
-                        <li>negotiation strategy and conflict resolution</li>
-                        <li class="LcustomTranslation" id="D28">economic and financial analyses</li>
-                        <li>Mergers & Acquisitions</li>
-                        <li>Real Estate New York, Miami, Houston</li>
-                    </ul>
-
-                    <h4>Working languages:</h4>
-                    <p>Italian, English, French, Spanish
-                        </br>
-                     
-                        <!--
-                        <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                    </p>
-                        -->
-                </div>
-            </div>
-    </article>
-    
-        <article class="clearfix_new">
             <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
             <h4 class = "notranslate">Trainee Lawyer - Padova</h4>
@@ -522,6 +470,41 @@
                     </p>
                       --> 
                     <br>
+                </div>
+            </div>
+    </article>
+    
+    <article class="clearfix_new">
+            <h2 class="noTextTransform notranslate">Luca DONÀ<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Foto_Luca Dona_162x189.jpg" alt="Foto Luca Donà"></h2>
+            <h4 class = "notranslate">USA Senior Partner</h4>
+
+            <div class="more">
+                <ul>
+                    <li class="LcustomTranslation" id="S58">Business and Investment Banking Consultant</li>
+                    <li>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)</li>
+                    <li>Ph.D Mathematics, Rice University, Houston, TX</li>
+                    <li>GMAT 800&nbsp;
+                        <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                    </li>
+                </ul>
+
+                <div id="collapse6" style="display:none">
+                    <h4 class="LcustomTranslation" id="S592">Specific areas of activity</h4>
+                    <ul>
+                        <li>development of business opportunities and partnerships 
+                            in the US</li>
+                        <li>negotiation strategy and conflict resolution</li>
+                        <li class="LcustomTranslation" id="D28">economic and financial analyses</li>
+                        <li>Mergers & Acquisitions</li>
+                        <li>Real Estate New York, Miami, Houston</li>
+                    </ul>
+
+                    <h4>Working languages:</h4>
+                    <p>Italian, English, French, Spanish
+                        </br>
+                        <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
                 </div>
             </div>
     </article>

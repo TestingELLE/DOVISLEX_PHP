@@ -10,7 +10,7 @@
             <h2 class="noTextTransform notranslate">Wilma VISCARDINI<img class="right clearfix" style="margin: 0 0 0 12px;" 
              src="../images/foto Avv Viscardini biblioteca.jpg" 
              alt="Foto Avvocato Viscardini"></h2>
-            <h4 class="notranslate">Fondatrice & Socio Senior (dal 1974)</h4>
+            <h4 class="notranslate">Founder & Senior Partner (dal 1974)</h4>
 
             <div class="more">
                  <p class="nospace">Avvocato del Foro di Padova (dal 1961) specializzato in diritto 
@@ -88,7 +88,7 @@
     <article class="clearfix_new">
             <h2 class="noTextTransform notranslate">Gabriele DONÀ<img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_G_Dona_162x189.jpg" alt="Foto Avvocato Gabriele Donà"></h2>
-            <h4 class = "notranslate">Socio gerente</h4>
+            <h4 class = "notranslate">Managing Partner</h4>
 
             <div class="more">
                 <p class="nospace">Avvocato del Foro di Padova (dal 1999) specializzato in diritto 
@@ -337,17 +337,18 @@
     <article class="clearfix_new">
             <h2 class="noTextTransform notranslate">Simonetta DONÀ<img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_S_Dona_162x189.jpg" alt="Foto Avvocato Simonetta Donà"></h2>
-            <h4 class = "notranslate">Socio - Berlino</h4>
+            <h4 class = "notranslate">Senior Partner - Berlin</h4>
 
             <div class="more">
-                <p class="nospace">Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996).
-                    <br/>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001).
-                     <br/>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001).
-                     <br/>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo. <br>Patrocinante o co-patrocinante presso:</p>
+
+                <p>Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996)</p>
+                <p>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
+                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo. 
+                  <p class="nospace">Patrocinante o co-patrocinante presso:</p>
                 <ul>
                     <li>le giurisdizioni italiana e tedesca</li>
                     <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>               
-                    </ul>        
+                    </ul> 
                   <button id="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="plus(this)">&raquo;&raquo; plus</button>
 
                 <div id="collapse3" style="display:none">
@@ -376,13 +377,13 @@
     <article class="clearfix_new">
             <h2 class="noTextTransform notranslate">Barbara COMPARINI<img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Avv_Comparini_162x189.jpg" alt="Foto Avvocato Comparini"></h2>
-            <h4 class = "notranslate">Associato Senior - Padova</h4>
+            <h4 class = "notranslate">Senior Associate - Padova</h4>
 
             <div class="more">
                 <p>Avvocato del Foro di Padova - Italia (dal 2002)
-                 <br/>Patrocinante davanti alla giurisdizione italiana compresa la corte di cassazione e le altre magistratre superiori
-                    <br/>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2013)
-                     <br/>In precedenza, collaboratrice presso un primario Studio legale attivo nei settori del
+                 <br>Patrocinante davanti alla giurisdizione italiana compresa la corte di cassazione e le altre magistratre superiori
+                    <br>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2013)
+                     <br>In precedenza, collaboratrice presso un primario Studio legale attivo nei settori del
                     diritto civile e commerciale nonché della tutela dei consumatori e dei risparmiatori, maturando una
                     significativa esperienza nel contenzioso - Padova - Italia (2002-2012)&nbsp;
                     <!--
@@ -423,7 +424,7 @@
     <article class="clearfix_new">
             <h2 class="noTextTransform notranslate">Katja TOMANN<img class="right clearfix" style="margin: 0 10px;" 
              src="../images/foto_Avv_Tomann_162x189.jpg" alt="Foto Avvocato Tomann"></h2>
-            <h4 class = "notranslate">Associato Senior - Berlino</h4>
+            <h4 class = "notranslate">Senior Associate - Berlin</h4>
 
             <div class="more">
                 <p>Avvocato del Foro di Berlino - Germania (dal 2003)
@@ -431,8 +432,8 @@
                     <br/>Collaboratrice dello Studio presso la sede di Berlino - Germania (dal 2003)&nbsp;
                     <!--
                     <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                </p>-->
-
+                </p>
+-->
                 <div id="collapse5"> <!-- style="display:none" -->
                     <h4> Specifici settori di attività seguiti nello Studio: </h4>
                     <ul>
@@ -444,23 +445,57 @@
 
                     <h4>Lingue di lavoro</h4>
                     <p>tedesco, inglese, italiano
-  
+                     
                       <!--
                         <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
                       --> 
                     <br>
-                     </br>
                 </div>
             </div>
     </article>
     
         <article class="clearfix_new">
-            <h2 class="noTextTransform notranslate">Luca DONÀ<img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Foto_Luca Dona_162x189.jpg" alt="Foto Luca Donà"></h2>
-            <h4 class = "notranslate">Consulente d'affari e Referente per il mercato USA</h4>
+            <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
+            <h4 class = "notranslate">Praticante Avvocato - Padova</h4>
 
             <div class="more">
+                <p>Praticante Avvocato del Foro di Padova - Italia (dal 2018) 
+                    <br/>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2018) 
+                    <!--
+                    <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                </p>
+-->
+
+                <div id="collapse5"> <!-- style="display:none" -->
+                    <!--
+                    <h4> Specifici settori di attività seguiti nello Studio: </h4>
+                    <ul>
+                        <li> Diritto civile</li>
+                        <li> Diritto societario e commerciale</li>
+                        <li>Diritto del lavoro</li>
+                        <li>Diritto immobiliare</li>
+                    </ul>
+-->
+                    <h4>Lingue di lavoro</h4>
+                    <p>italiano, inglese, francese
+                     
+                      <!--
+                        <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
+                      --> 
+                    <br>
+                </div>
+            </div>
+    </article>
+    
+    <article class="clearfix_new">
+            <h2 class="noTextTransform notranslate">Luca DONÀ<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Foto_Luca Dona_162x189.jpg" alt="Foto Luca Donà"></h2>
+            <h4 class = "notranslate">USA Senior Partner</h4>
+
+            <div class="more"> <!-- &#149;&nbsp  -->
                 <p>Consulente d'affari
                     <br/>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
                     <br/>Ph.D Mathematics, Rice University, Houston, TX
@@ -487,42 +522,6 @@
                         <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                     </p>
                         -->
-                </div>
-            </div>
-    </article>
-    
-     <article class="clearfix_new">
-           <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
-             src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
-            <h4 class = "notranslate">Praticante Avvocato - Padova</h4>
-
-            <div class="more">
-                <p>Praticante Avvocato del Foro di Padova - Italia (dal 2018) 
-                    <br/>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2018) 
-                    <!--
-                    <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                </p>
--->
-
-                <div id="collapse5"> <!-- style="display:none" -->
-                    <!--
-                    <h4> Specifici settori di attività seguiti nello Studio: </h4>
-                    <ul>
-                        <li> Diritto civile</li>
-                        <li> Diritto societario e commerciale</li>
-                        <li>Diritto del lavoro</li>
-                        <li>Diritto immobiliare</li>
-                    </ul>
--->
-                    <h4>Lingue di lavoro</h4>
-                    <p>italiano, inglese, francese
-                     
-                    
-                      <!--
-                        <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                    </p>
-                      --> 
-                    <br>
                 </div>
             </div>
     </article>
