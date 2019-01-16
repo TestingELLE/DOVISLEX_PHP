@@ -438,6 +438,42 @@
             </div>
     </article>
     
+    
+    <article class="clearfix_new">
+            <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
+            <h4 class = "notranslate">Trainee Lawyer - Padova</h4>
+
+            <div class="more">
+                <p>Trainee Lawyer with the Bar of Padova - Italy (since 2018) 
+                    <br/>Associate with the Firm at Padova's office (since 2018) 
+                    <!--
+                    <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                </p>
+-->
+
+                <div id="collapse5"> <!-- style="display:none" -->
+                    <!--
+                    <h4> Specifici settori di attività seguiti nello Studio: </h4>
+                    <ul>
+                        <li> Diritto civile</li>
+                        <li> Diritto societario e commerciale</li>
+                        <li>Diritto del lavoro</li>
+                        <li>Diritto immobiliare</li>
+                    </ul>
+-->
+                    <h4>Working languages</h4>
+                    <p>Italian, English, French
+                     
+                      <!--
+                        <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
+                      --> 
+                    <br>
+                </div>
+            </div>
+    </article>
+    
     <article class="clearfix_new">
             <h2 class="noTextTransform notranslate">Luca DONÀ<img class="right clearfix" style="margin: 0 10px;" 
              src="../images/Foto_Luca Dona_162x189.jpg" alt="Foto Luca Donà"></h2>

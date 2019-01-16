@@ -444,7 +444,42 @@
                     </ul>
 
                     <h4>Lingue di lavoro</h4>
-                    <p> Tedesco, inglese, italiano
+                    <p>tedesco, inglese, italiano
+                     
+                      <!--
+                        <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                    </p>
+                      --> 
+                    <br>
+                </div>
+            </div>
+    </article>
+    
+        <article class="clearfix_new">
+            <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
+             src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
+            <h4 class = "notranslate">Praticante Avvocato - Padova</h4>
+
+            <div class="more">
+                <p>Praticante Avvocato del Foro di Padova - Italia (dal 2018) 
+                    <br/>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2018) 
+                    <!--
+                    <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+                </p>
+-->
+
+                <div id="collapse5"> <!-- style="display:none" -->
+                    <!--
+                    <h4> Specifici settori di attività seguiti nello Studio: </h4>
+                    <ul>
+                        <li> Diritto civile</li>
+                        <li> Diritto societario e commerciale</li>
+                        <li>Diritto del lavoro</li>
+                        <li>Diritto immobiliare</li>
+                    </ul>
+-->
+                    <h4>Lingue di lavoro</h4>
+                    <p>italiano, inglese, francese
                      
                       <!--
                         <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
