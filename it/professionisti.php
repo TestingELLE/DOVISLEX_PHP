@@ -341,10 +341,10 @@
 
             <div class="more">
 
-                <p>Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996)</p>
-                <p>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001)</p>
-                <p>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo. 
-                  <p class="nospace">Patrocinante o co-patrocinante presso:</p>
+                <p class="nospace">Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996).
+                <br><Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001).
+                <br>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.
+                   Patrocinante o co-patrocinante presso:</p>
                 <ul>
                     <li>le giurisdizioni italiana e tedesca</li>
                     <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>               
@@ -371,7 +371,9 @@
                         <button aria-controls="pair3" data-href="#collapse3" class="nav-toggle notranslate" onclick="minus(this)">&raquo;&raquo; minus</button>
                     </p>
                 </div>
-            </div>
+            </div> 
+            <br>
+
     </article>
 
     <article class="clearfix_new">
@@ -451,7 +453,6 @@
                     </p>
                       --> 
                     <br>
-                     </br>
                 </div>
             </div>
     </article>
