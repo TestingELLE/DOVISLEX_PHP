@@ -342,9 +342,9 @@
             <div class="more">
 
                 <p class="nospace">Avvocato del Foro di Berlino - Germania (dal 1999) e del Foro di Padova - Italia (dal 1996).
-                <br><Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001).
+                <br>Docente di Diritto italiano, in materia commerciale, societaria e contrattuale - Facoltà di Giurisprudenza - Humbold-Universität di Berlino - Germania (dal 2001).
                 <br>Presidente del Comitato degli Italiani residenti all’Estero (COMITES) di Berlino-Brandeburgo.
-                   Patrocinante o co-patrocinante presso:</p>
+                  <br>Patrocinante o co-patrocinante presso:</p>
                 <ul>
                     <li>le giurisdizioni italiana e tedesca</li>
                     <li>il Tribunale e la Corte di giustizia delle Comunità europee a Lussemburgo</li>               
