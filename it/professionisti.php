@@ -5,6 +5,7 @@
             color: #b09b4c;
         }
     </style>
+<br/>
 
     <article class="clearfix_new">
         <h2 class="noTextTransform notranslate">Wilma VISCARDINI<img class="right clearfix" style="margin: 0 0 0 12px;" 

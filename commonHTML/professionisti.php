@@ -5,6 +5,8 @@
             color: #b09b4c;
         }
     </style>
+    <br/>
+    
     <article class="clearfix_new" >
         <h2 class="noTextTransform notranslate">Wilma VISCARDINI<img class ="right clearfix" style="margin: 0 10px;" 
                                                                      src="../images/foto Avv Viscardini biblioteca.jpg" 
