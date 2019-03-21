@@ -538,6 +538,7 @@
         <div class="more">
             <p>Praticante Avvocato del Foro di Padova - Italia (dal 2019) 
                 <br/>Collaboratore dello Studio presso la sede di Padova - Italia (dal 2019) 
+                <br/>Cultore ddella materia di diritto dell’Unione europea presso l’Università di Ferrara 
                 <!--
                 <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
             </p>

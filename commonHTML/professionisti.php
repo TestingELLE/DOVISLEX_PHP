@@ -92,7 +92,7 @@
                 </p>
             </div>
         </div>
-    </article>
+    </article><!-- VISCARDINI -->
 
     <article class="clearfix_new">
         <h2 class="noTextTransform notranslate">Gabriele DONÀ<img class="right clearfix" style="margin: 0 10px;" 
@@ -314,7 +314,7 @@
                 </div> <!-- papers --> 
             </div>
         </div>
-    </article>
+    </article><!-- GABRIELE DONÀ -->
 
     <article class="clearfix_new">
         <h2 class="noTextTransform notranslate">Simonetta DONÀ<img class="right clearfix" style="margin: 0 10px;" 
@@ -358,7 +358,7 @@
                 </p>
             </div>
         </div>
-    </article>
+    </article><!-- SIMONETTA DONÀ -->
 
     <article class="clearfix_new">
         <h2 class="noTextTransform notranslate">Barbara COMPARINI<img class="right clearfix" style="margin: 0 10px;" 
@@ -409,7 +409,7 @@
                     -->
             </div>
         </div>
-    </article>
+    </article><!-- COMPARINI -->
 
     <article class="clearfix_new">
         <h2 class="noTextTransform notranslate">Katja TOMANN<img class="right clearfix" style="margin: 0 10px;" 
@@ -447,7 +447,7 @@
                     </br>
             </div>
         </div>
-    </article>
+    </article><!-- TOMANN -->
 
 
 
@@ -463,101 +463,103 @@
                 <li>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)</li>
                 <li>Ph.D Mathematics, Rice University, Houston, TX</li>
                 <li>GMAT 800&nbsp;
+            </ul>
+            <!--
+       <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+   </p>
+            -->
+
+            <div id="collapse6"> <!--style="display:none" -->
+                <h4 class="LcustomTranslation" id="S592">Specific areas of activity</h4>
+                <ul>
+                    <li>development of business opportunities and partnerships 
+                        in the US</li>
+                    <li>negotiation strategy and conflict resolution</li>
+                    <li class="LcustomTranslation" id="D28">economic and financial analyses</li>
+                    <li>Mergers & Acquisitions</li>
+                    <li>Real Estate New York, Miami, Houston</li>
+                </ul>
+
+                <h4>Working languages:</h4>
+                <p>Italian, English, French, Spanish
+                    </br>
+                    </br><br>
                     <!--
-               <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-           </p>
+                    <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                </p>
                     -->
+            </div>
+        </div>
+    </article><!-- LUCA DONA' -->
 
-                    <div id="collapse6"> <!--style="display:none" -->
-                        <h4 class="LcustomTranslation" id="S592">Specific areas of activity</h4>
-                        <ul>
-                            <li>development of business opportunities and partnerships 
-                                in the US</li>
-                            <li>negotiation strategy and conflict resolution</li>
-                            <li class="LcustomTranslation" id="D28">economic and financial analyses</li>
-                            <li>Mergers & Acquisitions</li>
-                            <li>Real Estate New York, Miami, Houston</li>
-                        </ul>
+    <article class="clearfix_new">
+        <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
+                                                                       src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
+        <h4 class = "notranslate">Trainee Lawyer - Padova</h4>
 
-                        <h4>Working languages:</h4>
-                        <p>Italian, English, French, Spanish
-                            </br>
-                            </br><br>
-                            <!--
-                            <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                        </p>
-                            -->
-                    </div>
-                    </div>
-                    </article><!-- CANNAS -->
+        <div class="more">
+            <p>Trainee Lawyer with the Bar of Padova - Italy (since 2018) 
+                <br/>Associate with the Firm at Padova's office (since 2018) 
+                <!--
+                <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+            </p>
+                -->
 
-                    <article class="clearfix_new">
-                        <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
-                                                                                       src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
-                        <h4 class = "notranslate">Trainee Lawyer - Padova</h4>
+            <div id="collapse5"> <!-- style="display:none" -->
+                <!--
+                <h4> Specifici settori di attività seguiti nello Studio: </h4>
+                <ul>
+                    <li> Diritto civile</li>
+                    <li> Diritto societario e commerciale</li>
+                    <li>Diritto del lavoro</li>
+                    <li>Diritto immobiliare</li>
+                </ul>
+                -->
+                <h4>Working languages</h4>
+                <p>Italian, English, French
 
-                        <div class="more">
-                            <p>Trainee Lawyer with the Bar of Padova - Italy (since 2018) 
-                                <br/>Associate with the Firm at Padova's office (since 2018) 
-                                <!--
-                                <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                            </p>
-                                -->
+                    <!--
+                      <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                  </p>
+                    --> 
+                    <br>
+            </div>
+        </div>
+    </article><!-- CANNAS -->
 
-                            <div id="collapse5"> <!-- style="display:none" -->
-                                <!--
-                                <h4> Specifici settori di attività seguiti nello Studio: </h4>
-                                <ul>
-                                    <li> Diritto civile</li>
-                                    <li> Diritto societario e commerciale</li>
-                                    <li>Diritto del lavoro</li>
-                                    <li>Diritto immobiliare</li>
-                                </ul>
-                                -->
-                                <h4>Working languages</h4>
-                                <p>Italian, English, French
-
-                                    <!--
-                                      <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                                  </p>
-                                    --> 
-                                    <br>
-                            </div>
-                        </div>
-                    </article>
-    
-        <article class="clearfix_new">
-                        <h2 class="noTextTransform notranslate">Enrico SALMINI STURLI<img class="right clearfix" style="margin: 0 10px;" 
+    <article class="clearfix_new">
+        <h2 class="noTextTransform notranslate">Enrico SALMINI STURLI<img class="right clearfix" style="margin: 0 10px;" 
                                                                           src="../images/foto_Salmini Sturli 162x189.jpg" alt="Foto Enrico SALMINI STURLI"></h2>
-                        <h4 class = "notranslate">Trainee Lawyer - Padova</h4>
+        <h4 class = "notranslate">Trainee Lawyer - Padova</h4>
 
-                        <div class="more">
-                            <p>Trainee Lawyer with the Bar of Padova - Italy (since 2019) 
-                                <br/>Associate with the Firm at Padova's office (since 2019) 
-                                <!--
-                                <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-                            </p>
-                                -->
+        <div class="more">
+            <p>Trainee Lawyer with the Bar of Padova - Italy (since 2019) 
+                <br/>Associate with the Firm at Padova's office (since 2019)
+                <br/>Teaching Assistant of European Union Law at the University of Ferrara
+                <!--
+                <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
+            </p>
+                -->
 
-                            <div id="collapse5"> <!-- style="display:none" -->
-                                <!--
-                                <h4> Specifici settori di attività seguiti nello Studio: </h4>
-                                <ul>
-                                    <li> Diritto civile</li>
-                                    <li> Diritto societario e commerciale</li>
-                                    <li>Diritto del lavoro</li>
-                                    <li>Diritto immobiliare</li>
-                                </ul>
-                                -->
-                                <h4>Working languages</h4>
-                                <p>Italian, English, French, Spanish
+            <div id="collapse5"> <!-- style="display:none" -->
+                <!--
+                <h4> Specifici settori di attività seguiti nello Studio: </h4>
+                <ul>
+                    <li> Diritto civile</li>
+                    <li> Diritto societario e commerciale</li>
+                    <li>Diritto del lavoro</li>
+                    <li>Diritto immobiliare</li>
+                </ul>
+                -->
+                <h4>Working languages</h4>
+                <p>Italian, English, French, Spanish
 
-                                    <!--
-                                      <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                                  </p>
-                                    --> 
-                                    <br><br><br>
-                            </div>
-                        </div>
-                    </article><!-- SALMINI STURLI -->
-                    </div>
+                    <!--
+                      <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
+                  </p>
+                    --> 
+                    <br><br><br>
+            </div>
+        </div>
+    </article><!-- SALMINI STURLI -->
+</div>
