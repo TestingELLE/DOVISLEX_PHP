@@ -529,39 +529,5 @@
         </div>
     </article><!-- CANNAS -->
 
-    <article class="clearfix_new">
-        <h2 class="noTextTransform notranslate">Enrico SALMINI STURLI<img class="right clearfix" style="margin: 0 10px;" 
-                                                                          src="../images/foto_Salmini Sturli 162x189.jpg" alt="Foto Enrico SALMINI STURLI"></h2>
-        <h4 class = "notranslate">Trainee Lawyer - Padova</h4>
 
-        <div class="more">
-            <p>Trainee Lawyer with the Bar of Padova - Italy (since 2019) 
-                <br/>Associate with the Firm at Padova's office (since 2019)
-                <br/>Teaching Assistant of European Union Law at the University of Ferrara
-                <!--
-                <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-            </p>
-                -->
-
-            <div id="collapse5"> <!-- style="display:none" -->
-                <!--
-                <h4> Specifici settori di attività seguiti nello Studio: </h4>
-                <ul>
-                    <li> Diritto civile</li>
-                    <li> Diritto societario e commerciale</li>
-                    <li>Diritto del lavoro</li>
-                    <li>Diritto immobiliare</li>
-                </ul>
-                -->
-                <h4>Working languages</h4>
-                <p>Italian, English, French, Spanish
-
-                    <!--
-                      <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                  </p>
-                    --> 
-                    <br><br><br>
-            </div>
-        </div>
-    </article><!-- SALMINI STURLI -->
 </div>
