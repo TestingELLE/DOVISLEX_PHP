@@ -5,6 +5,7 @@
             color: #b09b4c;
         }
     </style>
+<br/>
 
     <article>
         <h2>Benvenuti al sito di</h2>

@@ -5,6 +5,7 @@
             color: #b09b4c;
         }
     </style>
+<br/>
 
     <article class="clearfix_new">
         <h2 class="noTextTransform notranslate">Wilma VISCARDINI<img class="right clearfix" style="margin: 0 0 0 12px;" 
@@ -530,41 +531,6 @@
     </article>
 
 
-    <article class="clearfix_new">
-        <h2 class="noTextTransform notranslate">Enrico SALMINI STURLI<img class="right clearfix" style="margin: 0 10px;" 
-                                                                          src="../images/foto_Salmini Sturli 162x189.jpg" alt="Foto Enrico SALMINI STURLI"></h2>
-        <h4 class = "notranslate">Praticante Avvocato - Padova</h4>
-
-        <div class="more">
-            <p>Praticante Avvocato del Foro di Padova - Italia (dal 2019) 
-                <br/>Collaboratore dello Studio presso la sede di Padova - Italia (dal 2019) 
-                <br/>Cultore ddella materia di diritto dell’Unione europea presso l’Università di Ferrara 
-                <!--
-                <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
-            </p>
-                -->
-
-            <div id="collapse5"> <!-- style="display:none" -->
-                <!--
-                <h4> Specifici settori di attività seguiti nello Studio: </h4>
-                <ul>
-                    <li> Diritto civile</li>
-                    <li> Diritto societario e commerciale</li>
-                    <li>Diritto del lavoro</li>
-                    <li>Diritto immobiliare</li>
-                </ul>
-                -->
-                <h4>Lingue di lavoro</h4>
-                <p>italiano, inglese, francese, spagnolo
-
-
-                    <!--
-                      <button aria-controls="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
-                  </p>
-                    --> 
-                    <br><br><br>
-            </div>
-        </div>
-    </article><!-- SALMINI STURLI -->
+    
 
 </div>
