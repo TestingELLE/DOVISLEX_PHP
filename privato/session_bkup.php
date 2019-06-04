@@ -1,10 +1,10 @@
 <?php
 
 // Establishing Connection by passing server_name, user_id and password
-$connection = mysqli_connect("rendertech.com","pupone_Runhao","Runhao1212");
+$connection = mysql_connect("62.149.150.171", "Sql924951", "a438135r74");
 
 // Selecting Database
-$db = mysql_select_db("Members", $connection);
+$db = mysql_select_db("Sql924951_1", $connection);
 
 // Starting Session
 session_start();
@@ -19,5 +19,5 @@ $login_session = $row['userName'];
 
 if (!isset($login_session)) {
     mysql_close($connection); // Closing Connection
-    header('Location: login.php'); // Redirecting To Home Page
+    header('Location: index.php'); // Redirecting To Home Page
 }

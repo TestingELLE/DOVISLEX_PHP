@@ -13,7 +13,7 @@ if (isset($_POST['submit'])) {
         $password = $_POST['password'];
 
         // Establishing Connection by passing server_name, user_id and password
-        $connection = mysqli_connect("rendertech.com","pupone_Runhao","Runhao1212") or die(mysql_error());
+        $connection = mysql_connect("62.149.150.171", "Sql924951", "a438135r74") or die(mysql_error());
 
         // To protect MySQL injection for Security purpose
         $username = stripslashes($username);
@@ -22,7 +22,7 @@ if (isset($_POST['submit'])) {
         $password = mysql_real_escape_string($password);
 
         // Selecting Database
-        $db = mysql_select_db("Members", $connection);
+        $db = mysql_select_db("Sql924951_1", $connection);
 
         // SQL query to fetch information of registerd users
         $query = mysql_query("select * from Members where password='$password' AND userName='$username'", $connection);
@@ -34,7 +34,6 @@ if (isset($_POST['submit'])) {
             header("location: page1.php");
         } else {
             $error = "Username or Password is invalid";
-            header("location: page2.php");
         }
         mysql_close($connection); // Closing Connection
     }
