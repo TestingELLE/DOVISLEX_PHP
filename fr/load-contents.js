@@ -81,7 +81,7 @@ appendORreplace('#F1',"En particulier, les associés du Cabinet - outre les affa
     appendORreplace('.Em02', "Importations des pays tiers");
     appendORreplace('.Em03', "Certificats d'importation");
     appendORreplace('.Em04', "Ententes");
-    appendORreplace('.Em04b', "Agriculture - ail");
+    //appendORreplace('.Em04b', "Agriculture - ail");
     appendORreplace('.Em06', "Aides d'État");
     appendORreplace('.Em08', "Transparence administrative des institutions de l'UE");
     appendORreplace('.Em09', "Taxe d'Etat de débarquement des produits pétroliers");
