@@ -111,7 +111,8 @@ switch ($page) {
         <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
 
         <!--All page specific code goes above this line which loads the common head-->
-        <script src="../js/load-head.js"></script>
+        <?php include('../commonHTML/commonHead.html'); ?>
+        <!-- <script src="../js/load-head.js"></script> -->
     </head>
 
     <body onload="loadContents();">
