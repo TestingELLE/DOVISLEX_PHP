@@ -33,6 +33,6 @@ var data =
         +
         "<script src='load-contents.js'></script>";
 
-
+var head = document.head;
 // adds the string above into head tag
 $('head').append(data);
