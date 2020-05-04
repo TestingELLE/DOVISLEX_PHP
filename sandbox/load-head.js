@@ -1,8 +1,8 @@
-/* 
+/*
  *  Author: Anthea Jung
  *  Created: 10/20/2015
  *  Last modified: 11/18/2015
- *  
+ *
  *  This page provides common head tag elements to all pages
  *  To add a new js/css/meta, concatenate a new string to data */
 
@@ -30,8 +30,7 @@ var data =
         "<script src='../js/change-lang.js'></script>"
         +
         "<script src='../js/plus-minus.js'></script>"
-        +
-        "<script src='load-contents.js'></script>";
+
 
 var head = document.head;
 // adds the string above into head tag

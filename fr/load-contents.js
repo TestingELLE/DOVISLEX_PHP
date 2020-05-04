@@ -219,4 +219,3 @@ function appendORreplace(id, value) {
         $(id).text(value);
     }
 }
-
