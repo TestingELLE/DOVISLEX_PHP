@@ -209,6 +209,7 @@ appendORreplace('#F1',"En particulier, les associés du Cabinet - outre les affa
 
 }
 
+
 /* If an element is empty, then appends value.
  * If an element is not empty, then replaces the innerHTML with a given value */
 function appendORreplace(id, value) {
