@@ -112,7 +112,7 @@ switch ($page) {
 
         <!--All page specific code goes above this line which loads the common head-->
         <?php include('../commonHTML/commonHead.html'); ?>
-        <!-- <script src="../js/load-head.js"></script> -->
+        <script src="load-contents.js"></script>
     </head>
 
     <body onload="loadContents();">
