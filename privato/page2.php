@@ -8,7 +8,7 @@ include('session.php');
     <head>
         <title>Admin Page</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
+        <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
         <link rel="stylesheet" type="text/css" href="../it/navigation.css">
 
         <!--All page specific code goes above this line which loads the common head-->
