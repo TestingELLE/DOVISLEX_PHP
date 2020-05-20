@@ -177,7 +177,7 @@ switch ($page) {
                         'Servizi.html',
                         'sitemap.html',
                         'uffici.html',
-                        'USArealEstate.html');
+                        'USArealEstate.html',);
                     if (!in_array($page, $noButtonList)) {
                         echo "<div id='buttons-container'>";
                         include('buttons.html');
