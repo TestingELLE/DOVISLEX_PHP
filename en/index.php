@@ -123,6 +123,7 @@ switch ($page) {
             </div>
             <div id="main-container" class="clear"> 
                 <div id="tableDiv">
+                    
                     <?php include($page); ?>
 
                     <?php
