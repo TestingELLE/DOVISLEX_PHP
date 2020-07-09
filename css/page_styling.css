@@ -21,7 +21,7 @@ body {
   margin-bottom: 4rem;
   width:80%;
   margin:auto;
-    background-color: darkslategrey;
+    background-color: black;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -60,7 +60,7 @@ img{
 /* Center align the text within the three columns below the carousel */
 .marketing{
     text-align: justify;
-    width:80%;
+    width:90%;
     margin:auto;
     display:block;
 }
