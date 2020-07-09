@@ -8,6 +8,10 @@ body {
   color: #5a5a5a;
 }
 
+.outer-div{
+    width:80%;
+    margin:auto;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -15,6 +19,9 @@ body {
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
+  width:80%;
+  margin:auto;
+    background-color: darkslategrey;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -27,6 +34,8 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
+  
+  
 }
 .carousel-item > img {
   float:center;
@@ -45,16 +54,22 @@ img{
     margin:auto;
 }
 
-
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
 .marketing{
-    width:60%;
+    text-align: justify;
+    width:80%;
     margin:auto;
     display:block;
 }
+.collapsible-content__body-title{
+    text-align: left;
+    margin-top:2rem;
+    margin-bottom: 2rem;
+    }
+
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
@@ -85,6 +100,14 @@ img{
 }
 
 
+footer.container{
+    bottom:0;
+    text-align: justify;
+    width:80%;
+    display:block;
+    
+}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -106,3 +129,4 @@ img{
     margin-top: 7rem;
   }
 }
+
