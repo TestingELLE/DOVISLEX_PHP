@@ -1,4 +1,4 @@
-<?php  include('config.php'); ?>
+<?php //  include('config.php'); ?>
 <?php  include('includes/public_functions.php'); ?>
 <?php 
 	if (isset($_GET['post-slug'])) {
