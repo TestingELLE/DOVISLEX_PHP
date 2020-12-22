@@ -1,3 +1,4 @@
+
 <?php 
 // Post variables
 $post_id = 0;
@@ -91,13 +92,13 @@ function createPost($request_values)
 		if (empty($body)) { array_push($errors, "Post body is required"); }
 		
 		// Get image name
-	  	$featured_image = $_FILES['featured_image']['name'];
-	  	if (empty($featured_image)) { array_push($errors, "Featured image is required"); }
-	  	// image file directory
+//	  	$featured_image = $_FILES['featured_image']['name'];
+//	  	if (empty($featured_image)) { array_push($errors, "Featured image is required"); }
+//	  	// image file directory
 	  	$target = "../static/images/" . basename($featured_image);
-	  	if (!move_uploaded_file($_FILES['featured_image']['tmp_name'], $target)) {
-	  		array_push($errors, "Failed to upload image. Please check file settings for your server");
-	  	}
+//	  	if (!move_uploaded_file($_FILES['featured_image']['tmp_name'], $target)) {
+//	  		array_push($errors, "Failed to upload image. Please check file settings for your server");
+//	  	}
 		// Ensure that no post is saved twice. 
 		$post_check_query = "SELECT * FROM posts WHERE slug='$post_slug' LIMIT 1";
 		$result = mysqli_query($conn, $post_check_query);
@@ -175,12 +176,12 @@ function createPost($request_values)
 					$sql = "INSERT INTO post_topic (post_id, topic_id) VALUES($inserted_post_id, $topic_id)";
 					mysqli_query($conn, $sql);
 					$_SESSION['message'] = "Post created successfully";
-					header('location: posts.php');
+					header("Location: create_post.php?edit-post=$post_id");
 					exit(0);
 				}
 			}
 			$_SESSION['message'] = "Post updated successfully";
-			header('location: posts.php');
+			header("Location: create_post.php?edit-post=$post_id");
 			exit(0);
 		}
 	}

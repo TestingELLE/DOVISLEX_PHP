@@ -53,6 +53,16 @@ switch ($page) {
         $page = "../commonHTML/news.html";
         $title = "NEWS";
         break;
+    
+    //testing news_sql
+    
+      case "news_sql":
+        $page = "../News_article_form/news_sql.php";
+        $title = "NEWS_SQL";
+        break;
+    
+    //end testing
+    
     case "penale-amministrativo":
         $page = "../commonHTML/penale-amministrativo.html";
         $title = "Criminal and administrative";
