@@ -37,7 +37,7 @@ if (isset($_GET['delete-admin'])) {
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 function getAdminUsers(){
 	global $conn, $roles;
-	$sql = "SELECT * FROM users WHERE role IS NOT NULL";
+	$sql = "SELECT * FROM Accounts WHERE role IS NOT NULL";
 	$result = mysqli_query($conn, $sql);
 	$users = mysqli_fetch_all($result, MYSQLI_ASSOC);
 

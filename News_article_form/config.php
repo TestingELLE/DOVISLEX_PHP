@@ -1,7 +1,19 @@
 <?php 
+//include('../admin/login.php');
+
+//set global variable for db
+$dovisLex_db = "z1bb6fc8_dovisLex";
+$db_server = "cloud16.hostgator.com";//set global variable for db
+// hardcode temporary
+$uname_long = "z1bb6fc8_Anh";
+$password = "Anh4343&&";
+
 	session_start();
+        
+   
 	// connect to database
-	$conn = mysqli_connect("localhost", "root", "", "complete-blog-php");
+        // do not hardcode username and password
+	$conn=mysqli_connect($db_server,$uname_long,$password,$dovisLex_db);
 
 	if (!$conn) {
 		die("Error connecting to database: " . mysqli_connect_error());
