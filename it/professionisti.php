@@ -114,7 +114,7 @@
 
             <h4>Appartenenza ad Associazioni scientifiche o professionali:</h4>
 
-            <p>Presidente della U.A.E. (Unione degli Avvocati 
+            <p>Presidente (2018-2020) della U.A.E. (Unione degli Avvocati 
                 europei) con sede a Lussemburgo.</p>
             <p>Membro del Comitato scientifico del “Centro di diritto penale tributario” di Torino.
                 <br>
@@ -467,7 +467,7 @@
             <p>Consulente d'affari
                 <br/>MBA Corporate & Securities Finance, Massachusetts Institute of Technology (MIT)
                 <br/>Ph.D Mathematics, Rice University, Houston, TX
-                <br/>GMAT&nbsp;800
+             
                 <!--
                 <button id="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
             </p>
@@ -480,12 +480,16 @@
                     <li>strategia negoziale e risoluzione di conflitti</li>
                     <li>analisi economiche e commerciali</li>
                     <li>Mergers & Acquisitions</li>
-                    <li>immobiliare New York, Miami, Houston</li>
                 </ul>
 
                 <h4>Lingue di lavoro:</h4>
-                <p>italiano, inglese, francese, spagnolo
-                    </br>
+                <p>italiano, inglese, francese, spagnolo.
+                    <br><br>
+                      ltri siti Prof. Luca Donà: 
+                    <a href="https://elle-investments.com" target="_blank">elle-investments.com</a> ; 
+                    <a href="https://lucadona.com" target="_blank">lucadona.com</a> ; 
+                    <a href="https://rendertech.com" target="_blank">rendertech.com</a>.
+                     <br><br>
                     <!--
                     <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
                 </p>
@@ -497,10 +501,10 @@
     <article class="clearfix_new">
         <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
                                                                        src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
-        <h4 class = "notranslate">Praticante Avvocato - Padova</h4>
+        <h4 class = "notranslate">Associato Junior - Padova</h4>
 
         <div class="more">
-            <p>Praticante Avvocato del Foro di Padova - Italia (dal 2018) 
+            <p>Avvocato del Foro di Padova - Italia (dal 2021) 
                 <br/>Collaboratrice dello Studio presso la sede di Padova - Italia (dal 2018) 
                 <!--
                 <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>

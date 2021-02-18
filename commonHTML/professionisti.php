@@ -6,7 +6,7 @@
         }
     </style>
     <br/>
-    
+
     <article class="clearfix_new" >
         <h2 class="noTextTransform notranslate">Wilma VISCARDINI<img class ="right clearfix" style="margin: 0 10px;" 
                                                                      src="../images/foto Avv Viscardini biblioteca.jpg" 
@@ -149,8 +149,8 @@
                 <h4>Memberships is Scientific or Professional Associations:</h4>
                 <div>
                     <ul>
-                        <li>President of the <span class="notranslate">European Lawyers' Union (UAE)</span>, based in Luxembourg</li>
-                        <li>Membro del Comitato scientifico del “Centro di diritto penale tributario” di Torino. 
+                        <li>President (2018-2020) of the <span class="notranslate">European Lawyers' Union (UAE)</span>, based in Luxembourg</li>
+                        <li>Member of the Scientific Committee of the “Centro di diritto penale tributario” di Torino. 
                         </li>
                     </ul>
                 </div>   
@@ -479,12 +479,15 @@
                     <li>negotiation strategy and conflict resolution</li>
                     <li class="LcustomTranslation" id="D28">economic and financial analyses</li>
                     <li>Mergers & Acquisitions</li>
-                    <li>Real Estate New York, Miami, Houston</li>
                 </ul>
 
                 <h4>Working languages:</h4>
-                <p>Italian, English, French, Spanish
-                    </br>
+                <p>Italian, English, French, Spanish.
+                    </br><br>
+                    Other websites of Prof. Luca Donà: 
+                    <a href="https://elle-investments.com" target="_blank">elle-investments.com</a> ; 
+                    <a href="https://lucadona.com" target="_blank">lucadona.com</a> ; 
+                    <a href="https://rendertech.com" target="_blank">rendertech.com</a>.
                     </br><br>
                     <!--
                     <button aria-controls="pair6" data-href="#collapse6" class="nav-toggle notranslate" onclick="minus(this)">&raquo; minus</button>
@@ -497,10 +500,10 @@
     <article class="clearfix_new">
         <h2 class="noTextTransform notranslate">Maria Luisa CANNAS<img class="right clearfix" style="margin: 0 10px;" 
                                                                        src="../images/Maria Luisa Cannas sm.jpg" alt="Foto Maria Luisa CANNAS"></h2>
-        <h4 class = "notranslate">Trainee Lawyer - Padova</h4>
+        <h4 class = "notranslate">Junior Associate - Padova</h4>
 
         <div class="more">
-            <p>Trainee Lawyer with the Bar of Padova - Italy (since 2018) 
+            <p>Lawyer with the Bar of Padova - Italy (since 2021) 
                 <br/>Associate with the Firm at Padova's office (since 2018) 
                 <!--
                 <button id="pair5" data-href="#collapse5" class="nav-toggle notranslate" onclick="plus(this)">&raquo; plus</button>
