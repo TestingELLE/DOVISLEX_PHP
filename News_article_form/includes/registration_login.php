@@ -20,7 +20,7 @@
 
 		// Ensure that no user is registered twice. 
 		// the email and usernames should be unique
-		$user_check_query = "SELECT * FROM users WHERE username='$username' 
+		$user_check_query = "SELECT * FROM Accounts WHERE username='$username' 
 								OR email='$email' LIMIT 1";
 
 		$result = mysqli_query($conn, $user_check_query);
@@ -71,7 +71,7 @@
 		if (empty($password)) { array_push($errors, "Password required"); }
 		if (empty($errors)) {
 			$password = md5($password); // encrypt password
-			$sql = "SELECT * FROM users WHERE username='$username' and password='$password' LIMIT 1";
+			$sql = "SELECT * FROM Accounts WHERE username='$username' and password='$password' LIMIT 1";
 
 			$result = mysqli_query($conn, $sql);
 			if (mysqli_num_rows($result) > 0) {
@@ -113,7 +113,7 @@
 	function getUserById($id)
 	{
 		global $conn;
-		$sql = "SELECT * FROM users WHERE id=$id LIMIT 1";
+		$sql = "SELECT * FROM Accounts WHERE id=$id LIMIT 1";
 
 		$result = mysqli_query($conn, $sql);
 		$user = mysqli_fetch_assoc($result);

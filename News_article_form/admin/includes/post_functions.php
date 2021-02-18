@@ -16,14 +16,15 @@ $featured_image = "";
 function getAllPosts()
 {
 	global $conn;
+
 	
 	// Admin can view all posts
 	// Author can only view their posts
-	if ($_SESSION['user']['role'] == "Admin") {
-		$sql = "SELECT * FROM posts";
+	if ($_SESSION['username']['type'] == "Admin" || "Author") {
+		$sql = "SELECT * FROM news_en";
 	} elseif ($_SESSION['user']['role'] == "Author") {
-		$user_id = $_SESSION['user']['id'];
-		$sql = "SELECT * FROM posts WHERE user_id=$user_id";
+		$user_id = $_SESSION['username']['id'];
+		$sql = "SELECT * FROM news_en WHERE user_id=$user_id";
 	}
 	$result = mysqli_query($conn, $sql);
 	$posts = mysqli_fetch_all($result, MYSQLI_ASSOC);
@@ -38,8 +39,8 @@ function getAllPosts()
 // get the author/username of a post
 function getPostAuthorById($user_id)
 {
-	global $conn;
-	$sql = "SELECT username FROM users WHERE id=$user_id";
+//	global $conn;
+	$sql = "SELECT username FROM Accounts WHERE id=$user_id";
 	$result = mysqli_query($conn, $sql);
 	if ($result) {
 		// return username

@@ -1,11 +1,14 @@
+<?php include('../config.php'); ?>
 <?php 
+
+
 /* * * * * * * * * * * * * * *
 * Returns all published posts
 * * * * * * * * * * * * * * */
 function getPublishedPosts() {
 	// use global $conn object in function
 	global $conn;
-	$sql = "SELECT * FROM posts WHERE published=true";
+	$sql = "SELECT * FROM news_en WHERE published=true";
 	$result = mysqli_query($conn, $sql);
 
 	// fetch all posts as an associative array called $posts
@@ -21,7 +24,7 @@ function getPost($slug){
 	global $conn;
 	// Get single post slug
 	$post_slug = $_GET['post-slug'];
-	$sql = "SELECT * FROM posts WHERE slug='$post_slug' AND published=true";
+	$sql = "SELECT * FROM news_en WHERE slug='$post_slug' AND published=true";
 	$result = mysqli_query($conn, $sql);
 
 	// fetch query results as associative array.
