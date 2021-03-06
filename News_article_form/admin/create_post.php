@@ -7,6 +7,7 @@
 <?php include(ROOT_PATH . '/admin/includes/post_functions.php'); ?>
 <?php include(ROOT_PATH . '/admin/includes/head_section.php'); ?>
 
+
 <!-- Get all admin posts from DB -->
 <?php $posts = getAllPosts(); ?>
 
@@ -27,8 +28,10 @@ if (isset($_GET['post-slug'])) {
             <div id="tableDiv">
                 <div id="main-content">
                     <div class="clearfix"> 
-                        <span class="news_line"></span>
-                        <h4> 2020</h4>
+                        <span class="news_line"></span
+                        <!-- date not working  -->
+                        <h4><?php echo $post['date']; ?>
+                        *Example Date*</h4>
 
                         <h3 style ="font-family: 'Open Sans', sans-serif;" class="news_title"><?php echo $title; ?></h3>
                         <ul class="news">
@@ -126,8 +129,10 @@ if (isset($_GET['post-slug'])) {
                                             <?php if ($isEditingPost === true): ?>
                                                 <input type="hidden" name="post_id" value="<?php echo $post_id; ?>">
                                             <?php endif ?>
-
+                                            
+                                           
                                             <input type="text" name="title" value="<?php echo $title; ?>" placeholder="Title">
+                                          
 
                                             <textarea name="body" id="body" cols="30" rows="10"><?php echo $body; ?></textarea>
 
