@@ -50,7 +50,7 @@ $db_server = "cloud16.hostgator.com";
         
         $_SESSION['type']=$row['type'];
         $_SESSION["Last_Activity"]=time(); 
-        header("location: dashboard.php");
+        header("location: posts.php");
         if(mysqli_num_rows($result)==1 && $row['type']=="Admin" || $row['type']=="Maintainer" ){
             
             exit();
@@ -60,7 +60,7 @@ $db_server = "cloud16.hostgator.com";
             exit();
             mysqli_close($con1);
         };
-        if(mysqli_num_rows($result)==1 && $row['type']=="Author"){
+        if(mysqli_num_rows($result)==1 && $row['type']=="Maintainer"){
             exit();
             mysqli_close($con1);
         };
@@ -89,12 +89,7 @@ $db_server = "cloud16.hostgator.com";
                     </div>
                     <h4>Manage Posts</h4>
                 </td>
-                <td id="right-header" width="20%" style=" text-align: center">
-                    <div style="display: inline-block">
-                       
-                        <img src = "../images/ELLE LOGO-L_100x56.png" width="100" height="56px" alt="Elle Investments logo" >
-                    </div>
-                </td>
+             
             </tr>
         </tbody>
     </table>
