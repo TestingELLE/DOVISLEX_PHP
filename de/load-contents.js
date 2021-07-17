@@ -160,6 +160,7 @@ appendORreplace('.F29',"Rechtssachen");
     appendORreplace('#F37', "Staatlche Entladegebühr von Erdölprodukten");
     appendORreplace('#F38', "Staatlche Entladegebühr");
     appendORreplace('.Em12', "Untätigkeitsklage");
+    appendORreplace('.Fm01', "Wettbewerb");
 
 //penale-amministrativo.html
     appendORreplace('#F62', "Zollrecht & CRIMINAL / ORDNUNGSWIDRIGKEITEN GEMEINSCHAFTSBETRUGS");
