@@ -1,6 +1,9 @@
 <link rel="stylesheet" href="../static/css/main.css"/>
 <link rel="stylesheet" href="../static/css/create_post_styling.css"/>
 
+<!-- protects page from unauthorized users -->
+<?php include_once("session.php");?>
+
 <?php include('../config.php'); ?>
 
 <?php include(ROOT_PATH . '/admin/includes/admin_functions.php'); ?>

@@ -1,3 +1,6 @@
+<!-- protects page from unauthorized users -->
+<?php include_once("session.php");?>
+
 <?php include('../config.php'); ?>
 <?php include(ROOT_PATH . '/admin/includes/admin_functions.php'); ?>
 <?php include(ROOT_PATH . '/admin/includes/post_functions.php'); ?>
@@ -10,7 +13,7 @@
 <body>
     <!-- admin navbar -->
     <!-- <?php include(ROOT_PATH . '/admin/includes/navbar.php') ?> -->
-
+    
     <div class="container content">
         <!-- Left side menu -->
         <?php include(ROOT_PATH . '/admin/includes/menu.php') ?>

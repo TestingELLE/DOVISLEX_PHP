@@ -16,30 +16,33 @@
     <br/><br/>
 
     <article>
-        <h1>News</h1>  
+        <h1>News</h1> 
 
-        <div class="clearfix"> 
-            <span class="news_line"></span>
+        <!-- Retrieve all posts from database  -->
+        <?php $posts = getPublishedPosts(); ?>
 
-            <!-- Retrieve all posts from database  -->
-            <?php $posts = getPublishedPosts(); ?>
+        <?php foreach ($posts as $post): ?>
 
+            <div class="clearfix"> 
+                <span class="news_line"></span>         
+               
+                <!-- retrieve date from data -->
+                <h4><?php echo $post['date'] ?></h4>
 
-            <?php foreach ($posts as $post): ?>
-                <div>
-                    <img src="<?php echo BASE_URL . '/static/images/' . $post['image']; ?>" class="post_image" alt="">
+                <!-- retrieve title from data -->
+                <h3 class="news_title"><?php echo $post['title'] ?></h3>
 
-                    <div>
-                        <h4><?php echo $post['date'] ?></h4>
-                        <h3 class="news-title"><?php echo $post['title'] ?></h3>
+                <!-- retrieve src, class, and alt (for image if applicable) from data -->
+                <a>
+                    <img class="img_news <?php echo $post['image_float'] ?>" src="<?php echo $post['image'] ?>" alt="<?php echo $post['image_alt'] ?>">
+                </a>
 
-                        <?php echo $post['body'] ?>
+                <!-- retreive body from data -->
+                <?php echo $post['body'] ?>
 
-                    </div>
-                    </a>
-                </div>
-            <?php endforeach ?>
-        </div>
+            </div> <!-- #clearfix -->
+        <?php endforeach ?>
+
     </article>
 
 </div> <!-- #main-content -->
