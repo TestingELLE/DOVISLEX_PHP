@@ -158,11 +158,11 @@ if (isset($_GET['post-slug'])) {
                                             <!-- if editing post, display the update button instead of create button -->
                                             <?php if ($isEditingPost === true): ?> 
 
-                                                <button type="submit" class="btn" name="update_post">Update</button>
+                                                <button type="submit" class="btn" name="update_post" onclick='updatePost($request_values)'>Update</button>
 
                                             <?php else: ?>
 
-                                                <button type="submit" class="btn" name="create_post">Save Post</button>
+                                                <button type="submit" class="btn" name="create_post" onclick='createPost($request_values)'>Save Post</button>
 
                                             <?php endif ?>
 

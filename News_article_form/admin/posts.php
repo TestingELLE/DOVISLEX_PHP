@@ -49,7 +49,8 @@
                     <?php endif ?>
                     <!-- Only Admin can publish/unpublish post -->
                     <th><small>Edit</small></th>
-                    <th><small>Delete</small></th>
+                    <th><small>Delete</small></th> 
+                    <th><small>Hide</small></th>                                  
                     </thead>
                     <tbody>
                         <?php foreach ($posts as $key => $post): ?>
