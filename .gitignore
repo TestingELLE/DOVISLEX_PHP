@@ -1,1 +1,13 @@
-/nbproject/private/
+/nbproject/
+.DS_Store
+ 
+# .csv files created by download script
+FID*.csv 
+lid*.csv
+
+# invisible file on the macOS operating system that gets automatically created anytime you look into a folder with ‘Finder’
+# https://buildthis.com/ds_store-files-and-why-you-should-know-about-them/
+#.DS_Store
+
+
+private.xml
