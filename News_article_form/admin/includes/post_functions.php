@@ -9,6 +9,9 @@ $title = "";
 $post_slug = "";
 $body = "";
 $featured_image = "";
+$image = "";
+$imageFloat = "";
+$imageAlt = "";
 
 /* - - - - - - - - - - 
   -  Post functions
@@ -119,10 +122,10 @@ function createPost($request_values) {
     }
     // create post if there are no errors in the form
     if (count($errors) == 0) {
-        $query = "INSERT INTO posts (user_id, title, slug, image, body, published, created_at, updated_at) VALUES(1, '$title', '$post_slug', '$featured_image', '$body', $published, now(), now())";
+        $query = "INSERT INTO news_en (user_id, date, title, slug, image, body, published) VALUES(1, now(), '$title', '$post_slug', '$featured_image', '$body', $published)";
         if (mysqli_query($conn, $query)) { // if post created successfully
             $inserted_post_id = mysqli_insert_id($conn);
-            // create relationship between post and topic
+            // create relationship between post and topic //what does this do???
             $sql = "INSERT INTO post_topic (post_id, topic_id) VALUES($inserted_post_id, $topic_id)";
             mysqli_query($conn, $sql);
 
@@ -181,7 +184,7 @@ function updatePost($request_values) {
 
     // register topic if there are no errors in the form
     if (count($errors) == 0) {
-        $query = "UPDATE posts SET title='$title', slug='$post_slug', views=0, image='$featured_image', body='$body', published=$published, updated_at=now() WHERE id=$post_id";
+        $query = "UPDATE news_en SET title='$title', slug='$post_slug', views=0, image='$featured_image', body='$body', published=$published, updated_at=now() WHERE id=$post_id";
         // attach topic to post on post_topic table
         if (mysqli_query($conn, $query)) { // if post created successfully
             if (isset($topic_id)) {

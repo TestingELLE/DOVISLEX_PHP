@@ -11,11 +11,8 @@
             <a href="<?php echo BASE_URL . '../en/index.php?page=news_sql' ?>">View News Page</a>
             <a href="<?php echo BASE_URL . 'admin/posts.php' ?>">English</a>
             <a href="<?php echo BASE_URL . 'admin/posts.php' ?>">Italian</a>
-  
 
-            <a href="<?php echo BASE_URL . '/logout.php'; ?>" class="logout-btn">Logout - User: <h3 style="color: red"><?php echo $_SESSION['uname'] ?></h3></a>
-
-
+            <a href="<?php echo BASE_URL . 'admin/logout.php'; ?>" class="logout-btn">Logout - User: <h3 style="color: red"><?php echo $_SESSION['uname'] ?></h3></a>
 
         </div>
     </div>

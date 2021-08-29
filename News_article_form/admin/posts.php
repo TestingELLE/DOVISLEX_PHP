@@ -1,3 +1,6 @@
+<!-- protects page from unauthorized users -->
+<?php include_once("session.php");?>
+
 <?php include('../config.php'); ?>
 <?php include(ROOT_PATH . '/admin/includes/admin_functions.php'); ?>
 <?php include(ROOT_PATH . '/admin/includes/post_functions.php'); ?>
@@ -10,7 +13,7 @@
 <body>
     <!-- admin navbar -->
     <!-- <?php include(ROOT_PATH . '/admin/includes/navbar.php') ?> -->
-
+    
     <div class="container content">
         <!-- Left side menu -->
         <?php include(ROOT_PATH . '/admin/includes/menu.php') ?>
@@ -46,7 +49,8 @@
                     <?php endif ?>
                     <!-- Only Admin can publish/unpublish post -->
                     <th><small>Edit</small></th>
-                    <th><small>Delete</small></th>
+                    <th><small>Delete</small></th> 
+                    <th><small>Hide</small></th>                                  
                     </thead>
                     <tbody>
                         <?php foreach ($posts as $key => $post): ?>

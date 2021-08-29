@@ -1,6 +1,11 @@
+<!-- logout for posts.php (functional) -->
 <?php 
-	session_start();
-	session_unset($_SESSION['uname']);
+	//why are there two logout.php???
+
+        
+        session_start();
+	//session_unset($_SESSION['uname']);
 	session_destroy();
-	header('location: login.php');
+	header("location:login.php");
+        exit;
 ?>
