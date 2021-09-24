@@ -36,9 +36,9 @@ if (isset($_GET['delete-admin'])) {
 * - Returns all admin users and their corresponding roles
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 function getAdminUsers(){
-	global $conn, $roles;
+	global $connection, $roles;
 	$sql = "SELECT * FROM Accounts WHERE role IS NOT NULL";
-	$result = mysqli_query($conn, $sql);
+	$result = mysqli_query($connection, $sql);
 	$users = mysqli_fetch_all($result, MYSQLI_ASSOC);
 
 	return $users;
@@ -48,10 +48,10 @@ function getAdminUsers(){
 * * * * * * * * * * * * * * * * * * * * * */
 function esc(String $value){
 	// bring the global db connect object into function
-	global $conn;
+	global $connection;
 	// remove empty space sorrounding string
 	$val = trim($value); 
-	$val = mysqli_real_escape_string($conn, $value);
+	$val = mysqli_real_escape_string($connection, $value);
 	return $val;
 }
 // Receives a string like 'Some Sample String'

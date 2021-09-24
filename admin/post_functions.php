@@ -19,7 +19,7 @@ $imageAlt = "";
 
 // get all posts from DB
 function getAllPosts() {
-    global $conn;
+    global $connection;
 
 
     // Admin can view all posts
@@ -34,7 +34,7 @@ function getAllPosts() {
 
         $sql = "SELECT * FROM news_en WHERE user_id=$user_id";
     }
-    $result = mysqli_query($conn, $sql);
+    $result = mysqli_query($connection, $sql);
     $posts = mysqli_fetch_all($result, MYSQLI_ASSOC);
 
     $final_posts = array();
@@ -49,7 +49,7 @@ function getAllPosts() {
 function getPostAuthorById($user_id) {
 //	global $conn;
     $sql = "SELECT username FROM Accounts WHERE id=$user_id";
-    $result = mysqli_query($conn, $sql);
+    $result = mysqli_query($connection, $sql);
     if ($result) {
         // return username
         return mysqli_fetch_assoc($result)['username'];
@@ -86,7 +86,7 @@ if (isset($_GET['delete-post'])) {
   - - - - - - - - - - - */
 
 function createPost($request_values) {
-    global $conn, $errors, $title, $featured_image, $topic_id, $body, $published;
+    global $connection, $errors, $title, $featured_image, $topic_id, $body, $published;
     $title = esc($request_values['title']);
     $body = htmlentities(esc($request_values['body']));
     if (isset($request_values['topic_id'])) {
@@ -115,7 +115,7 @@ function createPost($request_values) {
 //	  	}
     // Ensure that no post is saved twice. 
     $post_check_query = "SELECT * FROM news_en WHERE slug='$post_slug' LIMIT 1";
-    $result = mysqli_query($conn, $post_check_query);
+    $result = mysqli_query($connection, $post_check_query);
 
     if (mysqli_num_rows($result) > 0) { // if post exists
         array_push($errors, "A post already exists with that title.");
@@ -123,11 +123,11 @@ function createPost($request_values) {
     // create post if there are no errors in the form
     if (count($errors) == 0) {
         $query = "INSERT INTO news_en (user_id, date, title, slug, image, body, published) VALUES(1, now(), '$title', '$post_slug', '$featured_image', '$body', $published)";
-        if (mysqli_query($conn, $query)) { // if post created successfully
-            $inserted_post_id = mysqli_insert_id($conn);
+        if (mysqli_query($connection, $query)) { // if post created successfully
+            $inserted_post_id = mysqli_insert_id($connection);
             // create relationship between post and topic //what does this do???
             $sql = "INSERT INTO post_topic (post_id, topic_id) VALUES($inserted_post_id, $topic_id)";
-            mysqli_query($conn, $sql);
+            mysqli_query($connection, $sql);
 
             $_SESSION['message'] = "Post created successfully";
             header('location: posts.php');

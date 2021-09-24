@@ -57,7 +57,7 @@ switch ($page) {
     //testing news_sql
     
       case "news_sql":
-        $page = "../News_article_form/news_sql.php";
+         $page = "../commonHTML/news_sql.php";
         $title = "NEWS_SQL";
         break;
     
