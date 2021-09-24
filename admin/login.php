@@ -1,68 +1,67 @@
 <?php
-//set global variable for db
-$dovisLex_db = "z1bb6fc8_dovisLex";
-$db_server = "cloud16.hostgator.com";
+session_start();  // do not include c_session.php as this page is not protected
 
-    session_start();
-    
-    $_SESSION['count'];
-    isset($PHPSESSID)?session_id($PHPSESSID):$PHPSESSID = session_id(); 
-    
-    $_SESSION['count']++; 
-    setcookie('PHPSESSID', $PHPSESSID, time()+21800);
-   
-    $year = time() + 31536000;
-    if($_POST['remember'])  {
-        setcookie('remember_me', $_POST['username'], $year);
-        setcookie('remember_me2', $_POST['password'], $year);  
+$year = time() + 31536000;
+if ($_POST['remember']) {
+    setcookie('remember_me', $_POST['username'], $year);
+    setcookie('remember_me2', $_POST['password'], $year);
+}
+
+if (isset($_POST["submit"])) {
+    $_SESSION['uname'] = $_POST["username"]; //we need uname for access to table
+    $_SESSION['uname_long'] = "z1bb6fc8_" . $_SESSION['uname']; //we need uname_long for access to database
+    $_SESSION['psw'] = $_POST["password"];
+
+    if (!$_POST['remember']) {
+        if (isset($_COOKIE['remember_me'])) {
+            $past = time() - 100;
+            setcookie('remember_me', "", $past);
         }
-        
-    if(isset($_POST["submit"])){
-        $_SESSION['uname']=$_POST["username"];//we need uname for access to table
-        $_SESSION['uname_long']="z1bb6fc8_".$_SESSION['uname'];//we need uname_long for access to database
-        $_SESSION['psw']=$_POST["password"];
-        
-        if(!$_POST['remember']) {
-            if(isset($_COOKIE['remember_me'])) {
-                    $past = time() - 100;
-                    setcookie('remember_me',"", $past);
-                }
-                if(isset($_COOKIE['remember_me2'])) {
-                    $past = time() - 100;
-                    setcookie('remember_me2',"", $past);
-                }
-            }
-        
+        if (isset($_COOKIE['remember_me2'])) {
+            $past = time() - 100;
+            setcookie('remember_me2', "", $past);
+        }
+    }
+
             
+include_once("c_connection.php");
+
+
+    /* Establish connection -- else 'error' */
+//$connection = mysqli_connect($host, $user, $pass, $db);
+//  
+//        if (!$connection)
+//        {
+////            header('location: login.php');
+//            die('Could not connect: ' . mysqli_error());
+//        }
+        mysqli_select_db($connection,$db);
         
-        $con1=mysqli_connect($db_server,$_SESSION['uname_long'],$_SESSION['psw'],$dovisLex_db);
-        if (!$con1)
-        {
-//            header('location: login.php');
-            die('Could not connect: ' . mysqli_error());
-        }
-        mysqli_select_db($con1,"z1bb6fc8_dovisLex");
-  
-        //$result=mysqli_query($con1,"SELECT * FROM accounts WHERE username='".$_SESSION['uname']."' and password='".$_SESSION['psw']."'limit 1");
-        $result=mysqli_query($con1,"SELECT * FROM accounts WHERE username='".$_SESSION['uname']."'limit 1");
+        $result=mysqli_query($connection,"SELECT * FROM accounts WHERE username='".$_SESSION['uname']."'limit 1");
         $row = mysqli_fetch_assoc($result);
         //check the user type and save user name in session
         
-        $_SESSION['type']=$row['type'];
+        
+
+    //check the user type and save user name in session        
+
+         $_SESSION['type']=$row['type'];
         $_SESSION["Last_Activity"]=time(); 
         header("location: posts.php");
         if(mysqli_num_rows($result)==1 && $row['type']=="Admin" || $row['type']=="Maintainer" ){
             
             exit();
-            mysqli_close($con1);
+            mysqli_close($connection);
         };
+    
+     
         if(mysqli_num_rows($result)==1 && $row['type']=="viewer"){
             exit();
-            mysqli_close($con1);
+            mysqli_close($connection);
         };
         if(mysqli_num_rows($result)==1 && $row['type']=="Maintainer"){
             exit();
-            mysqli_close($con1);
+            mysqli_close($connection);
         };
         
        
@@ -71,7 +70,17 @@ $db_server = "cloud16.hostgator.com";
 ?>
 
 
+
 <html>
+     <head>
+        <meta charset="utf-8" />
+        <?php
+        include_once("head_section.php");
+        ?> 
+        <!--All page specific code goes below this line -->
+
+
+    </head
     <body>
         <div>
     <table style="margin-bottom: 0px;">
@@ -95,7 +104,6 @@ $db_server = "cloud16.hostgator.com";
     </table>
 
 
-    <?php include('crumbs.html'); ?> 
     <!--
     <div class="middle-bar"></div> -->
 </div> 

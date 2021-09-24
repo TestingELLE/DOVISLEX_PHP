@@ -1,7 +1,9 @@
-<?php require_once('config.php') ?>
 
-<?php require_once( ROOT_PATH . '/includes/public_functions.php') ?>
-<?php require_once( ROOT_PATH . '/includes/registration_login.php') ?> 
+
+<?php require_once('../admin/public_functions.php') ?>
+// <?php require_once( '../admin/registration_login.php') ?> 
+
+<?php echo "HI" ?> 
 
 <!DOCTYPE html>
 <div id="main-content">

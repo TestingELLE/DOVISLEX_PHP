@@ -1,27 +1,39 @@
 <!-- protects page from unauthorized users -->
-<?php include_once("session.php");?>
+<?php
+include_once("c_session.php");
+include_once("c_connection.php");
 
-<?php include('../config.php'); ?>
-<?php include(ROOT_PATH . '/admin/includes/admin_functions.php'); ?>
-<?php include(ROOT_PATH . '/admin/includes/post_functions.php'); ?>
-<?php include(ROOT_PATH . '/admin/includes/head_section.php'); ?>
+//include('../config.php'); 
+//include(ROOT_PATH . '/admin/includes/admin_functions.php'); 
+//include(ROOT_PATH . '/admin/includes/post_functions.php'); 
+//include(ROOT_PATH . '/admin/includes/head_section.php'); 
+
+include("admin_functions.php"); 
+include("post_functions.php"); 
+include("head_section.php"); 
+?>
 
 <!-- Get all admin posts from DB -->
 <?php $posts = getAllPosts(); ?>
+
+<!DOCTYPE html>
+<html>
 <title>Admin | Manage Posts</title>
+<head>
+    <?php include("head_section.php"); ?>
 </head>
 <body>
     <!-- admin navbar -->
-    <!-- <?php include(ROOT_PATH . '/admin/includes/navbar.php') ?> -->
+    <!-- <?php include("navbar.php") ?> -->
     
     <div class="container content">
         <!-- Left side menu -->
-        <?php include(ROOT_PATH . '/admin/includes/menu.php') ?>
+        <?php include("menu.php") ?>
 
         <!-- Display records from DB-->
         <div class="table-div"  style="width: 80%;">
             <!-- Display notification message -->
-            <?php include(ROOT_PATH . '/includes/messages.php') ?>
+            <?php include("messages.php") ?>
 
             <?php if (empty($posts)): ?>
                 <h1 style="text-align: center; margin-top: 20px;">No posts in the database.</h1>
