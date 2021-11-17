@@ -207,6 +207,13 @@ appendORreplace('#F1',"En particulier, les associés du Cabinet - outre les affa
     appendORreplace('#S67', "Le mandat prestigieux est d'une durée de deux ans et peut être renouvelé.");
     appendORreplace('#S68', "Wilma Viscardini a reçu le Toga d'or");
     appendORreplace('#S69', "Le Conseil de l'Association du Barreau de Padoue honore avocat Wilma Viscardini par le 'Golden Toga' en reconnaissance de ses 50 ans de carrière professionnelle. ");
+    
+appendORreplace('#F151', "C'est avec une profonde tristesse que Donà Viscardini annonce le décès du Dr. Gaetano Donà le lundi 15 novembre.");
+appendORreplace('#F152', "Depuis 1975, le Dr. Donà assistait notre Cabinet en tant que \"of counsel\" pour les relations avec les institutions de l'Union européenne, en raison de son expérience prestigieuse dans ce domaine.");
+appendORreplace('#F153', "De 1959 à 1973, en effet, il avait été haut fonctionnaire au Secrétariat Général de la Commission des Communautés européennes, occupant le poste de chef de la Division \"Réunions des membres de la Commission européenne et des chefs de cabinet\". À ce titre, il eut le grand privilège de travailler en étroite collaboration, sous l'autorité du Secrétaire Général Emile Noël, avec cinq présidents de la Commission européenne.");
+appendORreplace('#F154', "De 1995 à 2014, il avait été chargé du cours sur l’\"Intégration européenne\" à l'Université de Ferrare. Parallèlement, de 1996 à 2001, il avait été membre du \"GroupEuro\", un réseau de conférenciers sur l'Union économique et monétaire désignés par la Commission européenne.");
+appendORreplace('#F155', "Partisan et acteur convaincu du projet communautaire, il avait également été à l'origine d'initiatives juridiques pionnières. L'une des plus célèbres est l'affaire   L'une des plus célèbres est l'affaire \"Donà/Mantero\"* de 1976 (où il était représenté par Wilma Viscardini) dans laquelle la Cour de Justice - partageant ses arguments - s'est prononcée pour la première fois sur la libre circulation des footballeurs professionnels communautaires, déclarant que la législation italienne empêchant leur enregistrement par des équipes italiennes était contraire aux règles du Traité sur la libre circulation des travailleurs et la libre prestation de services. Cet arrêt de la Cour de Justice fût décisif pour une ouverture limitée des frontières en \"Serie A\" lors de la saison 1980-81.");
+appendORreplace('#F156', "Le Dr. Gaetano Donà mérite notre plus profonde gratitude. Il laisse un vide infranchissable, mais son enseignement, son style et son humanité constituent un héritage précieux que le Cabinet s'engage à préserver et à cultiver.");
 
 }
 
