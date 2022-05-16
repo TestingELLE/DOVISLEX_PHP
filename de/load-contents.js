@@ -161,7 +161,9 @@ appendORreplace('.F29',"Rechtssachen");
     appendORreplace('#F38', "Staatlche Entladegebühr");
     appendORreplace('.Em12', "Untätigkeitsklage");
     appendORreplace('.Fm01', "Wettbewerb");
-
+    appendORreplace('.A101', "Freier Dienstleistungsverkehr");
+    appendORreplace('.A102', "Kollektive Wahrnehmung von Urheber - Musikwerken für die Online-Nutzung");
+    
 //penale-amministrativo.html
     appendORreplace('#F62', "Zollrecht & CRIMINAL / ORDNUNGSWIDRIGKEITEN GEMEINSCHAFTSBETRUGS");
 

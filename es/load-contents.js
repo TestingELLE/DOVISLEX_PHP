@@ -24,6 +24,8 @@ function loadContents() {
     appendORreplace('#F295', "la letra P para indicar los procedimientos de casación ante el Tribunal de Justicia contra las resoluciones del Tribunal General;");
     appendORreplace('#F296', "el año de registro del asunto;");
     appendORreplace('#F297', "la materia tratada y eventuales aclaraciones.");
+    appendORreplace('#A101', "Libre prestación de servicios");
+    appendORreplace('#A102', "Gestión colectiva de los derechos de autor - Obras musicales para utilización en línea");
 
 
 //contenzioso-table.html
