@@ -25,7 +25,6 @@ function loadContents() {
     appendORreplace('#F296', "el año de registro del asunto;");
     appendORreplace('#F297', "la materia tratada y eventuales aclaraciones.");
     appendORreplace('#A101', "Libre prestación de servicios");
-    appendORreplace('#A102', "Gestión colectiva de los derechos de autor - Obras musicales para utilización en línea");
 
 
 //contenzioso-table.html
@@ -67,6 +66,7 @@ function loadContents() {
     appendORreplace('#F304', "Precios del azúcar");
     appendORreplace('.Fm33', "Subvenciones de la UE");
     appendORreplace('.Fm31',"Derecho parlamentario europeo");
+    appendORreplace('#A102', "Gestión de los derechos de autor - Obras musicales");
 
 //concorrenza.html
     appendORreplace('#F42', "practicas colusorias");

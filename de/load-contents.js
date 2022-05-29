@@ -129,7 +129,6 @@ appendORreplace('.F29',"Rechtssachen");
    appendORreplace('#F16',"Zusätzlich ist die Kanzlei – auch Dank der Position des Avv. Gabriele DONÀ als Vizepräsident der Europäischer Anwaltsverein (UAE) – mit einem breiten Netzwerk von Fachleuten verbunden, die besondere Erfahrungen vor allem in den Mitgliedstaaten der Europäischen Union und in den Vereinigten Staaten (New York, Houston) aufweisen.");
   appendORreplace('#F17',"Die Kanzlei Donà Viscardini wurde 1974 von Wilma VISCARDINI gegründet, die für Unternehmen und Privatpersonen ihre Expertise auf dem Gebiet des Gemeinschaftsrechts entwickelt sich über Jahre in den europäischen Institutionen zur Verfügung stellen wollte. Sie war in der Tat, ein Beamter der Europäischen Kommission seit 14 Jahren (1959-1973) und insbesondere ein Mitglied des Juristischen Dienstes der Kommission in Brüssel neun Jahre lang (1964-1973).");
    appendORreplace('#F18',"Auch Anwalt VISCARDINI war jahrelang Professor Gemeinschaftsrecht an der Universität von Padua und ist immer noch aktiv in der akademischen Welt und als Redner auf zahlreichen Konferenzen eingeladen.");
-
     appendORreplace('#D8', " (seit 1974)");
     appendORreplace('#D9', "Senior Anwältin, die vor den italienischen, belgischen, französischen und luxemburgischen nationalen Gerichten aufgetreten ist; vor dem Obersten Kassationsgericht und anderen höheren italienischen Gerichten; vor dem Gericht und dem Gerichtshof der Europäischen Gemeinschaften in Luxemburg; vor dem Europäischen Gerichtshof für Menschenrechte in Straßburg; in Verwaltungsverfahren mit den EU-Institutionen; in nationalen und internationalen Schiedsverfahren. Vorher ...");
     appendORreplace('#D10', "Rechtsanwalt. Spezialisiert in EU- und internationalem Handelsrecht. Aufgetreten vor:");
@@ -153,7 +152,6 @@ appendORreplace('.F29',"Rechtssachen");
     appendORreplace('#D28', "wirtschaftliche und finanzielle Analysen");
 
 
-
 //contenzioso.html
     appendORreplace('#F35', "Untätigkeitslage");
     appendORreplace('#F36', "Untätigkeitslage");
@@ -162,7 +160,7 @@ appendORreplace('.F29',"Rechtssachen");
     appendORreplace('.Em12', "Untätigkeitsklage");
     appendORreplace('.Fm01', "Wettbewerb");
     appendORreplace('.A101', "Freier Dienstleistungsverkehr");
-    appendORreplace('.A102', "Kollektive Wahrnehmung von Urheber - Musikwerken für die Online-Nutzung");
+    appendORreplace('.A102', "Wahrnehmung von Urheber - Musikwerken");
     
 //penale-amministrativo.html
     appendORreplace('#F62', "Zollrecht & CRIMINAL / ORDNUNGSWIDRIGKEITEN GEMEINSCHAFTSBETRUGS");

@@ -72,7 +72,7 @@ appendORreplace('#F1',"En particulier, les associés du Cabinet - outre les affa
     appendORreplace('#F39b', "Matière");
     appendORreplace('#F31', "Recettes sur la fiscalité pétrolière");
     appendORreplace('#F32', "Droits d'enregistrement");
-    appendORreplace('#F33', "Filets dérivants pour la pêche au thon dans la Méditerranée française");
+    //appendORreplace('#F33', "Filets pour la pêche au thon dans la Méditerranée française");
     appendORreplace('#F33b', "Environnement - Pêche");
     appendORreplace('#F33c', "Pollution");
     appendORreplace('#F37', "Taxe d'Etat de débarquement des produits pétroliers");
