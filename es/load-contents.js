@@ -24,6 +24,7 @@ function loadContents() {
     appendORreplace('#F295', "la letra P para indicar los procedimientos de casación ante el Tribunal de Justicia contra las resoluciones del Tribunal General;");
     appendORreplace('#F296', "el año de registro del asunto;");
     appendORreplace('#F297', "la materia tratada y eventuales aclaraciones.");
+    appendORreplace('#A101', "Libre prestación de servicios");
 
 
 //contenzioso-table.html
@@ -65,6 +66,7 @@ function loadContents() {
     appendORreplace('#F304', "Precios del azúcar");
     appendORreplace('.Fm33', "Subvenciones de la UE");
     appendORreplace('.Fm31',"Derecho parlamentario europeo");
+    appendORreplace('#A102', "Gestión de los derechos de autor - Obras musicales");
 
 //concorrenza.html
     appendORreplace('#F42', "practicas colusorias");
