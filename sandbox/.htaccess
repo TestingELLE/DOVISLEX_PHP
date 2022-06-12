@@ -2,4 +2,4 @@
 #RewriteBase /
 #RewriteCond %{HTTPS} off
 #RewriteCond %{HTTP:X-Forwarded-Proto} !https
-#RewriteRule ^(.*)$ https://www.dovislex.eu%{REQUEST_URI} [L,R=301]
+#RewriteRule ^(.*)$ https://elle-investments.com%{REQUEST_URI} [L,R=301]
