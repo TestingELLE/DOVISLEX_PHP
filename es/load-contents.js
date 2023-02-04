@@ -67,7 +67,8 @@ function loadContents() {
     appendORreplace('.Fm33', "Subvenciones de la UE");
     appendORreplace('.Fm31',"Derecho parlamentario europeo");
     appendORreplace('#A102', "Gestión de los derechos de autor - Obras musicales");
-
+    appendORreplace('.A103', "Industria - acero");
+    
 //concorrenza.html
     appendORreplace('#F42', "practicas colusorias");
     appendORreplace('#F49', "ayudas de Estado");
