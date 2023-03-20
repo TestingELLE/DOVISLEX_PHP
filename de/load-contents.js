@@ -60,8 +60,7 @@ function loadContents() {
     appendORreplace('#L4', "Beispiele der Beschwerden die Kanzlei eingerichtet hat:");
     appendORreplace('#L25', "gegen deutsche unternehmen, die de facto, in der Photovoltaik-Branche, Verträge über die Lieferung von Siliziumwafern aufgelegt hatten, mit Klauseln die übermäig Wettbewerbsbeschränken oder anderweitig einen Missbrauch ihrer beherrschenden Stellung waren");
     appendORreplace('#L26', "gegen Italien, die ein ungerechtes und discriminierende Finanzierungssystems der Tätigkeit ihrer Wettbewerbsbehörde eingerichtet hatte.");
-
-
+    
     //contracts.html
     appendORreplace('#L12', "Kaufvertrag");
     appendORreplace('#L13', "Die Kanzlei hat zahlreiche Vertriebsvereinbarungen vorbereitet, mit besonderem Augenmerk auf die Probleme -oft von den Kunden unterschützt- der Befolgung der Verbindlichen Vorschriften zum Schutz des Wettbewerbs vom europäischen Recht vorgesehen.");
@@ -161,6 +160,7 @@ appendORreplace('.F29',"Rechtssachen");
     appendORreplace('.Fm01', "Wettbewerb");
     appendORreplace('.A101', "Freier Dienstleistungsverkehr");
     appendORreplace('.A102', "Wahrnehmung von Urheber - Musikwerken");
+    appendORreplace('.A103', "Industrie - Stahl");
     
 //penale-amministrativo.html
     appendORreplace('#F62', "Zollrecht & CRIMINAL / ORDNUNGSWIDRIGKEITEN GEMEINSCHAFTSBETRUGS");
