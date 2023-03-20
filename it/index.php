@@ -7,7 +7,13 @@ if (isset($_GET['accept-cookies'])) {
 ?>
 
 <?php
-$page = $_GET['page'];
+if (isset($_GET['page'])) {
+    $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_STRING);
+    // Use $page variable here
+} else {
+    // Handle case where 'page' parameter is not set
+}
+
 switch ($page) {
     case "Servizi":
         $page = "Servizi.html";
