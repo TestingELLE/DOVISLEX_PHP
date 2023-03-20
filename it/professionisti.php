@@ -485,7 +485,7 @@
                 <h4>Lingue di lavoro:</h4>
                 <p>italiano, inglese, francese, spagnolo.
                     <br><br>
-                      ltri siti Prof. Luca Donà: 
+                      Altri siti Prof. Luca Donà: 
                     <a href="https://elle-investments.com" target="_blank">elle-investments.com</a> ; 
                     <a href="https://lucadona.com" target="_blank">lucadona.com</a> ; 
                     <a href="https://rendertech.com" target="_blank">rendertech.com</a>.
