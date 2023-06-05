@@ -1,6 +1,6 @@
 
 <?php
-include_once("c_session.php");
+//include_once("c_session.php");
 include_once("c_connection.php");
 /* * * * * * * * * * * * * * *
  * Returns all published posts

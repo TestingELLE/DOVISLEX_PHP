@@ -1,4 +1,7 @@
 <?php
+
+//  /it/index.php
+
 if (isset($_GET['accept-cookies'])) {
     /* cookie notice banner accepted for one year 31556925 or ~6 months 16000000 or until they clear history */
     setcookie('accept-cookies', 'cookies-notice-banner-accepted', time() + 16000000);
@@ -8,10 +11,12 @@ if (isset($_GET['accept-cookies'])) {
 
 <?php
 if (isset($_GET['page'])) {
-    $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_STRING);
+    $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_SPECIAL_CHARS);
     // Use $page variable here
 } else {
     // Handle case where 'page' parameter is not set
+    $page = "de_nobis.php";
+        $title = "De Nobis - About us";
 }
 
 switch ($page) {

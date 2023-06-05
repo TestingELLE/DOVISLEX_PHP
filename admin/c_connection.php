@@ -1,5 +1,5 @@
 <?php
-    session_start();
+ 
 
     $host = "cloud16.hostgator.com";
     $user = $_SESSION['uname_long'];
