@@ -1,5 +1,15 @@
 <?php
-$page = $_GET['page'];
+//  /en/index.php
+
+if (isset($_GET['page'])) {
+    $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_SPECIAL_CHARS);
+    // Use $page variable here
+} else {
+    // Handle case where 'page' parameter is not set
+    $page = "../commonHTML/de_nobis.php";
+    $title = "De Nobis - About us";
+}
+
 switch ($page) {
     case "USArealEstate":
         $page = "../commonHTML/USArealEstate.html";

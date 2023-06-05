@@ -1,5 +1,5 @@
 <?php
-    session_start();
+//    session_start();
     // session_destroy();
     
     // NOTE: default FID set on index.php page so that group.php page can load correctly

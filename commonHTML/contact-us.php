@@ -39,7 +39,6 @@
                         <div class="addressCell notranslate">
                             <b>Bruxelles</b>&nbsp;(Uff. collegamento UE)<br>
                             tel: +32 2/502.13.42<br>
-                            fax: +32 2/502.14.98<br>
                         </div>
                     </td>
                 </tr>
