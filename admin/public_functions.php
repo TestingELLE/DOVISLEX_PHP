@@ -1,25 +1,29 @@
-
 <?php
-//include_once("c_session.php");
 include_once("c_connection.php");
-/* * * * * * * * * * * * * * *
- * Returns all published posts
- * * * * * * * * * * * * * * */
+///* * * * * * * * * * * * * * *
+// * Returns all published posts
+// * * * * * * * * * * * * * * */
 
 function getPublishedPosts() {
-    // use global $conn object in function
-    global $connection;
-
+    $connection = createConnection();
     $sql = "SELECT * FROM news_en WHERE published=true";
-
-
-
     $result = mysqli_query($connection, $sql);
 
-    // fetch all posts as an associative array called $posts
-    $posts = mysqli_fetch_all($result, MYSQLI_ASSOC);
-
-    return $posts;
+    if($result) {
+        // if the query successfully executed
+        if(mysqli_num_rows($result) > 0) {
+            // if there are any results
+            $posts = mysqli_fetch_all($result, MYSQLI_ASSOC);
+            return $posts;
+        } else {
+            echo "No published posts found.";
+            return null;
+        }
+    } else {
+        // if there was an error with the query
+        echo "Error: " . mysqli_error($connection);
+        return null;
+    }
 }
 
 /* * * * * * * * * * * * * * *
@@ -27,7 +31,8 @@ function getPublishedPosts() {
  * * * * * * * * * * * * * * */
 
 function getPost($slug) {
-    global $connection;
+//    global $connection;
+    $connection = createConnection();
     // Get single post slug
     $post_slug = $_GET['post-slug'];
 
@@ -43,4 +48,3 @@ function getPost($slug) {
     return $post;
 }
 
-?>
