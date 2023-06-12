@@ -1,16 +1,26 @@
-nbproject/
 
- 
-# .csv files created by download script
+# Project files
+# Exclude Caches directory
+Caches/
+
+# Exclude build and output directories (if desired)
+build/
+dist/
+
+
+# Exclude nbproject directory and files
+nbproject/
+sandboxL/
+
+# CSV files created by download script
 FID*.csv 
 lid*.csv
 
-# invisible file on the macOS operating system that gets automatically created anytime you look into a folder with ‘Finder’
-# https://buildthis.com/ds_store-files-and-why-you-should-know-about-them/
+# macOS-specific files
 .DS_Store
 
 
-private.xml
-
-Sandbox/
-sandbox/
+# Exclude .htaccess  .htaccess moved into htaccess+ folder to "tuck it away" and prevent local eecution
+# Apache .htaccess file
+.htaccess
+htaccess+/
