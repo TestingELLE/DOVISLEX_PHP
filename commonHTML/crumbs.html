@@ -8,6 +8,19 @@
            id="contacuspage">Contact Us</a></li>
     <li><a href="index.php?page=news"
            id="newspage">News</a></li>
-    <li><a href="index.php?page=news_sql"
-           id="newsSQLpage">News SQL</a></li>
 </ul>
+
+<script>
+document.addEventListener('mousedown', function(event) {
+  // Check if the right-click or control-click event occurred on the 'newspage' link
+  if (event.target.id === 'newspage' && (event.button === 2 || (event.button === 0 && (event.ctrlKey || event.metaKey)))) {
+    event.preventDefault(); // Prevent the default behavior - not working, contextual menu still appearing - minor annoyance
+    var hiddenLink = document.createElement('a');
+    hiddenLink.href = 'index.php?page=news_sql';
+    hiddenLink.id = 'newsSQLpage';
+    hiddenLink.style.display = 'none';
+    document.body.appendChild(hiddenLink);
+    hiddenLink.click();
+  }
+});
+</script>
