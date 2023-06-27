@@ -1,10 +1,29 @@
 <?php 
 session_start();
 
+// Check if cookies are set
+if(isset($_COOKIE['username']) && isset($_COOKIE['password'])){
+    $_POST['username'] = $_COOKIE['username'];
+    $_POST['password'] = $_COOKIE['password'];
+}
+
 if (isset($_POST["submit"])) {
     $_SESSION['uname'] = $_POST["username"];
     $_SESSION['uname_long'] = "z1bb6fc8_" . $_SESSION['uname'];
     $_SESSION['psw'] = $_POST["password"];
+
+    // Handle remember me functionality
+    if (isset($_POST['remember']) && $_POST['remember'] == '1') {
+        setcookie('username', $_SESSION['uname'], time() + (86400 * 30), "/"); // 86400 = 1 day
+        setcookie('password', $_SESSION['psw'], time() + (86400 * 30), "/");
+    } else {
+        if(isset($_COOKIE['username'])){
+            setcookie('username', '', time() - (86400 * 30), "/");
+        }
+        if(isset($_COOKIE['password'])){
+            setcookie('password', '', time() - (86400 * 30), "/");
+        }
+    }
 
     include_once("connection.php");
 
@@ -19,8 +38,12 @@ if (isset($_POST["submit"])) {
                 header("location: posts.php");
                 exit();
             } else {
-//                $_SESSION['login_error'] = 'Invalid user type.';
-                header("location: ../it/index.php");
+                // If the user type is not one of the authorized types,
+                // unset all session variables, destroy the session and redirect to login
+                session_unset();
+                session_destroy();
+                header("location: login.php");
+                exit();
             }
         } else {
             $_SESSION['login_error'] = 'Invalid username or password.';
@@ -50,11 +73,11 @@ if (isset($_POST["submit"])) {
                 <form action="login.php" method="POST">
                     <div class="form-group">
                         <label for="username">User</label>
-                        <input type="text" class="form-control" name="username" value="">
+                        <input type="text" class="form-control" name="username" value="<?php echo isset($_COOKIE['username']) ? $_COOKIE['username'] : '' ?>">
                     </div>
                     <div class="form-group">
                         <label for="password">Password</label>
-                        <input type="password" class="form-control" name="password" value="">
+                        <input type="password" class="form-control" name="password" value="<?php echo isset($_COOKIE['password']) ? $_COOKIE['password'] : '' ?>">
                     </div>
                     <div class="form-group form-check">
                         <input type="checkbox" class="form-check-input" name="remember" id="remember" value="1">

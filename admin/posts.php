@@ -1,102 +1,83 @@
-<!-- protects page from unauthorized users -->
-<?php
-include_once("c_session.php");
-include_once("c_connection.php");
-
-//include('../config.php'); 
-//include(ROOT_PATH . '/admin/includes/admin_functions.php'); 
-//include(ROOT_PATH . '/admin/includes/post_functions.php'); 
-//include(ROOT_PATH . '/admin/includes/head_section.php'); 
-
-include("admin_functions.php"); 
-include("post_functions.php"); 
-include("head_section.php"); 
-?>
-
-<!-- Get all admin posts from DB -->
-<?php $posts = getAllPosts(); ?>
-
 <!DOCTYPE html>
 <html>
 <title>Admin | Manage Posts</title>
 <head>
-    <?php include("head_section.php"); ?>
+    <?php 
+        // Protects page from unauthorized users
+        include_once('session_manager.php');
+
+        // Includes necessary functions and sections
+        include("admin_functions.php"); 
+        include("post_functions.php"); 
+        include("head_section.php");
+
+        // Fetch all posts
+        $posts = getAllPosts();
+    ?>
+    
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
 </head>
 <body>
-    <!-- admin navbar -->
-    <!-- <?php include("navbar.php") ?> -->
-    
     <div class="container content">
         <!-- Left side menu -->
         <?php include("menu.php") ?>
 
         <!-- Display records from DB-->
-        <div class="table-div"  style="width: 80%;">
+        <div class="table-div">
             <!-- Display notification message -->
             <?php include("messages.php") ?>
 
             <?php if (empty($posts)): ?>
-                <h1 style="text-align: center; margin-top: 20px;">No posts in the database.</h1>
+                <div class="alert alert-info mt-3">
+                    No posts in the database.
+                </div>
             <?php else: ?>
-                <table class="table">
-                    <thead>
-                    <th>N</th>
-                    <th>Author</th>
-                    <th>Date</th>
-                    <th>Title</th>
-                    <!-- Only Admin can publish/unpublish post -->
-                    <?php if ($_SESSION['user']['role'] == "Admin"): ?>
-                        <th><small>Publish</small></th>
-                        <td>
-                            <?php if ($post['published'] == true): ?>
-                                <a class="fa fa-check btn unpublish"
-                                   href="posts.php?unpublish=<?php echo $post['id'] ?>">
-                                </a>
-                            <?php else: ?>
-                                <a class="fa fa-times btn publish"
-                                   href="posts.php?publish=<?php echo $post['id'] ?>">
-                                </a>
-                            <?php endif ?>
-                        </td>
-                    <?php endif ?>
-                    <!-- Only Admin can publish/unpublish post -->
-                    <th><small>Edit</small></th>
-                    <th><small>Delete</small></th> 
-                    <th><small>Hide</small></th>                                  
+                <table class="table table-striped mt-3">
+                    <thead class="thead-dark">
+                        <th>N</th>
+                        <th>Author</th>
+                        <th>Date</th>
+                        <th>Title</th>
+                        <!-- Only Admin can publish/unpublish post -->
+                        <?php if ($_SESSION['type'] == "Admin" || $_SESSION['type'] == "Maintainer" || $_SESSION['type'] == "Programmer"): ?>
+                            <th><small>Publish</small></th>
+                        <?php endif; ?>
+                        <th><small>Edit</small></th>
+                        <th><small>Delete</small></th>
                     </thead>
                     <tbody>
-                        <?php foreach ($posts as $key => $post): ?>
-                            <tr>
-                                <td><?php echo $key + 1; ?></td>
-                                <td><?php echo $post['author']; ?></td>
-                                <td><?php echo $post['date']; ?></td>
+                    <?php foreach ($posts as $key => $post): ?>
+                        <tr>
+                            <td><?php echo $key + 1; ?></td>
+                            <td><?php echo $post['user_id']; ?></td>
+                            <td><?php echo date("F j, Y ", strtotime($post["date"])); ?></td>
+                            <td><?php echo $post['title']; ?></td>
+                            <?php if ($_SESSION['type'] == "Admin" || $_SESSION['type'] == "Maintainer" || $_SESSION['type'] == "Programmer"): ?>
                                 <td>
-                                    <a 	target="_blank"
-                                        href="<?php echo BASE_URL . 'single_post.php?post-slug=' . $post['slug'] ?>">
-                                            <?php echo $post['title']; ?>	
-                                    </a>
+                                    <?php if ($post['published'] == true): ?>
+                                        <a class="btn btn-success btn-sm" href="posts.php?unpublish=<?php echo $post['id'] ?>">Unpublish</a>
+                                    <?php else: ?>
+                                        <a class="btn btn-info btn-sm" href="posts.php?publish=<?php echo $post['id'] ?>">Publish</a>
+                                    <?php endif; ?>
                                 </td>
-                          
-                                <td>
-                                    <a class="fa fa-pencil btn edit"
-                                       href="create_post.php?edit-post=<?php echo $post['id'] ?>">
-                                    </a>
-                                </td>
-                               
-                                    <td>
-                                        <a  class="fa fa-trash btn delete" 
-                                            href="create_post.php?delete-post=<?php echo $post['id'] ?>">
-                                        </a>
-                                    </td>
-                              
-                            </tr>
-                        <?php endforeach ?>
+                            <?php endif; ?>
+                            <td>
+                                <a class="btn btn-primary btn-sm" href="create_post.php?edit-post=<?php echo $post['id'] ?>">Edit</a>
+                            </td>
+                            <td>
+                                <a class="btn btn-danger btn-sm" href="create_post.php?delete-post=<?php echo $post['id'] ?>">Delete</a>
+                            </td>
+                        </tr>
+                    <?php endforeach ?>
                     </tbody>
                 </table>
-            <?php endif ?>
+            <?php endif; ?>
         </div>
-        <!-- // Display records from DB -->
     </div>
 
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
 </html>

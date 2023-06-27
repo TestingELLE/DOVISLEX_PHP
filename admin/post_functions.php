@@ -1,6 +1,6 @@
 
 <?php
-
+include_once 'connection.php';
 // Post variables
 $post_id = 0;
 $isEditingPost = false;
@@ -16,47 +16,62 @@ $imageAlt = "";
 /* - - - - - - - - - - 
   -  Post functions
   - - - - - - - - - - - */
+//echo '<pre>', var_dump($_SESSION), '</pre>';
 
 // get all posts from DB
 function getAllPosts() {
     global $connection;
 
-
-    // Admin can view all posts
-    // Author can only view their posts
-    if ($_SESSION['username']['type'] == "Admin" || "Maintainer") {
-
-
+    // Admin or Maintainer can view all posts
+    if ($_SESSION['type'] == "Admin" || $_SESSION['type'] == "Maintainer" || $_SESSION['type'] == "Programmer") {
         $sql = "SELECT * FROM news_en";
-    } elseif ($_SESSION['user']['role'] == "Maintainer") {
-        $user_id = $_SESSION['username']['id'];
-
+    }
+    else {
+        // if this user is not an Admin or Maintainer, we can restrict the view here
+        // Fetching user_id based on the username stored in the session
+        $username = $_SESSION['uname']; 
+        $user_id_result = mysqli_query($connection, "SELECT id FROM accounts WHERE username='$username'");
+        $user_id_data = mysqli_fetch_assoc($user_id_result);
+        $user_id = $user_id_data['id'];
 
         $sql = "SELECT * FROM news_en WHERE user_id=$user_id";
     }
+
     $result = mysqli_query($connection, $sql);
     $posts = mysqli_fetch_all($result, MYSQLI_ASSOC);
-
+// echo '<pre>', var_dump($posts), '</pre>';
     $final_posts = array();
     foreach ($posts as $post) {
-        $post['author'] = getPostAuthorById($post['user_id']);
+        //$post['author'] = getPostAuthorById($post['user_id']);
+        //var_dump($post);
         array_push($final_posts, $post);
     }
+   // var_dump($final_posts);
     return $final_posts;
+    
 }
 
 // get the author/username of a post
 function getPostAuthorById($user_id) {
-//	global $conn;
-    $sql = "SELECT username FROM Accounts WHERE id=$user_id";
+    //var_dump($user_id);
+    global $connection;
+    $sql = "SELECT username FROM accounts WHERE id=1";
     $result = mysqli_query($connection, $sql);
+    if($result->num_rows > 0){
+    // Fetch results or perform other operations
+} else {
+    // Handle the error, e.g., echo an error message
+    echo "No results returned from the query.";
+}
     if ($result) {
         // return username
+        //var_dump($result);
         return mysqli_fetch_assoc($result)['username'];
     } else {
         return null;
     }
 }
+
 
 /* - - - - - - - - - - 
   -  Post actions
@@ -142,10 +157,10 @@ function createPost($request_values) {
  * - sets post fields on form for editing
  * * * * * * * * * * * * * * * * * * * * * */
 
-function editPost($role_id) {
-    global $conn, $title, $post_slug, $body, $published, $isEditingPost, $post_id;
-    $sql = "SELECT * FROM news_en WHERE id=$role_id LIMIT 1";
-    $result = mysqli_query($conn, $sql);
+function editPost($post_id) {
+    global $connection, $title, $post_slug, $body, $published, $isEditingPost, $post_id;
+    $sql = "SELECT * FROM news_en WHERE id=$post_id LIMIT 1";
+    $result = mysqli_query($connection, $sql);
     $post = mysqli_fetch_assoc($result);
     // set form values on the form to be updated
     $title = $post['title'];
@@ -186,12 +201,12 @@ function updatePost($request_values) {
     if (count($errors) == 0) {
         $query = "UPDATE news_en SET title='$title', slug='$post_slug', views=0, image='$featured_image', body='$body', published=$published, updated_at=now() WHERE id=$post_id";
         // attach topic to post on post_topic table
-        if (mysqli_query($conn, $query)) { // if post created successfully
+        if (mysqli_query($connection, $query)) { // if post created successfully
             if (isset($topic_id)) {
-                $inserted_post_id = mysqli_insert_id($conn);
+                $inserted_post_id = mysqli_insert_id($connection);
                 // create relationship between post and topic
                 $sql = "INSERT INTO post_topic (post_id, topic_id) VALUES($inserted_post_id, $topic_id)";
-                mysqli_query($conn, $sql);
+                mysqli_query($connection, $sql);
                 $_SESSION['message'] = "Post created successfully";
                 header("Location: create_post.php?edit-post=$post_id");
                 exit(0);
@@ -205,9 +220,9 @@ function updatePost($request_values) {
 
 // delete blog post
 function deletePost($post_id) {
-    global $conn;
+    global $connection;
     $sql = "DELETE FROM news_en WHERE id=$post_id";
-    if (mysqli_query($conn, $sql)) {
+    if (mysqli_query($connection, $sql)) {
         $_SESSION['message'] = "Post successfully deleted";
         header("location: posts.php");
         exit(0);
@@ -228,15 +243,38 @@ if (isset($_GET['publish']) || isset($_GET['unpublish'])) {
 }
 
 // delete blog post
-function togglePublishPost($post_id, $message) {
-    global $conn;
-    $sql = "UPDATE posts SET published=!published WHERE id=$post_id";
+//function togglePublishPost($post_id, $message) {
+//    global $connection;
+//    $sql = "UPDATE posts SET published=!published WHERE id=$post_id";
+//
+//    if (mysqli_query($connection, $sql)) {
+//        $_SESSION['message'] = $message;
+//        header("location: posts.php");
+//        exit(0);
+//    }
+//}
 
-    if (mysqli_query($conn, $sql)) {
+function togglePublishPost($post_id, $message) {
+    global $connection;
+
+    // Fetch the current 'published' value for the post
+    $sqlFetch = "SELECT published FROM news_en WHERE id=$post_id";
+    $result = mysqli_query($connection, $sqlFetch);
+    $row = mysqli_fetch_assoc($result);
+    $currentState = $row['published'];
+
+    // Toggle the 'published' value
+    $newState = $currentState ? 0 : 1;
+
+    // Update the post with the toggled 'published' value
+    $sqlUpdate = "UPDATE news_en SET published=$newState WHERE id=$post_id";
+
+    if (mysqli_query($connection, $sqlUpdate)) {
         $_SESSION['message'] = $message;
         header("location: posts.php");
         exit(0);
     }
 }
+
 
 ?>
