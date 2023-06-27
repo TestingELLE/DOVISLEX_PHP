@@ -1,11 +1,11 @@
 <?php
-include_once("c_connection.php");
+include_once("connection.php");
 ///* * * * * * * * * * * * * * *
 // * Returns all published posts
 // * * * * * * * * * * * * * * */
 
 function getPublishedPosts() {
-    $connection = createConnection();
+    global $connection; 
     $sql = "SELECT * FROM news_en WHERE published=true";
     $result = mysqli_query($connection, $sql);
 
@@ -31,8 +31,7 @@ function getPublishedPosts() {
  * * * * * * * * * * * * * * */
 
 function getPost($slug) {
-//    global $connection;
-    $connection = createConnection();
+    global $connection;   
     // Get single post slug
     $post_slug = $_GET['post-slug'];
 

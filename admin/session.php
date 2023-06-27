@@ -1,6 +1,6 @@
 <!-- modified from c_session.php from Funds-Viewer -->
 <?php
-    session_start();
+    //session_start();
     
     // protects the page from unauthorized users
     if(!isset($_SESSION['uname'])){  
