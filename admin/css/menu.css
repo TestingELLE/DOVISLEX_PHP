@@ -1,0 +1,35 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333; 
+    padding: 20px;
+    margin-bottom: 20px; /* space between menu and other content */
+}
+
+.menu .card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu .card-header h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.menu .card-content {
+    display: flex;
+    gap: 10px;
+}
+
+.menu .card-content a {
+    color: #333; 
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 10px;/* space between menu items */
+}
+
+.menu .card-content a:hover {
+    background-color: yellowgreen;
+}

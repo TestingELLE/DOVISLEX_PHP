@@ -1,10 +1,7 @@
-<link rel="stylesheet" href="../static/css/main.css"/>
-<link rel="stylesheet" href="../static/css/create_post_styling.css"/>
-
 <!-- protects page from unauthorized users -->
 <?php include_once("session_manager.php");?>
 
-<?php //include('../config.php'); ?>
+<?php include_once 'c_head.php'; //include('../config.php'); ?>
 
 <?php //include(ROOT_PATH . '/admin/includes/admin_functions.php');
  include 'admin_functions.php';
@@ -44,7 +41,7 @@ if (isset($_GET['post-slug'])) {
                         <h4><?php echo $post['date']; ?>
                         *Example Date*</h4>
 
-                        <h3 style ="font-family: 'Open Sans', sans-serif;" class="news_title"><?php echo $title; ?></h3>
+                        <p style ="font-family: 'Open Sans', sans-serif;" class="news_title"><?php echo $title; ?></p>
                         <ul class="news">
                             <?php echo $body; ?>
                         </ul>

@@ -1,5 +1,6 @@
 
 <?php
+
 include_once 'connection.php';
 // Post variables
 $post_id = 0;
@@ -16,8 +17,8 @@ $imageAlt = "";
 /* - - - - - - - - - - 
   -  Post functions
   - - - - - - - - - - - */
-//echo '<pre>', var_dump($_SESSION), '</pre>';
 
+//echo '<pre>', var_dump($_SESSION), '</pre>';
 // get all posts from DB
 function getAllPosts() {
     global $connection;
@@ -25,11 +26,10 @@ function getAllPosts() {
     // Admin or Maintainer can view all posts
     if ($_SESSION['type'] == "Admin" || $_SESSION['type'] == "Maintainer" || $_SESSION['type'] == "Programmer") {
         $sql = "SELECT * FROM news_en";
-    }
-    else {
+    } else {
         // if this user is not an Admin or Maintainer, we can restrict the view here
         // Fetching user_id based on the username stored in the session
-        $username = $_SESSION['uname']; 
+        $username = $_SESSION['uname'];
         $user_id_result = mysqli_query($connection, "SELECT id FROM accounts WHERE username='$username'");
         $user_id_data = mysqli_fetch_assoc($user_id_result);
         $user_id = $user_id_data['id'];
@@ -46,9 +46,8 @@ function getAllPosts() {
         //var_dump($post);
         array_push($final_posts, $post);
     }
-   // var_dump($final_posts);
+    // var_dump($final_posts);
     return $final_posts;
-    
 }
 
 // get the author/username of a post
@@ -57,12 +56,12 @@ function getPostAuthorById($user_id) {
     global $connection;
     $sql = "SELECT username FROM accounts WHERE id=1";
     $result = mysqli_query($connection, $sql);
-    if($result->num_rows > 0){
-    // Fetch results or perform other operations
-} else {
-    // Handle the error, e.g., echo an error message
-    echo "No results returned from the query.";
-}
+    if ($result->num_rows > 0) {
+        // Fetch results or perform other operations
+    } else {
+        // Handle the error, e.g., echo an error message
+        echo "No results returned from the query.";
+    }
     if ($result) {
         // return username
         //var_dump($result);
@@ -71,7 +70,6 @@ function getPostAuthorById($user_id) {
         return null;
     }
 }
-
 
 /* - - - - - - - - - - 
   -  Post actions
@@ -275,6 +273,5 @@ function togglePublishPost($post_id, $message) {
         exit(0);
     }
 }
-
 
 ?>

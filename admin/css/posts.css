@@ -1,0 +1,85 @@
+<!-- Custom CSS Styles -->
+    .content {
+        display: flex;
+        flex-direction: column; /* make main axis vertical */
+        align-items: center; /* center items horizontally */
+        gap: 20px; /* add some space between the menu and the posts */
+    }
+
+    .menu-container, .table-container {
+        width: 80%; /* limit width to 80% of parent to create some margins */
+        /* add other styles as needed */
+    }
+
+    h3 {
+        font-size: 16px !important;
+    }
+    .table th {
+        font-size: 16px !important;
+        text-align: center;
+    }
+
+    th:nth-child(4), td:nth-child(4) {
+        width: 30%;  /* adjust as necessary */
+    }
+
+    .table td {
+        font-size: 14px !important;
+        width: 300px;
+        text-align: center;
+        word-wrap: break-word;
+        overflow: auto;
+    }
+
+    body {
+        background-color: #f5f5f5;
+        font-family: Arial, sans-serif;
+    }
+
+    .content {
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0.5rem 1rem rgba(0,0,0,.1);
+        margin-top: 50px;
+    }
+
+    .table-div {
+        margin-top: 25px;
+    }
+
+    .thead-dark th {
+        font-size: 16px;
+    }
+
+    .btn-sm {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.875rem;
+        line-height: 1.5;
+        border-radius: 0.2rem;
+    }
+
+    .btn-danger {
+        background-color: #f44336;
+    }
+
+    .btn-primary {
+        background-color: #3f51b5;
+    }
+
+    .btn-info {
+        background-color: #009688;
+    }
+
+    .btn-success {
+        background-color: #4caf50;
+    }
+
+    .table > tbody > tr > td {
+        vertical-align: middle;
+    }
+
+    .alert-info {
+        font-size: 18px;
+        color: #31708f;
+    }
