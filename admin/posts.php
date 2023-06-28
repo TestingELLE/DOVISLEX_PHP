@@ -24,12 +24,13 @@
                         No posts in the database.
                     </div>
                 <?php else: ?>
-                    <table class="table table-striped mt-3">
-                        <thead class="thead-dark">
-                        <th>N</th>
-                        <th>Author</th>
-                        <th>Date</th>
-                        <th>Title</th>
+                <table class="table table-striped mt-3">
+                  <thead class="thead-dark">
+                    <th class="column-n">N</th>
+                    <th class="column-author">Author</th>
+                    <th class="column-date">Date</th>
+                    <th class="column-title">Title</th>
+
                         <?php if ($_SESSION['type'] == "Admin" || $_SESSION['type'] == "Maintainer" || $_SESSION['type'] == "Programmer"): ?>
                             <th><small>Publish</small></th>
                         <?php endif; ?>
@@ -53,10 +54,10 @@
                                         </td>
                                     <?php endif; ?>
                                     <td>
-                                        <a class="btn btn-primary btn-sm" href="create_post.php?edit-post=<?php echo $post['id'] ?>">Edit</a>
+                                        <a class="btn btn-primary btn-sm" href="create_post.php?edit-post=<?php echo $post['id'] ?>">E</a>
                                     </td>
                                     <td>
-                                        <a class="btn btn-danger btn-sm" href="create_post.php?delete-post=<?php echo $post['id'] ?>">Delete</a>
+                                        <a class="btn btn-danger btn-sm" href="create_post.php?delete-post=<?php echo $post['id'] ?>">D</a>
                                     </td>
                                 </tr>
                             <?php endforeach ?>

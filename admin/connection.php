@@ -1,5 +1,7 @@
 <?php
+
 $host = "cloud16.hostgator.com";
+
 
 // Check if username and password are set in the session
 if (isset($_SESSION['uname_long']) && isset($_SESSION['psw'])) {
