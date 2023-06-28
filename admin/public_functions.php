@@ -1,17 +1,19 @@
 <?php
+
 include_once("connection.php");
+
 ///* * * * * * * * * * * * * * *
 // * Returns all published posts
 // * * * * * * * * * * * * * * */
 
 function getPublishedPosts() {
-    global $connection; 
+    global $connection;
     $sql = "SELECT * FROM news_en WHERE published=true";
     $result = mysqli_query($connection, $sql);
 
-    if($result) {
+    if ($result) {
         // if the query successfully executed
-        if(mysqli_num_rows($result) > 0) {
+        if (mysqli_num_rows($result) > 0) {
             // if there are any results
             $posts = mysqli_fetch_all($result, MYSQLI_ASSOC);
             return $posts;
@@ -31,7 +33,7 @@ function getPublishedPosts() {
  * * * * * * * * * * * * * * */
 
 function getPost($slug) {
-    global $connection;   
+    global $connection;
     // Get single post slug
     $post_slug = $_GET['post-slug'];
 
@@ -46,4 +48,3 @@ function getPost($slug) {
     }
     return $post;
 }
-

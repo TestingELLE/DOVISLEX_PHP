@@ -1,4 +1,6 @@
- <?php include("connection.php"); ?>
+<?php include("connection.php"); ?>
+<!-- menu.php -->
+<link rel="stylesheet" href="css/menu.css">
 <div class="menu">
     <div class="card">
         <div class="card-header">
@@ -10,9 +12,9 @@
             <a href="create_post.php">Create Posts</a>
             <a href="posts.php">Manage Posts</a>
             <a href="../en/index.php?page=news_sql">View News Page</a>
-
-            <a href="logout.php" class="logout-btn">Logout - User: <h3 style="color: red"><?php echo isset($_SESSION['uname']) ? $_SESSION['uname'] : ''; ?></h3></a>
-
+            <a href="logout.php" class="logout-btn">Logout - User: 
+                <span style="color: red"><?php echo isset($_SESSION['uname']) ? $_SESSION['uname'] : ''; ?></span>
+            </a>
         </div>
     </div>
 </div>

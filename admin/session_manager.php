@@ -1,5 +1,8 @@
 <?php
-session_start();
+
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 
 if (!isset($_SESSION['uname'], $_SESSION['type'])) {
     // If the username and type are not set in the session,
