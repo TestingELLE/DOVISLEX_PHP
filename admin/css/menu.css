@@ -3,14 +3,16 @@
     justify-content: center;
     align-items: center;
     background-color: #333; 
+    border-radius: 5px;
     padding: 20px;
-    margin-bottom: 20px; /* space between menu and other content */
 }
 
 .menu .card {
+    width: 80%;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px;
 }
 
 .menu .card-header h2 {
@@ -21,15 +23,20 @@
 .menu .card-content {
     display: flex;
     gap: 10px;
+    margin-top: 25px;
 }
 
 .menu .card-content a {
-    color: #333; 
+    color: #ffffff; 
     text-decoration: none;
-    margin-right: 10px;
+    background-color:#7ca9af;
+    border-radius: 5px;
+    margin-right: 20px;
     padding: 10px;/* space between menu items */
+    transition: 0.2s linear;
 }
 
 .menu .card-content a:hover {
-    background-color: yellowgreen;
+    color: #333;
+    background-color: #fc9803;
 }
