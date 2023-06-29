@@ -3,95 +3,100 @@
 /* General Styles */
 
 body {
-  background-color: #f5f5f5;
-  font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
 }
 
 .container.content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 20px;
-  margin-top: 50px;
-  background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
 }
 
-.menu {
-  margin-bottom: 20px;
-}
-
-.table-div {
-  margin-top: 25px;
+.menu-container, .table-container {
+    width: 100%;
 }
 
 /* Table Styles */
 
 .table.table-striped {
-  width: 100%;
+    width: 100%;
 }
 
 .table th {
-  font-size: 16px !important;
-  text-align: center;
+    font-size: 16px !important;
+    text-align: center;
+}
+
+th:nth-child(4) {
+    text-align: left;
+}
+
+h3 {
+    font-size: 16px !important;
 }
 
 .column-author {
-  width: 8%; /* Set an explicit width for the "Author" column */
+    width: 8%; /* Set an explicit width for the "Author" column */
 }
 
 .column-date {
-  width: 15%; /* Set an explicit width for the "Date" column */
+    width: 15%; /* Set an explicit width for the "Date" column */
 }
 
 .column-title {
-  width: 55%; /* Set an explicit width for the "Title" column */
+    width: 35%; /* Set an explicit width for the "Title" column */
 }
 
 /* ... Remaining column styles ... */
 
 .table td {
-  font-size: 14px !important;
-  text-align: center;
-  word-wrap: break-word;
-  overflow: auto;
+    font-size: 14px !important;
+    text-align: center;
+    word-wrap: break-word;
+    overflow: auto;
 }
-
+td:nth-child(4) {
+    text-align: left;
+}
 /* Alert Styles */
 
 .alert.alert-info {
-  font-size: 18px;
-  color: #31708f;
+    font-size: 18px;
+    color: #31708f;
 }
 
 /* Button Styles */
 
 .btn-sm {
-  padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
-  line-height: 1.5;
-  border-radius: 0.2rem;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
 }
 
 .btn-danger {
-  background-color: #f44336;
+    background-color: #f44336;
 }
 
 .btn-primary {
-  background-color: #3f51b5;
+    background-color: #3f51b5;
 }
 
 .btn-info {
-  background-color: #009688;
+    background-color: #009688;
 }
 
 .btn-success {
-  background-color: #4caf50;
+    background-color: #4caf50;
 }
 
 /* Miscellaneous Styles */
 
 .table > tbody > tr > td {
-  vertical-align: middle;
+    vertical-align: middle;
 }
