@@ -54,7 +54,8 @@
                                         </td>
                                     <?php endif; ?>
                                     <td>
-                                        <a class="btn btn-primary btn-sm" href="create_post.php?edit-post=<?php echo $post['id'] ?>">E</a>
+<!--                                        <a class="btn btn-primary btn-sm" href="create_post.php?edit-post=<?php echo $post['id'] ?>">E</a>-->
+                                            <a class="btn btn-primary btn-sm" href="edit_post_form.php?post_id=<?php echo $post['id'] ?>">E</a>
                                     </td>
                                     <td>
                                         <a class="btn btn-danger btn-sm" href="create_post.php?delete-post=<?php echo $post['id'] ?>">D</a>
