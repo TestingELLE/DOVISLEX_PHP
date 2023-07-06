@@ -50,6 +50,14 @@ function getAllPosts() {
     return $final_posts;
 }
 
+function getPostById($post_id) {
+    global $connection;
+    $sql = "SELECT * FROM news_en WHERE id=$post_id LIMIT 1";
+    $result = mysqli_query($connection, $sql);
+    $post = mysqli_fetch_assoc($result);
+    return $post;
+}
+
 // get the author/username of a post
 function getPostAuthorById($user_id) {
     //var_dump($user_id);
@@ -99,9 +107,12 @@ if (isset($_GET['delete-post'])) {
   - - - - - - - - - - - */
 
 function createPost($request_values) {
-    global $connection, $errors, $title, $featured_image, $topic_id, $body, $published;
-    $title = esc($request_values['title']);
-    $body = htmlentities(esc($request_values['body']));
+    global $connection;
+    global $errors, $title, $featured_image, $topic_id, $body, $published;
+    //$title = esc($request_values['title']);
+    $title = $request_values['title'];
+    //$body = htmlentities(esc($request_values['body']));
+    $body = htmlentities($request_values['body']);
     if (isset($request_values['topic_id'])) {
         $topic_id = esc($request_values['topic_id']);
     }
@@ -109,7 +120,8 @@ function createPost($request_values) {
         $published = esc($request_values['publish']);
     }
     // create slug: if title is "The Storm Is Over", return "the-storm-is-over" as slug
-    $post_slug = makeSlug($title);
+    //$post_slug = makeSlug($title);
+    $post_slug = $request_values['slug'];
     // validate form
     if (empty($title)) {
         array_push($errors, "Post title is required");
@@ -167,7 +179,7 @@ function editPost($post_id) {
 }
 
 function updatePost($request_values) {
-    global $conn, $errors, $post_id, $title, $featured_image, $topic_id, $body, $published;
+    global $connection, $errors, $post_id, $title, $featured_image, $topic_id, $body, $published;
 
     $title = esc($request_values['title']);
     $body = esc($request_values['body']);

@@ -10,7 +10,7 @@
 
             </div>
             <div class="card-content">
-                <a href="create_post.php">Create Posts</a>
+                <a href="create_post_form.php">Create Posts</a>
                 <a href="posts.php">Manage Posts</a>
                 <a href="../en/index.php?page=news_sql">View News Page</a>
                 <a href="logout.php" class="logout-btn">Logout - User: 
