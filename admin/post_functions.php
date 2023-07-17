@@ -178,17 +178,64 @@ function editPost($post_id) {
     $published = $post['published'];
 }
 
-function updatePost($request_values) {
-    global $connection, $errors, $post_id, $title, $featured_image, $topic_id, $body, $published;
+//function updatePost($request_values) {
+//    global $connection, $errors, $post_id, $title, $featured_image, $topic_id, $body, $published;
+//
+//    $title = esc($request_values['title']);
+//    $body = esc($request_values['body']);
+//    $post_id = esc($request_values['post_id']);
+//    if (isset($request_values['topic_id'])) {
+//        $topic_id = esc($request_values['topic_id']);
+//    }
+//    // create slug: if title is "The Storm Is Over", return "the-storm-is-over" as slug
+//    $post_slug = makeSlug($title);
+//
+//    if (empty($title)) {
+//        array_push($errors, "Post title is required");
+//    }
+//    if (empty($body)) {
+//        array_push($errors, "Post body is required");
+//    }
+//    // if new featured image has been provided
+//    if (isset($_POST['featured_image'])) {
+//        // Get image name
+//        $featured_image = $_FILES['featured_image']['name'];
+//        // image file directory
+//        $target = "../static/images/" . basename($featured_image);
+//        if (!move_uploaded_file($_FILES['featured_image']['tmp_name'], $target)) {
+//            array_push($errors, "Failed to upload image. Please check file settings for your server");
+//        }
+//    }
+//
+//    // register topic if there are no errors in the form
+//    if (count($errors) == 0) {
+//        $query = "UPDATE news_en SET title='$title', slug='$post_slug', views=0, image='$featured_image', body='$body', published=$published, updated_at=now() WHERE id=$post_id";
+//        // attach topic to post on post_topic table
+//        if (mysqli_query($connection, $query)) { // if post created successfully
+//            if (isset($topic_id)) {
+//                $inserted_post_id = mysqli_insert_id($connection);
+//                // create relationship between post and topic
+//                $sql = "INSERT INTO post_topic (post_id, topic_id) VALUES($inserted_post_id, $topic_id)";
+//                mysqli_query($connection, $sql);
+//                $_SESSION['message'] = "Post created successfully";
+//                header("Location: create_post.php?edit-post=$post_id");
+//                exit(0);
+//            }
+//        }
+//        $_SESSION['message'] = "Post updated successfully";
+//        header("Location: create_post.php?edit-post=$post_id");
+//        exit(0);
+//    }
+//}
 
-    $title = esc($request_values['title']);
-    $body = esc($request_values['body']);
-    $post_id = esc($request_values['post_id']);
-    if (isset($request_values['topic_id'])) {
-        $topic_id = esc($request_values['topic_id']);
-    }
-    // create slug: if title is "The Storm Is Over", return "the-storm-is-over" as slug
-    $post_slug = makeSlug($title);
+function updatePost($request_values) {
+    global $connection, $errors, $post_id, $title, $body;
+
+    $title = mysqli_real_escape_string($connection, $request_values['title']);
+    $date = mysqli_real_escape_string($connection, $request_values['date']);
+    $body = mysqli_real_escape_string($connection, $request_values['body']);
+    $image = mysqli_real_escape_string($connection, $request_values['image']); // Image as a string (path)
+    $post_id = mysqli_real_escape_string($connection, $request_values['post_id']);
 
     if (empty($title)) {
         array_push($errors, "Post title is required");
@@ -196,37 +243,19 @@ function updatePost($request_values) {
     if (empty($body)) {
         array_push($errors, "Post body is required");
     }
-    // if new featured image has been provided
-    if (isset($_POST['featured_image'])) {
-        // Get image name
-        $featured_image = $_FILES['featured_image']['name'];
-        // image file directory
-        $target = "../static/images/" . basename($featured_image);
-        if (!move_uploaded_file($_FILES['featured_image']['tmp_name'], $target)) {
-            array_push($errors, "Failed to upload image. Please check file settings for your server");
-        }
-    }
 
-    // register topic if there are no errors in the form
+    // Register topic if there are no errors in the form
     if (count($errors) == 0) {
-        $query = "UPDATE news_en SET title='$title', slug='$post_slug', views=0, image='$featured_image', body='$body', published=$published, updated_at=now() WHERE id=$post_id";
-        // attach topic to post on post_topic table
-        if (mysqli_query($connection, $query)) { // if post created successfully
-            if (isset($topic_id)) {
-                $inserted_post_id = mysqli_insert_id($connection);
-                // create relationship between post and topic
-                $sql = "INSERT INTO post_topic (post_id, topic_id) VALUES($inserted_post_id, $topic_id)";
-                mysqli_query($connection, $sql);
-                $_SESSION['message'] = "Post created successfully";
-                header("Location: create_post.php?edit-post=$post_id");
-                exit(0);
-            }
+        $query = "UPDATE news_en SET title='$title', date='$date', image='$image', body='$body' WHERE id=$post_id";
+        if (mysqli_query($connection, $query)) { // If post updated successfully
+            $_SESSION['message'] = "Post updated successfully";
+            header("Location: posts.php");
+            exit(0);
         }
-        $_SESSION['message'] = "Post updated successfully";
-        header("Location: create_post.php?edit-post=$post_id");
-        exit(0);
     }
 }
+
+
 
 // delete blog post
 function deletePost($post_id) {
