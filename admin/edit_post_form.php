@@ -66,9 +66,16 @@ if (isset($_POST['update_post'])) {
             <label for="date">Date</label>
             <input type="text" id="date" name="date" placeholder="Date" required value="<?php echo htmlspecialchars($post['date']); ?>" class="form-control">
 
+<!--            <label for="image">Image path</label>
+            <input type="text" id="image" name="image" placeholder="../images/img_name" class="form-control" value="<?php echo htmlspecialchars($post['image']); ?>">-->
             <label for="image">Image path</label>
-            <input type="text" id="image" name="image" placeholder="../images/img_name" class="form-control" value="<?php echo htmlspecialchars($post['image']); ?>">
-
+            <div class="input-group">
+                <input type="text" id="image" name="image" placeholder="images/img_name" class="form-control" value="<?php echo htmlspecialchars($post['image']); ?>">
+                <div class="input-group-append">
+                    <input id="fileInput" type="file" style="display: none;">
+                    <button id="addImage" type="button" class="btn btn-outline-secondary">Add Image</button>
+                </div>
+            </div>
 
             <label for="body">Body</label>
             <textarea id="body" name="body" cols="30" rows="10" required class="form-control"><?php echo htmlspecialchars($post['body']); ?></textarea>
@@ -99,6 +106,35 @@ if (isset($_POST['update_post'])) {
                     {name: 'paragraph', items: ['BulletedList']},
                     {name: 'editing', items: ['Undo', 'Redo']}
                 ]
+            });
+            
+            // Fetch images on page load and add to autocomplete source
+            fetch('get_images.php')
+                .then(response => response.json())
+                .then(images => {
+                    $("#image").autocomplete({
+                        source: images.map(image => "images/" + image)
+                    });
+                });
+
+            document.getElementById('addImage').addEventListener('click', function() {
+                document.getElementById('fileInput').click();
+            });
+
+            document.getElementById('fileInput').addEventListener('change', function() {
+                var file = this.files[0];
+                var formData = new FormData();
+                formData.append('image', file);
+
+                fetch('upload_image.php', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.text())
+                .then(imagePath => {
+                    document.getElementById('image').value = imagePath;
+                })
+                .catch(error => console.error('Error:', error));
             });
 
             document.getElementById('preview_post').addEventListener('click', function () {
