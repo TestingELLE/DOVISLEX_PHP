@@ -1,6 +1,4 @@
-
 <?php
-
 include_once 'connection.php';
 // Post variables
 $post_id = 0;
@@ -18,7 +16,6 @@ $imageAlt = "";
   -  Post functions
   - - - - - - - - - - - */
 
-//echo '<pre>', var_dump($_SESSION), '</pre>';
 // get all posts from DB
 function getAllPosts() {
     global $connection;
@@ -39,14 +36,10 @@ function getAllPosts() {
 
     $result = mysqli_query($connection, $sql);
     $posts = mysqli_fetch_all($result, MYSQLI_ASSOC);
-// echo '<pre>', var_dump($posts), '</pre>';
     $final_posts = array();
     foreach ($posts as $post) {
-        //$post['author'] = getPostAuthorById($post['user_id']);
-        //var_dump($post);
         array_push($final_posts, $post);
     }
-    // var_dump($final_posts);
     return $final_posts;
 }
 
@@ -60,7 +53,6 @@ function getPostById($post_id) {
 
 // get the author/username of a post
 function getPostAuthorById($user_id) {
-    //var_dump($user_id);
     global $connection;
     $sql = "SELECT username FROM accounts WHERE id=1";
     $result = mysqli_query($connection, $sql);
@@ -71,8 +63,6 @@ function getPostAuthorById($user_id) {
         echo "No results returned from the query.";
     }
     if ($result) {
-        // return username
-        //var_dump($result);
         return mysqli_fetch_assoc($result)['username'];
     } else {
         return null;
@@ -107,22 +97,15 @@ if (isset($_GET['delete-post'])) {
   - - - - - - - - - - - */
 
 function createPost($request_values) {
-    global $connection;
-    global $errors, $title, $featured_image, $topic_id, $body, $published;
-    //$title = esc($request_values['title']);
-    $title = $request_values['title'];
-    //$body = htmlentities(esc($request_values['body']));
-    $body = htmlentities($request_values['body']);
-    if (isset($request_values['topic_id'])) {
-        $topic_id = esc($request_values['topic_id']);
-    }
-    if (isset($request_values['publish'])) {
-        $published = esc($request_values['publish']);
-    }
-    // create slug: if title is "The Storm Is Over", return "the-storm-is-over" as slug
-    //$post_slug = makeSlug($title);
-    $post_slug = $request_values['slug'];
-    // validate form
+    global $connection, $errors, $post_id, $title, $body, $image_float;
+
+    $title = mysqli_real_escape_string($connection, $request_values['title']);
+    $date = mysqli_real_escape_string($connection, $request_values['date']);
+    $body = mysqli_real_escape_string($connection, $request_values['body']);
+    $image = mysqli_real_escape_string($connection, $request_values['image']);
+    $image_float = mysqli_real_escape_string($connection, $request_values['image_float']);
+    $published = isset($request_values['published']) ? 1 : 0;
+
     if (empty($title)) {
         array_push($errors, "Post title is required");
     }
@@ -130,32 +113,20 @@ function createPost($request_values) {
         array_push($errors, "Post body is required");
     }
 
-    // Get image name
-//	  	$featured_image = $_FILES['featured_image']['name'];
-//	  	if (empty($featured_image)) { array_push($errors, "Featured image is required"); }
-//	  	// image file directory
-    $target = "../static/images/" . basename($featured_image);
-//	  	if (!move_uploaded_file($_FILES['featured_image']['tmp_name'], $target)) {
-//	  		array_push($errors, "Failed to upload image. Please check file settings for your server");
-//	  	}
-    // Ensure that no post is saved twice. 
-    $post_check_query = "SELECT * FROM news_en WHERE slug='$post_slug' LIMIT 1";
-    $result = mysqli_query($connection, $post_check_query);
+    // Get the username from the session
+    $updatedBy = $_SESSION['uname'];
 
-    if (mysqli_num_rows($result) > 0) { // if post exists
-        array_push($errors, "A post already exists with that title.");
-    }
-    // create post if there are no errors in the form
+    // Create current date and time in Rome's timezone for updatedAt
+    $updatedAt = new DateTime();
+    $updatedAt->setTimezone(new DateTimeZone('Europe/Rome'));
+    $updatedAt_str = $updatedAt->format('Y-m-d H:i:s');
+
+    // Create post if there are no errors in the form
     if (count($errors) == 0) {
-        $query = "INSERT INTO news_en (user_id, date, title, slug, image, body, published) VALUES(1, now(), '$title', '$post_slug', '$featured_image', '$body', $published)";
-        if (mysqli_query($connection, $query)) { // if post created successfully
-            $inserted_post_id = mysqli_insert_id($connection);
-            // create relationship between post and topic //what does this do???
-            $sql = "INSERT INTO post_topic (post_id, topic_id) VALUES($inserted_post_id, $topic_id)";
-            mysqli_query($connection, $sql);
-
+        $query = "INSERT INTO news_en (title, date, image, image_float, body, published, updatedAt, updatedBy) VALUES ('$title', '$date', '$image', '$image_float', '$body', '$published', '$updatedAt_str', '$updatedBy')";
+        if (mysqli_query($connection, $query)) { // If post created successfully
             $_SESSION['message'] = "Post created successfully";
-            header('location: posts.php');
+            header("Location: posts.php");
             exit(0);
         }
     }
@@ -178,56 +149,6 @@ function editPost($post_id) {
     $published = $post['published'];
 }
 
-//function updatePost($request_values) {
-//    global $connection, $errors, $post_id, $title, $featured_image, $topic_id, $body, $published;
-//
-//    $title = esc($request_values['title']);
-//    $body = esc($request_values['body']);
-//    $post_id = esc($request_values['post_id']);
-//    if (isset($request_values['topic_id'])) {
-//        $topic_id = esc($request_values['topic_id']);
-//    }
-//    // create slug: if title is "The Storm Is Over", return "the-storm-is-over" as slug
-//    $post_slug = makeSlug($title);
-//
-//    if (empty($title)) {
-//        array_push($errors, "Post title is required");
-//    }
-//    if (empty($body)) {
-//        array_push($errors, "Post body is required");
-//    }
-//    // if new featured image has been provided
-//    if (isset($_POST['featured_image'])) {
-//        // Get image name
-//        $featured_image = $_FILES['featured_image']['name'];
-//        // image file directory
-//        $target = "../static/images/" . basename($featured_image);
-//        if (!move_uploaded_file($_FILES['featured_image']['tmp_name'], $target)) {
-//            array_push($errors, "Failed to upload image. Please check file settings for your server");
-//        }
-//    }
-//
-//    // register topic if there are no errors in the form
-//    if (count($errors) == 0) {
-//        $query = "UPDATE news_en SET title='$title', slug='$post_slug', views=0, image='$featured_image', body='$body', published=$published, updated_at=now() WHERE id=$post_id";
-//        // attach topic to post on post_topic table
-//        if (mysqli_query($connection, $query)) { // if post created successfully
-//            if (isset($topic_id)) {
-//                $inserted_post_id = mysqli_insert_id($connection);
-//                // create relationship between post and topic
-//                $sql = "INSERT INTO post_topic (post_id, topic_id) VALUES($inserted_post_id, $topic_id)";
-//                mysqli_query($connection, $sql);
-//                $_SESSION['message'] = "Post created successfully";
-//                header("Location: create_post.php?edit-post=$post_id");
-//                exit(0);
-//            }
-//        }
-//        $_SESSION['message'] = "Post updated successfully";
-//        header("Location: create_post.php?edit-post=$post_id");
-//        exit(0);
-//    }
-//}
-
 function updatePost($request_values) {
     global $connection, $errors, $post_id, $title, $body;
 
@@ -244,9 +165,17 @@ function updatePost($request_values) {
         array_push($errors, "Post body is required");
     }
 
+    // Get the username from the session
+    $updatedBy = $_SESSION['uname'];
+
+    // Create current date and time in Rome's timezone for updatedAt
+    $updatedAt = new DateTime();
+    $updatedAt->setTimezone(new DateTimeZone('Europe/Rome'));
+    $updatedAt_str = $updatedAt->format('Y-m-d H:i:s');
+
     // Register topic if there are no errors in the form
     if (count($errors) == 0) {
-        $query = "UPDATE news_en SET title='$title', date='$date', image='$image', body='$body' WHERE id=$post_id";
+        $query = "UPDATE news_en SET title='$title', date='$date', image='$image', body='$body', updatedAt='$updatedAt_str', updatedBy='$updatedBy' WHERE id=$post_id";
         if (mysqli_query($connection, $query)) { // If post updated successfully
             $_SESSION['message'] = "Post updated successfully";
             header("Location: posts.php");
@@ -254,8 +183,6 @@ function updatePost($request_values) {
         }
     }
 }
-
-
 
 // delete blog post
 function deletePost($post_id) {
@@ -281,18 +208,6 @@ if (isset($_GET['publish']) || isset($_GET['unpublish'])) {
     togglePublishPost($post_id, $message);
 }
 
-// delete blog post
-//function togglePublishPost($post_id, $message) {
-//    global $connection;
-//    $sql = "UPDATE posts SET published=!published WHERE id=$post_id";
-//
-//    if (mysqli_query($connection, $sql)) {
-//        $_SESSION['message'] = $message;
-//        header("location: posts.php");
-//        exit(0);
-//    }
-//}
-
 function togglePublishPost($post_id, $message) {
     global $connection;
 
@@ -314,5 +229,4 @@ function togglePublishPost($post_id, $message) {
         exit(0);
     }
 }
-
 ?>
