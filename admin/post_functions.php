@@ -22,7 +22,7 @@ function getAllPosts() {
 
     // Admin or Maintainer can view all posts
     if ($_SESSION['type'] == "Admin" || $_SESSION['type'] == "Maintainer" || $_SESSION['type'] == "Programmer") {
-        $sql = "SELECT * FROM news_en";
+        $sql = "SELECT * FROM news_en ORDER BY place DESC";
     } else {
         // if this user is not an Admin or Maintainer, we can restrict the view here
         // Fetching user_id based on the username stored in the session
@@ -126,11 +126,22 @@ function createPost($request_values) {
         $query = "INSERT INTO news_en (title, date, image, image_float, body, published, updatedAt, updatedBy) VALUES ('$title', '$date', '$image', '$image_float', '$body', '$published', '$updatedAt_str', '$updatedBy')";
         if (mysqli_query($connection, $query)) { // If post created successfully
             $_SESSION['message'] = "Post created successfully";
+
+            // After inserting a new post, update the place
+            $postID = mysqli_insert_id($connection);
+            $maxPlaceResult = mysqli_query($connection, "SELECT MAX(place) AS maxPlace FROM news_en");
+            $maxPlaceRow = mysqli_fetch_assoc($maxPlaceResult);
+            $maxPlace = isset($maxPlaceRow['maxPlace']) ? $maxPlaceRow['maxPlace'] : 0;
+            $newPostPlace = $maxPlace + 1;
+            $updatePlaceSQL = "UPDATE news_en SET place = $newPostPlace WHERE id = $postID";
+            mysqli_query($connection, $updatePlaceSQL);
+
             header("Location: posts.php");
             exit(0);
         }
     }
 }
+
 
 /* * * * * * * * * * * * * * * * * * * * *
  * - Takes post id as parameter
