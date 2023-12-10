@@ -1,2 +1,34 @@
-/nbproject/private/
-/DOVISLEX_COM/nbproject/private/
+
+# Project files
+# Exclude Caches directory
+Caches/
+
+# Exclude build and output directories (if desired)
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+
+# Exclude nbproject directory and files
+nbproject/
+nbproject/private/private.xml
+sandboxL/
+
+
+# macOS-specific files
+.DS_Store
+
+# Apache .htaccess file
+.htaccess
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
