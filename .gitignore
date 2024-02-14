@@ -5,22 +5,31 @@ Caches/
 
 # Exclude build and output directories (if desired)
 build/
+nbbuild/
 dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
 
 
 # Exclude nbproject directory and files
 nbproject/
+nbproject/private/private.xml
+nbproject/project.xml
 sandboxL/
 
-# CSV files created by download script
-FID*.csv 
-lid*.csv
 
 # macOS-specific files
 .DS_Store
 
-
-# Exclude .htaccess  .htaccess moved into htaccess+ folder to "tuck it away" and prevent local eecution
 # Apache .htaccess file
 .htaccess
-htaccess+/
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear

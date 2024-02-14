@@ -40,7 +40,7 @@
 </style>
 
 <!-- Script below is provided by Google, needed to translate the page -->
-<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'></script>        
+<script type='text/javascript' src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>        
 
 <div class="notranslate">
     <div id="stars">

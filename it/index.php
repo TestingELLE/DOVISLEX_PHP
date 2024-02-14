@@ -1,23 +1,55 @@
 <?php
-
 //  /it/index.php
 
-if (isset($_GET['accept-cookies'])) {
-    /* cookie notice banner accepted for one year 31556925 or ~6 months 16000000 or until they clear history */
-    setcookie('accept-cookies', 'cookies-notice-banner-accepted', time() + 16000000);
-    header('Location: ./index.php'); /* refresh this page */
-}
-?>
 
-<?php
+// Debugging: Check if the accept-cookies parameter is received
+if (isset($_GET['accept-cookies'])) {
+    // Set cookie to indicate acceptance of cookies banner for a certain duration
+    $cookie_name = 'accept-cookies';
+    $cookie_value = 'cookies-notice-banner-accepted';
+    $expiration = time() + 16000000;
+    setcookie($cookie_name, $cookie_value, $expiration, '/');
+    
+    // Debugging: Print message to check if cookie is being set
+    echo "Cookie set successfully.";
+
+    // Redirect after setting the cookie to avoid headers already sent error
+    header('Location: ./index.php'); // Refresh the page
+    exit;
+}
+
+// Debugging: Check if the page parameter is received
 if (isset($_GET['page'])) {
     $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_SPECIAL_CHARS);
     // Use $page variable here
 } else {
     // Handle case where 'page' parameter is not set
     $page = "de_nobis.php";
-        $title = "De Nobis - About us";
+    $title = "De Nobis - About us";
 }
+
+// The rest of your code remains unchanged...
+
+
+//if (isset($_GET['accept-cookies'])) {
+//    // Set cookie to indicate acceptance of cookies banner for a certain duration
+//    setcookie('accept-cookies', 'cookies-notice-banner-accepted', time() + 16000000);
+//    header('Location: ./index.php'); // Refresh the page
+//    exit;
+//}
+//
+//if (isset($_GET['page'])) {
+//    $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_SPECIAL_CHARS);
+//    // Use $page variable here
+//} else {
+//    // Handle case where 'page' parameter is not set
+//    $page = "de_nobis.php";
+//    $title = "De Nobis - About us";
+//}
+//
+
+
+
 
 switch ($page) {
     case "Servizi":
@@ -104,14 +136,6 @@ switch ($page) {
         $page = "professionisti.php";
         $title = "Professionisti";
         break;
-    case "professionisti":
-        $page = "professionisti.html";
-        $title = "Professionisti";
-        break;
-    case "professionisti_2":
-        $page = "professionisti_2.html";
-        $title = "Professionisti";
-        break;
     case "scambi":
         $page = "scambi.html";
         $title = "Scambi Intra EU";
@@ -148,62 +172,53 @@ switch ($page) {
 
 <!DOCTYPE html>
 <html>
-    <head id='head'>
-        <title><?php print $title; ?></title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <title><?php print $title; ?></title>
+        
+     <link rel="stylesheet" href="navigation.css"> <!-- Include language-specific navigation CSS -->
+    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <!-- All page-specific code goes above this line which loads the common head -->
+    <?php include('../commonHTML/commonHead.html'); ?>
+    <script src='load-contents.js' defer></script>
+</head>
+<body>
+    <?php
+    /* Show banner if cookies have not been accepted */
+    if (!isset($_COOKIE['accept-cookies'])) {
+        include('../cookie-notice-banner/cookie-notice-banner.html');
+        /* Include jQuery for banner functionality */
+        echo '<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>';
+        echo '<script src="../cookie-notice-banner/cookie-notice-banner.js"></script>';
+    }
+    ?>
 
-        <!--All page specific code goes above this line which loads the common head-->
-        <?php include('../commonHTML/commonHead.html'); ?>
-        <script src='load-contents.js' defer></script>
-    </head>
-
-    <body>
-
-        <?php
-        /* show banner if cookies is not accepted */
-        if (!isset($_COOKIE['accept-cookies'])) {
-
-            include ('../cookie-notice-banner/cookie-notice-banner.html');
-            /* JQuery so the banner slides down and css for cookie notice banner */
-            echo '<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>'
-            . '<script src="../cookie-notice-banner/cookie-notice-banner.js"></script>';
-        }
-        ?>
-
-        <div id="supra-header"></div>
-        <div id="page">
-            <div id="header"> 
-                <?php include('header.php'); ?> 
-            </div>
-            <div id="main-container" class="clear"> 
-                <div id="tableDiv">
-                    <?php include($page); ?>
-
-                    <?php
-                    $noButtonList = array('bibliografia.html',
-                        'contenzioso.php',
-                        'privatezza.html',
-                        'professionisti.php',
-                        'Servizi.html',
-                        'sitemap.html',
-                        'uffici.html',
-                        'USArealEstate.html',);
-                    if (!in_array($page, $noButtonList)) {
-                        echo "<div id='buttons-container'>";
-                        include('buttons.html');
-                        echo "</div>";
-                    }
-                    ?>
-                </div>
-            </div>
-
-            <nav id="navigation"> 
-                <?php include('navigation.html'); ?> 
-            </nav>
-            <footer id="colophon" class="clearfix notranslate"> 
-                <?php include('footer.html'); ?> 
-            </footer>
+    <div id="supra-header"></div>
+    <div id="page">
+        <div id="header"> 
+            <?php include('header.php'); ?> 
         </div>
-    </body>
+        <div id="main-container" class="clear"> 
+            <div id="tableDiv">
+                <?php include($page); ?>
+
+                <?php
+                $noButtonList = array('bibliografia.html', 'contenzioso.php', 'privatezza.html', 'professionisti.php', 'Servizi.html', 'sitemap.html', 'uffici.html', 'USArealEstate.html');
+                if (!in_array($page, $noButtonList)) {
+                    echo "<div id='buttons-container'>";
+                    include('buttons.html');
+                    echo "</div>";
+                }
+                ?>
+            </div>
+        </div>
+
+        <nav id="navigation"> 
+            <?php include('navigation.html'); ?> 
+        </nav>
+        <footer id="colophon" class="clearfix notranslate"> 
+            <?php include('footer.html'); ?> 
+        </footer>
+    </div>
+</body>
 </html>
