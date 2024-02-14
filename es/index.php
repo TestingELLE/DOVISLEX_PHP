@@ -1,5 +1,15 @@
 <?php
-$page = $_GET['page'];
+//  /es/index.php
+
+if (isset($_GET['page'])) {
+    $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_SPECIAL_CHARS);
+    // Use $page variable here
+} else {
+    // Handle case where 'page' parameter is not set
+    $page = "../commonHTML/de_nobis.php";
+    $title = "De Nobis - About us";
+}
+
 switch ($page) {
     case "USArealEstate":
         $page = "../commonHTML/USArealEstate.html";
@@ -106,8 +116,10 @@ switch ($page) {
 <!DOCTYPE html>
 <html>
     <head>
-        <title><?php print $title; ?></title>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+       <meta charset="UTF-8">
+       <title><?php print $title; ?></title>
+        
+        <link rel="stylesheet" href="navigation.css"> <!-- Include language-specific navigation CSS -->
         <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
 
         <!--All page specific code goes above this line which loads the common head-->

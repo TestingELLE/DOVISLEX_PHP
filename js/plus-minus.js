@@ -10,7 +10,7 @@
  *      azioni_UE.html
  *      bibliografia.html
  *      index.html
- *      professionisti.html  */
+ *      professionisti .html  */
 function plusminusGeneral() {
     $(event.target).next().toggle('fast');
     $(event.target).text(function (_, value) {
@@ -18,9 +18,6 @@ function plusminusGeneral() {
     });
 }
 
-/*  This function is used in 
- *      professionisti.html
- *      professionisti_2.html  */
 
 /*function plusminusProfessionisti(e) {
 
