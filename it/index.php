@@ -177,6 +177,7 @@ switch ($page) {
     <title><?php print $title; ?></title>
         
      <link rel="stylesheet" href="navigation.css"> <!-- Include language-specific navigation CSS -->
+     <link rel="stylesheet" href="buttons.css"> <!-- Include language-specific side buttons CSS -->
     <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
     <!-- All page-specific code goes above this line which loads the common head -->
     <?php include('../commonHTML/commonHead.html'); ?>

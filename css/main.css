@@ -603,7 +603,7 @@ div.btn {
 /*
 css below is used for side buttons,
 to apply language changes to the side buttons,
-codes has been moved to button.css file for each language
+codes has been moved to buttons.css file for each language
 
 .items li:nth-child(1)  p:before {
     content: 'Antitrust, aiuti di Stato & concorrenza';
