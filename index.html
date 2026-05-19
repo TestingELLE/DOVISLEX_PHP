@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <!-- HTML Meta Refresh as a fallback if JavaScript is disabled -->
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=/it/index.php">
+    </noscript>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            function redirectBasedOnLanguage() {
+                var lang = navigator.language || navigator.userLanguage;
+                lang = lang.toLowerCase().substring(0, 2);
+                var paths = {
+                    'it': '/it/index.php',
+                    'en': '/en/index.php',
+                    'es': '/es/index.php',
+                    'fr': '/fr/index.php',
+                    'de': '/de/index.php'
+                };
+                var basePath = paths[lang] || '/it/index.php';
+                window.location.href = basePath;
+            }
+            redirectBasedOnLanguage();
+        });
+    </script>
+</head>
+<body>
+    <p>If you are not redirected, please choose your language:</p>
+    <ul>
+        <li><a href="/it/index.php">Italiano (IT)</a></li>
+        <li><a href="/en/index.php">English (EN)</a></li>
+        <li><a href="/es/index.php">Español (ES)</a></li>
+        <li><a href="/fr/index.php">Français (FR)</a></li>
+        <li><a href="/de/index.php">Deutsch (DE)</a></li>
+    </ul>
+</body>
+</html>
