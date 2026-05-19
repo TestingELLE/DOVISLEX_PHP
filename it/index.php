@@ -1,56 +1,38 @@
 <?php
-//  /it/index.php
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
 
+// /it/index.php
 
-// Debugging: Check if the accept-cookies parameter is received
-if (isset($_GET['accept-cookies'])) {
-    // Set cookie to indicate acceptance of cookies banner for a certain duration
-    $cookie_name = 'accept-cookies';
-    $cookie_value = 'cookies-notice-banner-accepted';
-    $expiration = time() + 16000000;
-    setcookie($cookie_name, $cookie_value, $expiration, '/');
-    
-    // Debugging: Print message to check if cookie is being set
-    echo "Cookie set successfully.";
-
-    // Redirect after setting the cookie to avoid headers already sent error
-    header('Location: ./index.php'); // Refresh the page
-    exit;
+// Function to determine if we are in a production environment
+function isProduction() {
+    $serverName = $_SERVER['SERVER_NAME'];
+    return !strstr($serverName, 'localhost') && !strstr($serverName, '127.0.0.1');
 }
 
-// Debugging: Check if the page parameter is received
-if (isset($_GET['page'])) {
-    $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_SPECIAL_CHARS);
-    // Use $page variable here
-} else {
-    // Handle case where 'page' parameter is not set
-    $page = "de_nobis.php";
-    $title = "De Nobis - About us";
-}
+// Determine the correct domain for cookie setting
+$cookieDomain = isProduction() ? '.dovislex.eu' : '';
 
-// The rest of your code remains unchanged...
-
-
-//if (isset($_GET['accept-cookies'])) {
-//    // Set cookie to indicate acceptance of cookies banner for a certain duration
-//    setcookie('accept-cookies', 'cookies-notice-banner-accepted', time() + 16000000);
-//    header('Location: ./index.php'); // Refresh the page
-//    exit;
-//}
+// Read the page parameter or default to "de_nobis.php"
+$page = isset($_GET['page']) ? filter_input(INPUT_GET, 'page', FILTER_SANITIZE_SPECIAL_CHARS) : "de_nobis.php";
+$title = "De Nobis - About us";  // You might want to also make this dynamic based on the page
 //
-//if (isset($_GET['page'])) {
-//    $page = filter_input(INPUT_GET, 'page', FILTER_SANITIZE_SPECIAL_CHARS);
-//    // Use $page variable here
-//} else {
-//    // Handle case where 'page' parameter is not set
-//    $page = "de_nobis.php";
-//    $title = "De Nobis - About us";
-//}
-//
+////// Check if the cookies acceptance cookie is set
+////if (!isset($_COOKIE['accept-cookies'])) {
+////    $cookie_name = 'accept-cookies';
+////    $cookie_value = 'cookies-notice-banner-accepted';
+////    $expiration = time() + 16000000; // Set for a future expiration
+////
+////    setcookie($cookie_name, $cookie_value, $expiration, '/', $cookieDomain, isset($_SERVER['HTTPS']), true);
+////
+////    // Redirect to prevent displaying the banner again without the cookie being acknowledged
+////    if (!isset($_GET['accept-cookies'])) {
+////        header('Location: ./index.php?accept-cookies=1&page=' . urlencode($page));
+////        exit;
+////    }
+////}
 
-
-
-
+// Adjust title based on the page - example
 switch ($page) {
     case "Servizi":
         $page = "Servizi.html";
@@ -185,14 +167,14 @@ switch ($page) {
 </head>
 <body>
     <?php
-    /* Show banner if cookies have not been accepted */
-    if (!isset($_COOKIE['accept-cookies'])) {
-        include('../cookie-notice-banner/cookie-notice-banner.html');
-        /* Include jQuery for banner functionality */
-        echo '<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>';
-        echo '<script src="../cookie-notice-banner/cookie-notice-banner.js"></script>';
-    }
-    ?>
+//    /* Show banner if cookies have not been accepted */
+//    if (!isset($_COOKIE['accept-cookies'])) {
+//        include('../cookie-notice-banner/cookie-notice-banner.html');
+//        /* Include jQuery for banner functionality */
+//        echo '<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js"></script>';
+//        echo '<script src="../cookie-notice-banner/cookie-notice-banner.js"></script>';
+//    }
+//    ?>
 
     <div id="supra-header"></div>
     <div id="page">
@@ -211,8 +193,9 @@ switch ($page) {
                     echo "</div>";
                 }
                 ?>
-            </div>
-        </div>
+            </div> <!-- tableDiv -->
+
+        </div> <!-- main-container -->
 
         <nav id="navigation"> 
             <?php include('navigation.html'); ?> 
