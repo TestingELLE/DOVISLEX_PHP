@@ -79,7 +79,7 @@ appendORreplace('#F1',"En particulier, les associés du Cabinet - outre les affa
     appendORreplace('#E301', "Fiscalité");
     appendORreplace('#E301b', "Fiscalité");
     appendORreplace('#E301c', "Conventions préventives de la double imposition");
-     appendORreplace('#E301d', "Impôt sur le revenu - pensions de retraite - travailleurs du secteur public");
+    appendORreplace('#E301d', "Impôt sur le revenu - pensions de retraite - secteur public");
     appendORreplace('.Fm01', "Concurrence");
     appendORreplace('.Em01', "Droit agricole");
     appendORreplace('.Em02', "Importations des pays tiers");
